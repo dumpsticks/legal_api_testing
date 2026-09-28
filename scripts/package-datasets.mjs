@@ -1,5 +1,5 @@
 /**
- * Copy published LawDiver test banks into this repo and derive
+ * Copy published test banks into this repo and derive
  * case-name / citation retrieval views from the same answer keys.
  *
  * Source of truth remains the casediver repo. Re-run from anywhere:

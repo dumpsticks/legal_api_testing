@@ -2,7 +2,7 @@
 
 Input datasets and answer keys for testing a legal research API, or any product that checks citations, searches case law, or retrieves a case by name or citation.
 
-These sets were already used against [LawDiver](https://lawdiver.com). They are copied here so a test harness can live on its own. The originals remain in [`dumpsticks/casediver`](https://github.com/dumpsticks/casediver).
+These sets are copied here so a test harness can live on its own.
 
 Every suite splits **inputs** (what you send) from **answer keys** (what a correct product returns). Do not send the answer-key files to the system under test.
 
@@ -18,7 +18,7 @@ Counts and family totals are in [`datasets/manifest.json`](datasets/manifest.jso
 
 ## How to send a row
 
-The datasets are product-agnostic. LawDiver's public API is one concrete mapping. Swap the URL if you are testing something else. The field you send is always `query` (or `citation` for cite check).
+The datasets are product-agnostic. Swap the URL if you are testing a different API. The field you send is always `query` (or `citation` for cite check).
 
 **Cite check** — `datasets/citechecker/5300/inputs.json`
 
@@ -64,15 +64,12 @@ They are not copies of the same test.
 - **Search** asks "given a legal question, did the right cases come back?" The three banks of 1,000 use the same jurisdiction mix and change only the wording: clean doctrine, boolean connectors, lay questions, and typos.
 - **Case-name retrieval** asks "which opinion is *Gray v. Morley*?" The query is a caption, not a research topic.
 - **Citation retrieval** asks "which opinion is *460 Mich. 738*?" The query is a reporter cite. Many rows are the same strings as the cite checker, graded on whether the case comes back, not on the cite-check verdict vocabulary.
-- **CLR bulk repair** asks "did this vendor repair the CourtListener bulk download, or serve it raw?" Each row is a cite LawDiver added because it was missing or mislabeled in that dump. Finding the opinion under a docket, a party name, or a cite the dump already had is a fail. The repaired reporter cite has to be on the case.
+- **CLR bulk repair** asks "did this vendor repair the CourtListener bulk download, or serve it raw?" Each row is a reporter cite that was missing or mislabeled in that dump. Finding the opinion under a docket, a party name, or a cite the dump already had is a fail. The repaired reporter cite has to be on the case.
 
-## Provenance
+## Source
 
-Packaged 2026-09-28 from `dumpsticks/casediver`. Rebuild the derived views with:
+These datasets are the work product of [LawDiver](https://lawdiver.com).
 
-```powershell
-cd ..\casediver\packages\server
-npx tsx ..\..\..\legal_api_testing\scripts\package-datasets.mjs
-```
+The LawDiver API can be tested with the [LawDiver API tester](https://github.com/dumpsticks/LawDiver_API_Tester).
 
-That script only copies and reshapes existing banks. It does not invent new cases.
+The LawDiver API installation is in the [LawDiver API repository](https://github.com/dumpsticks/LawDiver_api).

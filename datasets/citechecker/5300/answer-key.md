@@ -13,8 +13,6 @@
 | 5 | Mangled — hard problems (mild/severe/page/transposed/structural) — recover + flag | 80% |
 | 6 | Unresolved (e.g. bare `Id.`) | unscored |
 
-Public scoreboard: [benchmark blog](https://lawdiver.com/blog/citediver-5300-citation-benchmark).
-
 ## How to score (different checkers, different functions)
 
 Not every product implements every function. Score fairly:

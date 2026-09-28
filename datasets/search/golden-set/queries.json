@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "description": "Graded queries for LawDiver ranking eval. Labels use reporter citations resolved at replay time; grade 0–3 (3 = must appear on page 1).",
+  "description": "Graded queries for ranking eval. Labels use reporter citations resolved at replay time; grade 0–3 (3 = must appear on page 1).",
   "queries": [
     {
       "id": "cite-miranda",

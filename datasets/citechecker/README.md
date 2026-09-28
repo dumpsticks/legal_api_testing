@@ -61,7 +61,7 @@ Not every product implements every check. The 5,300 key labels each row with a s
 
 Report these separately. A single overall percent hides whether the product is inventing cases or merely failing on typos.
 
-| Cat | What it measures | Bar used on the LawDiver run | Families |
+| Cat | What it measures | Accuracy bar | Families |
 |---|---|---|---|
 | 1 | Overruled or reversed. The cite is real. The failure mode is silence about negative treatment. | 100% | `overruled`, and `bad_law` rows whose treatment is the point |
 | 2 | Fabricated authorities and identity traps. Invented volumes, fake captions on a real page, Mata-style fakes. | 99.7% | `outright_hallucination`, `close_hallucination`, `name_mismatch`, `implausible`, `fabricated_series`, `federal_fabrication`, `real_neighbor_page` |
@@ -70,7 +70,7 @@ Report these separately. A single overall percent hides whether the product is i
 | 5 | Hard mangling. Recover the case or flag the defect. A silent `valid` on a transposed page is wrong. | 80% | `mild_mangle`, `severe_mangle`, `page_mismatch`, `transposed_volume`, `structural` |
 | 6 | Unresolved. Bare `Id.` or `supra` with no antecedent. | unscored | `id_supra` |
 
-A prior LawDiver scoreboard is in [`5300/prior-product-scoreboard.md`](5300/prior-product-scoreboard.md). It is a result, not the key. Do not treat those percentages as the expected score of a different product.
+A prior scoreboard is in [`5300/prior-product-scoreboard.md`](5300/prior-product-scoreboard.md). It is a result, not the key. Do not treat those percentages as the expected score of a different product.
 
 ## Families in the 5,300
 

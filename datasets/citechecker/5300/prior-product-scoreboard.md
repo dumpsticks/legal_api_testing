@@ -11,4 +11,4 @@
 
 Cat 4 = Bluebook / form variants (confirm when still the same case). Cat 5 = recovery on harder mangles (candidate/correction + problem flag). See [`5000citechecktest-CATEGORY-MISTAKES.md`](./5000citechecktest-CATEGORY-MISTAKES.md).
 
-Machine: [`5000citechecktest-CATEGORY-SCORE.json`](./5000citechecktest-CATEGORY-SCORE.json). Blog: https://lawdiver.com/blog/citediver-5300-citation-benchmark
+Machine: [`5000citechecktest-CATEGORY-SCORE.json`](./5000citechecktest-CATEGORY-SCORE.json).
