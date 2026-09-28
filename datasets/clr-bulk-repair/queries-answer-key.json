@@ -1,0 +1,23 @@
+{
+  "suite": "clr-bulk-repair-queries",
+  "passRule": "Page-one or retrieved case must include mustCite. Retrieving the opinion under bulkCite alone does not pass.",
+  "count": 16,
+  "rows": [
+    { "id": "fl-hayslip", "defect": "florida_so3d_missing", "mustCite": "276 So. 3d 109", "bulkCite": null },
+    { "id": "fl-fried", "defect": "florida_so3d_missing", "mustCite": "355 So. 3d 899", "bulkCite": null },
+    { "id": "fl-airbnb", "defect": "florida_so3d_missing", "mustCite": "336 So. 3d 698", "bulkCite": null },
+    { "id": "fl-bowles", "defect": "florida_so3d_missing", "mustCite": "276 So. 3d 791", "bulkCite": null },
+    { "id": "ny-belge", "defect": "ny_reporter_series", "mustCite": "41 N.Y.2d 60", "bulkCite": "41 N.Y. 60" },
+    { "id": "ny-huffman", "defect": "ny_reporter_series", "mustCite": "41 N.Y.2d 29", "bulkCite": "41 N.Y. 29" },
+    { "id": "ny-times", "defect": "ny_reporter_series", "mustCite": "41 N.Y.2d 345", "bulkCite": "41 N.Y. 345" },
+    { "id": "ny-buffalo", "defect": "ny_reporter_series", "mustCite": "44 N.Y.2d 7", "bulkCite": "44 N.Y. 7" },
+    { "id": "ny-hunt", "defect": "ny_reporter_series", "mustCite": "65 N.Y.2d 13", "bulkCite": "65 N.Y. 13" },
+    { "id": "scotus-allen", "defect": "scotus_sct_parallel_missing", "mustCite": "143 S. Ct. 1487", "bulkCite": "599 U.S. 1" },
+    { "id": "scotus-trump", "defect": "scotus_sct_parallel_missing", "mustCite": "144 S. Ct. 662", "bulkCite": "601 U.S. 100" },
+    { "id": "scotus-lindke", "defect": "scotus_sct_parallel_missing", "mustCite": "144 S. Ct. 756", "bulkCite": "601 U.S. 187" },
+    { "id": "scotus-vullo", "defect": "scotus_sct_parallel_missing", "mustCite": "144 S. Ct. 1316", "bulkCite": "602 U.S. 175" },
+    { "id": "scotus-vidal", "defect": "scotus_sct_parallel_missing", "mustCite": "144 S. Ct. 1507", "bulkCite": "602 U.S. 286" },
+    { "id": "scotus-mcelrath", "defect": "scotus_sct_parallel_missing", "mustCite": "144 S. Ct. 651", "bulkCite": "601 U.S. 87" },
+    { "id": "dist-paypal", "defect": "district_reporter_missing", "mustCite": "512 F. Supp. 3d 1", "bulkCite": null }
+  ]
+}

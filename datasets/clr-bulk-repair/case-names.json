@@ -1,0 +1,23 @@
+{
+  "suite": "clr-bulk-repair-case-names",
+  "purpose": "Captions only. Grade with case-names-answer-key.json. The opinion may exist in an unrepaired dump. A pass still requires mustCite on that opinion.",
+  "count": 16,
+  "rows": [
+    { "id": "fl-hayslip", "query": "Hayslip v. U.S. Home Corp." },
+    { "id": "fl-fried", "query": "Fried v. State" },
+    { "id": "fl-airbnb", "query": "Airbnb, Inc. v. Doe" },
+    { "id": "fl-bowles", "query": "Bowles v. State" },
+    { "id": "ny-belge", "query": "People v. Belge" },
+    { "id": "ny-huffman", "query": "People v. Huffman" },
+    { "id": "ny-times", "query": "New York Times Co. v. City of New York Commission on Human Rights" },
+    { "id": "ny-buffalo", "query": "City of Buffalo v. Cargill" },
+    { "id": "ny-hunt", "query": "Hunt v. State Tax Commission" },
+    { "id": "scotus-allen", "query": "Allen v. Milligan" },
+    { "id": "scotus-trump", "query": "Trump v. Anderson" },
+    { "id": "scotus-lindke", "query": "Lindke v. Freed" },
+    { "id": "scotus-vullo", "query": "National Rifle Association v. Vullo" },
+    { "id": "scotus-vidal", "query": "Vidal v. Elster" },
+    { "id": "scotus-mcelrath", "query": "McElrath v. Georgia" },
+    { "id": "dist-paypal", "query": "PayPal, Inc. v. Consumer Financial Protection Bureau" }
+  ]
+}

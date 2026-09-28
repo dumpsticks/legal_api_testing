@@ -1,0 +1,151 @@
+{
+  "suite": "clr-bulk-repair-cites",
+  "passRule": "The returned case must include mustCite. Returning only bulkCite, a docket, or no hit is a fail. bulkCite is the locator an unrepaired CLR bulk load already has.",
+  "count": 16,
+  "rows": [
+    {
+      "id": "fl-hayslip",
+      "defect": "florida_so3d_missing",
+      "caseName": "Hayslip v. U.S. Home Corp.",
+      "mustCite": "276 So. 3d 109",
+      "bulkCite": null,
+      "court": "Fla. 2d DCA",
+      "year": 2019
+    },
+    {
+      "id": "fl-fried",
+      "defect": "florida_so3d_missing",
+      "caseName": "Fried v. State",
+      "mustCite": "355 So. 3d 899",
+      "bulkCite": null,
+      "court": "Fla.",
+      "year": 2023
+    },
+    {
+      "id": "fl-airbnb",
+      "defect": "florida_so3d_missing",
+      "caseName": "Airbnb, Inc. v. Doe",
+      "mustCite": "336 So. 3d 698",
+      "bulkCite": null,
+      "court": "Fla.",
+      "year": 2022
+    },
+    {
+      "id": "fl-bowles",
+      "defect": "florida_so3d_missing",
+      "caseName": "Bowles v. State",
+      "mustCite": "276 So. 3d 791",
+      "bulkCite": null,
+      "court": "Fla.",
+      "year": 2019
+    },
+    {
+      "id": "ny-belge",
+      "defect": "ny_reporter_series",
+      "caseName": "People v. Belge",
+      "mustCite": "41 N.Y.2d 60",
+      "bulkCite": "41 N.Y. 60",
+      "court": "N.Y.",
+      "year": 1976
+    },
+    {
+      "id": "ny-huffman",
+      "defect": "ny_reporter_series",
+      "caseName": "People v. Huffman",
+      "mustCite": "41 N.Y.2d 29",
+      "bulkCite": "41 N.Y. 29",
+      "court": "N.Y.",
+      "year": 1976
+    },
+    {
+      "id": "ny-times",
+      "defect": "ny_reporter_series",
+      "caseName": "New York Times Co. v. City of New York Commission on Human Rights",
+      "mustCite": "41 N.Y.2d 345",
+      "bulkCite": "41 N.Y. 345",
+      "court": "N.Y.",
+      "year": 1977
+    },
+    {
+      "id": "ny-buffalo",
+      "defect": "ny_reporter_series",
+      "caseName": "City of Buffalo v. Cargill, Inc.",
+      "mustCite": "44 N.Y.2d 7",
+      "bulkCite": "44 N.Y. 7",
+      "court": "N.Y.",
+      "year": 1978
+    },
+    {
+      "id": "ny-hunt",
+      "defect": "ny_reporter_series",
+      "caseName": "Hunt v. State Tax Commission",
+      "mustCite": "65 N.Y.2d 13",
+      "bulkCite": "65 N.Y. 13",
+      "court": "N.Y.",
+      "year": 1985
+    },
+    {
+      "id": "scotus-allen",
+      "defect": "scotus_sct_parallel_missing",
+      "caseName": "Allen v. Milligan",
+      "mustCite": "143 S. Ct. 1487",
+      "bulkCite": "599 U.S. 1",
+      "court": "U.S.",
+      "year": 2023
+    },
+    {
+      "id": "scotus-trump",
+      "defect": "scotus_sct_parallel_missing",
+      "caseName": "Trump v. Anderson",
+      "mustCite": "144 S. Ct. 662",
+      "bulkCite": "601 U.S. 100",
+      "court": "U.S.",
+      "year": 2024
+    },
+    {
+      "id": "scotus-lindke",
+      "defect": "scotus_sct_parallel_missing",
+      "caseName": "Lindke v. Freed",
+      "mustCite": "144 S. Ct. 756",
+      "bulkCite": "601 U.S. 187",
+      "court": "U.S.",
+      "year": 2024
+    },
+    {
+      "id": "scotus-vullo",
+      "defect": "scotus_sct_parallel_missing",
+      "caseName": "National Rifle Association of America v. Vullo",
+      "mustCite": "144 S. Ct. 1316",
+      "bulkCite": "602 U.S. 175",
+      "court": "U.S.",
+      "year": 2024
+    },
+    {
+      "id": "scotus-vidal",
+      "defect": "scotus_sct_parallel_missing",
+      "caseName": "Vidal v. Elster",
+      "mustCite": "144 S. Ct. 1507",
+      "bulkCite": "602 U.S. 286",
+      "court": "U.S.",
+      "year": 2024
+    },
+    {
+      "id": "scotus-mcelrath",
+      "defect": "scotus_sct_parallel_missing",
+      "caseName": "McElrath v. Georgia",
+      "mustCite": "144 S. Ct. 651",
+      "bulkCite": "601 U.S. 87",
+      "court": "U.S.",
+      "year": 2024
+    },
+    {
+      "id": "dist-paypal",
+      "defect": "district_reporter_missing",
+      "caseName": "PayPal, Inc. v. Consumer Financial Protection Bureau",
+      "mustCite": "512 F. Supp. 3d 1",
+      "bulkCite": null,
+      "court": "D.D.C.",
+      "year": 2020
+    }
+  ]
+}

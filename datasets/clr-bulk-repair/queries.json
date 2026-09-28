@@ -1,0 +1,23 @@
+{
+  "suite": "clr-bulk-repair-queries",
+  "purpose": "Research queries. Grade with queries-answer-key.json. The right case without mustCite is still a fail.",
+  "count": 16,
+  "rows": [
+    { "id": "fl-hayslip", "query": "Hayslip deed arbitration covenant running with the land Florida" },
+    { "id": "fl-fried", "query": "Fried v. State firearms preemption legislative immunity" },
+    { "id": "fl-airbnb", "query": "Airbnb clickwrap AAA rules who decides arbitrability Florida" },
+    { "id": "fl-bowles", "query": "Bowles intellectual disability Hall v. Florida time bar" },
+    { "id": "ny-belge", "query": "People v. Belge attorney-client privilege location of the body" },
+    { "id": "ny-huffman", "query": "People v. Huffman on-scene question Miranda warnings" },
+    { "id": "ny-times", "query": "New York Times Commission on Human Rights employment discrimination" },
+    { "id": "ny-buffalo", "query": "City of Buffalo v. Cargill pollution Buffalo River" },
+    { "id": "ny-hunt", "query": "Hunt v. State Tax Commission New York" },
+    { "id": "scotus-allen", "query": "Allen v. Milligan Alabama congressional map Voting Rights Act" },
+    { "id": "scotus-trump", "query": "Trump v. Anderson states cannot enforce Section 3 against a presidential candidate" },
+    { "id": "scotus-lindke", "query": "Lindke v. Freed public official social media state action" },
+    { "id": "scotus-vullo", "query": "NRA v. Vullo government coercion of insurers First Amendment" },
+    { "id": "scotus-vidal", "query": "Vidal v. Elster Trump Too Small trademark" },
+    { "id": "scotus-mcelrath", "query": "McElrath v. Georgia double jeopardy after insanity acquittal" },
+    { "id": "dist-paypal", "query": "PayPal v. CFPB prepaid short-form disclosure rule" }
+  ]
+}

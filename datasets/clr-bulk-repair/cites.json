@@ -1,0 +1,23 @@
+{
+  "suite": "clr-bulk-repair-cites",
+  "purpose": "Bare reporter cites that resolve only after the CourtListener bulk citation table is repaired. Send query. Grade with cites-answer-key.json. A hit that lacks mustCite is a fail.",
+  "count": 16,
+  "rows": [
+    { "id": "fl-hayslip", "query": "276 So. 3d 109" },
+    { "id": "fl-fried", "query": "355 So. 3d 899" },
+    { "id": "fl-airbnb", "query": "336 So. 3d 698" },
+    { "id": "fl-bowles", "query": "276 So. 3d 791" },
+    { "id": "ny-belge", "query": "41 N.Y.2d 60" },
+    { "id": "ny-huffman", "query": "41 N.Y.2d 29" },
+    { "id": "ny-times", "query": "41 N.Y.2d 345" },
+    { "id": "ny-buffalo", "query": "44 N.Y.2d 7" },
+    { "id": "ny-hunt", "query": "65 N.Y.2d 13" },
+    { "id": "scotus-allen", "query": "143 S. Ct. 1487" },
+    { "id": "scotus-trump", "query": "144 S. Ct. 662" },
+    { "id": "scotus-lindke", "query": "144 S. Ct. 756" },
+    { "id": "scotus-vullo", "query": "144 S. Ct. 1316" },
+    { "id": "scotus-vidal", "query": "144 S. Ct. 1507" },
+    { "id": "scotus-mcelrath", "query": "144 S. Ct. 651" },
+    { "id": "dist-paypal", "query": "512 F. Supp. 3d 1" }
+  ]
+}

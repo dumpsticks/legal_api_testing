@@ -12,6 +12,7 @@ Every suite splits **inputs** (what you send) from **answer keys** (what a corre
 | [Search](datasets/search/README.md) | A research query | 3,000 + 77 graded | Landmark case, when one exists |
 | [Case-name retrieval](datasets/case-name-retrieval/README.md) | A case caption | 1,461 + 6 landmarks | The reporter locator of that case |
 | [Citation retrieval](datasets/citation-retrieval/README.md) | A citation string | 5,300 + 8 landmarks | Hit, corrected hit, or no hit |
+| [CLR bulk repair](datasets/clr-bulk-repair/README.md) | A cite, a case name, or a research query | 16 in each list | The reporter cite the bulk file omitted |
 
 Counts and family totals are in [`datasets/manifest.json`](datasets/manifest.json).
 
@@ -57,12 +58,13 @@ A hit should name that case and carry the locator in the answer key (`460 Mich. 
 
 ## What each suite is for
 
-They are not four copies of the same test.
+They are not copies of the same test.
 
 - **Cite checker** asks "is this citation accurate, and what is wrong with it?" A perfect Bluebook cite, a real cite with a typo, a real locator wearing the wrong caption, an overruled case, and a fabricated case are different questions. Confirming an overruled case without saying it was overruled is a failure even though the locator is real.
 - **Search** asks "given a legal question, did the right cases come back?" The three banks of 1,000 use the same jurisdiction mix and change only the wording: clean doctrine, boolean connectors, lay questions, and typos.
 - **Case-name retrieval** asks "which opinion is *Gray v. Morley*?" The query is a caption, not a research topic.
 - **Citation retrieval** asks "which opinion is *460 Mich. 738*?" The query is a reporter cite. Many rows are the same strings as the cite checker, graded on whether the case comes back, not on the cite-check verdict vocabulary.
+- **CLR bulk repair** asks "did this vendor repair the CourtListener bulk download, or serve it raw?" Each row is a cite LawDiver added because it was missing or mislabeled in that dump. Finding the opinion under a docket, a party name, or a cite the dump already had is a fail. The repaired reporter cite has to be on the case.
 
 ## Provenance
 
