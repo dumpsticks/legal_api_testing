@@ -1,0 +1,612 @@
+{
+  "suite": "search-phrase-1000",
+  "note": "Only queries with one defensible controlling authority are keyed. Match wantCaseName (regex) against returned case names. Skip federalOnly rows when the request scope is a single state. Skip stateLandmarksOnly rows when the scope is federal-only. Skip homeStates rows when the scope is a different single state.",
+  "count": 74,
+  "rows": [
+    {
+      "query": "summary judgment genuine dispute of material fact",
+      "wantCaseName": "celotex|liberty lobby|matsushita",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "motion to dismiss failure to state a claim",
+      "wantCaseName": "twombly|iqbal|conley v\\.? gibson",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "personal jurisdiction minimum contacts purposeful availment",
+      "wantCaseName": "international shoe|daimler|ford motor|burger king|asahi|hanson v\\.? denckla|world-?wide volkswagen",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "class action commonality predominance certification",
+      "wantCaseName": "dukes|amchem|behrend|falcon",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "preliminary injunction irreparable harm likelihood of success",
+      "wantCaseName": "winter|munaf|ebay|nken",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "forum non conveniens private and public interest factors",
+      "wantCaseName": "piper aircraft|gilbert|koster|sinochem",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "res judicata claim preclusion same cause of action",
+      "wantCaseName": "moitie|sturgell|montana v\\.? united states|cromwell",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "collateral estoppel issue preclusion identical issue",
+      "wantCaseName": "parklane|blonder-?tongue|mccurry|montana v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "sanctions for spoliation of evidence",
+      "wantCaseName": "chambers v\\.? nasco|silvestri|residential funding|zubulake",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "arbitration agreement unconscionability enforceability",
+      "wantCaseName": "concepcion|prima paint|italian colors|epic systems|rent-?a-?center",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when can a court compel arbitration of consumer claims",
+      "wantCaseName": "concepcion|prima paint|italian colors|moses h\\.? cone|mitsubishi",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "standard of review abuse of discretion clear error",
+      "wantCaseName": "koon|pierce v\\.? underwood|anderson v\\.? bessemer|cooter",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "harmless error preserved objection on appeal",
+      "wantCaseName": "chapman v\\.? california|kotteakos|neder|olano",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "final judgment rule interlocutory appeal collateral order",
+      "wantCaseName": "cohen v\\.? beneficial|mohawk|digital equipment|will v\\.? hallock",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "mootness capable of repetition yet evading review",
+      "wantCaseName": "southern pacific terminal|roe v\\.? wade|laidlaw|already|weinstein v\\.? bradford",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "search and seizure warrant probable cause particularity",
+      "wantCaseName": "illinois v\\.? gates|franks v\\.? delaware|groh|maryland v\\.? garrison|katz|mapp v\\.? ohio",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "warrantless automobile search after traffic stop",
+      "wantCaseName": "arizona v\\.? gant|carroll v\\.? united states|acevedo|belton|byrd",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "Miranda warnings custodial interrogation when required",
+      "wantCaseName": "miranda v\\.? arizona|innis|berghuis|howes v\\.? fields|stansbury",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "exclusionary rule good faith exception",
+      "wantCaseName": "united states v\\.? leon|mapp v\\.? ohio|herring|davis v\\.? united states|krull",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "ineffective assistance of counsel deficient performance prejudice",
+      "wantCaseName": "strickland|padilla|hill v\\.? lockhart|cronic|lafler",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "Batson challenge discriminatory peremptory strikes",
+      "wantCaseName": "batson|miller-?el|flowers v\\.? mississippi|powers v\\.? ohio|snyder",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "Brady duty to disclose exculpatory evidence",
+      "wantCaseName": "brady v\\.? maryland|giglio|kyles|bagley|agurs",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "double jeopardy same offense Blockburger test",
+      "wantCaseName": "blockburger|brown v\\.? ohio|dixon|whalen|felix",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "speedy trial right delay prejudice factors",
+      "wantCaseName": "barker v\\.? wingo|doggett|vermont v\\.? brillon|strunk",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "plea bargaining knowing and voluntary waiver",
+      "wantCaseName": "boykin|brady v\\.? united states|henderson v\\.? morgan|lafler|frye",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "habeas corpus procedural default cause and prejudice",
+      "wantCaseName": "coleman v\\.? thompson|wainwright v\\.? sykes|martinez v\\.? ryan|murray v\\.? carrier|francis v\\.? henderson",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "stop and frisk reasonable suspicion Terry stop",
+      "wantCaseName": "terry v\\.? ohio|wardlow|arvizu|sokolow|navarette",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "inventory search of impounded vehicle",
+      "wantCaseName": "bertine|opperman|florida v\\.? wells|lafayette",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "consent to search voluntary totality of circumstances",
+      "wantCaseName": "schneckloth|randolph|rodriguez|fernandez v\\.? california|drayton",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when must police obtain a warrant to search a cell phone",
+      "wantCaseName": "riley v\\.? california|carpenter",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "expert testimony reliability Daubert gatekeeping",
+      "wantCaseName": "daubert|kumho|joiner|frye",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "attorney client privilege crime fraud exception",
+      "wantCaseName": "zolin|upjohn|clark v\\.? united states|nixon",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "character evidence propensity rule impeachment",
+      "wantCaseName": "michelson|old chief|huddleston|dowling",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "hearsay exception present sense impression excited utterance",
+      "wantCaseName": "crawford|davis v\\.? washington|tome|idaho v\\.? wright|white v\\.? illinois",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when may a prior consistent statement be admitted",
+      "wantCaseName": "tome|united states v\\.? bao|crawford",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "negligence duty of care breach proximate cause damages",
+      "wantCaseName": "palsgraf|carroll towing|kinsman|petition of kinsman",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": [
+        "NY"
+      ],
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "strict products liability defective design consumer expectation",
+      "wantCaseName": "greenman|escola|barker v\\.? lull|soule",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": [
+        "CA"
+      ],
+      "stateLandmarksOnly": true
+    },
+    {
+      "query": "defamation actual malice public figure",
+      "wantCaseName": "sullivan|gertz|curtis publishing|hustler|firestone",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "punitive damages clear and convincing evidence standard",
+      "wantCaseName": "gore|state farm.*campbell|exxon shipping|haslip",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "vicarious liability respondeat superior course of employment",
+      "wantCaseName": "ellerth|faragher|ira s\\.? bushey|lisa m\\.?|birkner",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "premises liability invitee open and obvious danger",
+      "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when is a landowner liable for injuries to trespassers",
+      "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart|herrick|restatement|kahn v\\.? james burton|bennett v\\.? stanley",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "business judgment rule director liability",
+      "wantCaseName": "aronson|van gorkom|shlensky",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": [
+        "DE",
+        "IL"
+      ],
+      "stateLandmarksOnly": true
+    },
+    {
+      "query": "shareholder derivative suit demand futility",
+      "wantCaseName": "aronson|rales|zapata|marchand|zuckerberg",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": [
+        "DE"
+      ],
+      "stateLandmarksOnly": true
+    },
+    {
+      "query": "regulatory taking Penn Central factors",
+      "wantCaseName": "penn central|lucas v\\.? south carolina|loretto|tahoe|palazzolo",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "eminent domain just compensation taking",
+      "wantCaseName": "kelo|berman v\\.? parker|hawaii housing|midkiff|poletown",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "child custody best interests of the child factors",
+      "wantCaseName": "troxel|palmore|painter v\\.? bannister|bennett v\\.? jeffreys",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "termination of parental rights clear and convincing",
+      "wantCaseName": "santosky|lassiter|m\\.? l\\.? b\\.?|stanley v\\.? illinois",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "hostile work environment sexual harassment Title VII",
+      "wantCaseName": "meritor|forklift|faragher|ellerth|oncale",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "age discrimination disparate treatment mixed motive",
+      "wantCaseName": "mcdonnell douglas|price waterhouse|gross v\\.? fbl|reeves|hazen paper",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "reasonable accommodation disability interactive process",
+      "wantCaseName": "barnett|toyota motor|echazabal|humiston-?keeling",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what must an employee prove for pregnancy discrimination",
+      "wantCaseName": "young v\\.? united parcel|california federal|guerra|newport news",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "FLSA overtime administrative employee exemption",
+      "wantCaseName": "encino motorcars|christopher v\\.? smithkline|auer|helix",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "trade secret misappropriation inevitable disclosure",
+      "wantCaseName": "kewanee|pepsico|redmond",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "qualified immunity clearly established constitutional right",
+      "wantCaseName": "harlow|pearson v\\.? callahan|al-?kidd|saucier|hope v\\.? pelzer|anderson v\\.? creighton",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when is a right clearly established for qualified immunity",
+      "wantCaseName": "harlow|pearson v\\.? callahan|al-?kidd|saucier|hope v\\.? pelzer|anderson v\\.? creighton",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "municipal liability section 1983 policy or custom",
+      "wantCaseName": "monell|city of canton|praprotnik|pembaur|brown",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "excessive force objective reasonableness",
+      "wantCaseName": "graham v\\.? connor|tennessee v\\.? garner|kingsley|scott v\\.? harris",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "deliberate indifference prison medical care",
+      "wantCaseName": "estelle v\\.? gamble|farmer v\\.? brennan|wilson v\\.? seiter|helling",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "free speech public forum content based restriction",
+      "wantCaseName": "reed v\\.? town of gilbert|perry educ|ward v\\.? rock|cornelius|mosley",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "equal protection strict scrutiny suspect classification",
+      "wantCaseName": "loving v\\.? virginia|korematsu|cleburne|carolene|graham v\\.? richardson",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "procedural due process notice and opportunity to be heard",
+      "wantCaseName": "mathews v\\.? eldridge|mullane|goldberg v\\.? kelly|loudermill|fuentes",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "commerce clause substantial effect on interstate commerce",
+      "wantCaseName": "wickard|lopez|raich|morrison|darby|jones & laughlin",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "separation of powers nondelegation doctrine",
+      "wantCaseName": "mistretta|schechter|youngstown|chadha|whitman v\\.? american trucking|panama refining",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "preemption conflict with federal statute",
+      "wantCaseName": "arizona v\\.? united states|wyeth v\\.? levine|gade|geier|rice v\\.? santa fe|hines",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "arbitrary and capricious agency action review",
+      "wantCaseName": "overton park|state farm|fcc v\\.? fox|chevron|motor vehicle",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "exhaustion of administrative remedies required",
+      "wantCaseName": "woodford v\\.? ngo|mccarthy v\\.? madigan|booth v\\.? churner|myers v\\.? bethlehem",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "automatic stay relief for cause mortgage foreclosure",
+      "wantCaseName": "whiting pools|midlantic|taylor v\\.? slick|timbers",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "preferential transfer ninety day lookback",
+      "wantCaseName": "union bank v\\.? wolas|begier|deprizio|barnhill",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "dischargeability of student loan undue hardship",
+      "wantCaseName": "brunner|pena|long v\\.? educational credit",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "duty to defend broader than duty to indemnify",
+      "wantCaseName": "gray v\\.? zurich|buss v\\.? superior court",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": [
+        "CA"
+      ],
+      "stateLandmarksOnly": true
+    },
+    {
+      "query": "insurance bad faith failure to settle within limits",
+      "wantCaseName": "comunale v\\.? traders|gruenberg v\\.? aetna|egan v\\.? mutual of omaha",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": [
+        "CA"
+      ],
+      "stateLandmarksOnly": true
+    },
+    {
+      "query": "constructive trust unjust enrichment tracing",
+      "wantCaseName": "beatty v\\.? guggenheim|snepp|simonds|sharp v\\.? kosmalski",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "permanent injunction balance of hardships public interest",
+      "wantCaseName": "ebay|weinberger|amoco production|romero-?barcelo|winter",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    }
+  ]
+}

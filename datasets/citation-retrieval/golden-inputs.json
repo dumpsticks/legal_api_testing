@@ -1,0 +1,39 @@
+{
+  "suite": "citation-retrieval-golden",
+  "note": "Small landmark slice from the search golden set. Grade 3 means the labeled reporter cite must appear on the first page of results, or as the retrieved case.",
+  "count": 8,
+  "rows": [
+    {
+      "id": "cite-miranda",
+      "query": "384 U.S. 436"
+    },
+    {
+      "id": "cite-brown",
+      "query": "347 U.S. 483"
+    },
+    {
+      "id": "cite-marbury",
+      "query": "5 U.S. 137"
+    },
+    {
+      "id": "cite-roe",
+      "query": "410 U.S. 113"
+    },
+    {
+      "id": "cite-terry",
+      "query": "392 U.S. 1"
+    },
+    {
+      "id": "cite-chevron",
+      "query": "467 U.S. 837"
+    },
+    {
+      "id": "cite-iqbal",
+      "query": "556 U.S. 662"
+    },
+    {
+      "id": "cite-twombly",
+      "query": "550 U.S. 544"
+    }
+  ]
+}

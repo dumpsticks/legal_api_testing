@@ -1,0 +1,90 @@
+{
+  "suite": "case-name-retrieval-golden",
+  "count": 6,
+  "rows": [
+    {
+      "id": "name-miranda",
+      "query": "miranda v. arizona",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "384 U.S. 436",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-brown",
+      "query": "brown v. board of education",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "347 U.S. 483",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-terry",
+      "query": "terry v. ohio",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "392 U.S. 1",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-gideon",
+      "query": "gideon v. wainwright",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "372 U.S. 335",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-mapp",
+      "query": "mapp v. ohio",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "367 U.S. 643",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-loving",
+      "query": "loving v. virginia",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "388 U.S. 1",
+          "grade": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "suite": "case-name-retrieval-golden",
+  "note": "Informal lowercase captions from the search golden set.",
+  "count": 6,
+  "rows": [
+    {
+      "id": "name-miranda",
+      "query": "miranda v. arizona"
+    },
+    {
+      "id": "name-brown",
+      "query": "brown v. board of education"
+    },
+    {
+      "id": "name-terry",
+      "query": "terry v. ohio"
+    },
+    {
+      "id": "name-gideon",
+      "query": "gideon v. wainwright"
+    },
+    {
+      "id": "name-mapp",
+      "query": "mapp v. ohio"
+    },
+    {
+      "id": "name-loving",
+      "query": "loving v. virginia"
+    }
+  ]
+}

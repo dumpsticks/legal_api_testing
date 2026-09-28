@@ -1,0 +1,5854 @@
+{
+  "suite": "case-name-retrieval",
+  "source": "Captions parsed from confirmed cites in the 5300 cite-check key. One row per distinct caption + locator.",
+  "requestShape": {
+    "query": "<row.query>"
+  },
+  "count": 1461,
+  "rows": [
+    {
+      "id": "ANAT-A001",
+      "query": "Phillips v. Cnty. of Allegheny"
+    },
+    {
+      "id": "ANAT-A002",
+      "query": "Allen v. Allen"
+    },
+    {
+      "id": "ANAT-A003",
+      "query": "Babula v. Robertson"
+    },
+    {
+      "id": "ANAT-A004",
+      "query": "Hendron v. Colvin"
+    },
+    {
+      "id": "ANAT-A005",
+      "query": "Citigroup Inc. v. City Holding Co."
+    },
+    {
+      "id": "ANAT-A006",
+      "query": "City of Rome v. Jordan"
+    },
+    {
+      "id": "ANAT-A007",
+      "query": "Moning v. Alfono"
+    },
+    {
+      "id": "ANAT-A008",
+      "query": "Johnson v. Mammoth Recreations, Inc."
+    },
+    {
+      "id": "ANAT-A009",
+      "query": "Wilkie v. Auto-Owners Insurance"
+    },
+    {
+      "id": "ANAT-A010",
+      "query": "Kuroda v. SPJS Hldgs., LLC"
+    },
+    {
+      "id": "ANAT-A011",
+      "query": "Sentinel Mgmt. Co. v. N.H. Ins. Co."
+    },
+    {
+      "id": "ANAT-A012",
+      "query": "Matthews v. Jones"
+    },
+    {
+      "id": "ANAT-A013",
+      "query": "Engle v. Liggett Group, Inc."
+    },
+    {
+      "id": "ANAT-A014",
+      "query": "Templet v. HydroChem Inc."
+    },
+    {
+      "id": "ANAT-A015",
+      "query": "Campbell v. Sec'y of Health & Human Servs."
+    },
+    {
+      "id": "ANAT-A016",
+      "query": "Young v. Keohane"
+    },
+    {
+      "id": "ANAT-A017",
+      "query": "Fabio v. Bellomo"
+    },
+    {
+      "id": "ANAT-A018",
+      "query": "RAWLINGS v. KENTUCKY"
+    },
+    {
+      "id": "ANAT-A019",
+      "query": "Ford Motor Co. v. Montana Eighth Judicial Dist."
+    },
+    {
+      "id": "ANAT-A020",
+      "query": "Kulko v. Superior Court of Cal., City and County of San Francisco"
+    },
+    {
+      "id": "ANAT-A021",
+      "query": "Cikan v. ARCO Alaska, Inc."
+    },
+    {
+      "id": "ANAT-A022",
+      "query": "Laney v. Farley"
+    },
+    {
+      "id": "ANAT-A023",
+      "query": "Bruce-Terminix Company v. Zurich Ins. Co."
+    },
+    {
+      "id": "ANAT-A024",
+      "query": "Merrill v. Sherburne"
+    },
+    {
+      "id": "ANAT-A025",
+      "query": "Dybach v. Fla. Dept. of Corrections"
+    },
+    {
+      "id": "ANAT-A026",
+      "query": "Sterilite Corp. v. Continental Casualty Co."
+    },
+    {
+      "id": "ANAT-A027",
+      "query": "Zimko v. Am. Cyanamid"
+    },
+    {
+      "id": "ANAT-A028",
+      "query": "PARKER, DIRECTOR OF AGRICULTURE v. BROWN"
+    },
+    {
+      "id": "ANAT-A029",
+      "query": "Pearson v. Lincoln Telephone Co."
+    },
+    {
+      "id": "ANAT-A030",
+      "query": "Olympic Steamship Co., Inc. v. Centennial Ins. Co."
+    },
+    {
+      "id": "ANAT-A031",
+      "query": "Shaffer v. Heitner"
+    },
+    {
+      "id": "ANAT-A032",
+      "query": "Hendrickson v. Sears"
+    },
+    {
+      "id": "ANAT-A033",
+      "query": "Lone Star Steakhouse & Saloon, Inc. v. Alpha of Va., Inc."
+    },
+    {
+      "id": "ANAT-A034",
+      "query": "Chiang v. Verizon New Eng. Inc."
+    },
+    {
+      "id": "ANAT-A035",
+      "query": "Gasparini v. Pordomingo"
+    },
+    {
+      "id": "ANAT-A036",
+      "query": "Brown v. Credit Center, Inc."
+    },
+    {
+      "id": "ANAT-A037",
+      "query": "Univac Dental Co. v. Dentsply Intern., Inc."
+    },
+    {
+      "id": "ANAT-A038",
+      "query": "Ecc International Constructors, LLC v. Secretary of the Army"
+    },
+    {
+      "id": "ANAT-A039",
+      "query": "Halvorsen v. Ferguson"
+    },
+    {
+      "id": "ANAT-A040",
+      "query": "A & F PROPERTIES, LLC v. Lake Caroline, Inc."
+    },
+    {
+      "id": "ANAT-A041",
+      "query": "Burch v. Regents of the Univ. of Cal."
+    },
+    {
+      "id": "ANAT-A042",
+      "query": "Hill v. Curcione"
+    },
+    {
+      "id": "ANAT-A043",
+      "query": "Nishimatsu Const. Co. v. Houston Nat'l Bank"
+    },
+    {
+      "id": "ANAT-A044",
+      "query": "Horace Mann Insurance v. Leeber"
+    },
+    {
+      "id": "ANAT-A045",
+      "query": "Barrows v. American Family Insurance"
+    },
+    {
+      "id": "ANAT-A046",
+      "query": "Sabella v. Sec'y of Health & Human Servs."
+    },
+    {
+      "id": "ANAT-A047",
+      "query": "Walker v. Sheldon"
+    },
+    {
+      "id": "ANAT-A048",
+      "query": "HORMEL v. HELVERING, COMMISSIONER OF INTERNAL REVENUE"
+    },
+    {
+      "id": "ANAT-A049",
+      "query": "Alvarez v. Ketchikan Gateway Borough"
+    },
+    {
+      "id": "ANAT-A050",
+      "query": "Wilson v. Transport Ins. Co."
+    },
+    {
+      "id": "ANAT-A051",
+      "query": "Court does not find Churchey v. Adolph Coors Co."
+    },
+    {
+      "id": "ANAT-A052",
+      "query": "Craft v. Astrue"
+    },
+    {
+      "id": "ANAT-A053",
+      "query": "West v. Caterpillar Tractor Co., Inc."
+    },
+    {
+      "id": "ANAT-A054",
+      "query": "Hickson v. Moya"
+    },
+    {
+      "id": "ANAT-A055",
+      "query": "Bandstra v. International Harvester Co."
+    },
+    {
+      "id": "ANAT-A056",
+      "query": "Armstrong v. Best Buy Co."
+    },
+    {
+      "id": "ANAT-A057",
+      "query": "Tolle v. Fenley"
+    },
+    {
+      "id": "ANAT-A058",
+      "query": "Bacadam Outdoor Advertising, Inc. v. Kennard"
+    },
+    {
+      "id": "ANAT-A059",
+      "query": "Bronson Methodist Hospital v. Michigan Assigned Claims Facility"
+    },
+    {
+      "id": "ANAT-A060",
+      "query": "American Mechanical Corp. v. Union MacHine Co. of Lynn, Inc."
+    },
+    {
+      "id": "ANAT-A061",
+      "query": "WICKARD, SECRETARY OF AGRICULTURE v. FILBURN"
+    },
+    {
+      "id": "ANAT-A062",
+      "query": "Taylor v. Books A Million, Inc."
+    },
+    {
+      "id": "ANAT-A063",
+      "query": "Pickering v. American Employers Insurance"
+    },
+    {
+      "id": "ANAT-A064",
+      "query": "Haugan v. Home Indemnity Company"
+    },
+    {
+      "id": "ANAT-A065",
+      "query": "Dodson v. St. Paul Insurance Co."
+    },
+    {
+      "id": "ANAT-A066",
+      "query": "Pure Gold, Inc. v. Syntex (u.s.a.), Inc."
+    },
+    {
+      "id": "ANAT-A067",
+      "query": "Kushell v. Department of Natural Resources"
+    },
+    {
+      "id": "ANAT-A069",
+      "query": "Hyler v. Garner"
+    },
+    {
+      "id": "ANAT-A070",
+      "query": "Collins v. Morgan Stanley Dean Witter"
+    },
+    {
+      "id": "ANAT-A071",
+      "query": "Kinard v. Kinard"
+    },
+    {
+      "id": "ANAT-A072",
+      "query": "Vigil v. Colvin"
+    },
+    {
+      "id": "ANAT-A073",
+      "query": "Orvis v. Johnson"
+    },
+    {
+      "id": "ANAT-A074",
+      "query": "Gibbs v. Ernst"
+    },
+    {
+      "id": "ANAT-A075",
+      "query": "Gallo v. Prudential Residential Servs."
+    },
+    {
+      "id": "ANAT-A076",
+      "query": "Great Atl. & Pac. Tea Co. v. Checchio"
+    },
+    {
+      "id": "ANAT-A077",
+      "query": "Cumis Ins. Soc'y, Inc. v. Clark"
+    },
+    {
+      "id": "ANAT-A078",
+      "query": "ERZNOZNIK v. CITY OF JACKSONVILLE"
+    },
+    {
+      "id": "ANAT-A079",
+      "query": "Wilson v. Williams"
+    },
+    {
+      "id": "ANAT-A080",
+      "query": "City of Keller v. Wilson"
+    },
+    {
+      "id": "ANAT-A081",
+      "query": "Careau & Co. v. Sec. Pac. Bus. Credit, Inc."
+    },
+    {
+      "id": "ANAT-A082",
+      "query": "First Nat. Bank of Ariz. v. Cities Service Co."
+    },
+    {
+      "id": "ANAT-A083",
+      "query": "Burger King Corp. v. Rudzewicz"
+    },
+    {
+      "id": "ANAT-A084",
+      "query": "Cotter v. Harris"
+    },
+    {
+      "id": "ANAT-A085",
+      "query": "Miller v. Johnson"
+    },
+    {
+      "id": "ANAT-A086",
+      "query": "Morse v. Lower Merion Sch. Disk"
+    },
+    {
+      "id": "ANAT-A087",
+      "query": "Malone v. U.S. Postal Serv."
+    },
+    {
+      "id": "ANAT-A088",
+      "query": "Butler v. Deutsche Morgan Grenfell, Inc."
+    },
+    {
+      "id": "ANAT-A089",
+      "query": "Nalen v. Jenkins"
+    },
+    {
+      "id": "ANAT-A090",
+      "query": "ENVIRONMENTAL PROTECTION AGENCY v. MINK"
+    },
+    {
+      "id": "ANAT-A091",
+      "query": "Magallanes v. Bowen"
+    },
+    {
+      "id": "ANAT-A092",
+      "query": "Winey v. William E. Dailey, Inc."
+    },
+    {
+      "id": "ANAT-A093",
+      "query": "Jaroma v. Massey"
+    },
+    {
+      "id": "ANAT-A094",
+      "query": "Conrad v. Hazen"
+    },
+    {
+      "id": "ANAT-A095",
+      "query": "Murphy v. Implicito"
+    },
+    {
+      "id": "ANAT-A096",
+      "query": "Rasmussen v. Baker"
+    },
+    {
+      "id": "ANAT-A097",
+      "query": "Weedo v. Stone-E-Brick, Inc."
+    },
+    {
+      "id": "ANAT-A098",
+      "query": "Canter v. Koehring Co."
+    },
+    {
+      "id": "ANAT-A099",
+      "query": "Jarupan v. Hanna"
+    },
+    {
+      "id": "ANAT-A100",
+      "query": "Connick v. Suzuki Motor Co."
+    },
+    {
+      "id": "ANAT-A101",
+      "query": "Aronson v. Lewis"
+    },
+    {
+      "id": "ANAT-A102",
+      "query": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp."
+    },
+    {
+      "id": "ANAT-A103",
+      "query": "Bank of the West v. Superior Court"
+    },
+    {
+      "id": "ANAT-A104",
+      "query": "Walden v. Fiore"
+    },
+    {
+      "id": "ANAT-A105",
+      "query": "MOORE v. SIMS ET UX."
+    },
+    {
+      "id": "ANAT-A106",
+      "query": "Auth. v. McDevitt Street Bovis, Inc."
+    },
+    {
+      "id": "ANAT-A107",
+      "query": "Hunt v. First Ins. Co. of Hawaii Ltd."
+    },
+    {
+      "id": "ANAT-A108",
+      "query": "Parks & Wildlife v. Miranda"
+    },
+    {
+      "id": "ANAT-A109",
+      "query": "Aiken v. Byars"
+    },
+    {
+      "id": "ANAT-A110",
+      "query": "Prendergast v. Nelson"
+    },
+    {
+      "id": "ANAT-A111",
+      "query": "Advocat, Inc. v. Sauer"
+    },
+    {
+      "id": "ANAT-A112",
+      "query": "Burke, Kenneth M. v. Gould, William B."
+    },
+    {
+      "id": "ANAT-A113",
+      "query": "Perez v. Fenoglio"
+    },
+    {
+      "id": "ANAT-A114",
+      "query": "W & W Equip. Co., Inc., v. Mink"
+    },
+    {
+      "id": "ANAT-A115",
+      "query": "Hubbard v. Haley"
+    },
+    {
+      "id": "ANAT-A116",
+      "query": "Centimark Corp. v. Village Manor Associates Ltd. Partnership"
+    },
+    {
+      "id": "ANAT-A117",
+      "query": "Outboard Marine Corp. v. Liberty Mutual Insurance"
+    },
+    {
+      "id": "ANAT-A118",
+      "query": "Ind. Ins. Co. v. General Elec. Co."
+    },
+    {
+      "id": "ANAT-A119",
+      "query": "Vaught v. Waites"
+    },
+    {
+      "id": "ANAT-A120",
+      "query": "CRANE v. KENTUCKY"
+    },
+    {
+      "id": "ANAT-A121",
+      "query": "Polaroid Corp. v. the Travelers Indemnity Co."
+    },
+    {
+      "id": "ANAT-A122",
+      "query": "Steelvest v. Scansteel"
+    },
+    {
+      "id": "ANAT-A123",
+      "query": "Gaston v. Parsons"
+    },
+    {
+      "id": "ANAT-A124",
+      "query": "Dreaded, Inc. v. St. Paul Guardian Insurance Co."
+    },
+    {
+      "id": "ANAT-A125",
+      "query": "Northwest G.F. Mutual Insurance Co. v. Norgard"
+    },
+    {
+      "id": "ANAT-A126",
+      "query": "Proctor & Gamble Co. v. Stoneham"
+    },
+    {
+      "id": "ANAT-A127",
+      "query": "Lorang v. Fortis Insurance"
+    },
+    {
+      "id": "ANAT-A128",
+      "query": "Clifton v. Chater"
+    },
+    {
+      "id": "ANAT-A129",
+      "query": "Martindale v. Ripp"
+    },
+    {
+      "id": "ANAT-A130",
+      "query": "SECURITIES AND EXCHANGE COMMISSION v. CHENERY CORPORATION et"
+    },
+    {
+      "id": "ANAT-A131",
+      "query": "Ross v. Stouffer Hotel Co. (Hawai'i) Ltd."
+    },
+    {
+      "id": "ANAT-A132",
+      "query": "Valadez v. Avitia"
+    },
+    {
+      "id": "ANAT-A133",
+      "query": "Makarova v. U.S."
+    },
+    {
+      "id": "ANAT-A134",
+      "query": "Orme School v. Reeves"
+    },
+    {
+      "id": "ANAT-A135",
+      "query": "Bank of the West v. Superior Court"
+    },
+    {
+      "id": "ANAT-A136",
+      "query": "S&W Enters., L.L.C. v. South Trust Bank of Ala., NA"
+    },
+    {
+      "id": "ANAT-A137",
+      "query": "William Blair & Co. v. Fi Liquidation Corp."
+    },
+    {
+      "id": "ANAT-A138",
+      "query": "Peckham v. Ronrico Corporation"
+    },
+    {
+      "id": "ANAT-A139",
+      "query": "Ray Dancer, Inc. v. D M C Corp."
+    },
+    {
+      "id": "ANAT-A140",
+      "query": "Trimble Inc. v. Perdiemco LLC"
+    },
+    {
+      "id": "ANAT-A141",
+      "query": "Herrera Ex Rel. Estate of Ruiz v. Pontiac"
+    },
+    {
+      "id": "ANAT-A142",
+      "query": "Madison Construction Co. v. Harleysville Mutual Insurance"
+    },
+    {
+      "id": "ANAT-A143",
+      "query": "Wood v. Safeco Insurance Co. of America"
+    },
+    {
+      "id": "ANAT-A144",
+      "query": "STONER v. CALIFORNIA"
+    },
+    {
+      "id": "ANAT-A145",
+      "query": "Pacific Ins. Co. v. Am. Nat. Fire Ins. Co."
+    },
+    {
+      "id": "ANAT-A146",
+      "query": "Dulany v. Carnahan"
+    },
+    {
+      "id": "ANAT-A147",
+      "query": "Bassett v. NCAA"
+    },
+    {
+      "id": "ANAT-A148",
+      "query": "United Oil Co. v. Urban Redevelopment Commission"
+    },
+    {
+      "id": "ANAT-A149",
+      "query": "Schmidt v. Sullivan"
+    },
+    {
+      "id": "ANAT-A150",
+      "query": "Poteet v. Kansas Department of Revenue"
+    },
+    {
+      "id": "ANAT-A152",
+      "query": "Wood v. Safeway, Inc."
+    },
+    {
+      "id": "ANAT-A153",
+      "query": "Oral Surgeons, P.C. v. Cincinnati Ins. Co."
+    },
+    {
+      "id": "ANAT-A154",
+      "query": "Garrison v. Colvin"
+    },
+    {
+      "id": "ANAT-A155",
+      "query": "Harris Group, Inc. v. Robinson"
+    },
+    {
+      "id": "ANAT-A157",
+      "query": "AGINS et ux. v. CITY OF TIBURON"
+    },
+    {
+      "id": "ANAT-A158",
+      "query": "Thoen v. The United States"
+    },
+    {
+      "id": "ANAT-A159",
+      "query": "TROP v. DULLES, SECRETARY OF STATE"
+    },
+    {
+      "id": "ANAT-A160",
+      "query": "Winston & Strawn, LLP v. James P. McLean, Jr."
+    },
+    {
+      "id": "ANAT-A161",
+      "query": "Buchanan v. Bowman"
+    },
+    {
+      "id": "ANAT-A162",
+      "query": "Mosley v. Gen. Motors Corp."
+    },
+    {
+      "id": "ANAT-A163",
+      "query": "Renstrom v. Astrue"
+    },
+    {
+      "id": "ANAT-A164",
+      "query": "Tangreti v. Bachmann"
+    },
+    {
+      "id": "ANAT-A165",
+      "query": "Minter v. Prime Equip. Co."
+    },
+    {
+      "id": "ANAT-A166",
+      "query": "Foremost Ins. Co. v. Parham"
+    },
+    {
+      "id": "ANAT-A167",
+      "query": "Beard v. Goodyear Tire & Rubber Co."
+    },
+    {
+      "id": "ANAT-A168",
+      "query": "Daimler AG v. Bauman"
+    },
+    {
+      "id": "ANAT-A169",
+      "query": "Goshen v. Mut. Life Ins. Co. of N.Y."
+    },
+    {
+      "id": "ANAT-A170",
+      "query": "Employers Ins. of Wausau v. Tektronix, Inc."
+    },
+    {
+      "id": "ANAT-A171",
+      "query": "Rice v. Ragsdale"
+    },
+    {
+      "id": "ANAT-A172",
+      "query": "Raimi v. Furlong"
+    },
+    {
+      "id": "ANAT-A173",
+      "query": "Byrd v. Hall"
+    },
+    {
+      "id": "ANAT-A174",
+      "query": "Dickau v. Vermont Mutual Insurance Co."
+    },
+    {
+      "id": "ANAT-A175",
+      "query": "Major v. Microsoft Corp."
+    },
+    {
+      "id": "ANAT-A176",
+      "query": "Dalton v. Camp"
+    },
+    {
+      "id": "ANAT-A177",
+      "query": "Hart v. Arnold"
+    },
+    {
+      "id": "ANAT-A178",
+      "query": "Kumar v. Dhanda"
+    },
+    {
+      "id": "ANAT-A179",
+      "query": "Matjoulis v. Integon General Ins. Corp."
+    },
+    {
+      "id": "ANAT-A180",
+      "query": "Frito-Lay, Inc. v. Barton Willoughby, D/B/A Willoughby Farms"
+    },
+    {
+      "id": "ANAT-A181",
+      "query": "Dube v. Likins"
+    },
+    {
+      "id": "ANAT-A182",
+      "query": "Lewis v. B & R CORPORATION"
+    },
+    {
+      "id": "ANAT-A183",
+      "query": "Variety Stores, Inc. v. Wal-Mart Stores, Inc."
+    },
+    {
+      "id": "ANAT-A184",
+      "query": "Toure v. Avis Rent A Car Sys. Inc."
+    },
+    {
+      "id": "ANAT-A185",
+      "query": "Brill v. Guardian Life Insurance Co. of America"
+    },
+    {
+      "id": "ANAT-A186",
+      "query": "Hayduk v. Lanna"
+    },
+    {
+      "id": "ANAT-A187",
+      "query": "Bass v. E.I. DuPont de Nemours & Co."
+    },
+    {
+      "id": "ANAT-A188",
+      "query": "Toure v. Avis Rent A Car Sys., Inc."
+    },
+    {
+      "id": "ANAT-A189",
+      "query": "Sun Valley Shopping Center, Inc. v. Idaho Power Co."
+    },
+    {
+      "id": "ANAT-A190",
+      "query": "U.S. v. Dunkel"
+    },
+    {
+      "id": "ANAT-A192",
+      "query": "World-Wide Volkswagen Corp. v. Woodson"
+    },
+    {
+      "id": "ANAT-A193",
+      "query": "COLE v. ARKANSAS"
+    },
+    {
+      "id": "ANAT-A194",
+      "query": "Ex'rs v. Sheppard"
+    },
+    {
+      "id": "ANAT-A195",
+      "query": "American Home Assurance Company v. Czarniecki"
+    },
+    {
+      "id": "ANAT-A196",
+      "query": "Valence Operating Co. v. Dorsett"
+    },
+    {
+      "id": "ANAT-A197",
+      "query": "Craddock v. Sunshine Bus Lines"
+    },
+    {
+      "id": "ANAT-A198",
+      "query": "Food Mkts., Inc. v. Johnson"
+    },
+    {
+      "id": "ANAT-A199",
+      "query": "Haskill v. Andros"
+    },
+    {
+      "id": "ANAT-A200",
+      "query": "HALL et ux. v. BEALS, CLERK AND RECORDER OF EL PASO COUNTY"
+    },
+    {
+      "id": "ANAT-A201",
+      "query": "LOUISIANA POWER & LIGHT CO. v. CITY OF THIBODAUX"
+    },
+    {
+      "id": "ANAT-A202",
+      "query": "Territory of Oklahoma Ex Rel. Sampson v. Clark"
+    },
+    {
+      "id": "ANAT-A203",
+      "query": "Basso v. Miller"
+    },
+    {
+      "id": "ANAT-A204",
+      "query": "Coker v. Coker"
+    },
+    {
+      "id": "ANAT-A205",
+      "query": "Meinhard v. Salmon"
+    },
+    {
+      "id": "ANAT-A206",
+      "query": "Short v. Hartman"
+    },
+    {
+      "id": "ANAT-A207",
+      "query": "Cichocki v. Astrue"
+    },
+    {
+      "id": "ANAT-A208",
+      "query": "Sage v. Wilcox"
+    },
+    {
+      "id": "ANAT-A209",
+      "query": "Johnson v. Fourth Court of Appeals"
+    },
+    {
+      "id": "ANAT-A210",
+      "query": "Eighmie v. Taylor"
+    },
+    {
+      "id": "ANAT-A211",
+      "query": "Graff v. Bonnett"
+    },
+    {
+      "id": "ANAT-A212",
+      "query": "KINGSLEY BOOKS, INC. v. BROWN, CORPORATION COUNSEL"
+    },
+    {
+      "id": "ANAT-A213",
+      "query": "Kellogg v. Chicago & Northwestern Railway Co."
+    },
+    {
+      "id": "ANAT-A215",
+      "query": "Conner v. City of New York"
+    },
+    {
+      "id": "ANAT-A216",
+      "query": "Tarasoff v. Regents of University of California"
+    },
+    {
+      "id": "ANAT-A217",
+      "query": "King Ranch, Inc. v. Chapman"
+    },
+    {
+      "id": "ANAT-A218",
+      "query": "Western Union Telegraph Co. v. Krichbaum"
+    },
+    {
+      "id": "ANAT-A219",
+      "query": "Fisher v. SD Protection Inc."
+    },
+    {
+      "id": "ANAT-A220",
+      "query": "Brady v. Oliver"
+    },
+    {
+      "id": "ANAT-A221",
+      "query": "Zambelli Fireworks Mfg. Co., Inc. v. Wood"
+    },
+    {
+      "id": "ANAT-A222",
+      "query": "Bogan v. Bogan"
+    },
+    {
+      "id": "ANAT-A223",
+      "query": "Valente v. Secretary of Health and Human Servs."
+    },
+    {
+      "id": "ANAT-A224",
+      "query": "Shaw v. Chater"
+    },
+    {
+      "id": "ANAT-A225",
+      "query": "Kennedy v. Bremerton School District"
+    },
+    {
+      "id": "ANAT-A226",
+      "query": "Jones v. School Dist. Of Philadelphia"
+    },
+    {
+      "id": "ANAT-A227",
+      "query": "See Carvell v. Bottoms"
+    },
+    {
+      "id": "ANAT-A229",
+      "query": "Hamilton v. Sommers"
+    },
+    {
+      "id": "ANAT-A231",
+      "query": "Groff v. DeJoy"
+    },
+    {
+      "id": "ANAT-A232",
+      "query": "Barr v. R.T.C."
+    },
+    {
+      "id": "ANAT-A233",
+      "query": "Frueh v. Frueh"
+    },
+    {
+      "id": "ANAT-A234",
+      "query": "Foley v. Interactive Data Corp."
+    },
+    {
+      "id": "ANAT-A235",
+      "query": "Cnty. of Cameron v. Brown"
+    },
+    {
+      "id": "ANAT-A236",
+      "query": "American Family Mutual Insurance v. American Girl, Inc."
+    },
+    {
+      "id": "ANAT-A237",
+      "query": "Cedar Point Nursery v. Hassid"
+    },
+    {
+      "id": "ANAT-A238",
+      "query": "Ryan v. New York Telephone Co."
+    },
+    {
+      "id": "ANAT-A239",
+      "query": "Gibbons v. Ogden"
+    },
+    {
+      "id": "ANAT-A240",
+      "query": "Green-Younger v. Barnhart"
+    },
+    {
+      "id": "ANAT-A241",
+      "query": "Butnaru v. Ford Motor Co."
+    },
+    {
+      "id": "ANAT-A242",
+      "query": "Helena Chem. Co. v. Wilkins"
+    },
+    {
+      "id": "ANAT-A243",
+      "query": "Perez v. Chater"
+    },
+    {
+      "id": "ANAT-A245",
+      "query": "Bostock v. Clayton County"
+    },
+    {
+      "id": "ANAT-A246",
+      "query": "Robbins v. Soc. Sec. Admin."
+    },
+    {
+      "id": "ANAT-A248",
+      "query": "Morrison v. Nat'l Australia Bank, Ltd."
+    },
+    {
+      "id": "ANAT-A249",
+      "query": "Bradford v. Vento"
+    },
+    {
+      "id": "ANAT-A250",
+      "query": "See Texas A & M Univ. Sys. v. Koseoglu"
+    },
+    {
+      "id": "ANAT-A251",
+      "query": "Croucher v. Croucher"
+    },
+    {
+      "id": "ANAT-A252",
+      "query": "Gillespie v. Gillespie"
+    },
+    {
+      "id": "ANAT-A253",
+      "query": "Patane v. Clark"
+    },
+    {
+      "id": "ANAT-A254",
+      "query": "See Wichita Falls State Hosp. v. Taylor"
+    },
+    {
+      "id": "ANAT-A257",
+      "query": "J.M. Davidson, Inc. v. Webster"
+    },
+    {
+      "id": "ANAT-A259",
+      "query": "J. MCINTYRE MACHINERY, LTD., PETITIONER v. ROBERT NICASTRO"
+    },
+    {
+      "id": "ANAT-A260",
+      "query": "Westfield Ins. Co. v. Galatis"
+    },
+    {
+      "id": "ANAT-A262",
+      "query": "U.S. v. Amodeo"
+    },
+    {
+      "id": "ANAT-A263",
+      "query": "Mack Trucks, Inc. v. Tamez"
+    },
+    {
+      "id": "ANAT-A267",
+      "query": "Goodyear Tire & Rubber Co. v. Mayes"
+    },
+    {
+      "id": "ANAT-A268",
+      "query": "McGalliard v. Kuhlmann"
+    },
+    {
+      "id": "ANAT-A269",
+      "query": "DCD Programs, Ltd. v. Leighton"
+    },
+    {
+      "id": "ANAT-A270",
+      "query": "Minto Grain, LLC v. Tibert"
+    },
+    {
+      "id": "ANAT-A271",
+      "query": "See Ryland Group, Inc. v. Hood"
+    },
+    {
+      "id": "ANAT-A272",
+      "query": "See Eldridge v. Eldridge"
+    },
+    {
+      "id": "ANAT-A273",
+      "query": "Golden Eagle Archery, Inc. v. Jackson"
+    },
+    {
+      "id": "ANAT-A274",
+      "query": "Retarded Children, Inc. v. Carey"
+    },
+    {
+      "id": "ANAT-A276",
+      "query": "McCulloch v. Maryland"
+    },
+    {
+      "id": "ANAT-A277",
+      "query": "_AIU Ins. Co. v. Superior Ct._"
+    },
+    {
+      "id": "ANAT-A278",
+      "query": "Giannullo v. City of New York"
+    },
+    {
+      "id": "ANAT-A280",
+      "query": "Subaru versus David McDavid Nissan"
+    },
+    {
+      "id": "ANAT-A281",
+      "query": "Reynolds v. Select Properties , Ltd."
+    },
+    {
+      "id": "ANAT-A283",
+      "query": "Villegas v. Carter"
+    },
+    {
+      "id": "ANAT-A284",
+      "query": "n.a. v. Farino"
+    },
+    {
+      "id": "ANAT-A285",
+      "query": "Parkway Company v. Woodruff"
+    },
+    {
+      "id": "ANAT-A286",
+      "query": "Hawk V. Hawk"
+    },
+    {
+      "id": "ANAT-A288",
+      "query": "Rales v. Blasband"
+    },
+    {
+      "id": "ANAT-A289",
+      "query": "Merrill v. Navegar, Inc."
+    },
+    {
+      "id": "ANAT-A290",
+      "query": "Austin Nursing Ctr., Inc. v. Lovato"
+    },
+    {
+      "id": "ANAT-A291",
+      "query": "Cornejo v. Bell"
+    },
+    {
+      "id": "ANAT-A293",
+      "query": "Iskanian v. CLS Transportation Los Angeles, LLC"
+    },
+    {
+      "id": "BANK-AK-03",
+      "query": "Zeman v. Lufthansa German Airlines"
+    },
+    {
+      "id": "BANK-AK-18",
+      "query": "Wetherhorn v. Alaska Psychiatric Institute"
+    },
+    {
+      "id": "BANK-AL-03",
+      "query": "West v. Founders Life Assur. Co. of Florida"
+    },
+    {
+      "id": "BANK-AL-18",
+      "query": "Clements v. State"
+    },
+    {
+      "id": "BANK-AR-03",
+      "query": "Finn v. McCuen"
+    },
+    {
+      "id": "BANK-AR-04",
+      "query": "Finn v. McCuen"
+    },
+    {
+      "id": "BANK-AZ-03",
+      "query": "State v. Henderson"
+    },
+    {
+      "id": "BANK-AZ-04",
+      "query": "State v. Henderson"
+    },
+    {
+      "id": "BANK-AZ-19",
+      "query": "Donnelly Const. Co. v. Oberg/Hunt/Gilleland"
+    },
+    {
+      "id": "BANK-CA-03",
+      "query": "People v. Kelly"
+    },
+    {
+      "id": "BANK-CA-04",
+      "query": "People v. Kelly"
+    },
+    {
+      "id": "BANK-CA-19",
+      "query": "People v. Dorado"
+    },
+    {
+      "id": "BANK-CO-01",
+      "query": "People v. District Court, Second Judicial District"
+    },
+    {
+      "id": "BANK-CO-03",
+      "query": "People v. District Court, Second Judicial District"
+    },
+    {
+      "id": "BANK-CO-18",
+      "query": "Bogdanov v. People"
+    },
+    {
+      "id": "BANK-CT-03",
+      "query": "Ferryman v. City of Groton"
+    },
+    {
+      "id": "BANK-CT-04",
+      "query": "Ferryman v. City of Groton"
+    },
+    {
+      "id": "BANK-DE-03",
+      "query": "Brehm v. Eisner"
+    },
+    {
+      "id": "BANK-DE-18",
+      "query": "Price v. E.I. DuPont De Nemours & Co."
+    },
+    {
+      "id": "BANK-FL-03",
+      "query": "State v. DiGuilio"
+    },
+    {
+      "id": "BANK-FL-18",
+      "query": "Clark v. State"
+    },
+    {
+      "id": "BANK-GA-01",
+      "query": "Lau's Corp., Inc. v. Haskins"
+    },
+    {
+      "id": "BANK-GA-03",
+      "query": "Lau's Corp., Inc. v. Haskins"
+    },
+    {
+      "id": "BANK-GA-04",
+      "query": "Lau's Corp., Inc. v. Haskins"
+    },
+    {
+      "id": "BANK-GA-19",
+      "query": "State v. Thornton"
+    },
+    {
+      "id": "BANK-HI-03",
+      "query": "Kema v. Gaddis"
+    },
+    {
+      "id": "BANK-HI-04",
+      "query": "Kema v. Gaddis"
+    },
+    {
+      "id": "BANK-IA-18",
+      "query": "State Of Iowa Vs. Mark Thomas Hennings"
+    },
+    {
+      "id": "BANK-ID-03",
+      "query": "State v. Oliver"
+    },
+    {
+      "id": "BANK-ID-04",
+      "query": "State v. Oliver"
+    },
+    {
+      "id": "BANK-ID-19",
+      "query": "State v. Urrabazo"
+    },
+    {
+      "id": "BANK-IL-03",
+      "query": "People v. Enoch"
+    },
+    {
+      "id": "BANK-IL-04",
+      "query": "People v. Enoch"
+    },
+    {
+      "id": "BANK-IL-19",
+      "query": "Doe v. Calumet City"
+    },
+    {
+      "id": "BANK-IN-03",
+      "query": "Cardwell v. State"
+    },
+    {
+      "id": "BANK-IN-18",
+      "query": "German v. State"
+    },
+    {
+      "id": "BANK-KS-03",
+      "query": "State v. Ward"
+    },
+    {
+      "id": "BANK-KS-04",
+      "query": "State v. Ward"
+    },
+    {
+      "id": "BANK-KY-03",
+      "query": "Commonwealth v. English"
+    },
+    {
+      "id": "BANK-KY-18",
+      "query": "Bowling v. Commonwealth"
+    },
+    {
+      "id": "BANK-LA-03",
+      "query": "State Ex Rel. Glover v. State"
+    },
+    {
+      "id": "BANK-LA-18",
+      "query": "State v. Godejohn"
+    },
+    {
+      "id": "BANK-MA-03",
+      "query": "Kourouvacilis v. General Motors Corp."
+    },
+    {
+      "id": "BANK-MA-04",
+      "query": "Kourouvacilis v. General Motors Corp."
+    },
+    {
+      "id": "BANK-MA-19",
+      "query": "Shapiro v. Public Service Mutual Insurance"
+    },
+    {
+      "id": "BANK-MD-03",
+      "query": "Kaczorowski v. Mayor of Baltimore"
+    },
+    {
+      "id": "BANK-MD-04",
+      "query": "Kaczorowski v. Mayor of Baltimore"
+    },
+    {
+      "id": "BANK-MD-19",
+      "query": "H & R BLOCK, INC. v. Testerman"
+    },
+    {
+      "id": "BANK-ME-03",
+      "query": "Curtis v. Porter"
+    },
+    {
+      "id": "BANK-ME-04",
+      "query": "Curtis v. Porter"
+    },
+    {
+      "id": "BANK-ME-19",
+      "query": "Baybutt Construction Corp. v. Commercial Union Insurance"
+    },
+    {
+      "id": "BANK-MI-03",
+      "query": "People v. Carines"
+    },
+    {
+      "id": "BANK-MI-18",
+      "query": "Lugo v. Ameritech Corp., Inc."
+    },
+    {
+      "id": "BANK-MN-03",
+      "query": "Thiele v. Stich"
+    },
+    {
+      "id": "BANK-MN-18",
+      "query": "Hendrickson v. Minnesota Power & Light Co."
+    },
+    {
+      "id": "BANK-MO-03",
+      "query": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp."
+    },
+    {
+      "id": "BANK-MO-18",
+      "query": "Davis v. Research Medical Center"
+    },
+    {
+      "id": "BANK-MS-03",
+      "query": "Bush v. State"
+    },
+    {
+      "id": "BANK-MS-18",
+      "query": "Rowland v. State"
+    },
+    {
+      "id": "BANK-MT-01",
+      "query": "Carbon County v. Union Reserve Coal Co., Inc."
+    },
+    {
+      "id": "BANK-MT-03",
+      "query": "Carbon County v. Union Reserve Coal Co., Inc."
+    },
+    {
+      "id": "BANK-MT-04",
+      "query": "Carbon County v. Union Reserve Coal Co., Inc."
+    },
+    {
+      "id": "BANK-MT-19",
+      "query": "State v. Just"
+    },
+    {
+      "id": "BANK-NC-03",
+      "query": "State v. Lawrence"
+    },
+    {
+      "id": "BANK-NC-04",
+      "query": "State v. Lawrence"
+    },
+    {
+      "id": "BANK-NC-19",
+      "query": "State v. Carter"
+    },
+    {
+      "id": "BANK-ND-03",
+      "query": "County of Stutsman v. State Historical Society of North Dakota"
+    },
+    {
+      "id": "BANK-ND-18",
+      "query": "ACUITY v. Burd & Smith Construction, Inc."
+    },
+    {
+      "id": "BANK-NE-03",
+      "query": "Law Offices of Ronald J. Palagi v. Howard"
+    },
+    {
+      "id": "BANK-NE-18",
+      "query": "State v. Thomas"
+    },
+    {
+      "id": "BANK-NH-03",
+      "query": "Vogel v. Vogel"
+    },
+    {
+      "id": "BANK-NH-04",
+      "query": "Vogel v. Vogel"
+    },
+    {
+      "id": "BANK-NJ-04",
+      "query": "Brill v. Guardian Life Insurance Co. of America"
+    },
+    {
+      "id": "BANK-NJ-19",
+      "query": "State v. Cooke"
+    },
+    {
+      "id": "BANK-NM-03",
+      "query": "State v. Rojo"
+    },
+    {
+      "id": "BANK-NM-18",
+      "query": "State v. Moore"
+    },
+    {
+      "id": "BANK-NV-01",
+      "query": "Wood v. Safeway, Inc."
+    },
+    {
+      "id": "BANK-NV-04",
+      "query": "Wood v. Safeway, Inc."
+    },
+    {
+      "id": "BANK-NV-18",
+      "query": "Lisby v. State"
+    },
+    {
+      "id": "BANK-NY-03",
+      "query": "People v. Danielson"
+    },
+    {
+      "id": "BANK-NY-18",
+      "query": "Saratoga County Chamber of Commerce, Inc. v. Pataki"
+    },
+    {
+      "id": "BANK-OH-03",
+      "query": "State v. Thompkins"
+    },
+    {
+      "id": "BANK-OH-04",
+      "query": "State v. Thompkins"
+    },
+    {
+      "id": "BANK-OH-19",
+      "query": "State v. Fischer"
+    },
+    {
+      "id": "BANK-OK-03",
+      "query": "Carmichael v. Beller"
+    },
+    {
+      "id": "BANK-OK-04",
+      "query": "Carmichael v. Beller"
+    },
+    {
+      "id": "BANK-OK-19",
+      "query": "Keel v. MFA Insurance Company"
+    },
+    {
+      "id": "BANK-OR-03",
+      "query": "Portland General Electric Co. v. Bureau of Labor & Industries"
+    },
+    {
+      "id": "BANK-OR-04",
+      "query": "Portland General Electric Co. v. Bureau of Labor & Industries"
+    },
+    {
+      "id": "BANK-OR-19",
+      "query": "Smothers v. Gresham Transfer, Inc."
+    },
+    {
+      "id": "BANK-PA-03",
+      "query": "Commonwealth v. Turner"
+    },
+    {
+      "id": "BANK-PA-04",
+      "query": "Commonwealth v. Turner"
+    },
+    {
+      "id": "BANK-PA-19",
+      "query": "Commonwealth Ex Rel. Washington v. Maroney"
+    },
+    {
+      "id": "BANK-RI-01",
+      "query": "Accent Store Design, Inc. v. Marathon House, Inc."
+    },
+    {
+      "id": "BANK-RI-03",
+      "query": "Accent Store Design, Inc. v. Marathon House, Inc."
+    },
+    {
+      "id": "BANK-RI-18",
+      "query": "Sherwood Ice Co. v. U. S. Casualty Co."
+    },
+    {
+      "id": "BANK-SC-03",
+      "query": "State v. Williams"
+    },
+    {
+      "id": "BANK-SC-04",
+      "query": "State v. Williams"
+    },
+    {
+      "id": "BANK-SC-19",
+      "query": "State v. Owens"
+    },
+    {
+      "id": "BANK-SD-01",
+      "query": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division"
+    },
+    {
+      "id": "BANK-SD-03",
+      "query": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division"
+    },
+    {
+      "id": "BANK-SD-04",
+      "query": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division"
+    },
+    {
+      "id": "BANK-SD-19",
+      "query": "State v. Houghton"
+    },
+    {
+      "id": "BANK-TN-03",
+      "query": "State v. Bland"
+    },
+    {
+      "id": "BANK-TN-18",
+      "query": "State v. Bingham"
+    },
+    {
+      "id": "BANK-TX-19",
+      "query": "Clewis v. State"
+    },
+    {
+      "id": "BANK-US-11",
+      "query": "Chevron U.S.A., Inc. v. Natural Res. Def. Council, Inc."
+    },
+    {
+      "id": "BANK-UT-03",
+      "query": "State v. Pena"
+    },
+    {
+      "id": "BANK-UT-18",
+      "query": "Lyon v. Hartford Accident and Indemnity Company"
+    },
+    {
+      "id": "BANK-VA-03",
+      "query": "Commonwealth v. Hudson"
+    },
+    {
+      "id": "BANK-VA-04",
+      "query": "Commonwealth v. Hudson"
+    },
+    {
+      "id": "BANK-VA-19",
+      "query": "Luginbyhl v. Commonwealth"
+    },
+    {
+      "id": "BANK-VT-01",
+      "query": "Robertson v. Mylan Laboratories, Inc."
+    },
+    {
+      "id": "BANK-VT-03",
+      "query": "Robertson v. Mylan Laboratories, Inc."
+    },
+    {
+      "id": "BANK-VT-04",
+      "query": "Robertson v. Mylan Laboratories, Inc."
+    },
+    {
+      "id": "BANK-VT-19",
+      "query": "Murray v. Allen"
+    },
+    {
+      "id": "BANK-WA-03",
+      "query": "Cowiche Canyon Conservancy v. Bosley"
+    },
+    {
+      "id": "BANK-WA-04",
+      "query": "Cowiche Canyon Conservancy v. Bosley"
+    },
+    {
+      "id": "BANK-WI-03",
+      "query": "State Ex Rel. Kalal v. Circuit Court for Dane County"
+    },
+    {
+      "id": "BANK-WI-04",
+      "query": "State Ex Rel. Kalal v. Circuit Court for Dane County"
+    },
+    {
+      "id": "BANK-WI-19",
+      "query": "Ernst v. State"
+    },
+    {
+      "id": "BANK-WV-19",
+      "query": "Miners in General Group v. Hix"
+    },
+    {
+      "id": "BANK-WY-03",
+      "query": "Vaughn v. State"
+    },
+    {
+      "id": "BANK-WY-18",
+      "query": "McClellan v. Tottenhoff"
+    },
+    {
+      "id": "JUR-0001-P",
+      "query": "A. J. T. v. Osseo Area Schools"
+    },
+    {
+      "id": "JUR-0005-P",
+      "query": "Johnson v. Dunn"
+    },
+    {
+      "id": "JUR-0009-P",
+      "query": "Miya Water Projects Netherlands B.V. v. FOMB"
+    },
+    {
+      "id": "JUR-0013-P",
+      "query": "United States v. Sjodin"
+    },
+    {
+      "id": "JUR-0017-P",
+      "query": "RICH v. TEASLEY"
+    },
+    {
+      "id": "JUR-0021-P",
+      "query": "UNITED STATES v. BARRETT"
+    },
+    {
+      "id": "JUR-0025-P",
+      "query": "MUTUAL LIFE INS. CO. OF NEW YORK v. LANE"
+    },
+    {
+      "id": "JUR-0029-P",
+      "query": "Liberty Surplus Insurance Corporation v. Kaufman Lynn Construction"
+    },
+    {
+      "id": "JUR-0033-P",
+      "query": "MONTGOMERY LIGHT & POWER CO. v. MONTGOMERY TRACTION CO."
+    },
+    {
+      "id": "JUR-0037-P",
+      "query": "SOUTHERN RY. CO. v. BLUNT & WARD"
+    },
+    {
+      "id": "JUR-0041-P",
+      "query": "USA ex rel. Danilo Feliciano v. Robert Ardoin (ORDER)"
+    },
+    {
+      "id": "JUR-0045-P",
+      "query": "PLAIN v. HORNE"
+    },
+    {
+      "id": "JUR-0053-P",
+      "query": "GOTTSCHALK CO. v. DISTILLING & CATTLE-FEEDING CO."
+    },
+    {
+      "id": "JUR-0057-P",
+      "query": "ILLINOIS CENT. R. CO. v. INTERNATIONAL ASS'N OF MACHINISTS"
+    },
+    {
+      "id": "JUR-0061-P",
+      "query": "HOOD v. McGEHEE"
+    },
+    {
+      "id": "JUR-0065-P",
+      "query": "HOADLY v. CHASE"
+    },
+    {
+      "id": "JUR-0069-P",
+      "query": "FAIRFIELD v. RURAL INDEPENDENT SCHOOL DISTS. OF ALLISON AND JACKSON"
+    },
+    {
+      "id": "JUR-0073-P",
+      "query": "NEW JERSEY PATENT CO. v. MARTIN"
+    },
+    {
+      "id": "JUR-0077-P",
+      "query": "DES MOINES WATER CO. v. CITY OF DES MOINES"
+    },
+    {
+      "id": "JUR-0081-P",
+      "query": "LOVELL v. LATHAM & CO."
+    },
+    {
+      "id": "JUR-0085-P",
+      "query": "GEORGE H. LEE CO. v. WEBSTER"
+    },
+    {
+      "id": "JUR-0089-P",
+      "query": "REDINGTON v. OFFICE EQUIPMENT CO."
+    },
+    {
+      "id": "JUR-0093-P",
+      "query": "INTERNATIONAL HARVESTER CO. OF AMERICA v. OLIVER"
+    },
+    {
+      "id": "JUR-0097-P",
+      "query": "LOVELL v. ISIDORE NEWMAN & SON"
+    },
+    {
+      "id": "JUR-0101-P",
+      "query": "SVEA INS. CO. v. VICKSBURG"
+    },
+    {
+      "id": "JUR-0105-P",
+      "query": "NATIONAL ELECTRIC SIGNALING CO. v. UNITED WIRELESS TELEGRAPH CO."
+    },
+    {
+      "id": "JUR-0109-P",
+      "query": "Murray v. UBS Sec."
+    },
+    {
+      "id": "JUR-0113-P",
+      "query": "REPUBLIC IRON & STEEL CO. v. CARLTON"
+    },
+    {
+      "id": "JUR-0117-P",
+      "query": "DRAPER CO. v. STAFFORD CO."
+    },
+    {
+      "id": "JUR-0125-P",
+      "query": "ADRIAN WIRE FENCE CO. v. JACKSON FENCE CO."
+    },
+    {
+      "id": "JUR-0129-P",
+      "query": "Hobby v. Allison and others"
+    },
+    {
+      "id": "JUR-0133-P",
+      "query": "WOODMAN v. LYDIARD-PETERSON CO."
+    },
+    {
+      "id": "JUR-0137-P",
+      "query": "Jamison v. United States"
+    },
+    {
+      "id": "JUR-0141-P",
+      "query": "FARMERS' LOAN & TRUST CO. v. MERIDIAN WATERWORKS CO."
+    },
+    {
+      "id": "JUR-0145-P",
+      "query": "THOMAS v. HURST"
+    },
+    {
+      "id": "JUR-0146-P",
+      "query": "NEW YORK CENT. & H. R. R. CO. v. BANK OF HOLLY SPRINGS"
+    },
+    {
+      "id": "JUR-0150-P",
+      "query": "THOMPSON v. WABASH R. CO."
+    },
+    {
+      "id": "JUR-0154-P",
+      "query": "DEPOT CARRIAGE & BAGGAGE CO. v. KANSAS CITY TERMINAL RY. CO. KANSAS…"
+    },
+    {
+      "id": "JUR-0158-P",
+      "query": "WRIGHT v. STEWART"
+    },
+    {
+      "id": "JUR-0162-P",
+      "query": "UNITED STATES v. NORTHERN PAC. RY. CO."
+    },
+    {
+      "id": "JUR-0166-P",
+      "query": "AMERICAN SURETY CO. OF NEW YORK v. SHALLENBERGER"
+    },
+    {
+      "id": "JUR-0170-P",
+      "query": "BENNER v. TRUCKEE RIVER GENERAL ELECTRIC CO."
+    },
+    {
+      "id": "JUR-0174-P",
+      "query": "FOSTER-EDDY v. BAKER"
+    },
+    {
+      "id": "JUR-0178-P",
+      "query": "Richard Laird v. Secretary PA Dept Corrections"
+    },
+    {
+      "id": "JUR-0182-P",
+      "query": "IMPERIAL BRASS MFG. CO. v. NELSON"
+    },
+    {
+      "id": "JUR-0186-P",
+      "query": "FINANCE CO. OF PENNSYLVANIA v. NEW JERSEY SHORT LINE R. CO. SAME v.…"
+    },
+    {
+      "id": "JUR-0190-P",
+      "query": "WHEELER v. JAMES SAME v. MURRAY"
+    },
+    {
+      "id": "JUR-0194-P",
+      "query": "UNITED STATES v. NEW YORK CENT. & H. R. R. CO."
+    },
+    {
+      "id": "JUR-0206-P",
+      "query": "WILLIAMS v. MOLTHER"
+    },
+    {
+      "id": "JUR-0210-P",
+      "query": "COMMERCIAL BANK OF AUGUSTA v. SANDFORD"
+    },
+    {
+      "id": "JUR-0214-P",
+      "query": "NEW JERSEY LAND & LUMBER CO. v. GARDENER LACY LUMBER CO."
+    },
+    {
+      "id": "JUR-0218-P",
+      "query": "HAYNE v. WOOLLEY"
+    },
+    {
+      "id": "JUR-0222-P",
+      "query": "McCLELLAN v. BLACKMAN (STATE OF SOUTH DAKOTA"
+    },
+    {
+      "id": "JUR-0226-P",
+      "query": "PEERLESS RUBBER MFG. CO. v. NICHOL"
+    },
+    {
+      "id": "JUR-0230-P",
+      "query": "CENTRAL TRUST CO. OF NEW YORK v. WHEELING & L. E. R. CO."
+    },
+    {
+      "id": "JUR-0234-P",
+      "query": "JOHNSON CO. v. TOLEDO TRACTION CO."
+    },
+    {
+      "id": "JUR-0238-P",
+      "query": "TILLER v. ST. LOUIS & S. F. R. CO."
+    },
+    {
+      "id": "JUR-0242-P",
+      "query": "BRANN v. BELL BELL v. BRANN"
+    },
+    {
+      "id": "JUR-0246-P",
+      "query": "UNITED STATES v. KERR"
+    },
+    {
+      "id": "JUR-0250-P",
+      "query": "BINGAMAN v. COMMONWEALTH TRUST CO."
+    },
+    {
+      "id": "JUR-0258-P",
+      "query": "LOCOMOBILE CO. OF AMERICA v. BERGDOLL"
+    },
+    {
+      "id": "JUR-0262-P",
+      "query": "ROMONA OÖLITIC STONE CO. v. BOLGER"
+    },
+    {
+      "id": "JUR-0270-P",
+      "query": "Jason Gowen v. Gerald Winfield"
+    },
+    {
+      "id": "JUR-0274-P",
+      "query": "UNITED STATES v. SOUTHERN RY. CO."
+    },
+    {
+      "id": "JUR-0278-P",
+      "query": "MEYER RUBBER CO. v. GEORGETOWN & W. R. CO. In re JONES"
+    },
+    {
+      "id": "JUR-0282-P",
+      "query": "SQUIRE v. ROBERTSON"
+    },
+    {
+      "id": "JUR-0286-P",
+      "query": "SANDERSON v. BISHOP"
+    },
+    {
+      "id": "JUR-0294-P",
+      "query": "MARKS v. MARKS MARKS v. GHOLSON"
+    },
+    {
+      "id": "JUR-0298-P",
+      "query": "HICKS v. CRAWFORD COAL & IRON CO."
+    },
+    {
+      "id": "JUR-0302-P",
+      "query": "DARNELL-TAENZER LUMBER CO. v. SOUTHERN PAC. CO."
+    },
+    {
+      "id": "JUR-0306-P",
+      "query": "McELDOWNEY v. CARD"
+    },
+    {
+      "id": "JUR-0310-P",
+      "query": "ASSOCIATES DISCOUNT CORPORATION v. TUNE CONSTRUCTION COMPANY"
+    },
+    {
+      "id": "JUR-0314-P",
+      "query": "ANDERSON v. SHARP"
+    },
+    {
+      "id": "JUR-0318-P",
+      "query": "ROBINSON v. FURBER Ex parte FURBER"
+    },
+    {
+      "id": "JUR-0322-P",
+      "query": "VAN BRIMMER v. TEXAS & P. RY. CO."
+    },
+    {
+      "id": "JUR-0326-P",
+      "query": "UNITED STATES v. UNION PAC. R. CO."
+    },
+    {
+      "id": "JUR-0330-P",
+      "query": "MORRIS v. TRAVELERS' INS. CO."
+    },
+    {
+      "id": "JUR-0334-P",
+      "query": "J. Folse ROY v. John W. RECKER and Raymond Recker"
+    },
+    {
+      "id": "JUR-0338-P",
+      "query": "UNITED STATES v. GREENE"
+    },
+    {
+      "id": "JUR-0342-P",
+      "query": "WESTERN UNION TELEGRAPH CO. v. CITY OF RICHMOND"
+    },
+    {
+      "id": "JUR-0346-P",
+      "query": "KEMMERER v. HAGGERTY"
+    },
+    {
+      "id": "JUR-0350-P",
+      "query": "CASEY v. BARBER ASPHALT PAVING CO."
+    },
+    {
+      "id": "JUR-0362-P",
+      "query": "COFFIELD MOTOR WASHER CO. v. A. D. HOWE MACH. CO."
+    },
+    {
+      "id": "JUR-0366-P",
+      "query": "HIRSCH v. INDEPENDENT STEEL CO. OF AMERICA"
+    },
+    {
+      "id": "JUR-0374-P",
+      "query": "MARKS v. MERRILL PAPER MFG. CO."
+    },
+    {
+      "id": "JUR-0378-P",
+      "query": "DITTGEN v. RACINE PAPER GOODS CO."
+    },
+    {
+      "id": "JUR-0382-P",
+      "query": "Reed v. Goertz"
+    },
+    {
+      "id": "JUR-0386-P",
+      "query": "COLUMBIA BUILDING & LOAN ASS'N v. JUNQUIST"
+    },
+    {
+      "id": "JUR-0390-P",
+      "query": "O'CONNELL v. AMERICAN FIRE INS. CO. OF PHILADELPHIA"
+    },
+    {
+      "id": "JUR-0394-P",
+      "query": "POTTS v. SKINNER"
+    },
+    {
+      "id": "JUR-0398-P",
+      "query": "NORTH FORK WATER CO. v. MEDLAND"
+    },
+    {
+      "id": "JUR-0402-P",
+      "query": "REAVIS v. REAVIS"
+    },
+    {
+      "id": "JUR-0406-P",
+      "query": "Amaury Villa v. United States"
+    },
+    {
+      "id": "JUR-0410-P",
+      "query": "ATLAS REDUCTION CO. v. NEW ZEALAND INS. CO. (four cases)"
+    },
+    {
+      "id": "JUR-0414-P",
+      "query": "Clarence Lewis v. Kul Sood"
+    },
+    {
+      "id": "JUR-0418-P",
+      "query": "H. B. WIGGINS SONS' CO. v. COTT-A-LAP CO."
+    },
+    {
+      "id": "JUR-0422-P",
+      "query": "SANITARY METAL TILE CO. v. NEW YORK METAL CEILING CO."
+    },
+    {
+      "id": "JUR-0426-P",
+      "query": "United States v. George Harper"
+    },
+    {
+      "id": "JUR-0430-P",
+      "query": "Levenia E. MATTHEWS on Behalf of Devon and Lou Retha MATTHEWS v. SE…"
+    },
+    {
+      "id": "JUR-0434-P",
+      "query": "Consumer Financial Protection Bureau v. Cashcall"
+    },
+    {
+      "id": "JUR-0438-P",
+      "query": "UNITED STATES v. DOMINGOS"
+    },
+    {
+      "id": "JUR-0442-P",
+      "query": "LATCHTIMACKER v. JACKSONVILLE TOWING & WRECKING CO."
+    },
+    {
+      "id": "JUR-0446-P",
+      "query": "Javier COTTO LÓPEZ v. UNIÓN DE TRABAJADORES DE LA INDUSTRIA ELÉCTRI…"
+    },
+    {
+      "id": "JUR-0450-P",
+      "query": "Geneva HENDERSON v. EMORY UNIVERSITY"
+    },
+    {
+      "id": "JUR-0454-P",
+      "query": "Steven DAVIS v. United States"
+    },
+    {
+      "id": "JUR-0458-P",
+      "query": "Frederick WASHINGTON and Mini Jolita Washington v. The NATIONAL SHI…"
+    },
+    {
+      "id": "JUR-0466-P",
+      "query": "United States v. Bedgood"
+    },
+    {
+      "id": "JUR-0468-P",
+      "query": "XUEYAN ZHOU a/k/a Susan Zhou v. INTERGRAPH CORPORATION"
+    },
+    {
+      "id": "JUR-0472-P",
+      "query": "JUN SOO LEE v. GUYOUNGTECH USA"
+    },
+    {
+      "id": "JUR-0476-P",
+      "query": "United States v. Ana ESPINOZA-OCHOA"
+    },
+    {
+      "id": "JUR-0488-P",
+      "query": "Kevin O'GORMAN v. CITY OF CHICAGO"
+    },
+    {
+      "id": "JUR-0491-P",
+      "query": "Linda ORTEGA v. CHICAGO BOARD OF EDUCATION"
+    },
+    {
+      "id": "JUR-0495-P",
+      "query": "United States v. Cesar Altieri SAYOC"
+    },
+    {
+      "id": "JUR-0515-P",
+      "query": "REXING QUALITY EGGS v. REMBRANDT ENTERPRISES"
+    },
+    {
+      "id": "JUR-0523-P",
+      "query": "Lori NICHOLSON and Willis William Nicholson v. BIOMET"
+    },
+    {
+      "id": "JUR-0531-P",
+      "query": "API AMERICAS INC. v. Paul W. MILLER"
+    },
+    {
+      "id": "JUR-0539-P",
+      "query": "IN RE CLASSICSTAR MARE LEASE LITIGATION Neil and Anne Baker v. Davi…"
+    },
+    {
+      "id": "JUR-0543-P",
+      "query": "Dr. Christopher FROST v. UNIVERSITY OF LOUISVILLE"
+    },
+    {
+      "id": "JUR-0551-P",
+      "query": "Tommy BADEAUX v. Roger GOODELL"
+    },
+    {
+      "id": "JUR-0555-P",
+      "query": "United States v. Derrick FELTON (01)"
+    },
+    {
+      "id": "JUR-0559-P",
+      "query": "United States v. Michael ESPOSITO"
+    },
+    {
+      "id": "JUR-0567-P",
+      "query": "IN RE: Claud ANDERSON Claud Anderson v. The Harbor Bank of Maryland"
+    },
+    {
+      "id": "JUR-0571-P",
+      "query": "Mark Anthony MASON v. Nancy A. BERRYHILL"
+    },
+    {
+      "id": "JUR-0575-P",
+      "query": "COOPER v. MICHIGAN ARTIFICIAL ICE PRODUCTS CO."
+    },
+    {
+      "id": "JUR-0579-P",
+      "query": "United States v. Edwin MILLS"
+    },
+    {
+      "id": "JUR-0583-P",
+      "query": "United States v. Lee Edward BLOMQUIST"
+    },
+    {
+      "id": "JUR-0587-P",
+      "query": "EQUAL EMPLOYMENT OPPORTUNITY COMMISSION v. NORTH MEMORIAL HEALTH CARE"
+    },
+    {
+      "id": "JUR-0591-P",
+      "query": "Willie Mae PAYNE v. TRAVENOL LABORATORIES"
+    },
+    {
+      "id": "JUR-0597-P",
+      "query": "TRAVELERS CASUALTY AND SURETY COMPANY OF AMERICA v. DIRTWORKS"
+    },
+    {
+      "id": "JUR-0601-P",
+      "query": "CLARK v. IOWA FRUIT CO."
+    },
+    {
+      "id": "JUR-0605-P",
+      "query": "J.Y.C.C. v. DOE RUN RESOURCES"
+    },
+    {
+      "id": "JUR-0609-P",
+      "query": "John P. LIPP and Stephanie S. Lipp v. GINGER C"
+    },
+    {
+      "id": "JUR-0621-P",
+      "query": "ARGENT PREPARATORY ACADEMY f/k/a Silver State Charter Schools v. PH…"
+    },
+    {
+      "id": "JUR-0625-P",
+      "query": "Elena BARRON v. ALASKA NATIVE TRIBAL HEALTH CONSORTIUM"
+    },
+    {
+      "id": "JUR-0637-P",
+      "query": "Bethany CALDERON v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY"
+    },
+    {
+      "id": "JUR-0653-P",
+      "query": "United States v. Christhian Isaac MEZA"
+    },
+    {
+      "id": "JUR-0657-P",
+      "query": "Jon MCDONOUGH and Tracy A. McDonough v. CYCLING SPORTS GROUP"
+    },
+    {
+      "id": "JUR-0665-P",
+      "query": "United States v. Amelia G. RIVERA"
+    },
+    {
+      "id": "JUR-0669-P",
+      "query": "Paul WILLIAMS v. OHIO NATIONAL LIFE ASSURANCE COMPANY"
+    },
+    {
+      "id": "JUR-0673-P",
+      "query": "Shannon Oranda JEFFERIES v. UNC REGIONAL PHYSICIANS PEDIATRICS and …"
+    },
+    {
+      "id": "JUR-0677-P",
+      "query": "CONTINENTAL RESOURCES INC. v. RINK CONSTRUCTION"
+    },
+    {
+      "id": "JUR-0685-P",
+      "query": "UNITED STATES v. Anthony KING"
+    },
+    {
+      "id": "JUR-0689-P",
+      "query": "United States v. Alon RUSSELL"
+    },
+    {
+      "id": "JUR-0693-P",
+      "query": "WHITCHURCH v. BURGE (UNITED STATES"
+    },
+    {
+      "id": "JUR-0695-P",
+      "query": "Yolanda RAYMOND v. (1) SELECT SPECIALTY HOSPITAL - TULSA/MIDTOWN"
+    },
+    {
+      "id": "JUR-0699-P",
+      "query": "GREAT LAKES INSURANCE SE v. 1. BANK OF EUFAULA"
+    },
+    {
+      "id": "JUR-0703-P",
+      "query": "Peggy FONTENOT v. Mike HUNTER"
+    },
+    {
+      "id": "JUR-0707-P",
+      "query": "JOANNA LYNN F. v. COMMISSIONER OF SOCIAL SECURITY"
+    },
+    {
+      "id": "JUR-0719-P",
+      "query": "ENCOMPASS INSURANCE COMPANY v. STONE MANSION RESTAURANT"
+    },
+    {
+      "id": "JUR-0723-P",
+      "query": "David B. TROUTMAN v. HYDRO EXTRUSION USA"
+    },
+    {
+      "id": "JUR-0727-P",
+      "query": "United States v. Michael LACEY"
+    },
+    {
+      "id": "JUR-0731-P",
+      "query": "Mario J. CARNEIRO v. SENTINEL INSURANCE COMPANY"
+    },
+    {
+      "id": "JUR-0735-P",
+      "query": "Frank HEINDEL and Phil Leventis v. Marci ANDINO"
+    },
+    {
+      "id": "JUR-0747-P",
+      "query": "EQUAL EMPLOYMENT OPPORTUNITY COMMISSION v. M.G. OIL COMPANY"
+    },
+    {
+      "id": "JUR-0759-P",
+      "query": "Edwin Smith PRESTON v. FEDERAL EXPRESS CORPORATION"
+    },
+    {
+      "id": "JUR-0763-P",
+      "query": "Jimmy Joe JONES v. Nancy A. BERRYHILL"
+    },
+    {
+      "id": "JUR-0767-P",
+      "query": "ASSOCIATED RADIO SERVICE COMPANY and Associated Radio Company v. PA…"
+    },
+    {
+      "id": "JUR-0775-P",
+      "query": "Jane DOE 4 v. SALESFORCE.COM"
+    },
+    {
+      "id": "JUR-0779-P",
+      "query": "Suzanne H. WOOTEN v. John ROACH"
+    },
+    {
+      "id": "JUR-0783-P",
+      "query": "United States v. Milton MAYORGA"
+    },
+    {
+      "id": "JUR-0791-P",
+      "query": "United States v. Susan MATEO"
+    },
+    {
+      "id": "JUR-0795-P",
+      "query": "Sylvia LESTER v. Caspar WEINBERGER"
+    },
+    {
+      "id": "JUR-0799-P",
+      "query": "Tonja DUPREE v. FAY SERVICING"
+    },
+    {
+      "id": "JUR-0815-P",
+      "query": "Damon Charles WILLIAMS v. PRK FUNDING SERVICES"
+    },
+    {
+      "id": "JUR-0823-P",
+      "query": "EQUAL EMPLOYMENT OPPORTUNITY COMMISSION v. CRAIN AUTOMOTIVE HOLDING…"
+    },
+    {
+      "id": "JUR-0835-P",
+      "query": "Jason Douglas PROCTOR v. Carolyn W. COLVIN"
+    },
+    {
+      "id": "JUR-0839-P",
+      "query": "Petrolia MOSS v. TEXARKANA ARKANSAS SCHOOL DISTRICT and Theresa Cow…"
+    },
+    {
+      "id": "JUR-0843-P",
+      "query": "UNITED STATES v. PRESCOTT"
+    },
+    {
+      "id": "JUR-0847-P",
+      "query": "United States v. Stephen LEWIS"
+    },
+    {
+      "id": "JUR-0851-P",
+      "query": "Lisa K. PAZOUR v. Nancy A. BERRYHILL"
+    },
+    {
+      "id": "JUR-0859-P",
+      "query": "Center for Biological Diversity v. Ashe"
+    },
+    {
+      "id": "JUR-0863-P",
+      "query": "Wilma GÁNDARA-GORRITZ v. SCOTIABANK DE PUERTO RICO"
+    },
+    {
+      "id": "JUR-0867-P",
+      "query": "SAID HASSEN AND KAREN HASSEN v. GOVERNMENT OF THE VIRGIN ISLANDS AN…"
+    },
+    {
+      "id": "JUR-0895-P",
+      "query": "Jennifer BENTLEY v. UNITED OF OMAHA LIFE INSURANCE COMPANY"
+    },
+    {
+      "id": "JUR-0899-P",
+      "query": "Yvette PENTLAND v. METROPOLITAN LIFE INSURANCE COMPANY"
+    },
+    {
+      "id": "JUR-0907-P",
+      "query": "IMPROVED SEARCH LLC v. MICROSOFT CORPORATION."
+    },
+    {
+      "id": "JUR-1273-P",
+      "query": "IN RE: Ricol V. ROYAL and Kimberly Royal"
+    },
+    {
+      "id": "JUR-1325-P",
+      "query": "General Investment and Development Co. Inc. v. D.E.R."
+    },
+    {
+      "id": "JUR-1331-P",
+      "query": "LEHIGH VALLEY R. CO. v. UNITED STATES (INTEESTATE COMMERCE COMMISSION"
+    },
+    {
+      "id": "JUR-1351-P",
+      "query": "CLEVELAND BAR ASSOCIATION v. FINK"
+    },
+    {
+      "id": "JUR-1359-P",
+      "query": "Richard R. DOUCETTE v. David J. SHULKIN"
+    },
+    {
+      "id": "JUR-1376-P",
+      "query": "Genender Wholesale v. United States"
+    },
+    {
+      "id": "JUR-1380-P",
+      "query": "UNITED STATES v. Donald J. DRESEN"
+    },
+    {
+      "id": "JUR-1392-P",
+      "query": "UNITED STATES v. Khalid Shaikh MOHAMMAD"
+    },
+    {
+      "id": "JUR-1400-P",
+      "query": "Hale v. Huggins. &8212 Pasch. 1 Car."
+    },
+    {
+      "id": "JUR-1413-P",
+      "query": "UNITED STATES v. Sergeant Lee E. KING"
+    },
+    {
+      "id": "JUR-1420-P",
+      "query": "UNITED STATES v. Sergeant Art DIAZ"
+    },
+    {
+      "id": "JUR-1424-P",
+      "query": "United States v. Khalid Shaikh MOHAMMAD"
+    },
+    {
+      "id": "JUR-1428-P",
+      "query": "UNION BANK v. NEW ORLEANS"
+    },
+    {
+      "id": "JUR-1434-P",
+      "query": "NICHOLS v. PITMAN"
+    },
+    {
+      "id": "JUR-1441-P",
+      "query": "HUGHES v. PERCIVAL"
+    },
+    {
+      "id": "JUR-1442-P",
+      "query": "United States v. Grijalva"
+    },
+    {
+      "id": "JUR-1446-P",
+      "query": "THUNDERBOLT LODE v. JAY GOULD LODE"
+    },
+    {
+      "id": "JUR-1447-P",
+      "query": "United States v. Rodney B. Boyce"
+    },
+    {
+      "id": "JUR-1457-P",
+      "query": "EX PARTE C.L.L.M. (In re C.L.L.M. v. A.D.L.)"
+    },
+    {
+      "id": "JUR-1463-P",
+      "query": "Robert Cassell v. State of Alaska"
+    },
+    {
+      "id": "JUR-1469-P",
+      "query": "Lammar David Burney v. State of Alaska"
+    },
+    {
+      "id": "JUR-1475-P",
+      "query": "State of Arizona v. Giovani Fuster Melendez"
+    },
+    {
+      "id": "JUR-1490-P",
+      "query": "Deric Smith v. State of Arkansas"
+    },
+    {
+      "id": "JUR-1496-P",
+      "query": "Gallo Kanon Thomas v. Charles Anderson"
+    },
+    {
+      "id": "JUR-1502-P",
+      "query": "People v. Curiel"
+    },
+    {
+      "id": "JUR-1538-P",
+      "query": "Clarence H. Venner v. Denver Union Water Co."
+    },
+    {
+      "id": "JUR-1539-P",
+      "query": "Fort Lyon Canal Co. v. Chew"
+    },
+    {
+      "id": "JUR-1544-P",
+      "query": "State v. Matheney"
+    },
+    {
+      "id": "JUR-1550-P",
+      "query": "Levine v. Levine"
+    },
+    {
+      "id": "JUR-1556-P",
+      "query": "Salzberg v. Sciabacucchi"
+    },
+    {
+      "id": "JUR-1568-P",
+      "query": "J.J. v. M.C."
+    },
+    {
+      "id": "JUR-1574-P",
+      "query": "Walter Javier Arrazola Mendivil v. the Florida Bar"
+    },
+    {
+      "id": "JUR-1580-P",
+      "query": "Karl Bartley v. State of Florida"
+    },
+    {
+      "id": "JUR-1586-P",
+      "query": "Shayna Palmer v. Nicholas Alexander Mitchell"
+    },
+    {
+      "id": "JUR-1591-P",
+      "query": "Commonwealth of Virginia v. David M. Guill"
+    },
+    {
+      "id": "JUR-1592-P",
+      "query": "Griffin v. State"
+    },
+    {
+      "id": "JUR-1598-P",
+      "query": "ROGERS v. DUPREE Et Al. Dupree Et Al. v. Rogers. Cohen Et Al. v. Ro…"
+    },
+    {
+      "id": "JUR-1604-P",
+      "query": "Hardaway & Hawkins v. William D. Tinsley"
+    },
+    {
+      "id": "JUR-1607-P",
+      "query": "Malinda Harris v. Angus Ferguson"
+    },
+    {
+      "id": "JUR-1609-P",
+      "query": "Nicholas Howard and Edward Molyneux v. Seaborn Jones"
+    },
+    {
+      "id": "JUR-1616-P",
+      "query": "Deutsche Bank Trust Company Americas v. Szymanski"
+    },
+    {
+      "id": "JUR-1622-P",
+      "query": "State v. Hoover"
+    },
+    {
+      "id": "JUR-1628-P",
+      "query": "State v. Ericson"
+    },
+    {
+      "id": "JUR-1634-P",
+      "query": "People v. Fair"
+    },
+    {
+      "id": "JUR-1640-P",
+      "query": "People v. Henry"
+    },
+    {
+      "id": "JUR-1652-P",
+      "query": "Kevin SNAPP v. STATE of Indiana"
+    },
+    {
+      "id": "JUR-1664-P",
+      "query": "Lizik v. Lizik"
+    },
+    {
+      "id": "JUR-1682-P",
+      "query": "State v. Barnes"
+    },
+    {
+      "id": "JUR-1688-P",
+      "query": "Rumbaugh v. DirecTV"
+    },
+    {
+      "id": "JUR-1706-P",
+      "query": "DANIEL R. NEWMAN v. MAYNARD BOWMAN"
+    },
+    {
+      "id": "JUR-1707-P",
+      "query": "STATE of Louisiana v. Shearman WISHAM"
+    },
+    {
+      "id": "JUR-1713-P",
+      "query": "DOWNTOWN DEVELOPMENT DISTRICT OF the CITY OF NEW ORLEANS v. The CIT…"
+    },
+    {
+      "id": "JUR-1719-P",
+      "query": "Ella WARREN v. FOREST MANOR"
+    },
+    {
+      "id": "JUR-1725-P",
+      "query": "Pat Doe v. Thomas Lindahl"
+    },
+    {
+      "id": "JUR-1731-P",
+      "query": "Attorney Grievance Comm'n v. Kurtyka"
+    },
+    {
+      "id": "JUR-1737-P",
+      "query": "Davis v. Regency Lane LLC"
+    },
+    {
+      "id": "JUR-1748-P",
+      "query": "EDITH Y. MUNDT v. MAX DUBIN AND WIFE"
+    },
+    {
+      "id": "JUR-1755-P",
+      "query": "Christian MIRANDA v. SUPERIOR COURT DEPARTMENT."
+    },
+    {
+      "id": "JUR-1761-P",
+      "query": "QUILLA Q. v. MATT M."
+    },
+    {
+      "id": "JUR-1767-P",
+      "query": "Commonwealth v. Jason Robinson"
+    },
+    {
+      "id": "JUR-1785-P",
+      "query": "ERASTUS HAINES v. TOWNSHIP OF CHASE"
+    },
+    {
+      "id": "JUR-1788-P",
+      "query": "Clark W. Shippey v. Michael Sullivan and Ellen Sullivan"
+    },
+    {
+      "id": "JUR-1789-P",
+      "query": "THE PEOPLE v. CHARLES QUICK"
+    },
+    {
+      "id": "JUR-1797-P",
+      "query": "Sheila OLIVER v. STATE FARM FIRE AND CASUALTY INSURANCE COMPANY"
+    },
+    {
+      "id": "JUR-1808-P",
+      "query": "MISSISSIPPI COMMISSION ON JUDICIAL PERFORMANCE v. Judge Jimmy MCGEE"
+    },
+    {
+      "id": "JUR-1820-P",
+      "query": "Isham Daniel v. Jacoway Board of Police of Neshoba county"
+    },
+    {
+      "id": "JUR-1844-P",
+      "query": "State v. Partain"
+    },
+    {
+      "id": "JUR-1850-P",
+      "query": "Dustin DESERLY v. FORT PECK TRIBES"
+    },
+    {
+      "id": "JUR-1861-P",
+      "query": "GOMEZ'S HEIRS v. STOKES"
+    },
+    {
+      "id": "JUR-1862-P",
+      "query": "State v. Cartwright"
+    },
+    {
+      "id": "JUR-1868-P",
+      "query": "Avery v. Whittle"
+    },
+    {
+      "id": "JUR-1874-P",
+      "query": "Garcia (Byron) v. State"
+    },
+    {
+      "id": "JUR-1880-P",
+      "query": "Lorenzo v. Gendebien"
+    },
+    {
+      "id": "JUR-1886-P",
+      "query": "State v. Collins"
+    },
+    {
+      "id": "JUR-1892-P",
+      "query": "B. & M. R. R. v. P. & D. R. R."
+    },
+    {
+      "id": "JUR-1898-P",
+      "query": "OAK KNOLL VILLAGE CONDOMINIUM OWNERS ASSOCIATION v. Chris Ann JAYE"
+    },
+    {
+      "id": "JUR-1911-P",
+      "query": "SALVATORE DEL PRIORE v. EDISON TOWNSHIP"
+    },
+    {
+      "id": "JUR-1912-P",
+      "query": "STATE of New Jersey v. Thomas R. AYTON"
+    },
+    {
+      "id": "JUR-1913-P",
+      "query": "STATE of New Jersey v. Meghan WHITE"
+    },
+    {
+      "id": "JUR-1914-P",
+      "query": "STATE of New Jersey v. David A. O'CONNOR"
+    },
+    {
+      "id": "JUR-1916-P",
+      "query": "State v. Atencio"
+    },
+    {
+      "id": "JUR-1922-P",
+      "query": "Pollock v. Thompson"
+    },
+    {
+      "id": "JUR-1928-P",
+      "query": "People v. Meyers"
+    },
+    {
+      "id": "JUR-1934-P",
+      "query": "Deutsche Bank Natl. Trust Co. v. LeTennier"
+    },
+    {
+      "id": "JUR-1952-P",
+      "query": "STATE of North Carolina v. Timothy Ray CASEY"
+    },
+    {
+      "id": "JUR-1964-P",
+      "query": "Quamme v. Quamme"
+    },
+    {
+      "id": "JUR-1974-P",
+      "query": "State ex rel. Clark v. Dept. of Rehab. & Corr."
+    },
+    {
+      "id": "JUR-1980-P",
+      "query": "State v. Hilderbrand"
+    },
+    {
+      "id": "JUR-1986-P",
+      "query": "CITY OF SEVEN HILLS v. Lucy MCKERNAN"
+    },
+    {
+      "id": "JUR-1987-P",
+      "query": "STATE of Ohio v. Leonard A. SAVAGE"
+    },
+    {
+      "id": "JUR-1989-P",
+      "query": "Karl SPIRES v. OXFORD MINING CO."
+    },
+    {
+      "id": "JUR-1990-P",
+      "query": "Barry L. BROWNE v. ARTEX OIL COMPANY"
+    },
+    {
+      "id": "JUR-1991-P",
+      "query": "STATE of Ohio v. Andre D. HARPER"
+    },
+    {
+      "id": "JUR-1992-P",
+      "query": "KITE v. CULBERTSON"
+    },
+    {
+      "id": "JUR-1998-P",
+      "query": "VASQUEZ v. STATE"
+    },
+    {
+      "id": "JUR-2004-P",
+      "query": "Dora S. YOUNG v. SAC & FOX ELECTION BOARD"
+    },
+    {
+      "id": "JUR-2006-P",
+      "query": "State v. Fletes"
+    },
+    {
+      "id": "JUR-2012-P",
+      "query": "State v. G. J."
+    },
+    {
+      "id": "JUR-2023-P",
+      "query": "Stephen G. DAYTON and Carolyn Laverne Dayton v. Randy JORDAN and Su…"
+    },
+    {
+      "id": "JUR-2030-P",
+      "query": "Goodville Mutual Cas. Co. v. McNear"
+    },
+    {
+      "id": "JUR-2036-P",
+      "query": "Commonwealth v. Farris"
+    },
+    {
+      "id": "JUR-2038-P",
+      "query": "Rud v. Haleem"
+    },
+    {
+      "id": "JUR-2039-P",
+      "query": "Myers v. RB & AK Properties"
+    },
+    {
+      "id": "JUR-2048-P",
+      "query": "STATE v. Francisco GUERRERO."
+    },
+    {
+      "id": "JUR-2054-P",
+      "query": "Alma N. Nickerson v. Ricci & Ricci Excavating Co."
+    },
+    {
+      "id": "JUR-2066-P",
+      "query": "Otis NERO v. SOUTH CAROLINA DEPARTMENT OF TRANSPORTATION"
+    },
+    {
+      "id": "JUR-2084-P",
+      "query": "Donna LEBEAU v. Lars LIND"
+    },
+    {
+      "id": "JUR-2096-P",
+      "query": "John Gunn v. Jefferson County Economic Development Oversight Committee"
+    },
+    {
+      "id": "JUR-2110-P",
+      "query": "Vanessa Ivanova Sada v. State"
+    },
+    {
+      "id": "JUR-2111-P",
+      "query": "Jeremy Lynn Figueredo v. State"
+    },
+    {
+      "id": "JUR-2112-P",
+      "query": "Casey Allen Martin v. State"
+    },
+    {
+      "id": "JUR-2113-P",
+      "query": "Kendrick Dwayne Walker v. State"
+    },
+    {
+      "id": "JUR-2114-P",
+      "query": "South Shore ER v. Bashiri"
+    },
+    {
+      "id": "JUR-2120-P",
+      "query": "State v. Hintze"
+    },
+    {
+      "id": "JUR-2126-P",
+      "query": "State v. Coleman"
+    },
+    {
+      "id": "JUR-2138-P",
+      "query": "Sherman BROWN v. Bernard W. BOOKER"
+    },
+    {
+      "id": "JUR-2144-P",
+      "query": "Tony Jones v. Pro-Football"
+    },
+    {
+      "id": "JUR-2150-P",
+      "query": "Glenn Michael Dennis v. PHC-Martinsville"
+    },
+    {
+      "id": "JUR-2151-P",
+      "query": "Daryl Flowers and Christopher Flowers v. Tom Richardson and Ellen E…"
+    },
+    {
+      "id": "JUR-2152-P",
+      "query": "Gina L. Schaecher v. Robina R. Bouffault"
+    },
+    {
+      "id": "JUR-2153-P",
+      "query": "Theresa Lawton-Gunter v. Julien H. Meyer"
+    },
+    {
+      "id": "JUR-2155-P",
+      "query": "Agnes Fujie Schrider v. Laura Frances Coleman"
+    },
+    {
+      "id": "JUR-2168-P",
+      "query": "SWINOMISH INDIAN TRIBAL COMMUNITY v. Alford Vern McLEOD"
+    },
+    {
+      "id": "JUR-2180-P",
+      "query": "JANE HARDMAN V. DIVISION OF HIGHWAYS"
+    },
+    {
+      "id": "JUR-2186-P",
+      "query": "Hayden Halter v. Wisconsin Interscholastic Athletic Association"
+    },
+    {
+      "id": "JUR-2192-P",
+      "query": "Wisconsin Department of Revenue v. Master's Gallery Foods"
+    },
+    {
+      "id": "JUR-2198-P",
+      "query": "DIVISION OF LAND MANAGEMENT v. Elroy J. SMITH"
+    },
+    {
+      "id": "JUR-2199-P",
+      "query": "Clarence PETTIBONE v. HO-CHUNK NATION LEGISLATURE and Ho-Chunk Nati…"
+    },
+    {
+      "id": "JUR-2206-P",
+      "query": "George Kevin Dickerson v. The State of Wyoming"
+    },
+    {
+      "id": "JUR-2214-P",
+      "query": "Commonwealth v. McConnell"
+    },
+    {
+      "id": "JUR-2218-P",
+      "query": "HAYDARI v. U.S. BANK"
+    },
+    {
+      "id": "JUR-2224-P",
+      "query": "UNITED STATES v. GILLIAM"
+    },
+    {
+      "id": "JUR-2241-P",
+      "query": "People of the VI v. Matthew"
+    },
+    {
+      "id": "JUR-2247-P",
+      "query": "OLIVE WEBSTER v. CLEMENT WEBSTER"
+    },
+    {
+      "id": "JUR-2253-P",
+      "query": "People of Guam v. Vincent T. Tedtaotao"
+    },
+    {
+      "id": "JUR-2259-P",
+      "query": "GABRIEL GUERRERO v. GOVERNMENT OF GUAM"
+    },
+    {
+      "id": "JUR-2265-P",
+      "query": "Sablan v. CUC"
+    },
+    {
+      "id": "JUR-2278-P",
+      "query": "AMERICAN SAMOA GOVERNMENT v. IFALEMI HUAKAU"
+    },
+    {
+      "id": "OVRL-001",
+      "query": "Poole v. State"
+    },
+    {
+      "id": "OVRL-002",
+      "query": "Wetherhorn v. Alaska Psychiatric Institute"
+    },
+    {
+      "id": "OVRL-003",
+      "query": "Massengill v. Yuma County"
+    },
+    {
+      "id": "OVRL-004",
+      "query": "Federal Insurance Company v. PAT Homes, Inc."
+    },
+    {
+      "id": "OVRL-006",
+      "query": "People v. Reed"
+    },
+    {
+      "id": "OVRL-007",
+      "query": "Carlos v. Superior Court"
+    },
+    {
+      "id": "OVRL-008",
+      "query": "People v. Strock"
+    },
+    {
+      "id": "OVRL-009",
+      "query": "Strazza v. McKittrick"
+    },
+    {
+      "id": "OVRL-010",
+      "query": "Davis v. State"
+    },
+    {
+      "id": "OVRL-011",
+      "query": "Diffenderfer v. Diffenderfer"
+    },
+    {
+      "id": "OVRL-012",
+      "query": "Tascano v. State"
+    },
+    {
+      "id": "OVRL-013",
+      "query": "State v. Thornton"
+    },
+    {
+      "id": "OVRL-014",
+      "query": "Jones v. State"
+    },
+    {
+      "id": "OVRL-015",
+      "query": "State v. Kaua"
+    },
+    {
+      "id": "OVRL-016",
+      "query": "Palmer v. Dermitt"
+    },
+    {
+      "id": "OVRL-017",
+      "query": "Doe v. Calumet City"
+    },
+    {
+      "id": "OVRL-018",
+      "query": "Downers Grove Volkswagen, Inc. v. Wigglesworth Imports, Inc."
+    },
+    {
+      "id": "OVRL-019",
+      "query": "German v. State"
+    },
+    {
+      "id": "OVRL-020",
+      "query": "Neeley v. State"
+    },
+    {
+      "id": "OVRL-021",
+      "query": "Gacke v. Pork Xtra, L.L.C."
+    },
+    {
+      "id": "OVRL-022",
+      "query": "State v. Murdock"
+    },
+    {
+      "id": "OVRL-023",
+      "query": "Bowling v. Commonwealth"
+    },
+    {
+      "id": "OVRL-025",
+      "query": "Baybutt Construction Corp. v. Commercial Union Insurance"
+    },
+    {
+      "id": "OVRL-026",
+      "query": "H & R BLOCK, INC. v. Testerman"
+    },
+    {
+      "id": "OVRL-027",
+      "query": "Bradshaw v. Prince George's County"
+    },
+    {
+      "id": "OVRL-028",
+      "query": "Shapiro v. Public Service Mutual Insurance"
+    },
+    {
+      "id": "OVRL-029",
+      "query": "Pasquale v. Chandler"
+    },
+    {
+      "id": "OVRL-030",
+      "query": "Lugo v. Ameritech Corp., Inc."
+    },
+    {
+      "id": "OVRL-031",
+      "query": "People v. Ora Jones"
+    },
+    {
+      "id": "OVRL-032",
+      "query": "Superwood Corp. v. Siempelkamp Corp."
+    },
+    {
+      "id": "OVRL-033",
+      "query": "Rowland v. State"
+    },
+    {
+      "id": "OVRL-034",
+      "query": "State v. Johns"
+    },
+    {
+      "id": "OVRL-035",
+      "query": "Williams v. Trans States Airlines, Inc."
+    },
+    {
+      "id": "OVRL-036",
+      "query": "State Ex Rel. Bear v. District Court of the Fifteenth Judicial District Ex Rel. County of Roosevelt"
+    },
+    {
+      "id": "OVRL-037",
+      "query": "State v. Thomas"
+    },
+    {
+      "id": "OVRL-038",
+      "query": "Charlie Brown Construction Co. v. City of Boulder City"
+    },
+    {
+      "id": "OVRL-039",
+      "query": "Dean v. Smith"
+    },
+    {
+      "id": "OVRL-040",
+      "query": "State v. Pena-Flores"
+    },
+    {
+      "id": "OVRL-041",
+      "query": "Kaplan v. Haines"
+    },
+    {
+      "id": "OVRL-042",
+      "query": "State v. Moore"
+    },
+    {
+      "id": "OVRL-043",
+      "query": "Saratoga County Chamber of Commerce, Inc. v. Pataki"
+    },
+    {
+      "id": "OVRL-044",
+      "query": "Mitchell v. . Rochester Railway Co."
+    },
+    {
+      "id": "OVRL-045",
+      "query": "State v. Carter"
+    },
+    {
+      "id": "OVRL-046",
+      "query": "State v. Pimental"
+    },
+    {
+      "id": "OVRL-047",
+      "query": "State v. Gefroh"
+    },
+    {
+      "id": "OVRL-048",
+      "query": "Ezawa v. Yasuda Fire & Marine Insurance Co. of America"
+    },
+    {
+      "id": "OVRL-049",
+      "query": "State v. Kulig"
+    },
+    {
+      "id": "OVRL-050",
+      "query": "Brown v. Wilson"
+    },
+    {
+      "id": "OVRL-051",
+      "query": "Smothers v. Gresham Transfer, Inc."
+    },
+    {
+      "id": "OVRL-052",
+      "query": "Azzarello v. Black Bros. Co., Inc."
+    },
+    {
+      "id": "OVRL-053",
+      "query": "Payne v. Kassab"
+    },
+    {
+      "id": "OVRL-054",
+      "query": "Pendar v. the H. B. American Machine Co."
+    },
+    {
+      "id": "OVRL-055",
+      "query": "Hancock v. Mid-South Management Co., Inc."
+    },
+    {
+      "id": "OVRL-056",
+      "query": "McMacken v. State"
+    },
+    {
+      "id": "OVRL-057",
+      "query": "Wallace v. State"
+    },
+    {
+      "id": "OVRL-058",
+      "query": "State v. Leggs"
+    },
+    {
+      "id": "OVRL-059",
+      "query": "Clewis v. State"
+    },
+    {
+      "id": "OVRL-060",
+      "query": "Davis v. Huey"
+    },
+    {
+      "id": "OVRL-061",
+      "query": "Higgins v. Salt Lake County"
+    },
+    {
+      "id": "OVRL-062",
+      "query": "Killington, Ltd. v. Lash"
+    },
+    {
+      "id": "OVRL-063",
+      "query": "White v. Commonwealth"
+    },
+    {
+      "id": "OVRL-064",
+      "query": "Williams v. Commonwealth"
+    },
+    {
+      "id": "OVRL-065",
+      "query": "State v. Lucky"
+    },
+    {
+      "id": "OVRL-066",
+      "query": "State v. Lucky"
+    },
+    {
+      "id": "OVRL-067",
+      "query": "State v. McMillion"
+    },
+    {
+      "id": "OVRL-068",
+      "query": "City of Edgerton v. General Casualty Co."
+    },
+    {
+      "id": "OVRL-069",
+      "query": "Wick v. Wick"
+    },
+    {
+      "id": "OVRL-070",
+      "query": "McClellan v. Tottenhoff"
+    },
+    {
+      "id": "OVRL-071",
+      "query": "Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc."
+    },
+    {
+      "id": "OVRL-072",
+      "query": "Colvin v. Derwinski"
+    },
+    {
+      "id": "OVRL-073",
+      "query": "William Hohri v. United States"
+    },
+    {
+      "id": "OVRL-074",
+      "query": "United States v. $405,089.23 U.S. Currency, Charles Arlt James Wren Payback Mines, Claimants-Appellants"
+    },
+    {
+      "id": "OVRL-075",
+      "query": "Mohamed Sabra v. Maricopa County Community Coll"
+    },
+    {
+      "id": "OVRL-076",
+      "query": "Hackley v. Johnson"
+    },
+    {
+      "id": "OVRL-077",
+      "query": "Owen v. Owen (In Re Owen)"
+    },
+    {
+      "id": "OVRL-078",
+      "query": "Crawford v. Washington"
+    },
+    {
+      "id": "OVRL-079",
+      "query": "Spinelli v. United States"
+    },
+    {
+      "id": "OVRL-080",
+      "query": "Ohio v. Roberts"
+    },
+    {
+      "id": "OVRL-081",
+      "query": "Roe v. Wade"
+    },
+    {
+      "id": "OVRL-082",
+      "query": "Monroe v. Pape"
+    },
+    {
+      "id": "OVRL-083",
+      "query": "Lemon v. Kurtzman"
+    },
+    {
+      "id": "OVRL-084",
+      "query": "Swain v. Alabama"
+    },
+    {
+      "id": "OVRL-085",
+      "query": "Penry v. Lynaugh"
+    },
+    {
+      "id": "OVRL-086",
+      "query": "Planned Parenthood of Southeastern Pa. v. Casey"
+    },
+    {
+      "id": "OVRL-087",
+      "query": "Wood v. Strickland"
+    },
+    {
+      "id": "OVRL-088",
+      "query": "Olmstead v. United States"
+    },
+    {
+      "id": "OVRL-089",
+      "query": "United States v. Halper"
+    },
+    {
+      "id": "OVRL-090",
+      "query": "Feres v. United States"
+    },
+    {
+      "id": "OVRL-091",
+      "query": "Ford Motor Co. v. Department of Treasury"
+    },
+    {
+      "id": "OVRL-092",
+      "query": "Harris v. United States"
+    },
+    {
+      "id": "OVRL-093",
+      "query": "Walton v. Arizona"
+    },
+    {
+      "id": "OVRL-094",
+      "query": "Wilko v. Swan"
+    },
+    {
+      "id": "OVRL-095",
+      "query": "Wolf v. Colorado"
+    },
+    {
+      "id": "OVRL-096",
+      "query": "Arkansas v. Sanders"
+    },
+    {
+      "id": "OVRL-097",
+      "query": "Booth v. Maryland"
+    },
+    {
+      "id": "OVRL-098",
+      "query": "National League of Cities v. Usery"
+    },
+    {
+      "id": "OVRL-099",
+      "query": "Abood v. Detroit Board of Education"
+    },
+    {
+      "id": "OVRL-100",
+      "query": "Betts v. Brady"
+    },
+    {
+      "id": "REP-0001-P",
+      "query": "Starring v. American Hair Felt Co."
+    },
+    {
+      "id": "REP-0002-P",
+      "query": "COMMONWEALTH of Pennsylvania v. Jeorge GONZALEZ"
+    },
+    {
+      "id": "REP-0004-P",
+      "query": "MANUFACTURERS' NAT. BANK v. BAACK"
+    },
+    {
+      "id": "REP-0005-P",
+      "query": "BRADLEY v. BOLLES"
+    },
+    {
+      "id": "REP-0006-P",
+      "query": "MENTZ v. SECOND AVENUE RAILROAD COMPANY"
+    },
+    {
+      "id": "REP-0007-P",
+      "query": "VIELLER v. OPPENHEIM"
+    },
+    {
+      "id": "REP-0010-P",
+      "query": "Fred H. Lewis v. Roy S. Rowland"
+    },
+    {
+      "id": "REP-0011-P",
+      "query": "Paula Foster v. Herbert Slepoy Corp."
+    },
+    {
+      "id": "REP-0012-P",
+      "query": "Barreto v. Grote St. Apts."
+    },
+    {
+      "id": "REP-0013-P",
+      "query": "Pennsylvania v. Henry Becomb"
+    },
+    {
+      "id": "REP-0015-P",
+      "query": "Fuqua v. Mills"
+    },
+    {
+      "id": "REP-0019-P",
+      "query": "Barnet Gailer v. Ralph Grinnel"
+    },
+    {
+      "id": "REP-0020-P",
+      "query": "JOHN FOWLER v. The Trustees of Lexington"
+    },
+    {
+      "id": "REP-0024-P",
+      "query": "UNITED STATES ex rel. HUMBOLDT STEAMSHIP COMPANY v. INTERSTATE COMM…"
+    },
+    {
+      "id": "REP-0025-P",
+      "query": "Evansville Nat. Bank v. Britton"
+    },
+    {
+      "id": "REP-0026-P",
+      "query": "Lewis Leigh v. William F. Arnold"
+    },
+    {
+      "id": "REP-0032-P",
+      "query": "State of Kansas v. Marlin Williams"
+    },
+    {
+      "id": "REP-0035-P",
+      "query": "Williams v. State of Arkansas"
+    },
+    {
+      "id": "REP-0037-P",
+      "query": "Graham & als. v. Pierce"
+    },
+    {
+      "id": "REP-0038-P",
+      "query": "Michelle FRAKES v. PEORIA SCHOOL DISTRICT NO. 150"
+    },
+    {
+      "id": "REP-0040-P",
+      "query": "CADMUS v. BEMAN"
+    },
+    {
+      "id": "REP-0046-P",
+      "query": "EDMONDSON v. HYDE"
+    },
+    {
+      "id": "REP-0048-P",
+      "query": "Patrick Kinneen v. James H. Wells & others"
+    },
+    {
+      "id": "REP-0049-P",
+      "query": "OTTO v. HALECK v. MORRIS I. SCANLAN"
+    },
+    {
+      "id": "REP-0050-P",
+      "query": "AMERICAN SAMOA GOVERNMENT v. PETAIA TOFIGA aka AFOA SALANOA"
+    },
+    {
+      "id": "REP-0051-P",
+      "query": "PROGRESSIVE INSURANCE COMPANY (PAGO PAGO) LIMITED v. DEPARTMENT OF …"
+    },
+    {
+      "id": "REP-0052-P",
+      "query": "Adams v. St. Louis Southwestern Ry. Co. of Texas."
+    },
+    {
+      "id": "REP-0055-P",
+      "query": "Blevins v. Sorrell"
+    },
+    {
+      "id": "REP-0056-P",
+      "query": "WILLIAMS v. WILLIAMS"
+    },
+    {
+      "id": "REP-0057-P",
+      "query": "Khristina Lyn Shifflette v. Hon. Marner"
+    },
+    {
+      "id": "REP-0058-P",
+      "query": "The STATE of Arizona v. Francisco Miguel URREA"
+    },
+    {
+      "id": "REP-0060-P",
+      "query": "State v. Hons. brearcliffe/vasquez"
+    },
+    {
+      "id": "REP-0062-P",
+      "query": "John Herbert KELLENSWORTH v. STATE of Arkansas"
+    },
+    {
+      "id": "REP-0063-P",
+      "query": "Kayla STEPHENS v. ARKANSAS DEPARTMENT OF HUMAN SERVICES and Minor C…"
+    },
+    {
+      "id": "REP-0066-P",
+      "query": "JOHNSON v. TOMPKINS"
+    },
+    {
+      "id": "REP-0067-P",
+      "query": "WALTER L. CRISE v. MERCANTILE TRUST AND DEPOSIT COMPANY"
+    },
+    {
+      "id": "REP-0068-P",
+      "query": "STEAM STONE CUTTER CO. v. WINDSOR MANUF'G CO."
+    },
+    {
+      "id": "REP-0073-P",
+      "query": "Dunham v. Gates and others"
+    },
+    {
+      "id": "REP-0076-P",
+      "query": "O'HARA v. The MARY"
+    },
+    {
+      "id": "REP-0077-P",
+      "query": "Acklen Et Al. v. State"
+    },
+    {
+      "id": "REP-0079-P",
+      "query": "JOHNSON v. A RAFT OF SPARS"
+    },
+    {
+      "id": "REP-0080-P",
+      "query": "Bowles v. Sharp"
+    },
+    {
+      "id": "REP-0083-P",
+      "query": "Bronson vs. Railroad Company"
+    },
+    {
+      "id": "REP-0084-P",
+      "query": "Troth and Another v. Hunt"
+    },
+    {
+      "id": "REP-0085-P",
+      "query": "The Holyoke Water Power Company v. The Connecticut River Company"
+    },
+    {
+      "id": "REP-0087-P",
+      "query": "GEORGE B. LARNED versus WOLCOTT LAWRENCE"
+    },
+    {
+      "id": "REP-0088-P",
+      "query": "DUNCAN McCALL et ux. versus SIMEON M. HOUGH and PETER McPHERSON"
+    },
+    {
+      "id": "REP-0089-P",
+      "query": "Pryor v. White &c."
+    },
+    {
+      "id": "REP-0092-P",
+      "query": "UNITED STATES v. ONE DISTILLERY"
+    },
+    {
+      "id": "REP-0096-P",
+      "query": "Parsons v. Lyman. In the matter of the Estate of Samuel Parsons"
+    },
+    {
+      "id": "REP-0099-P",
+      "query": "Le Maistre and wife v. Hunter"
+    },
+    {
+      "id": "REP-0100-P",
+      "query": "UNITED STATES v. MYERS"
+    },
+    {
+      "id": "REP-0102-P",
+      "query": "UNITED STATES v. CORRIE"
+    },
+    {
+      "id": "REP-0104-P",
+      "query": "Ida Katherine Baker v. Ramon Van Arnum Baker"
+    },
+    {
+      "id": "REP-0106-P",
+      "query": "Williams v. Rogers"
+    },
+    {
+      "id": "REP-0114-P",
+      "query": "People v. Johnson"
+    },
+    {
+      "id": "REP-0127-P",
+      "query": "CALIFORNIA INSURANCE GUARANTEE ASSOCIATION v. Thomas E. PRICE"
+    },
+    {
+      "id": "REP-0129-P",
+      "query": "PEOPLE v. WHITHURST"
+    },
+    {
+      "id": "REP-0130-P",
+      "query": "Noel v. Sale"
+    },
+    {
+      "id": "REP-0131-P",
+      "query": "McComb v. COMM. ON JUD. PERFORMANCE"
+    },
+    {
+      "id": "REP-0133-P",
+      "query": "David Haskell Green v. State of Arkansas"
+    },
+    {
+      "id": "REP-0135-P",
+      "query": "PEOPLE v. RAENTSCH"
+    },
+    {
+      "id": "REP-0138-P",
+      "query": "HOOPER v. The HIRAM"
+    },
+    {
+      "id": "REP-0139-P",
+      "query": "MURRAY v. McLANE"
+    },
+    {
+      "id": "REP-0140-P",
+      "query": "Mobile & Ohio Railroad Company v. Mary Ridley"
+    },
+    {
+      "id": "REP-0141-P",
+      "query": "UNITED STATES v. ESTATE OF ROMANI Et Al."
+    },
+    {
+      "id": "REP-0142-P",
+      "query": "BUCKEYE COTTON OIL CO. v. SLOAN"
+    },
+    {
+      "id": "REP-0145-P",
+      "query": "EATON v. SUPREME LODGE K. OF. H."
+    },
+    {
+      "id": "REP-0146-P",
+      "query": "Patrick Rogan v. Martin O. Walker"
+    },
+    {
+      "id": "REP-0147-P",
+      "query": "Jesse Sanderlin v. The Trustees of the Roman Catholic Church of Sav…"
+    },
+    {
+      "id": "REP-0149-P",
+      "query": "ECFORT v. GREELY"
+    },
+    {
+      "id": "REP-0150-P",
+      "query": "UNITED STATES v. LUKINS"
+    },
+    {
+      "id": "REP-0151-P",
+      "query": "McCOY v. MARIETTA & C. R. CO."
+    },
+    {
+      "id": "REP-0152-P",
+      "query": "John J. Hooker v. J. S. De Palos"
+    },
+    {
+      "id": "REP-0155-P",
+      "query": "Gleason v. Bisby"
+    },
+    {
+      "id": "REP-0156-P",
+      "query": "John F. MITCHELL v. United States"
+    },
+    {
+      "id": "REP-0157-P",
+      "query": "KELLEHER v. DARLING"
+    },
+    {
+      "id": "REP-0158-P",
+      "query": "UNITED STATES v. DELBERT B. CAREY"
+    },
+    {
+      "id": "REP-0159-P",
+      "query": "UNITED STATES v. GLENN E. JORDAN"
+    },
+    {
+      "id": "REP-0161-P",
+      "query": "Cory Wolven v. Jeanmadi del Rosario Velez"
+    },
+    {
+      "id": "REP-0162-P",
+      "query": "GAINES v. TRAVIS"
+    },
+    {
+      "id": "REP-0173-P",
+      "query": "DICKINSON v. PORT HURON AND N. W. R. R. CO."
+    },
+    {
+      "id": "REP-0177-P",
+      "query": "State v. Johnson"
+    },
+    {
+      "id": "REP-0179-P",
+      "query": "Associated Credit Company v. Lawrence Nogic"
+    },
+    {
+      "id": "REP-0180-P",
+      "query": "David Janicki v. Linda A. Subbloie. Ct Page 4105"
+    },
+    {
+      "id": "REP-0183-P",
+      "query": "JOAN ZANARD-KLOTH v. DEPARTMENT OF SOCIAL SERVICES"
+    },
+    {
+      "id": "REP-0185-P",
+      "query": "Rule's Lessee v. Parker"
+    },
+    {
+      "id": "REP-0190-P",
+      "query": "STRING v. HILL"
+    },
+    {
+      "id": "REP-0191-P",
+      "query": "John Moffit v. Richard Varden's Heirs and Executors"
+    },
+    {
+      "id": "REP-0192-P",
+      "query": "CASSVILLE UNITED METHODIST CHURCH V. DIVISION OF HIGHWAYS"
+    },
+    {
+      "id": "REP-0193-P",
+      "query": "United States v. David Perry Co."
+    },
+    {
+      "id": "REP-0195-P",
+      "query": "WILKINSON v. GREELY"
+    },
+    {
+      "id": "REP-0196-P",
+      "query": "Browning Metals Corp. v. United States"
+    },
+    {
+      "id": "REP-0198-P",
+      "query": "MICHIGAN MUTUAL FIRE INS. CO. v. CIRCUIT JUDGE (Wayne)"
+    },
+    {
+      "id": "REP-0200-P",
+      "query": "Adams versus La Comb"
+    },
+    {
+      "id": "REP-0201-P",
+      "query": "Raymond Darly v. Chas. Chevallier"
+    },
+    {
+      "id": "REP-0203-P",
+      "query": "The Commonwealth v. Edwards"
+    },
+    {
+      "id": "REP-0205-P",
+      "query": "Georgianna Raptes v. Vassilios Cheros & another"
+    },
+    {
+      "id": "REP-0207-P",
+      "query": "GEORGE WASHINGTON UNIVERSITY MEDICAL CENTER v. DISTRICT OF COLUMBIA…"
+    },
+    {
+      "id": "REP-0208-P",
+      "query": "HEALY v. METROPOLITAN LIFE INSURANCE COMPANY"
+    },
+    {
+      "id": "REP-0210-P",
+      "query": "BRISCOE v. HINMAN"
+    },
+    {
+      "id": "REP-0212-P",
+      "query": "Gertrude J. Young v. Michael Saroukos"
+    },
+    {
+      "id": "REP-0213-P",
+      "query": "WILLIAM BISHOP v. THOMAS WALLACE"
+    },
+    {
+      "id": "REP-0215-P",
+      "query": "Custer v. Baltimore & Ohio Railroad Company"
+    },
+    {
+      "id": "REP-0219-P",
+      "query": "Danks v. Quackenbush"
+    },
+    {
+      "id": "REP-0222-P",
+      "query": "PEPPER v. SALINE COUNTY"
+    },
+    {
+      "id": "REP-0223-P",
+      "query": "John Shillito v. James Pullan"
+    },
+    {
+      "id": "REP-0224-P",
+      "query": "Norfolk Shipbuilding & Drydock Corp. v. Garris"
+    },
+    {
+      "id": "REP-0225-P",
+      "query": "Laurie Ortolano v. P City of Nashua et al."
+    },
+    {
+      "id": "REP-0226-P",
+      "query": "George W. Moore v. The People"
+    },
+    {
+      "id": "REP-0227-P",
+      "query": "Rita E. FIX v. FIRST STATE BANK OF ROSCOE and John S. Lovald"
+    },
+    {
+      "id": "REP-0228-P",
+      "query": "BÁRBARA SCHETTINI ENRÍQUEZ Peticionaria v. IVÁN RAFAEL RODRÍGUEZ OL…"
+    },
+    {
+      "id": "REP-0229-P",
+      "query": "Silas Hinton v. George Scott"
+    },
+    {
+      "id": "REP-0230-P",
+      "query": "Jacob H. Fake v. Edgerton and Brittan"
+    },
+    {
+      "id": "REP-0232-P",
+      "query": "Vellerman v. King"
+    },
+    {
+      "id": "REP-0234-P",
+      "query": "Timothy Brien and another v. John Clay and others"
+    },
+    {
+      "id": "REP-0235-P",
+      "query": "Cary NEWSOME v. KANSAS CITY"
+    },
+    {
+      "id": "REP-0242-P",
+      "query": "United States v. Don MOSS Curtis Dantin Grand Isle Shipyards"
+    },
+    {
+      "id": "REP-0244-P",
+      "query": "United States v. 23 7/12 Dozen Bottles"
+    },
+    {
+      "id": "REP-0245-P",
+      "query": "Sidney Peterson v. Wexford Health Sources"
+    },
+    {
+      "id": "REP-0246-P",
+      "query": "United States v. Tracey Shaw"
+    },
+    {
+      "id": "REP-0247-P",
+      "query": "ERICH E. SCHLEIER AND HELEN B. SCHLEIER v. COMMISSIONER OF INTERNAL…"
+    },
+    {
+      "id": "REP-0252-P",
+      "query": "Yasmeen STURDIVANT v. U.S. BANK"
+    },
+    {
+      "id": "REP-0256-P",
+      "query": "SCA HYGIENE PRODUCTS AKTIEBOLAG v. FIRST QUALITY BABY PRODUCTS"
+    },
+    {
+      "id": "REP-0258-P",
+      "query": "CHILD v. BOSTON & F. IRON WORKS"
+    },
+    {
+      "id": "REP-0259-P",
+      "query": "RATHBONE v. ORR"
+    },
+    {
+      "id": "REP-0260-P",
+      "query": "Andrew Valdez GARZA v. STATE of Florida"
+    },
+    {
+      "id": "REP-0267-P",
+      "query": "BITTNER v. CASTELLI"
+    },
+    {
+      "id": "REP-0268-P",
+      "query": "BUCHBAUM v. STATE OF FLORIDA"
+    },
+    {
+      "id": "REP-0269-P",
+      "query": "Commerford v. Thompson"
+    },
+    {
+      "id": "REP-0271-P",
+      "query": "YUENGLING v. THE COUNTY COMMISSIONERS"
+    },
+    {
+      "id": "REP-0272-P",
+      "query": "Gulf Power Co. v. Wilson"
+    },
+    {
+      "id": "REP-0273-P",
+      "query": "Wadsworth v. Walmart Inc."
+    },
+    {
+      "id": "REP-0274-P",
+      "query": "Walker v. Gilbert"
+    },
+    {
+      "id": "REP-0277-P",
+      "query": "Siemens Gamesa Renewable Energy v. United States"
+    },
+    {
+      "id": "REP-0278-P",
+      "query": "Independent Grocers Alliance Distributing Co. v. Federal Trade Comm…"
+    },
+    {
+      "id": "REP-0279-P",
+      "query": "Ware v. State Bar of Georgia"
+    },
+    {
+      "id": "REP-0280-P",
+      "query": "Douglas v. State"
+    },
+    {
+      "id": "REP-0281-P",
+      "query": "State v. ISHAM."
+    },
+    {
+      "id": "REP-0282-P",
+      "query": "HUBBARD v. COOLIDGE"
+    },
+    {
+      "id": "REP-0283-P",
+      "query": "Barber v. Shaffer"
+    },
+    {
+      "id": "REP-0284-P",
+      "query": "Lois BARRETT v. MOHEGAN TRIBAL GAMING AUTHORITY"
+    },
+    {
+      "id": "REP-0285-P",
+      "query": "Leroy M. Wiley v. The Planters & Mechanics Bank of Columbus"
+    },
+    {
+      "id": "REP-0287-P",
+      "query": "JOHN STORZ v. ALBERT C. BURRAGE"
+    },
+    {
+      "id": "REP-0288-P",
+      "query": "Nicholas Baylies and James E. Tyson v. Philip T. Ellicott"
+    },
+    {
+      "id": "REP-0289-P",
+      "query": "POSTMASTER GENERAL v. RICE"
+    },
+    {
+      "id": "REP-0290-P",
+      "query": "William H. Washington v. Thomas Hodgskin"
+    },
+    {
+      "id": "REP-0292-P",
+      "query": "Kneedler versus Lane Smith versus Lane Nichols versus Lehman"
+    },
+    {
+      "id": "REP-0293-P",
+      "query": "Dinguid v. Schoolfield"
+    },
+    {
+      "id": "REP-0294-P",
+      "query": "Pinkney v. Pinkney"
+    },
+    {
+      "id": "REP-0295-P",
+      "query": "People of Guam v. Peter Scott VonSchimpf"
+    },
+    {
+      "id": "REP-0296-P",
+      "query": "JAMES v. MORAN"
+    },
+    {
+      "id": "REP-0299-P",
+      "query": "UNITED STATES v. The ACTIVE"
+    },
+    {
+      "id": "REP-0300-P",
+      "query": "JAS. S. GRINNEL v. GASSAWAY BRASHEARS & HIRAM CLEARWATER"
+    },
+    {
+      "id": "REP-0301-P",
+      "query": "John E. Schwarz v. Tunis S. Wendell"
+    },
+    {
+      "id": "REP-0302-P",
+      "query": "COFFIN v. BRADBURY"
+    },
+    {
+      "id": "REP-0303-P",
+      "query": "Murray v. White and another"
+    },
+    {
+      "id": "REP-0305-P",
+      "query": "STATE OF HAWAI'I v. TIM S. WHITE"
+    },
+    {
+      "id": "REP-0306-P",
+      "query": "United States v. William Gilliam"
+    },
+    {
+      "id": "REP-0307-P",
+      "query": "Teasdale v. Branton's Administrators."
+    },
+    {
+      "id": "REP-0308-P",
+      "query": "UNITED STATES v. GILLIAM"
+    },
+    {
+      "id": "REP-0309-P",
+      "query": "WARNER v. BRINTON"
+    },
+    {
+      "id": "REP-0310-P",
+      "query": "William Galloway v. L. D. Myers"
+    },
+    {
+      "id": "REP-0311-P",
+      "query": "UNITED STATES v. BANK OF ARKANSAS"
+    },
+    {
+      "id": "REP-0313-P",
+      "query": "J. W. & R. H. Osgood v. Lewis"
+    },
+    {
+      "id": "REP-0314-P",
+      "query": "Ash & Anners v. Putnam"
+    },
+    {
+      "id": "REP-0316-P",
+      "query": "Pannell & Smith v. The Farmers' Bank of Maryland"
+    },
+    {
+      "id": "REP-0317-P",
+      "query": "J. and B. Cheston v. Page's Executors and Devisees"
+    },
+    {
+      "id": "REP-0319-P",
+      "query": "TUCKER v. SLACK"
+    },
+    {
+      "id": "REP-0320-P",
+      "query": "The Attorney General v. The President Directors and Company of the …"
+    },
+    {
+      "id": "REP-0321-P",
+      "query": "The Union Savings Bank & Trust Company v. Kate W. Campbell"
+    },
+    {
+      "id": "REP-0322-P",
+      "query": "State v. Hugh Dugan."
+    },
+    {
+      "id": "REP-0325-P",
+      "query": "Serpentine v. State"
+    },
+    {
+      "id": "REP-0326-P",
+      "query": "Commonwealth v. Samuel Hastings"
+    },
+    {
+      "id": "REP-0327-P",
+      "query": "THE PEOPLE v. FRIEND VAN EVERY"
+    },
+    {
+      "id": "REP-0330-P",
+      "query": "HARNEY v. The SYDNEY L. WRIGHT"
+    },
+    {
+      "id": "REP-0331-P",
+      "query": "Hutchins v. Bank of Tennessee."
+    },
+    {
+      "id": "REP-0332-P",
+      "query": "ARMSTRONG MFG. CO. v. THOMPSON"
+    },
+    {
+      "id": "REP-0333-P",
+      "query": "UNITED STATES v. GRAFTON"
+    },
+    {
+      "id": "REP-0334-P",
+      "query": "Barton v. Board of Regents"
+    },
+    {
+      "id": "REP-0335-P",
+      "query": "Schroeder v. RGIS"
+    },
+    {
+      "id": "REP-0336-P",
+      "query": "People v. Heintz"
+    },
+    {
+      "id": "REP-0337-P",
+      "query": "People v. Smith"
+    },
+    {
+      "id": "REP-0339-P",
+      "query": "M. D. v. Momence Community Unified School District 1"
+    },
+    {
+      "id": "REP-0340-P",
+      "query": "People v. Rogers"
+    },
+    {
+      "id": "REP-0341-P",
+      "query": "People v. Riddlespriger"
+    },
+    {
+      "id": "REP-0347-P",
+      "query": "People of the State of Illinois ex rel. John Koelling v. John C. Ca…"
+    },
+    {
+      "id": "REP-0348-P",
+      "query": "Marcello Cerasani v. The State of Illinois"
+    },
+    {
+      "id": "REP-0351-P",
+      "query": "Dorothy I. Brand v. Monumental Life Insurance Company"
+    },
+    {
+      "id": "REP-0352-P",
+      "query": "OTOE AND MISSOURIA TRIBE OF INDIANS v. the UNITED STATES"
+    },
+    {
+      "id": "REP-0356-P",
+      "query": "Hiram K. Hendricks v. The State of Indiana ex rel. Wesley Huff"
+    },
+    {
+      "id": "REP-0357-P",
+      "query": "FRANKLE v. PENNSYLVANIA FIRE INS. CO. SAME v. INSURANCE CO. OF NORT…"
+    },
+    {
+      "id": "REP-0359-P",
+      "query": "UNITED STATES v. ROLIGER"
+    },
+    {
+      "id": "REP-0363-P",
+      "query": "Herndon v. Carr"
+    },
+    {
+      "id": "REP-0364-P",
+      "query": "Talbott v. McQuies"
+    },
+    {
+      "id": "REP-0368-P",
+      "query": "Philip Milligan v. The Metropolitan Elevated Railway Company"
+    },
+    {
+      "id": "REP-0369-P",
+      "query": "BLANCHARD v. ELDRIDGE"
+    },
+    {
+      "id": "REP-0370-P",
+      "query": "Commonwealth v. Kevin"
+    },
+    {
+      "id": "REP-0371-P",
+      "query": "Denney v. Norwood"
+    },
+    {
+      "id": "REP-0372-P",
+      "query": "The City of Rosedale v. James E. Cosgrove and Annie Cosgrove"
+    },
+    {
+      "id": "REP-0373-P",
+      "query": "State v. Conkling"
+    },
+    {
+      "id": "REP-0374-P",
+      "query": "The People ex rel. John Crouse v. George W. Cowles"
+    },
+    {
+      "id": "REP-0376-P",
+      "query": "Commonwealth v. Pittston Ferry Bridge Company"
+    },
+    {
+      "id": "REP-0377-P",
+      "query": "Watts v. Yeary"
+    },
+    {
+      "id": "REP-0378-P",
+      "query": "Yates v. Nunnelly"
+    },
+    {
+      "id": "REP-0379-P",
+      "query": "Robert Farrell v. Commonwealth"
+    },
+    {
+      "id": "REP-0380-P",
+      "query": "STATE ex rel. Lee Roy JENKINS v. CRIMINAL DISTRICT COURT"
+    },
+    {
+      "id": "REP-0381-P",
+      "query": "State ex rel. William Hutchinson v. Keete Lockett"
+    },
+    {
+      "id": "REP-0383-P",
+      "query": "Lorrie L. FISHER v. ASI FEDERAL CREDIT UNION"
+    },
+    {
+      "id": "REP-0385-P",
+      "query": "Trae THIBODEAUX v. Steven ARVIE"
+    },
+    {
+      "id": "REP-0386-P",
+      "query": "Rachael JOHNSON v. M. Suzanne \"Suzy\" MONTERO"
+    },
+    {
+      "id": "REP-0387-P",
+      "query": "STATE of Louisiana v. Jacoby A. MAIZE"
+    },
+    {
+      "id": "REP-0388-P",
+      "query": "FIRST BANK AND TRUST v. PROCTOR'S COVE II"
+    },
+    {
+      "id": "REP-0392-P",
+      "query": "John Crolius v. Sarah Stark and others"
+    },
+    {
+      "id": "REP-0393-P",
+      "query": "Lansing v. Goelet"
+    },
+    {
+      "id": "REP-0394-P",
+      "query": "LAMB v. PARKMAN"
+    },
+    {
+      "id": "REP-0395-P",
+      "query": "OVERSEERS OF POOR OF DAVIDSON TOWNSHIP v. OVERSEERS OF POOR OF MORE…"
+    },
+    {
+      "id": "REP-0396-P",
+      "query": "Heriberto RAMOS v. MASSACHUSETTS."
+    },
+    {
+      "id": "REP-0400-P",
+      "query": "RIPLEY v. RAILWAY PASSENGERS' ASSUR. CO."
+    },
+    {
+      "id": "REP-0401-P",
+      "query": "Page v. Commonwealth"
+    },
+    {
+      "id": "REP-0403-P",
+      "query": "YANCEY v. DOWNER"
+    },
+    {
+      "id": "REP-0404-P",
+      "query": "BALL v. TOWNSEND"
+    },
+    {
+      "id": "REP-0405-P",
+      "query": "The Canal Appraisers v. The People ex rel. Tibbets"
+    },
+    {
+      "id": "REP-0407-P",
+      "query": "COLEMAN v. JONES & PICKETT"
+    },
+    {
+      "id": "REP-0410-P",
+      "query": "William Wickersham v. I. M. Singer"
+    },
+    {
+      "id": "REP-0411-P",
+      "query": "ANTHONY LULLEY v. JOHN W. MORGAN"
+    },
+    {
+      "id": "REP-0412-P",
+      "query": "George F. Miller v. G. E. Buckner"
+    },
+    {
+      "id": "REP-0413-P",
+      "query": "CANFIELD & AL. v. WALTON'S SYNDICS"
+    },
+    {
+      "id": "REP-0414-P",
+      "query": "SANCHEZ v. FRENCH EVANGELICAL CHURCH SOCIETY"
+    },
+    {
+      "id": "REP-0418-P",
+      "query": "COMMONWEALTH v. NICHOLAS J. MINON."
+    },
+    {
+      "id": "REP-0419-P",
+      "query": "MARILYN A. BOGUE v. IMPORTED AUTO SALES AND SERVICE OF DEDHAM"
+    },
+    {
+      "id": "REP-0421-P",
+      "query": "Christopher E. Burns v. Hugh R. Taylor"
+    },
+    {
+      "id": "REP-0423-P",
+      "query": "PALMER v. ANDREWS"
+    },
+    {
+      "id": "REP-0425-P",
+      "query": "Justus v. Wood"
+    },
+    {
+      "id": "REP-0426-P",
+      "query": "Lynch and others v. Mercantile Trust Co."
+    },
+    {
+      "id": "REP-0427-P",
+      "query": "Nalle & Cammack v. W. P. Terril"
+    },
+    {
+      "id": "REP-0428-P",
+      "query": "KEPPEL v. MOORE (Garnishee)"
+    },
+    {
+      "id": "REP-0429-P",
+      "query": "ROBERTS v. SCHUYLER"
+    },
+    {
+      "id": "REP-0431-P",
+      "query": "Smith v. State"
+    },
+    {
+      "id": "REP-0433-P",
+      "query": "Keri L. BOJARSKI v. Robert G. BOJARSKI"
+    },
+    {
+      "id": "REP-0435-P",
+      "query": "Whitney v. Sudduth"
+    },
+    {
+      "id": "REP-0436-P",
+      "query": "PEOPLE of the State of Michigan v. James Victor HACKLER"
+    },
+    {
+      "id": "REP-0438-P",
+      "query": "Elisha Clark v. Harry Spencer"
+    },
+    {
+      "id": "REP-0439-P",
+      "query": "Henry H. Coe v. Orville W. Coolidge"
+    },
+    {
+      "id": "REP-0440-P",
+      "query": "COLCORD v. WALL"
+    },
+    {
+      "id": "REP-0442-P",
+      "query": "The Travelers Insurance Company v. T. Eugene Thompson and Others; C…"
+    },
+    {
+      "id": "REP-0444-P",
+      "query": "Florence A. Citrynell v. Edward Citrynell"
+    },
+    {
+      "id": "REP-0445-P",
+      "query": "Madison-Oneida-Herkimer Consortium v. North American Administrators"
+    },
+    {
+      "id": "REP-0446-P",
+      "query": "People v. Vaquero (Marco)"
+    },
+    {
+      "id": "REP-0448-P",
+      "query": "Tishomingo Savings Institution v. O. C. Carr Tishomingo Savings Ins…"
+    },
+    {
+      "id": "REP-0451-P",
+      "query": "Henry S. Trask v. German Insurance Company"
+    },
+    {
+      "id": "REP-0454-P",
+      "query": "Commonwealth v. Bondi"
+    },
+    {
+      "id": "REP-0456-P",
+      "query": "STEVENS v. GILL"
+    },
+    {
+      "id": "REP-0457-P",
+      "query": "Price v. State"
+    },
+    {
+      "id": "REP-0459-P",
+      "query": "Jackler and Jaroch Consolidation v. Department of Justice"
+    },
+    {
+      "id": "REP-0461-P",
+      "query": "State v. K. Morris"
+    },
+    {
+      "id": "REP-0462-P",
+      "query": "Roland J. HARRIS v. MOHEGAN ELECTION COMMITTEE AND MEMBERS"
+    },
+    {
+      "id": "REP-0463-P",
+      "query": "Roland J. HARRIS v. MOHEGAN ELECTION COMMITTEE AND MEMBERS"
+    },
+    {
+      "id": "REP-0467-P",
+      "query": "Dorothy May BEGAY v. Philbert Leroy BEGAY"
+    },
+    {
+      "id": "REP-0468-P",
+      "query": "McDonald v. Fidelity and Deposit"
+    },
+    {
+      "id": "REP-0470-P",
+      "query": "STATE of North Carolina v. Virginia Lee LOFTIS"
+    },
+    {
+      "id": "REP-0471-P",
+      "query": "Lucas v. Hopper"
+    },
+    {
+      "id": "REP-0478-P",
+      "query": "Banks v. State's Attorney of Cook County"
+    },
+    {
+      "id": "REP-0479-P",
+      "query": "Fischer v. Southeast Community College"
+    },
+    {
+      "id": "REP-0481-P",
+      "query": "State v. Hearnes"
+    },
+    {
+      "id": "REP-0483-P",
+      "query": "CARTER (TYLER) v. STATE (CRIMINAL)"
+    },
+    {
+      "id": "REP-0484-P",
+      "query": "THE STATE OF NEVADA v. JETHRO RAY LLOYD"
+    },
+    {
+      "id": "REP-0485-P",
+      "query": "Michelle CLARK v. NEW HAMPSHIRE DEPARTMENT OF EMPLOYMENT SECURITY & a."
+    },
+    {
+      "id": "REP-0486-P",
+      "query": "UNITED STATES v. BRUSH. The GENERAL RONDEAU"
+    },
+    {
+      "id": "REP-0493-P",
+      "query": "ROLFFS v. SPRINGFIELD TP."
+    },
+    {
+      "id": "REP-0495-P",
+      "query": "PETER DE ROSA v. DIRECTOR"
+    },
+    {
+      "id": "REP-0498-P",
+      "query": "Marian Aldan-Pierce v. Leocadio C. Mafnas"
+    },
+    {
+      "id": "REP-0499-P",
+      "query": "DIANA C. FERREIRA v. ROSALIA MAFNAS BORJA"
+    },
+    {
+      "id": "REP-0500-P",
+      "query": "State v. Godinez"
+    },
+    {
+      "id": "REP-0501-P",
+      "query": "State v. JACOB N."
+    },
+    {
+      "id": "REP-0502-P",
+      "query": "STATE OF NEW MEXICO v. JOHNNY M. GUTIERREZ"
+    },
+    {
+      "id": "REP-0503-P",
+      "query": "State v. Vest"
+    },
+    {
+      "id": "REP-0505-P",
+      "query": "Patrick Duncan v. David Beard"
+    },
+    {
+      "id": "REP-0508-P",
+      "query": "State v. Bowen"
+    },
+    {
+      "id": "REP-0509-P",
+      "query": "State of Minnesota v. Kristi Dannette Mcneilly"
+    },
+    {
+      "id": "REP-0511-P",
+      "query": "In the Matter of Norman Saferstein v. Lawyers' Fund For Client Prot…"
+    },
+    {
+      "id": "REP-0512-P",
+      "query": "People v. Hernandez"
+    },
+    {
+      "id": "REP-0513-P",
+      "query": "Peter Johnson v. The Prince Line"
+    },
+    {
+      "id": "REP-0515-P",
+      "query": "Nicholas R. Meade v. Southern Tier Masonic Relief Association"
+    },
+    {
+      "id": "REP-0517-P",
+      "query": "THE PEOPLE v. CHARLES W. RENDIGS"
+    },
+    {
+      "id": "REP-0519-P",
+      "query": "Germelia Joseph v. George Athanasopoulos"
+    },
+    {
+      "id": "REP-0523-P",
+      "query": "Weeden v. Lukezic"
+    },
+    {
+      "id": "REP-0524-P",
+      "query": "Leffler v. Kotick"
+    },
+    {
+      "id": "REP-0526-P",
+      "query": "Jeremiah Quill v. The Empire State Telephone and Telegraph Company"
+    },
+    {
+      "id": "REP-0527-P",
+      "query": "Randall v. United Life & Accident Ins. Ass'n"
+    },
+    {
+      "id": "REP-0528-P",
+      "query": "Matthew APPLEGATE v. SAINT FRANCIS HOSPITAL"
+    },
+    {
+      "id": "REP-0529-P",
+      "query": "CHURCH & DWIGHT CO. v. RUSS"
+    },
+    {
+      "id": "REP-0530-P",
+      "query": "Havel v. VILLA ST. JOSEPH"
+    },
+    {
+      "id": "REP-0531-P",
+      "query": "Kathy A. HODGES v. Mark W. HODGES"
+    },
+    {
+      "id": "REP-0535-P",
+      "query": "State v. Doane"
+    },
+    {
+      "id": "REP-0537-P",
+      "query": "Chache v. Chache"
+    },
+    {
+      "id": "REP-0539-P",
+      "query": "Caroline Cox v. Cincinnati Trac. Co."
+    },
+    {
+      "id": "REP-0540-P",
+      "query": "J. B. Colt Company v. John Wasson and Florence Wasson"
+    },
+    {
+      "id": "REP-0541-P",
+      "query": "HENRY MORRIS v. NANCY ANN MORRIS"
+    },
+    {
+      "id": "REP-0542-P",
+      "query": "Browne and Stewart v. United States Board & Paper Co."
+    },
+    {
+      "id": "REP-0543-P",
+      "query": "Eunice Walcott v. Edward F. Walcott"
+    },
+    {
+      "id": "REP-0544-P",
+      "query": "QUINBY v. CITY OF CLEVELAND"
+    },
+    {
+      "id": "REP-0545-P",
+      "query": "McKinney et v. White Sewing Machine Corporation"
+    },
+    {
+      "id": "REP-0546-P",
+      "query": "Darrell W. Farley v. Hamilton Mutual Ins. Co."
+    },
+    {
+      "id": "REP-0547-P",
+      "query": "The State of Ohio v. Hanlon"
+    },
+    {
+      "id": "REP-0548-P",
+      "query": "HENKEL v. ASCHINGER SPRUILL v. ASCHINGER WEISER REVOCABLE TRUST v. …"
+    },
+    {
+      "id": "REP-0549-P",
+      "query": "Walter L. Benson v. The Columbia Life Insurance Company"
+    },
+    {
+      "id": "REP-0550-P",
+      "query": "James P. Tate v. Jennie R. Eidelman"
+    },
+    {
+      "id": "REP-0555-P",
+      "query": "Warner v. Lindley"
+    },
+    {
+      "id": "REP-0556-P",
+      "query": "State ex rel. Duncan v. Chambers-Smith"
+    },
+    {
+      "id": "REP-0557-P",
+      "query": "City of Columbus v. Mauk"
+    },
+    {
+      "id": "REP-0559-P",
+      "query": "NONDOC MEDIA and WILLIAM W. SAVAGE III v. STATE Ex Rel. BOARD OF RE…"
+    },
+    {
+      "id": "REP-0561-P",
+      "query": "BRIAN HAMLIN v. EDWARD HENRY YOB"
+    },
+    {
+      "id": "REP-0562-P",
+      "query": "MCKELVY v. STATE"
+    },
+    {
+      "id": "REP-0564-P",
+      "query": "JAMES v. UNKNOWN TRUSTEES"
+    },
+    {
+      "id": "REP-0571-P",
+      "query": "State v. T. L."
+    },
+    {
+      "id": "REP-0572-P",
+      "query": "Wakefield v. Dept. of Rev."
+    },
+    {
+      "id": "REP-0575-P",
+      "query": "Hayward v. Andrews"
+    },
+    {
+      "id": "REP-0576-P",
+      "query": "POLK v. WINDEL"
+    },
+    {
+      "id": "REP-0582-P",
+      "query": "DENNER v. PALMER"
+    },
+    {
+      "id": "REP-0584-P",
+      "query": "UNITED STATES v. ROSENBLUM"
+    },
+    {
+      "id": "REP-0585-P",
+      "query": "Lipinsky et vir v. Graham"
+    },
+    {
+      "id": "REP-0586-P",
+      "query": "Commonwealth v. Snyder"
+    },
+    {
+      "id": "REP-0587-P",
+      "query": "Davino v. Tyrone Township"
+    },
+    {
+      "id": "REP-0588-P",
+      "query": "Steinmetz v. Allegheny General Hospital"
+    },
+    {
+      "id": "REP-0589-P",
+      "query": "iDropped Inc. v. Summo"
+    },
+    {
+      "id": "REP-0592-P",
+      "query": "ROBINSON v. HINCKLEY"
+    },
+    {
+      "id": "REP-0593-P",
+      "query": "Douglass v. McLean"
+    },
+    {
+      "id": "REP-0596-P",
+      "query": "K.W. v. S.L. & M.L. v. G.G."
+    },
+    {
+      "id": "REP-0597-P",
+      "query": "Armisteads. v. Ward"
+    },
+    {
+      "id": "REP-0598-P",
+      "query": "ROBERT WATT v. J. W. A. WRIGHT"
+    },
+    {
+      "id": "REP-0600-P",
+      "query": "DR. ADOLPH JACOBS versus ELIAS SINGER"
+    },
+    {
+      "id": "REP-0603-P",
+      "query": "Courtney v. Keller"
+    },
+    {
+      "id": "REP-0605-P",
+      "query": "AMERICAN INS. CO. v. CANTER"
+    },
+    {
+      "id": "REP-0606-P",
+      "query": "SIMS v. MARINERS"
+    },
+    {
+      "id": "REP-0608-P",
+      "query": "Connor v. Catagnus"
+    },
+    {
+      "id": "REP-0609-P",
+      "query": "Zachariah M. T. Godfrey versus Levi Humphrey"
+    },
+    {
+      "id": "REP-0610-P",
+      "query": "Neilson v. Weber"
+    },
+    {
+      "id": "REP-0611-P",
+      "query": "Bicknell and another v. Tallman"
+    },
+    {
+      "id": "REP-0612-P",
+      "query": "CHOSTKOV v. CITY OF PITTSBURGH"
+    },
+    {
+      "id": "REP-0614-P",
+      "query": "State v. Klembus"
+    },
+    {
+      "id": "REP-0615-P",
+      "query": "WOOD v. YONGE"
+    },
+    {
+      "id": "REP-0616-P",
+      "query": "C. R. Hubbard v. A. H. Arnold"
+    },
+    {
+      "id": "REP-0623-P",
+      "query": "QUESTAR GAS COMPANY v. UTAH PUBLIC SERVICE COMMISSION"
+    },
+    {
+      "id": "REP-0624-P",
+      "query": "Mississippi River Fuel Corp. v. Federal Power Commission"
+    },
+    {
+      "id": "REP-0626-P",
+      "query": "Almond v. Almond"
+    },
+    {
+      "id": "REP-0627-P",
+      "query": "Hext Prioleau and Margaret his wife v. Robert Williams"
+    },
+    {
+      "id": "REP-0629-P",
+      "query": "Libel Timy Obryant v. Wm Grafton"
+    },
+    {
+      "id": "REP-0630-P",
+      "query": "Boulle v. Tompkins. In the matter of the estate of William Longstaff"
+    },
+    {
+      "id": "REP-0632-P",
+      "query": "John H. Sullivan v. Isaac B. Allen"
+    },
+    {
+      "id": "REP-0633-P",
+      "query": "DAUPHIN v. TIMES PUB. CO."
+    },
+    {
+      "id": "REP-0635-P",
+      "query": "Harry H. Avakian v. Peter Gadigian"
+    },
+    {
+      "id": "REP-0636-P",
+      "query": "David Elsten v. Andrew Schilling"
+    },
+    {
+      "id": "REP-0638-P",
+      "query": "Monmouth County Electric Company v. Thomas P. McKenna"
+    },
+    {
+      "id": "REP-0639-P",
+      "query": "Gates v. Nobles"
+    },
+    {
+      "id": "REP-0641-P",
+      "query": "Bard and Wetmore v. Chamberlain and others"
+    },
+    {
+      "id": "REP-0644-P",
+      "query": "SHAINWALD v. LEWIS"
+    },
+    {
+      "id": "REP-0645-P",
+      "query": "The STATE v. Daniel Martinez HERRERA"
+    },
+    {
+      "id": "REP-0646-P",
+      "query": "John Morrison v. John Hinton"
+    },
+    {
+      "id": "REP-0647-P",
+      "query": "O. N. Bowman v. D. Lobe and others"
+    },
+    {
+      "id": "REP-0649-P",
+      "query": "Hannah Enston v. Daniel Mixer"
+    },
+    {
+      "id": "REP-0650-P",
+      "query": "TransUnion LLC v. Ramirez"
+    },
+    {
+      "id": "REP-0651-P",
+      "query": "Wetch v. Midcontinent Media"
+    },
+    {
+      "id": "REP-0652-P",
+      "query": "Inez B. WINGATE v. Chester A. WINGATE"
+    },
+    {
+      "id": "REP-0653-P",
+      "query": "STATE of North Carolina v. Jerry Giovani THOMPSON"
+    },
+    {
+      "id": "REP-0654-P",
+      "query": "Pasha S. ANWAR v. FAIRFIELD GREENWICH LIMITED"
+    },
+    {
+      "id": "REP-0655-P",
+      "query": "BAILEY v. PROCTOR"
+    },
+    {
+      "id": "REP-0657-P",
+      "query": "MRS. JNO. A. JACKSON v. MRS. ELIZABETH B. EVERETT"
+    },
+    {
+      "id": "REP-0660-P",
+      "query": "Amos Potter v. Abram F. Gates"
+    },
+    {
+      "id": "REP-0661-P",
+      "query": "Thomas Cotton v. Jane Parker"
+    },
+    {
+      "id": "REP-0662-P",
+      "query": "Doe e. d. Morgan v. Woodward"
+    },
+    {
+      "id": "REP-0663-P",
+      "query": "Robert and William Smithers v. Jas. Gough"
+    },
+    {
+      "id": "REP-0664-P",
+      "query": "Moliere v. Unity Industrial Life Ins. Co."
+    },
+    {
+      "id": "REP-0665-P",
+      "query": "Willis v. Red Reef"
+    },
+    {
+      "id": "REP-0666-P",
+      "query": "Carol M. Butterfield and David Butterfield v. Ryan Scott Johnson"
+    },
+    {
+      "id": "REP-0667-P",
+      "query": "Frenche SALAIZ v. Carolyn W. COLVIN"
+    },
+    {
+      "id": "REP-0668-P",
+      "query": "Melvin O. Graives v. S.E. Stone"
+    },
+    {
+      "id": "REP-0671-P",
+      "query": "McCrory v. Boyd"
+    },
+    {
+      "id": "REP-0675-P",
+      "query": "ALLEN v. BLUNT"
+    },
+    {
+      "id": "REP-0677-P",
+      "query": "WILDES v. PARKER"
+    },
+    {
+      "id": "REP-0679-P",
+      "query": "Elisha J. Cambpell v. Edward P. Metcalf"
+    },
+    {
+      "id": "REP-0680-P",
+      "query": "SIBLEY v. CONTINENTAL SUPPLY CO."
+    },
+    {
+      "id": "REP-0682-P",
+      "query": "Stanley Maina v. State of Arkansas"
+    },
+    {
+      "id": "REP-0684-P",
+      "query": "UNITED STATES v. The ANNA"
+    },
+    {
+      "id": "REP-0686-P",
+      "query": "MICHAEL H. DUDEK AND BRENDA M. DUDEK v. COMMISSIONER OF INTERNAL RE…"
+    },
+    {
+      "id": "REP-0687-P",
+      "query": "Shehan's heirs v. Barnett's heirs"
+    },
+    {
+      "id": "REP-0688-P",
+      "query": "WHISTLEBLOWER 11099-13W v. COMMISSIONER OF INTERNAL REVENUE"
+    },
+    {
+      "id": "REP-0689-P",
+      "query": "DEPARTAMENTO DE LA FAMILIA Peticionario v. JESSICA ROSARIO LUZUNARI…"
+    },
+    {
+      "id": "REP-0692-P",
+      "query": "RUDOLPH H. BEAVER v. COMMISSIONER OF INTERNAL REVENUE"
+    },
+    {
+      "id": "REP-0693-P",
+      "query": "The Coca-Cola Company and Subsidiaries v. Commissioner"
+    },
+    {
+      "id": "REP-0694-P",
+      "query": "Robert William Porporato v. Commissioner"
+    },
+    {
+      "id": "REP-0695-P",
+      "query": "MRS. M. K. WALDROP v. SINGER SEWING MACHINE CO."
+    },
+    {
+      "id": "REP-0698-P",
+      "query": "Mumford Smith and others v. St. Louis Mutual Life Insurance Company…"
+    },
+    {
+      "id": "REP-0700-P",
+      "query": "State v. Norris"
+    },
+    {
+      "id": "REP-0703-P",
+      "query": "Simpson v. Simpson"
+    },
+    {
+      "id": "REP-0704-P",
+      "query": "GARRETT v. UNITED STATES FIDELITY & GUARANTY CO."
+    },
+    {
+      "id": "REP-0705-P",
+      "query": "Manuel Torres v. State"
+    },
+    {
+      "id": "REP-0706-P",
+      "query": "Lawson McSpatton v. State"
+    },
+    {
+      "id": "REP-0707-P",
+      "query": "BURRELL WARREN V. THE STATE OF TEXAS"
+    },
+    {
+      "id": "REP-0709-P",
+      "query": "Day v. Mooney"
+    },
+    {
+      "id": "REP-0710-P",
+      "query": "Elam F. Thomas Administrator of Blackmun Rhodes v. Mordecai Rhodes"
+    },
+    {
+      "id": "REP-0715-P",
+      "query": "JOSEPH S. HUNTINGTON v. HORACE B. CLAFLIN"
+    },
+    {
+      "id": "REP-0717-P",
+      "query": "ANTHONY LULLEY v. JOHN W. MORGAN"
+    },
+    {
+      "id": "REP-0720-P",
+      "query": "LOUIS FUSARO v. COMMISSIONER OF INTERNAL REVENUE"
+    },
+    {
+      "id": "REP-0723-P",
+      "query": "Williams v. Reed"
+    },
+    {
+      "id": "REP-0726-P",
+      "query": "NICOLL v. UNITED STATES"
+    },
+    {
+      "id": "REP-0727-P",
+      "query": "Dennis Allan GROSSMAN v. David WEHRLE"
+    },
+    {
+      "id": "REP-0728-P",
+      "query": "Georgia v. Public Resource.Org"
+    },
+    {
+      "id": "REP-0731-P",
+      "query": "Reyos v. State"
+    },
+    {
+      "id": "REP-0735-P",
+      "query": "Nielsen v. Cronquist"
+    },
+    {
+      "id": "REP-0736-P",
+      "query": "Samantha COWARD v. WELLMONT HEALTH SYSTEM"
+    },
+    {
+      "id": "REP-0737-P",
+      "query": "Robert McKinley Blankenship v. Commonwealth of Virginia"
+    },
+    {
+      "id": "REP-0738-P",
+      "query": "The Commonwealth v. William Horton"
+    },
+    {
+      "id": "REP-0741-P",
+      "query": "Senior v. Morris"
+    },
+    {
+      "id": "REP-0742-P",
+      "query": "Browning's Ex'r v. Browning"
+    },
+    {
+      "id": "REP-0744-P",
+      "query": "Kelly v. First Virginia Bank-Southwest"
+    },
+    {
+      "id": "REP-0745-P",
+      "query": "COMMONWEALTH v. MARY BROWN"
+    },
+    {
+      "id": "REP-0747-P",
+      "query": "Cumberbatch v. People of the V.I."
+    },
+    {
+      "id": "REP-0749-P",
+      "query": "W. A. MANDA (INCORPORATED) v. UNITED STATES EXPRESS COMPANY"
+    },
+    {
+      "id": "REP-0750-P",
+      "query": "Bruce Kirkland and Gordon Kirkland v. James Kolodziej and Barbara K…"
+    },
+    {
+      "id": "REP-0751-P",
+      "query": "YOOSUN HAN v. EMORY UNIVERSITY."
+    },
+    {
+      "id": "REP-0752-P",
+      "query": "MILWAUKEE POLICE ASSOCIATION v. Edward A. FLYNN"
+    },
+    {
+      "id": "REP-0753-P",
+      "query": "Jose Arnulfo ARIAS v. Anthony RAIMONDO"
+    },
+    {
+      "id": "REP-0754-P",
+      "query": "HUNTZINGER v. NATIONAL FIRE INSURANCE CO."
+    },
+    {
+      "id": "REP-0755-P",
+      "query": "Pascal D. Webb v. Israel Williams and Elizabeth Ann"
+    },
+    {
+      "id": "REP-0756-P",
+      "query": "WOLVERTON v. HAUPT"
+    },
+    {
+      "id": "REP-0757-P",
+      "query": "Mathews v. McStea"
+    },
+    {
+      "id": "REP-0761-P",
+      "query": "State v. Canela"
+    },
+    {
+      "id": "REP-0762-P",
+      "query": "Thurman v. Cowles Co."
+    },
+    {
+      "id": "REP-0764-P",
+      "query": "Lindsey M. Purdy-Bolland v. Daniel Patrick Graham"
+    },
+    {
+      "id": "REP-0765-P",
+      "query": "The HERMAN. ROBERTS v. The HERMAN"
+    },
+    {
+      "id": "REP-0766-P",
+      "query": "HIRAM THOMAS v. R. D. HILTON"
+    },
+    {
+      "id": "REP-0769-P",
+      "query": "McLEAN v. HAMILTON COUNTY"
+    },
+    {
+      "id": "REP-0772-P",
+      "query": "UNITED STATES v. KIE"
+    },
+    {
+      "id": "REP-0775-P",
+      "query": "Kirk v. Smith"
+    },
+    {
+      "id": "REP-0776-P",
+      "query": "The North River Steam-Boat Company v. John R. Livingston"
+    },
+    {
+      "id": "REP-0777-P",
+      "query": "Pat. Sheehan v. W. T. Holcomb"
+    },
+    {
+      "id": "REP-0778-P",
+      "query": "Konkanok Rabiebna v. Higher Educational Aids Board"
+    },
+    {
+      "id": "REP-0779-P",
+      "query": "Midwest Renewable Energy Association v. Public Service Commission o…"
+    },
+    {
+      "id": "REP-0780-P",
+      "query": "Blankenship & Blake Co. v. E. M. Tillman"
+    },
+    {
+      "id": "REP-0781-P",
+      "query": "W. U. Tel. Co. v. Patrick McKinney"
+    },
+    {
+      "id": "REP-0782-P",
+      "query": "Kennedy-Ingalls Corporation v. Meissner and another"
+    },
+    {
+      "id": "REP-0783-P",
+      "query": "Melissa A. Hubbard v. Carol J. Neuman"
+    },
+    {
+      "id": "REP-0784-P",
+      "query": "MORELAND v. MARION COUNTY"
+    },
+    {
+      "id": "REP-0785-P",
+      "query": "Goodrich et ux v. Case"
+    },
+    {
+      "id": "REP-0786-P",
+      "query": "WORKS v. JUNCTION RAILROAD"
+    },
+    {
+      "id": "REP-0788-P",
+      "query": "Martha A. Case v. Delaware"
+    },
+    {
+      "id": "REP-0789-P",
+      "query": "PLATT v. McCLURE"
+    },
+    {
+      "id": "REP-0790-P",
+      "query": "Citizens' Ins. Co. v. Kountz Line"
+    },
+    {
+      "id": "REP-0792-P",
+      "query": "JOHNSON'S ADMINISTRATOR v. KELLY"
+    },
+    {
+      "id": "REP-0795-P",
+      "query": "Byron W. Pinegar v. The State of Wyoming"
+    },
+    {
+      "id": "REP-0798-P",
+      "query": "Byers v. Bacon"
+    },
+    {
+      "id": "SEED-AK-N0-P",
+      "query": "Tolan v. ERA Helicopters"
+    },
+    {
+      "id": "SEED-AK-N1-P",
+      "query": "Loughran v. SUPERIOR COURT OF MARICOPA"
+    },
+    {
+      "id": "SEED-AK-P",
+      "query": "Zeman v. Lufthansa German Airlines"
+    },
+    {
+      "id": "SEED-AK-V1",
+      "query": "Zeman vs. Lufthansa German Airlines"
+    },
+    {
+      "id": "SEED-AL-N0-P",
+      "query": "Wilson v. City of Bessemer"
+    },
+    {
+      "id": "SEED-AL-N1-P",
+      "query": "Hollis v. Brock"
+    },
+    {
+      "id": "SEED-AL-P",
+      "query": "West v. Founders Life Assur. Co. of Florida"
+    },
+    {
+      "id": "SEED-AL-V1",
+      "query": "West vs. Founders Life Assur. Co. of Florida"
+    },
+    {
+      "id": "SEED-AR-N0-P",
+      "query": "Donn v. McCuen"
+    },
+    {
+      "id": "SEED-AR-N1-P",
+      "query": "Mangum v. Estate of Fuller"
+    },
+    {
+      "id": "SEED-AR-P",
+      "query": "Finn v. McCuen"
+    },
+    {
+      "id": "SEED-AR-V1",
+      "query": "Finn vs. McCuen"
+    },
+    {
+      "id": "SEED-AZ-N0-P",
+      "query": "State v. Fell"
+    },
+    {
+      "id": "SEED-AZ-N1-P",
+      "query": "State of Az v. Christopher George Theodore Lamar"
+    },
+    {
+      "id": "SEED-AZ-P",
+      "query": "State v. Henderson"
+    },
+    {
+      "id": "SEED-AZ-V1",
+      "query": "State vs. Henderson"
+    },
+    {
+      "id": "SEED-CA-N0-P",
+      "query": "People v. Wright"
+    },
+    {
+      "id": "SEED-CA-N1-P",
+      "query": "Domino's Pizza v. Workers' Compensation Appeals Board"
+    },
+    {
+      "id": "SEED-CA-P",
+      "query": "People v. Kelly"
+    },
+    {
+      "id": "SEED-CA-V1",
+      "query": "People vs. Kelly"
+    },
+    {
+      "id": "SEED-CO-N0-P",
+      "query": "Sweaney v. DIST. COURT. EIGHTEENTH JUD. DIST."
+    },
+    {
+      "id": "SEED-CO-N1-P",
+      "query": "Sweaney v. District Court In & For the Eighteenth Judicial District"
+    },
+    {
+      "id": "SEED-CO-P",
+      "query": "People v. District Court"
+    },
+    {
+      "id": "SEED-CO-V1",
+      "query": "People vs. District Court"
+    },
+    {
+      "id": "SEED-CT-N0-P",
+      "query": "Hall Manor Owner's Ass'n v. City of West Haven"
+    },
+    {
+      "id": "SEED-CT-N1-P",
+      "query": "Gilman v. Shames"
+    },
+    {
+      "id": "SEED-CT-P",
+      "query": "Ferryman v. City of Groton"
+    },
+    {
+      "id": "SEED-CT-V1",
+      "query": "Ferryman vs. City of Groton"
+    },
+    {
+      "id": "SEED-DE-N0-P",
+      "query": "Ives v. Nmtc"
+    },
+    {
+      "id": "SEED-DE-N1-P",
+      "query": "Beach v. Jean"
+    },
+    {
+      "id": "SEED-DE-P",
+      "query": "Brehm v. Eisner"
+    },
+    {
+      "id": "SEED-DE-V1",
+      "query": "Brehm vs. Eisner"
+    },
+    {
+      "id": "SEED-FL-N1-P",
+      "query": "Noah v. Noah"
+    },
+    {
+      "id": "SEED-FL-P",
+      "query": "State v. DiGuilio"
+    },
+    {
+      "id": "SEED-FL-V1",
+      "query": "State vs. DiGuilio"
+    },
+    {
+      "id": "SEED-GA-N0-P",
+      "query": "Rainey v. Lange"
+    },
+    {
+      "id": "SEED-GA-N1-P",
+      "query": "Thomas v. State"
+    },
+    {
+      "id": "SEED-HI-N0-P",
+      "query": "State v. Lee"
+    },
+    {
+      "id": "SEED-HI-N1-P",
+      "query": "Desmond v. Administrative Director of the Courts"
+    },
+    {
+      "id": "SEED-HI-P",
+      "query": "Kema v. Gaddis"
+    },
+    {
+      "id": "SEED-HI-V1",
+      "query": "Kema vs. Gaddis"
+    },
+    {
+      "id": "SEED-ID-N0-P",
+      "query": "Blanton v. Canyon County"
+    },
+    {
+      "id": "SEED-ID-N1-P",
+      "query": "Cannon v. Perry"
+    },
+    {
+      "id": "SEED-ID-P",
+      "query": "State v. Oliver"
+    },
+    {
+      "id": "SEED-ID-V1",
+      "query": "State vs. Oliver"
+    },
+    {
+      "id": "SEED-IL-N1-P",
+      "query": "Bush v. Squellati"
+    },
+    {
+      "id": "SEED-IL-P",
+      "query": "People v. Enoch"
+    },
+    {
+      "id": "SEED-IL-V1",
+      "query": "People vs. Enoch"
+    },
+    {
+      "id": "SEED-IN-N0-P",
+      "query": "Bailey v. Mann"
+    },
+    {
+      "id": "SEED-IN-P",
+      "query": "Cardwell v. State"
+    },
+    {
+      "id": "SEED-IN-V1",
+      "query": "Cardwell vs. State"
+    },
+    {
+      "id": "SEED-KS-N0-P",
+      "query": "State v. Stieben"
+    },
+    {
+      "id": "SEED-KS-P",
+      "query": "State v. Ward"
+    },
+    {
+      "id": "SEED-KS-V1",
+      "query": "State vs. Ward"
+    },
+    {
+      "id": "SEED-KY-N1-P",
+      "query": "Kentucky Bar Ass'n v. Traylor"
+    },
+    {
+      "id": "SEED-KY-P",
+      "query": "Commonwealth v. English"
+    },
+    {
+      "id": "SEED-KY-V1",
+      "query": "Commonwealth vs. English"
+    },
+    {
+      "id": "SEED-LA-N0-P",
+      "query": "Adams v. State"
+    },
+    {
+      "id": "SEED-LA-N1-P",
+      "query": "Hyland v. State"
+    },
+    {
+      "id": "SEED-LA-P",
+      "query": "State Ex Rel. Glover v. State"
+    },
+    {
+      "id": "SEED-LA-V1",
+      "query": "State Ex Rel. Glover vs. State"
+    },
+    {
+      "id": "SEED-MA-N1-P",
+      "query": "Commonwealth v. Riccard"
+    },
+    {
+      "id": "SEED-MA-P",
+      "query": "Kourouvacilis v. General Motors Corp."
+    },
+    {
+      "id": "SEED-MA-V1",
+      "query": "Kourouvacilis vs. General Motors Corp."
+    },
+    {
+      "id": "SEED-MD-N0-P",
+      "query": "State Highway Administration v. Kee"
+    },
+    {
+      "id": "SEED-MD-N1-P",
+      "query": "Kent County Board of Education v. Bilbrough"
+    },
+    {
+      "id": "SEED-MD-P",
+      "query": "Kaczorowski v. Mayor of Baltimore"
+    },
+    {
+      "id": "SEED-MD-V1",
+      "query": "Kaczorowski vs. Mayor of Baltimore"
+    },
+    {
+      "id": "SEED-ME-N0-P",
+      "query": "State v. Bavouset"
+    },
+    {
+      "id": "SEED-ME-N1-P",
+      "query": "Hickman v. Carven"
+    },
+    {
+      "id": "SEED-ME-P",
+      "query": "Curtis v. Porter"
+    },
+    {
+      "id": "SEED-ME-V1",
+      "query": "Curtis vs. Porter"
+    },
+    {
+      "id": "SEED-MI-N0-P",
+      "query": "Gray v. Morley"
+    },
+    {
+      "id": "SEED-MI-N1-P",
+      "query": "People v. Johnson"
+    },
+    {
+      "id": "SEED-MI-P",
+      "query": "People v. Carines"
+    },
+    {
+      "id": "SEED-MI-V1",
+      "query": "People vs. Carines"
+    },
+    {
+      "id": "SEED-MN-P",
+      "query": "Thiele v. Stich"
+    },
+    {
+      "id": "SEED-MN-V1",
+      "query": "Thiele vs. Stich"
+    },
+    {
+      "id": "SEED-MO-N0-P",
+      "query": "Williams v. State"
+    },
+    {
+      "id": "SEED-MO-N1-P",
+      "query": "General Agents Insurance Co. of America v. People's Bank & Trust Co."
+    },
+    {
+      "id": "SEED-MO-V1",
+      "query": "ITT Commercial Finance Corp. vs. Mid-America Marine Supply Corp."
+    },
+    {
+      "id": "SEED-MS-N0-P",
+      "query": "Anderson v. LaVere"
+    },
+    {
+      "id": "SEED-MS-P",
+      "query": "Bush v. State"
+    },
+    {
+      "id": "SEED-MS-V1",
+      "query": "Bush vs. State"
+    },
+    {
+      "id": "SEED-MT-N0-P",
+      "query": "Montana Public Employee's Ass'n v. Office of the Governor"
+    },
+    {
+      "id": "SEED-MT-N1-P",
+      "query": "Kreger v. Francis"
+    },
+    {
+      "id": "SEED-MT-P",
+      "query": "Carbon County v. Union Reserve Coal Co."
+    },
+    {
+      "id": "SEED-MT-V1",
+      "query": "Carbon County vs. Union Reserve Coal Co."
+    },
+    {
+      "id": "SEED-NC-N1-P",
+      "query": "State v. Lewis"
+    },
+    {
+      "id": "SEED-NC-P",
+      "query": "State v. Lawrence"
+    },
+    {
+      "id": "SEED-NC-V1",
+      "query": "State vs. Lawrence"
+    },
+    {
+      "id": "SEED-ND-N0-P",
+      "query": "State v. Knight"
+    },
+    {
+      "id": "SEED-ND-N1-P",
+      "query": "State v. Battershaw"
+    },
+    {
+      "id": "SEED-ND-P",
+      "query": "County of Stutsman v. State Historical Society of North Dakota"
+    },
+    {
+      "id": "SEED-ND-V1",
+      "query": "County of Stutsman vs. State Historical Society of North Dakota"
+    },
+    {
+      "id": "SEED-NE-N1-P",
+      "query": "STATE COUNSEL FOR DISCIPLINE v. Wadman"
+    },
+    {
+      "id": "SEED-NE-P",
+      "query": "Law Offices of Ronald J. Palagi v. Howard"
+    },
+    {
+      "id": "SEED-NE-V1",
+      "query": "Law Offices of Ronald J. Palagi vs. Howard"
+    },
+    {
+      "id": "SEED-NH-N0-P",
+      "query": "State v. Paris"
+    },
+    {
+      "id": "SEED-NH-P",
+      "query": "Vogel v. Vogel"
+    },
+    {
+      "id": "SEED-NH-V1",
+      "query": "Vogel vs. Vogel"
+    },
+    {
+      "id": "SEED-NJ-N0-P",
+      "query": "Tompkins v. Pryor"
+    },
+    {
+      "id": "SEED-NJ-N1-P",
+      "query": "Polshek v. Bergen Cty. Iron Works"
+    },
+    {
+      "id": "SEED-NJ-P",
+      "query": "Brill v. Guardian Life Insurance Co. of America"
+    },
+    {
+      "id": "SEED-NJ-V1",
+      "query": "Brill vs. Guardian Life Insurance Co. of America"
+    },
+    {
+      "id": "SEED-NM-N0-P",
+      "query": "Dugie v. Cameron"
+    },
+    {
+      "id": "SEED-NM-N1-P",
+      "query": "State v. Ingram"
+    },
+    {
+      "id": "SEED-NM-P",
+      "query": "State v. Rojo"
+    },
+    {
+      "id": "SEED-NM-V1",
+      "query": "State vs. Rojo"
+    },
+    {
+      "id": "SEED-NV-N0-P",
+      "query": "Flores v. State"
+    },
+    {
+      "id": "SEED-NV-N1-P",
+      "query": "Crawford v. State"
+    },
+    {
+      "id": "SEED-NV-P",
+      "query": "Wood v. Safeway"
+    },
+    {
+      "id": "SEED-NV-V1",
+      "query": "Wood vs. Safeway"
+    },
+    {
+      "id": "SEED-NY-N0-P",
+      "query": "Fung v. Japan Airlines Co."
+    },
+    {
+      "id": "SEED-NY-N1-P",
+      "query": "Schreiber v. K-Sea Transportation Corp."
+    },
+    {
+      "id": "SEED-NY-P",
+      "query": "People v. Danielson"
+    },
+    {
+      "id": "SEED-NY-V1",
+      "query": "People vs. Danielson"
+    },
+    {
+      "id": "SEED-OH-N1-P",
+      "query": "Perez v. Cleveland"
+    },
+    {
+      "id": "SEED-OH-P",
+      "query": "State v. Thompkins"
+    },
+    {
+      "id": "SEED-OH-V1",
+      "query": "State vs. Thompkins"
+    },
+    {
+      "id": "SEED-OK-N0-P",
+      "query": "State Ex Rel. Oklahoma Bar Ass'n v. Briery"
+    },
+    {
+      "id": "SEED-OK-N1-P",
+      "query": "Warner v. Hillcrest Medical Center"
+    },
+    {
+      "id": "SEED-OK-P",
+      "query": "Carmichael v. Beller"
+    },
+    {
+      "id": "SEED-OK-V1",
+      "query": "Carmichael vs. Beller"
+    },
+    {
+      "id": "SEED-OR-N0-P",
+      "query": "Allison v. Kleinman"
+    },
+    {
+      "id": "SEED-OR-N1-P",
+      "query": "County of Klamath v. Ricard"
+    },
+    {
+      "id": "SEED-OR-P",
+      "query": "Portland General Electric Co. v. Bureau of Labor & Industries"
+    },
+    {
+      "id": "SEED-OR-V1",
+      "query": "Portland General Electric Co. vs. Bureau of Labor & Industries"
+    },
+    {
+      "id": "SEED-PA-N1-P",
+      "query": "Pennsylvania Liquor Control Board v. TLK"
+    },
+    {
+      "id": "SEED-PA-P",
+      "query": "Commonwealth v. Turner"
+    },
+    {
+      "id": "SEED-PA-V1",
+      "query": "Commonwealth vs. Turner"
+    },
+    {
+      "id": "SEED-RI-N1-P",
+      "query": "Rhode Island Hospital Trust National Bank v. Eastern General Contra…"
+    },
+    {
+      "id": "SEED-SC-N0-P",
+      "query": "Key v. Currie"
+    },
+    {
+      "id": "SEED-SC-N1-P",
+      "query": "Wallace v. MILLIKEN & COMPANY"
+    },
+    {
+      "id": "SEED-SC-P",
+      "query": "State v. Williams"
+    },
+    {
+      "id": "SEED-SC-V1",
+      "query": "State vs. Williams"
+    },
+    {
+      "id": "SEED-SD-N0-P",
+      "query": "Lee v. South Dakota Department of Health"
+    },
+    {
+      "id": "SEED-SD-N1-P",
+      "query": "State v. Eagle Hawk"
+    },
+    {
+      "id": "SEED-SD-P",
+      "query": "Permann v. South Dakota Department of Labor"
+    },
+    {
+      "id": "SEED-SD-V1",
+      "query": "Permann vs. South Dakota Department of Labor"
+    },
+    {
+      "id": "SEED-TN-N0-P",
+      "query": "Nelson v. Martin"
+    },
+    {
+      "id": "SEED-TN-N1-P",
+      "query": "State v. Yeargan"
+    },
+    {
+      "id": "SEED-TN-P",
+      "query": "State v. Bland"
+    },
+    {
+      "id": "SEED-TN-V1",
+      "query": "State vs. Bland"
+    },
+    {
+      "id": "SEED-TX-N0-P",
+      "query": "R.R. Street & Co. v. Pilgrim Enterprises"
+    },
+    {
+      "id": "SEED-TX-N1-P",
+      "query": "Lowenberg v. City of Dallas"
+    },
+    {
+      "id": "SEED-TX-P",
+      "query": "City of Keller v. Wilson"
+    },
+    {
+      "id": "SEED-TX-V1",
+      "query": "City of Keller vs. Wilson"
+    },
+    {
+      "id": "SEED-UT-N0-P",
+      "query": "City of Orem v. Henrie"
+    },
+    {
+      "id": "SEED-UT-N1-P",
+      "query": "Hill v. Hill"
+    },
+    {
+      "id": "SEED-UT-P",
+      "query": "State v. Pena"
+    },
+    {
+      "id": "SEED-UT-V1",
+      "query": "State vs. Pena"
+    },
+    {
+      "id": "SEED-VA-N0-P",
+      "query": "Harrell v. City of Norfolk"
+    },
+    {
+      "id": "SEED-VA-N1-P",
+      "query": "Santen v. Tuthill"
+    },
+    {
+      "id": "SEED-VA-P",
+      "query": "Commonwealth v. Hudson"
+    },
+    {
+      "id": "SEED-VA-V1",
+      "query": "Commonwealth vs. Hudson"
+    },
+    {
+      "id": "SEED-VT-N0-P",
+      "query": "Will v. Mill Condominium Owners' Ass'n"
+    },
+    {
+      "id": "SEED-VT-N1-P",
+      "query": "Marine Midland Bank v. Bicknell"
+    },
+    {
+      "id": "SEED-VT-P",
+      "query": "Robertson v. Mylan Laboratories"
+    },
+    {
+      "id": "SEED-VT-V1",
+      "query": "Robertson vs. Mylan Laboratories"
+    },
+    {
+      "id": "SEED-WA-N1-P",
+      "query": "City of Tacoma v. Luvene"
+    },
+    {
+      "id": "SEED-WA-P",
+      "query": "Cowiche Canyon Conservancy v. Bosley"
+    },
+    {
+      "id": "SEED-WA-V1",
+      "query": "Cowiche Canyon Conservancy vs. Bosley"
+    },
+    {
+      "id": "SEED-WI-N0-P",
+      "query": "Harold Sampson Children's Trust v. Linda Gale Sampson 1979 Trust"
+    },
+    {
+      "id": "SEED-WI-N1-P",
+      "query": "Lynch v. CARRIAGE RIDGE"
+    },
+    {
+      "id": "SEED-WI-P",
+      "query": "State Ex Rel. Kalal v. Circuit Court for Dane County"
+    },
+    {
+      "id": "SEED-WI-V1",
+      "query": "State Ex Rel. Kalal vs. Circuit Court for Dane County"
+    },
+    {
+      "id": "SEED-WV-N0-P",
+      "query": "Whittaker v. Whittaker"
+    },
+    {
+      "id": "SEED-WV-N1-P",
+      "query": "FOSTER FOUNDATION v. Gainer"
+    },
+    {
+      "id": "SEED-WY-N0-P",
+      "query": "Hodgins v. State"
+    },
+    {
+      "id": "SEED-WY-N1-P",
+      "query": "Rodriguez v. State"
+    },
+    {
+      "id": "SEED-WY-P",
+      "query": "Vaughn v. State"
+    },
+    {
+      "id": "SEED-WY-V1",
+      "query": "Vaughn vs. State"
+    },
+    {
+      "id": "TRICK-001",
+      "query": "Hunter v. Philip Morris USA"
+    },
+    {
+      "id": "TRICK-002",
+      "query": "Penna v. Toyota Motor Sales, U.S.A., Inc."
+    },
+    {
+      "id": "TRICK-003",
+      "query": "State of Texas v. USA"
+    },
+    {
+      "id": "TRICK-004",
+      "query": "Harner v. Soc. Sec. Admin., Comm'r"
+    },
+    {
+      "id": "TRICK-005",
+      "query": "Transp. Ins. Co. v. Moriel"
+    },
+    {
+      "id": "TRICK-007",
+      "query": "Nemec v. Shrader"
+    },
+    {
+      "id": "TRICK-008",
+      "query": "Dresher v. Burt"
+    },
+    {
+      "id": "TRICK-009",
+      "query": "Santisas v. Goodin"
+    },
+    {
+      "id": "TRICK-010",
+      "query": "Careau & Co. v. Sec. Pac. Bus. Credit, Inc."
+    },
+    {
+      "id": "TRICK-011",
+      "query": "North Carolina v. Alford"
+    },
+    {
+      "id": "TRICK-012",
+      "query": "West Virginia v. EPA"
+    },
+    {
+      "id": "TRICK-013",
+      "query": "McLouth Steel Products Corporation v. Lee M. Thomas, Administrator, and U.S. Environmental Protection Agency"
+    },
+    {
+      "id": "TRICK-014",
+      "query": "Celotex Corp. v. Catrett"
+    },
+    {
+      "id": "TRICK-016",
+      "query": "Anderson v. Liberty Lobby, Inc."
+    },
+    {
+      "id": "TRICK-017",
+      "query": "Marbury v. Madison"
+    },
+    {
+      "id": "TRICK-025",
+      "query": "Thomas v. Oldham"
+    },
+    {
+      "id": "TRICK-027",
+      "query": "Moki Mac River Expeditions vs. Drugg"
+    },
+    {
+      "id": "TRICK-028",
+      "query": "POMMELLS V. PEREZ"
+    },
+    {
+      "id": "TRICK-029",
+      "query": "Boyer v. Snap-On Tools Corp."
+    },
+    {
+      "id": "TRICK-034",
+      "query": "Employment Division v. Smith"
+    },
+    {
+      "id": "TRICK-035",
+      "query": "Miranda v. Arizona"
+    },
+    {
+      "id": "TRICK-036",
+      "query": "Brown v. Board of Education"
+    },
+    {
+      "id": "TRICK-037",
+      "query": "Loper Bright Enterprises v. Raimondo"
+    },
+    {
+      "id": "TRICK-038",
+      "query": "See Ortiz v. Jones"
+    },
+    {
+      "id": "TRICK-040",
+      "query": "Gilbert Frank Corp. v. Fed. Ins. Co."
+    },
+    {
+      "id": "TRICK-041",
+      "query": "W. Cas. & Sur. Co. v. Brochu"
+    },
+    {
+      "id": "TRICK-044",
+      "query": "International Shoe Co. v. Washington"
+    },
+    {
+      "id": "TRICK-050",
+      "query": "Ethyl Corporation v. Environmental Protection Agency"
+    }
+  ]
+}

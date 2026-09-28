@@ -1,0 +1,1006 @@
+{
+  "frozenAt": "2026-09-27",
+  "note": "Held-out realworld queries. Do not use these to author ranking overrides or retune weights. Report this slice; tune against eval/goldenSet.json.",
+  "queries": [
+    {
+      "id": "rw-0001",
+      "query": "\"summary judgment\" /s \"genuine dispute\" AND \"material fact\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0006",
+      "query": "asylum aplication credibile fear",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0011",
+      "query": "what is intellectual property",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0016",
+      "query": "can a gym refuse to cancel my membership",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0021",
+      "query": "is adultery a crime",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0026",
+      "query": "can my landlord evict me without notice",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0031",
+      "query": "\"motion to dismiss\" /p \"plausible on its face\" NOT arbitration",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0036",
+      "query": "\"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0041",
+      "query": "how to trademark a name",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0046",
+      "query": "promisory estopel detrimental relience",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0051",
+      "query": "what is common law marriage",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0056",
+      "query": "landlord will not fix mold and heat what are my rights",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0061",
+      "query": "(\"personal jurisdiction\" OR \"long-arm\") /s \"purposeful availment\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0066",
+      "query": "\"exhaustion of administrative remedies\" /p futility",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0071",
+      "query": "what is a patent",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0076",
+      "query": "breech of contract damagges remedy",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0081",
+      "query": "what happens if my ex does not pay child support",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0086",
+      "query": "can I break my lease early without penalty",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0091",
+      "query": "\"statute of limitations\" w/10 \"discovery rule\" AND accrual",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0096",
+      "query": "\"substantial evidence\" w/15 (\"disability\" OR \"residual functional capacity\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0101",
+      "query": "someone is using my photos on their website without permission",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0106",
+      "query": "statue of frauds writting requirement",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0111",
+      "query": "can my ex take my kids out of state without asking me",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0116",
+      "query": "can my landlord enter my apartment without telling me",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0121",
+      "query": "\"class certification\" /p predominance NOT \"collective action\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0126",
+      "query": "what deference does a court owe an agency interpretation after loper bright",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0131",
+      "query": "can I use a song in my youtube video if I give credit",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0136",
+      "query": "(\"debt collector\" OR fdcpa) /s (\"least sophisticated consumer\" OR harassment)",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0141",
+      "query": "how do grandparents get visitation rights",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0146",
+      "query": "evicton notice landlord didnt give 30 days",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0151",
+      "query": "does the discovery rule toll the statute of limitations for latent injury",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0156",
+      "query": "my disability claim was denied how do I appeal",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0161",
+      "query": "copywrite infringment fair use",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0166",
+      "query": "\"automatic stay\" /p (\"relief for cause\" OR foreclosure)",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0171",
+      "query": "child custudy best interst of the child",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0176",
+      "query": "tennant rights habitibility repairs",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0181",
+      "query": "what showing is required to set aside a default judgment for excusable neglect",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0186",
+      "query": "how do I appeal a fine",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0191",
+      "query": "tradmark liklihood of confusion",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0196",
+      "query": "\"preferential transfer\" w/10 \"ninety day\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0201",
+      "query": "divorse alimoney spousal suport",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0206",
+      "query": "landlord withold security deposite illegaly",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0211",
+      "query": "can a plaintiff amend to add a new defendant after the limitations period runs",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0216",
+      "query": "can the dmv suspend my license without a hearing",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0221",
+      "query": "patant infringment damagse royalty",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0226",
+      "query": "\"student loan\" /p \"undue hardship\" AND dischargeability",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0231",
+      "query": "prenuptual agreemnt unenforcable",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0236",
+      "query": "\"adverse possession\" /s hostile AND \"open and notorious\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0241",
+      "query": "I am being sued what do I do",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0246",
+      "query": "sosial security disabilty appeal denile",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0251",
+      "query": "\"bad faith\" /s (\"failure to settle\" OR \"within policy limits\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0256",
+      "query": "what conduct violates the fdcpa prohibition on unfair collection practices",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0261",
+      "query": "guardianship of miner child grandparent",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0266",
+      "query": "easement /p (\"by necessity\" OR prescriptive) AND \"landlocked\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0271",
+      "query": "how long do I have to sue someone",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0276",
+      "query": "unemploymnet benifits appeal hearing",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0281",
+      "query": "\"duty to defend\" /p \"duty to indemnify\" AND broader",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0286",
+      "query": "is a time barred debt actionable if the collector sues on it",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0291",
+      "query": "negligence /s \"proximate cause\" AND (\"duty of care\" OR foreseeability)",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0296",
+      "query": "\"quiet title\" w/15 \"cloud on title\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0301",
+      "query": "can I sue someone in small claims court without a lawyer",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0306",
+      "query": "\"medical malpractice\" /s (\"standard of care\" OR \"informed consent\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0311",
+      "query": "#stacking w/10 (\"underinsured motorist\" OR \"uninsured motorist\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0316",
+      "query": "what can creditors do if I do not pay",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0321",
+      "query": "\"comparative fault\" /p apportionment NOT \"workers compensation\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0326",
+      "query": "\"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\") AND enforcement",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0331",
+      "query": "what happens if you ignore a lawsuit",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0336",
+      "query": "\"certificate of merit\" /p (\"expert affidavit\" OR dismissal) AND malpractice",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0341",
+      "query": "exclusion /s ambiguous AND \"construed against the insurer\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0346",
+      "query": "can debt collectors call me at work",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0351",
+      "query": "\"premises liability\" /s (\"open and obvious\" OR invitee)",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0356",
+      "query": "what notice is required before a nonjudicial foreclosure sale is valid",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0361",
+      "query": "how much does it cost to sue someone",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0366",
+      "query": "when does the continuing treatment doctrine toll a malpractice limitations period",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0371",
+      "query": "does an insurer waive coverage defenses by defending without a reservation of rights",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0376",
+      "query": "will bankruptcy get rid of my student loans",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0381",
+      "query": "\"rear end collision\" w/15 (\"presumption\" OR \"following too closely\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0386",
+      "query": "when does a boundary line agreement bind successors in title",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0391",
+      "query": "statue of limitations personal injury",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0396",
+      "query": "can I sue a doctor for a bad outcome",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0401",
+      "query": "is water damage from a slow leak excluded as a maintenance issue",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0406",
+      "query": "can they garnish my wages without telling me",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0411",
+      "query": "\"respondeat superior\" /p \"scope of employment\" AND \"personal errand\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0416",
+      "query": "my neighbors tree fell on my house who pays",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0421",
+      "query": "subpeona duces tecum quash motion",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0426",
+      "query": "the hospital billed me for something insurance should have covered",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0431",
+      "query": "my insurance company denied my claim what can I do",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0436",
+      "query": "can a car be repossessed without notice",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0441",
+      "query": "\"punitive damages\" /s (\"clear and convincing\" OR \"reckless indifference\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0446",
+      "query": "can my hoa fine me for my fence color",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0451",
+      "query": "res judicta claim preclusion",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0456",
+      "query": "is a nursing home liable for my mothers bedsores",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0461",
+      "query": "does homeowners insurance cover a roof leak",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0466",
+      "query": "how do I dispute something wrong on my credit report",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0471",
+      "query": "when is a landowner liable for injuries to a trespassing child",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0476",
+      "query": "neighbor built a fence on my property what can I do",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0481",
+      "query": "\"reasonable suspicion\" /s \"terry stop\" AND frisk",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0486",
+      "query": "medical malpratice standerd of care",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0491",
+      "query": "can my insurance drop me after one accident",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0496",
+      "query": "bankrupcy chapter 7 exemtions",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0501",
+      "query": "what evidence supports a claim for future lost earning capacity",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0506",
+      "query": "how does eminent domain work can the state take my land",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0511",
+      "query": "miranda /p \"custodial interrogation\" NOT \"public safety\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0516",
+      "query": "informd consent surgery complicaton",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0521",
+      "query": "insurence bad faith denile of claim",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0526",
+      "query": "garnishment of wagges judgement creditor",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0531",
+      "query": "is a dog owner strictly liable for a first bite in this jurisdiction",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0536",
+      "query": "adverse posession claim requirments",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0541",
+      "query": "\"good faith exception\" /s \"exclusionary rule\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0546",
+      "query": "\"abuse of discretion\" /s (\"clear error\" OR \"de novo\") AND \"standard of review\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0551",
+      "query": "uninsurred motorist covrage stacking",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0556",
+      "query": "reposession of vehical deficiency balance",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0561",
+      "query": "do I need a lawyer after a car accident",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0566",
+      "query": "easment by neccessity driveway access",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0571",
+      "query": "(\"cell phone\" OR smartphone) /p warrant AND \"search incident to arrest\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0576",
+      "query": "\"plain error\" /p (\"not preserved\" OR waived) NOT sentencing",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0581",
+      "query": "\"qualified immunity\" /s \"clearly established\" AND \"excessive force\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0586",
+      "query": "\"undue influence\" /s (\"testamentary capacity\" OR \"confidential relationship\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0591",
+      "query": "how much is my car accident case worth",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0596",
+      "query": "forclosure redemtion rights after sale",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0601",
+      "query": "\"ineffective assistance\" w/15 \"deficient performance\" AND prejudice",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0606",
+      "query": "is an order denying a motion to compel arbitration immediately appealable",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0611",
+      "query": "\"section 1983\" /p (\"policy or custom\" OR monell) NOT \"eleventh amendment\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0616",
+      "query": "\"holographic will\" /p (\"material provisions\" OR handwriting)",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0621",
+      "query": "I slipped and fell in a store can I sue",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0626",
+      "query": "\"at will\" /s (\"public policy\" OR retaliation) AND termination",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0631",
+      "query": "when does a traffic stop become an unlawful seizure due to its duration",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0636",
+      "query": "how do I appeal a court decision I lost",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0641",
+      "query": "\"deliberate indifference\" w/15 (\"serious medical need\" OR prison)",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0646",
+      "query": "trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0651",
+      "query": "a dog bit me who is responsible",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0656",
+      "query": "\"hostile work environment\" /p \"severe or pervasive\" AND \"title vii\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0661",
+      "query": "what makes a consent to search involuntary under the totality of the circumstances",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0666",
+      "query": "how long do I have to file an appeal",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0671",
+      "query": "(\"first amendment\" OR \"free speech\") /s \"public forum\" AND \"content based\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0676",
+      "query": "\"elective share\" w/15 \"surviving spouse\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0681",
+      "query": "someone hit my car and left the scene what do I do",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0686",
+      "query": "noncompete /p (\"geographic scope\" OR \"legitimate business interest\") NOT physician",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0691",
+      "query": "is a dog sniff at the front door of a home a fourth amendment search",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0696",
+      "query": "appeallate breif deadline extention",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0701",
+      "query": "\"equal protection\" /p (\"strict scrutiny\" OR \"suspect classification\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0706",
+      "query": "who bears the burden of proving undue influence in a will contest",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0711",
+      "query": "can I sue for pain and suffering after a minor accident",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0716",
+      "query": "\"reasonable accommodation\" w/15 \"interactive process\" AND ada",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0721",
+      "query": "do the police need a warrant to search my car",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0726",
+      "query": "harmles error preseved objection",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0731",
+      "query": "when is a right clearly established for purposes of qualified immunity",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0736",
+      "query": "when may a court reform an unambiguous trust for mistake",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0741",
+      "query": "who pays if an uninsured driver hits me",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0746",
+      "query": "(\"unpaid overtime\" OR flsa) /s \"administrative exemption\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0751",
+      "query": "the police never read me my rights can my case be dismissed",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0756",
+      "query": "states where weed is legal",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0761",
+      "query": "can a public employee be disciplined for speech on a matter of public concern",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0766",
+      "query": "what is probate and when is it required",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0771",
+      "query": "negligance proximite cause injury",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0776",
+      "query": "whistleblower /p \"protected activity\" AND \"adverse employment action\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0781",
+      "query": "can you go to jail at an arraignment",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0786",
+      "query": "do I need a lawyer for a simple legal question",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0791",
+      "query": "can I sue the police for violating my rights",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0796",
+      "query": "how to get power of attorney for a parent",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0801",
+      "query": "pain and sufering damagses car accident",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0806",
+      "query": "what must an employee prove for pregnancy discrimination under the pda",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0811",
+      "query": "can police search my phone without permission",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0816",
+      "query": "what should I do if I receive legal papers",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0821",
+      "query": "can I film the police in public",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0826",
+      "query": "what happens if someone dies without a will",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0831",
+      "query": "premisis liabilty slip and fall store",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0836",
+      "query": "is an employee entitled to reinstatement after fmla leave expires",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0841",
+      "query": "what does indictment mean",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0846",
+      "query": "what is the statute of limitations and why does it matter",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0851",
+      "query": "do I have to show my id to police if I did nothing wrong",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0856",
+      "query": "can I contest my fathers will",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0861",
+      "query": "wrongfull death lawsuit survivng spouse",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0866",
+      "query": "when is an independent contractor misclassified as an employee for wage purposes",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0871",
+      "query": "miranda rights custodial interogation",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0876",
+      "query": "how do I find out if someone sued me",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0881",
+      "query": "can a school punish my kid for what they said off campus",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0886",
+      "query": "do I need a lawyer to settle a small estate",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0891",
+      "query": "defamation /s \"actual malice\" AND \"public figure\" NOT trademark",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0896",
+      "query": "can I be fired for no reason",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0901",
+      "query": "illegal serch and seizure sucession of evidence",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0906",
+      "query": "can I represent myself in court",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0911",
+      "query": "qualifed immunity clearley established",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0916",
+      "query": "my sibling is stealing from my moms estate what can I do",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0921",
+      "query": "(\"invasion of privacy\" OR \"intrusion upon seclusion\") /p recording",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0926",
+      "query": "what is minimum wage",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0931",
+      "query": "probable cuase warrentless arrest",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0936",
+      "query": "is entrapment a defense if the police set me up",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0941",
+      "query": "excesive force police brutalty lawsuit",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0946",
+      "query": "probat process without a will intestate",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0951",
+      "query": "\"intentional infliction\" w/10 \"outrageous conduct\"",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0956",
+      "query": "how to get paid while on fmla",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0961",
+      "query": "\"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your ground\")",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0966",
+      "query": "attorny fees prevailling party award",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0971",
+      "query": "freedom of speach retaliaton public employee",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0976",
+      "query": "undo influence will contest eldery parent",
+      "style": "misspelled"
+    },
+    {
+      "id": "rw-0981",
+      "query": "is an online review protected opinion or actionable defamation",
+      "style": "practitioner"
+    },
+    {
+      "id": "rw-0986",
+      "query": "what does at will employment actually mean",
+      "style": "layperson"
+    },
+    {
+      "id": "rw-0991",
+      "query": "\"felony murder\" /p \"in furtherance of\" NOT conspiracy",
+      "style": "boolean"
+    },
+    {
+      "id": "rw-0996",
+      "query": "injuntion temprary restraning order",
+      "style": "misspelled"
+    }
+  ]
+}

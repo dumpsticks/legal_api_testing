@@ -1,0 +1,1703 @@
+{
+  "suite": "search-realworld-1000",
+  "note": "Same landmark idea as the phrase bank, keyed to this bank's exact query strings. Most lay questions have no single correct case and are absent on purpose.",
+  "count": 212,
+  "rows": [
+    {
+      "query": "\"summary judgment\" /s \"genuine dispute\" AND \"material fact\"",
+      "wantCaseName": "celotex|liberty lobby|matsushita",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"motion to dismiss\" /p \"plausible on its face\" NOT arbitration",
+      "wantCaseName": "twombly|iqbal|conley v\\.? gibson",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"personal jurisdiction\" OR \"long-arm\") /s \"purposeful availment\"",
+      "wantCaseName": "international shoe|daimler|ford motor|burger king|asahi|hanson v\\.? denckla|world-?wide volkswagen",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"class certification\" /p predominance NOT \"collective action\"",
+      "wantCaseName": "dukes|amchem|behrend|falcon",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"statute of limitations\" w/10 \"discovery rule\" AND accrual",
+      "wantCaseName": "rotella|urie v\\.? thompson|kubrick|merck|trw v\\.? andrews",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "res judicta claim preclusion",
+      "wantCaseName": "moitie|sturgell|montana v\\.? united states|cromwell",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"temporary restraining order\" OR \"preliminary injunction\") /p \"irreparable harm\"",
+      "wantCaseName": "winter|munaf|ebay|nken|sampson v\\.? murray",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"attorney fees\" /s (\"prevailing party\" OR \"fee shifting\") AND lodestar",
+      "wantCaseName": "hensley|perdue|blum v\\.? stenson|city of burlington|buckhannon",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what sanctions are available for negligent rather than intentional spoliation of evidence",
+      "wantCaseName": "chambers v\\.? nasco|silvestri|residential funding|zubulake",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what makes an arbitration clause in an employment handbook unenforceable",
+      "wantCaseName": "concepcion|epic systems|rent-?a-?center|circuit city|gilmer",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what makes an arbitration clause in a consumer loan unconscionable",
+      "wantCaseName": "concepcion|italian colors|prima paint|rent-?a-?center",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is an order denying a motion to compel arbitration immediately appealable",
+      "wantCaseName": "coinbase|lamps plus|green tree|moses h\\.? cone|cohen v\\.? beneficial",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"reasonable suspicion\" /s \"terry stop\" AND frisk",
+      "wantCaseName": "terry v\\.? ohio|wardlow|arvizu|sokolow|navarette",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "miranda /p \"custodial interrogation\" NOT \"public safety\"",
+      "wantCaseName": "miranda v\\.? arizona|innis|berghuis|howes v\\.? fields|stansbury",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"good faith exception\" /s \"exclusionary rule\"",
+      "wantCaseName": "united states v\\.? leon|mapp v\\.? ohio|herring|davis v\\.? united states|krull",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"cell phone\" OR smartphone) /p warrant AND \"search incident to arrest\"",
+      "wantCaseName": "riley v\\.? california|carpenter|arizona v\\.? gant|chimel",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"ineffective assistance\" w/15 \"deficient performance\" AND prejudice",
+      "wantCaseName": "strickland|padilla|hill v\\.? lockhart|cronic|lafler",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "miranda rights custodial interogation",
+      "wantCaseName": "miranda v\\.? arizona|innis|berghuis|howes v\\.? fields|stansbury",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "illegal serch and seizure sucession of evidence",
+      "wantCaseName": "mapp v\\.? ohio|united states v\\.? leon|weeks v\\.? united states|wong sun",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "probable cuase warrentless arrest",
+      "wantCaseName": "illinois v\\.? gates|beck v\\.? ohio|devenpeck|atwater|draper",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "do the police need a warrant to search my car",
+      "wantCaseName": "arizona v\\.? gant|carroll v\\.? united states|acevedo|belton|byrd",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "the police never read me my rights can my case be dismissed",
+      "wantCaseName": "miranda v\\.? arizona|patane|elstad|chavez v\\.? martinez",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can police search my phone without permission",
+      "wantCaseName": "riley v\\.? california|carpenter",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when does a traffic stop become an unlawful seizure due to its duration",
+      "wantCaseName": "rodriguez v\\.? united states|caballes|prouse|sharpe",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what makes a consent to search involuntary under the totality of the circumstances",
+      "wantCaseName": "schneckloth|randolph|rodriguez|fernandez v\\.? california|drayton|bustamonte",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a dog sniff at the front door of a home a fourth amendment search",
+      "wantCaseName": "florida v\\.? jardines|kyllo|caballes|place",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what remedy follows a brady violation discovered after trial",
+      "wantCaseName": "brady v\\.? maryland|giglio|kyles|bagley|agurs|smith v\\.? cain",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how is prejudice measured when counsel fails to advise of an immigration consequence",
+      "wantCaseName": "padilla v\\.? kentucky|lee v\\.? united states|strickland|hill v\\.? lockhart",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is entrapment a defense if the police set me up",
+      "wantCaseName": "jacobson v\\.? united states|sherman v\\.? united states|sorrells|mathews v\\.? united states|russell",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can a blood draw be compelled from an unconscious dui suspect",
+      "wantCaseName": "mitchell v\\.? wisconsin|birchfield|missouri v\\.? mcneely|schmerber",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "dui /p \"breath test\" AND (\"implied consent\" OR refusal)",
+      "wantCaseName": "birchfield|mcneely|schmerber|mitchell v\\.? wisconsin|south dakota v\\.? neville",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is it self defense if I shot someone breaking into my house",
+      "wantCaseName": "beard v\\.? united states|brown v\\.? united states|allison|state v\\.? gartland",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "daubert /s (\"reliability\" OR \"gatekeeping\") AND \"expert testimony\"",
+      "wantCaseName": "daubert|kumho|joiner|frye",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "hearsay /p (\"excited utterance\" OR \"present sense impression\")",
+      "wantCaseName": "crawford|davis v\\.? washington|tome|idaho v\\.? wright|white v\\.? illinois",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"attorney client privilege\" w/15 \"crime fraud exception\"",
+      "wantCaseName": "zolin|upjohn|clark v\\.? united states|nixon",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"prior bad acts\" /s (\"404(b)\" OR propensity) NOT sentencing",
+      "wantCaseName": "huddleston|old chief|michelson|dowling",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "expert wittness daubert relaibility",
+      "wantCaseName": "daubert|kumho|joiner|frye",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "atorney client privelege waiver",
+      "wantCaseName": "upjohn|zolin|swidler|clark v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "hersay exeption excited uterance",
+      "wantCaseName": "crawford|davis v\\.? washington|white v\\.? illinois|idaho v\\.? wright",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a lie detector test admissible in court",
+      "wantCaseName": "united states v\\.? scheffer|frye|daubert",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "negligence /s \"proximate cause\" AND (\"duty of care\" OR foreseeability)",
+      "wantCaseName": "palsgraf|carroll towing|kinsman|petition of kinsman",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"respondeat superior\" /p \"scope of employment\" AND \"personal errand\"",
+      "wantCaseName": "ira s\\.? bushey|faragher|burlington industries|meyer v\\.? holley",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"punitive damages\" /s (\"clear and convincing\" OR \"reckless indifference\")",
+      "wantCaseName": "gore|campbell|exxon shipping|haslip|kolstad",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "defamation /s \"actual malice\" AND \"public figure\" NOT trademark",
+      "wantCaseName": "sullivan|gertz|curtis publishing|hustler|firestone",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "defamation of caracter sue someone",
+      "wantCaseName": "sullivan|gertz|milkovich|dun & bradstreet|philadelphia newspapers",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "slander vs libal difrence",
+      "wantCaseName": "sullivan|gertz|milkovich|dun & bradstreet",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"intentional infliction\" w/10 \"outrageous conduct\"",
+      "wantCaseName": "hustler|snyder v\\.? phelps|womack|state rubbish",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is an online review protected opinion or actionable defamation",
+      "wantCaseName": "milkovich|obsidian finance|gertz|ollman",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "someone is posting lies about me online can I sue them",
+      "wantCaseName": "milkovich|sullivan|gertz|zeran|obsidian",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"invasion of privacy\" OR \"intrusion upon seclusion\") /p recording",
+      "wantCaseName": "katz v\\.? united states|shulman v\\.? group w|dietemann|hamberger|bartnicki",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is it legal to record a conversation",
+      "wantCaseName": "bartnicki|katz v\\.? united states|white v\\.? united states|on lee|lopez v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "recording conversation without concent legal",
+      "wantCaseName": "bartnicki|katz v\\.? united states|on lee|lopez v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can my employer read my personal emails on a work laptop",
+      "wantCaseName": "city of ontario v\\.? quon|o'connor v\\.? ortega|stengart|smyth v\\.? pillsbury",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"medical malpractice\" /s (\"standard of care\" OR \"informed consent\")",
+      "wantCaseName": "canterbury v\\.? spence|schloendorff|natanson|cobbs v\\.? grant|salgo",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "informd consent surgery complicaton",
+      "wantCaseName": "canterbury v\\.? spence|schloendorff|cobbs v\\.? grant|natanson",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when may a plaintiff recover emotional distress damages without physical impact",
+      "wantCaseName": "dillon v\\.? legg|thing v\\.? la chusa|molien|gottshall|metro-?north",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when is a landowner liable for injuries to a trespassing child",
+      "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart|herrick|restatement|kahn v\\.? james burton|bennett v\\.? stanley",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"premises liability\" /s (\"open and obvious\" OR invitee)",
+      "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a social host liable for serving alcohol to an adult guest who then drives",
+      "wantCaseName": "kelly v\\.? gwinnell|coulter v\\.? superior court|klein v\\.? raysinger|burkhart",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"qualified immunity\" /s \"clearly established\" AND \"excessive force\"",
+      "wantCaseName": "harlow v\\.? fitzgerald|pearson v\\.? callahan|saucier|graham v\\.? connor|kisela|mullenix",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "qualifed immunity clearley established",
+      "wantCaseName": "harlow v\\.? fitzgerald|pearson v\\.? callahan|saucier|anderson v\\.? creighton",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when is a right clearly established for purposes of qualified immunity",
+      "wantCaseName": "anderson v\\.? creighton|hope v\\.? pelzer|pearson v\\.? callahan|al-?kidd|harlow",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"section 1983\" /p (\"policy or custom\" OR monell) NOT \"eleventh amendment\"",
+      "wantCaseName": "monell|city of canton|pembaur|connick v\\.? thompson|board of county comm",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what pleading detail does a monell claim require to survive dismissal",
+      "wantCaseName": "monell|iqbal|twombly|connick v\\.? thompson|city of canton",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"deliberate indifference\" w/15 (\"serious medical need\" OR prison)",
+      "wantCaseName": "estelle v\\.? gamble|farmer v\\.? brennan|wilson v\\.? seiter|helling",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "excesive force police brutalty lawsuit",
+      "wantCaseName": "graham v\\.? connor|tennessee v\\.? garner|scott v\\.? harris|kingsley",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I sue the police for violating my rights",
+      "wantCaseName": "monroe v\\.? pape|bivens|monell|graham v\\.? connor|harlow",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"first amendment\" OR \"free speech\") /s \"public forum\" AND \"content based\"",
+      "wantCaseName": "perry education|hague v\\.? cio|reed v\\.? town of gilbert|cornelius|ward v\\.? rock",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can a public employee be disciplined for speech on a matter of public concern",
+      "wantCaseName": "pickering|connick v\\.? myers|garcetti|lane v\\.? franks|rankin v\\.? mcpherson",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "freedom of speach retaliaton public employee",
+      "wantCaseName": "pickering|connick v\\.? myers|garcetti|lane v\\.? franks",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can a school punish my kid for what they said off campus",
+      "wantCaseName": "mahanoy|tinker|bethel|morse v\\.? frederick|hazelwood",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I film the police in public",
+      "wantCaseName": "glik v\\.? cunniffe|fields v\\.? city of philadelphia|turner v\\.? driver|smith v\\.? cumming",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"equal protection\" /p (\"strict scrutiny\" OR \"suspect classification\")",
+      "wantCaseName": "carolene products|korematsu|loving v\\.? virginia|city of cleburne|adarand|craig v\\.? boren",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "do I have to show my id to police if I did nothing wrong",
+      "wantCaseName": "hiibel|brown v\\.? texas|kolender|papachristou|terry v\\.? ohio",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"hostile work environment\" /p \"severe or pervasive\" AND \"title vii\"",
+      "wantCaseName": "meritor|harris v\\.? forklift|faragher|burlington industries|oncale",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "discrimanation harrassment workplace complaint",
+      "wantCaseName": "meritor|harris v\\.? forklift|faragher|mcdonnell douglas|burlington",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"reasonable accommodation\" w/15 \"interactive process\" AND ada",
+      "wantCaseName": "us airways v\\.? barnett|toyota v\\.? williams|barnett|humiston-?keeling|eeoc v\\.? abercrombie",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"unpaid overtime\" OR flsa) /s \"administrative exemption\"",
+      "wantCaseName": "encino motorcars|christopher v\\.? smithkline|auer v\\.? robbins|helix energy",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "whistleblower /p \"protected activity\" AND \"adverse employment action\"",
+      "wantCaseName": "burlington northern|crawford v\\.? metropolitan|university of texas v\\.? nassar|lawson v\\.? ftc",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what must an employee prove for pregnancy discrimination under the pda",
+      "wantCaseName": "young v\\.? ups|california federal savings|newport news|geduldig|gilbert",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when is an independent contractor misclassified as an employee for wage purposes",
+      "wantCaseName": "dynamex|borello|nationwide v\\.? darden|rutherford food|silk",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "does a severance agreement waiver bar a later eeoc charge",
+      "wantCaseName": "oubre|eeoc v\\.? cosmair|alexander v\\.? gardner-?denver|14 penn plaza",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"at will\" /s (\"public policy\" OR retaliation) AND termination",
+      "wantCaseName": "tameny|petermann|palmateer|sheets v\\.? teddy's|gantt",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "wrongfull termination at will employe",
+      "wantCaseName": "tameny|petermann|palmateer|payne v\\.? western",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I be fired for no reason",
+      "wantCaseName": "payne v\\.? western|tameny|petermann|adair v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is my non compete enforceable if I was laid off",
+      "wantCaseName": "bdo seidman|reed roberts|mitchel v\\.? reynolds|edwards v\\.? arthur andersen",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "non compeete agreement enforcable",
+      "wantCaseName": "bdo seidman|reed roberts|mitchel v\\.? reynolds|edwards v\\.? arthur andersen",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "noncompete /p (\"geographic scope\" OR \"legitimate business interest\") NOT physician",
+      "wantCaseName": "bdo seidman|reed roberts|mitchel v\\.? reynolds|edwards v\\.? arthur andersen",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is an employee entitled to reinstatement after fmla leave expires",
+      "wantCaseName": "ragsdale|coleman v\\.? court of appeals|nevada v\\.? hibbs|sista",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"material breach\" /s \"substantial performance\" NOT construction",
+      "wantCaseName": "jacob & youngs|k & g construction|walker & co|plante v\\.? jacobs",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "breech of contract damagges remedy",
+      "wantCaseName": "hadley v\\.? baxendale|jacob & youngs|peevyhouse|hawkins v\\.? mcgee",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"promissory estoppel\" w/15 \"detrimental reliance\"",
+      "wantCaseName": "ricketts v\\.? scothorn|feinberg|hoffman v\\.? red owl|drennan|allegheny college",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "promisory estopel detrimental relience",
+      "wantCaseName": "ricketts v\\.? scothorn|hoffman v\\.? red owl|drennan|feinberg",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"parol evidence\" /s (\"integration clause\" OR \"fully integrated\")",
+      "wantCaseName": "masterson v\\.? sine|mitchill v\\.? lath|pacific gas|thompson v\\.? libby",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "unconscionable /p \"contract of adhesion\" AND (\"procedural\" OR substantive)",
+      "wantCaseName": "williams v\\.? walker-?thomas|armendariz|henningsen|jones v\\.? star credit",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"liquidated damages\" /p penalty AND (\"reasonable forecast\" OR unenforceable)",
+      "wantCaseName": "priebe & sons|wassenaar|lake river|truck rent-?a-?center",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when does an email exchange satisfy the statute of frauds writing requirement",
+      "wantCaseName": "crabtree v\\.? elizabeth arden|naldi|rosenfeld|stevens v\\.? publicis",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "statue of frauds writting requirement",
+      "wantCaseName": "crabtree v\\.? elizabeth arden|mcintosh|boone v\\.? coe|schwedes",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a click through terms of service enforceable against a consumer",
+      "wantCaseName": "specht v\\.? netscape|nguyen v\\.? barnes|meyer v\\.? uber|hines v\\.? overstock",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "do verbal agreements count as contracts",
+      "wantCaseName": "crabtree v\\.? elizabeth arden|lucy v\\.? zehmer|embry|boone v\\.? coe",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a contract valid if I did not read it",
+      "wantCaseName": "carnival cruise|specht v\\.? netscape|ray v\\.? eurice|upton v\\.? tribilcock",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a no oral modification clause enforceable after a course of performance",
+      "wantCaseName": "rose v\\.? spa realty|beatty v\\.? guggenheim|wagner v\\.? graziano|universal builders",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"adverse possession\" /s hostile AND \"open and notorious\"",
+      "wantCaseName": "howard v\\.? kunto|mannillo v\\.? gorski|van valkenburgh|marengo cave",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "adverse posession claim requirments",
+      "wantCaseName": "howard v\\.? kunto|mannillo v\\.? gorski|van valkenburgh|marengo cave",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "easement /p (\"by necessity\" OR prescriptive) AND \"landlocked\"",
+      "wantCaseName": "othen v\\.? rosier|finn v\\.? williams|granite properties|schwab v\\.? timmons",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "easment by neccessity driveway access",
+      "wantCaseName": "othen v\\.? rosier|finn v\\.? williams|granite properties|schwab v\\.? timmons",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"constructive eviction\" /s \"warranty of habitability\"",
+      "wantCaseName": "javins|pugh v\\.? holmes|hilder v\\.? st\\.? peter|green v\\.? superior court|blackett",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "tennant rights habitibility repairs",
+      "wantCaseName": "javins|pugh v\\.? holmes|hilder v\\.? st\\.? peter|green v\\.? superior court",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "landlord will not fix mold and heat what are my rights",
+      "wantCaseName": "javins|hilder v\\.? st\\.? peter|green v\\.? superior court|pugh v\\.? holmes",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how does eminent domain work can the state take my land",
+      "wantCaseName": "kelo|berman v\\.? parker|hawaii housing|poletown|penn central|loretto",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\") AND enforcement",
+      "wantCaseName": "nahrstedt|shelley v\\.? kraemer|tulk v\\.? moxhay|neponsit|sanborn v\\.? mclean",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can my hoa fine me for my fence color",
+      "wantCaseName": "nahrstedt|neponsit|sanborn v\\.? mclean|tulk v\\.? moxhay",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "forclosure redemtion rights after sale",
+      "wantCaseName": "bfp v\\.? resolution trust|mennonite board|central trust|wansley",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what notice is required before a nonjudicial foreclosure sale is valid",
+      "wantCaseName": "mennonite board|mullane|bfp v\\.? resolution trust|apao",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what defects in a foreclosure sale support setting the sale aside",
+      "wantCaseName": "bfp v\\.? resolution trust|central trust|crown life|holt v\\.? citizens",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "my neighbors tree fell on my house who pays",
+      "wantCaseName": "fancher v\\.? fagella|sterling v\\.? weinstein|whitesell|lane v\\.? w\\.? j\\.? curry",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"best interests\" /s custody AND (\"material change\" OR modification)",
+      "wantCaseName": "palmore v\\.? sidoti|troxel|painter v\\.? bannister|burgess|ex parte devine",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "child custudy best interst of the child",
+      "wantCaseName": "palmore v\\.? sidoti|troxel|painter v\\.? bannister|burgess",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how do grandparents get visitation rights",
+      "wantCaseName": "troxel v\\.? granville|moore v\\.? east cleveland|hawk v\\.? hawk|brooks v\\.? parkerson",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"termination of parental rights\" w/10 \"clear and convincing\"",
+      "wantCaseName": "santosky|lassiter|m\\.? l\\.? b\\.? v\\.? s\\.? l\\.? j\\.?|stanley v\\.? illinois",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"prenuptial agreement\" /s (\"full disclosure\" OR unconscionable)",
+      "wantCaseName": "simeone v\\.? simeone|posner v\\.? posner|button v\\.? button|deLorean|newman v\\.? newman",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "prenuptual agreemnt unenforcable",
+      "wantCaseName": "simeone v\\.? simeone|posner v\\.? posner|button v\\.? button|deLorean",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what is a prenup and is it worth it",
+      "wantCaseName": "simeone v\\.? simeone|posner v\\.? posner|button v\\.? button",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what is common law marriage",
+      "wantCaseName": "meister v\\.? moore|in re estate of hunsaker|jennings v\\.? hurt|boswell v\\.? boswell",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is adultery a crime",
+      "wantCaseName": "lawrence v\\.? texas|oliverson|martin v\\.? ziherl|bowers v\\.? hardwick",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "relocation /p \"custodial parent\" AND burden NOT immigration",
+      "wantCaseName": "baures v\\.? lewis|tropea|burgess|lamusga|ireland v\\.? ireland",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can my ex take my kids out of state without asking me",
+      "wantCaseName": "baures v\\.? lewis|tropea|burgess|lamusga",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how is income imputed to a voluntarily underemployed child support obligor",
+      "wantCaseName": "little v\\.? little|in re marriage of ilas|deegan|moncada",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when may a court deviate from the child support guidelines",
+      "wantCaseName": "little v\\.? little|voishan v\\.? palma|ford v\\.? ford|smith v\\.? freeman",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"equitable distribution\" /p (\"separate property\" OR commingled)",
+      "wantCaseName": "painter v\\.? painter|o'brien v\\.? o'brien|rothman|pereira v\\.? pereira|van camp",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"undue influence\" /s (\"testamentary capacity\" OR \"confidential relationship\")",
+      "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh|logotheti",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "undo influence will contest eldery parent",
+      "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "who bears the burden of proving undue influence in a will contest",
+      "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh|logotheti",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I contest my fathers will",
+      "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"holographic will\" /p (\"material provisions\" OR handwriting)",
+      "wantCaseName": "in re estate of gonzalez|estate of muder|succession of burke|in re will of ranney",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach",
+      "wantCaseName": "harvard college v\\.? amory|in re estate of janes|meinhard v\\.? salmon|shriners hospitals",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"elective share\" w/15 \"surviving spouse\"",
+      "wantCaseName": "sullivan v\\.? burkin|newman v\\.? dore|in re estate of cross|seifert v\\.? southern",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "does a pour over will incorporate later amendments to the trust",
+      "wantCaseName": "clymer v\\.? mayo|in re estate of pilafas|second bank-?state street|montgomery",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when may a court reform an unambiguous trust for mistake",
+      "wantCaseName": "in re estate of herceg|walker v\\.? walker|erickson v\\.? erickson|flannery",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what happens if someone dies without a will",
+      "wantCaseName": "in re estate of|hall v\\.? vallandingham|estate of goick|cavers v\\.? houston",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"likelihood of confusion\" /s (\"trademark infringement\" OR \"sleekcraft\")",
+      "wantCaseName": "sleekcraft|polaroid|du pont|two pesos|virgin enterprises",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "tradmark liklihood of confusion",
+      "wantCaseName": "sleekcraft|polaroid|du pont|two pesos|virgin enterprises",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how to trademark a name",
+      "wantCaseName": "abercrombie|two pesos|zatarains|lanham|in re chippendales",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"fair use\" /p transformative AND (\"market harm\" OR parody)",
+      "wantCaseName": "campbell v\\.? acuff-?rose|google v\\.? oracle|warhol|harper & row|sony v\\.? universal",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "copywrite infringment fair use",
+      "wantCaseName": "campbell v\\.? acuff-?rose|harper & row|sony v\\.? universal|google v\\.? oracle|warhol",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I use a song in my youtube video if I give credit",
+      "wantCaseName": "campbell v\\.? acuff-?rose|lenz v\\.? universal|bridgeport|sony v\\.? universal|warhol",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "someone is using my photos on their website without permission",
+      "wantCaseName": "perfect 10|kelly v\\.? arriba|feist|goldman v\\.? breitbart|sony v\\.? universal",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"trade secret\" w/15 (\"reasonable measures\" OR misappropriation)",
+      "wantCaseName": "kewanee oil|e\\.? i\\.? du pont v\\.? christopher|rockwell graphic|ruckelshaus",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"work made for hire\" /p (\"independent contractor\" OR \"scope of employment\")",
+      "wantCaseName": "ccnv v\\.? reid|community for creative non-?violence|aymes v\\.? bonelli|martha graham",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a functional product feature protectable as trade dress",
+      "wantCaseName": "traffix|qualitex|wal-?mart v\\.? samara|two pesos|inwood",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what makes a copyright infringement claim time barred under the discovery rule",
+      "wantCaseName": "petrella|warner chappell v\\.? nealy|sohm v\\.? scholastic|psihoyos",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "patant infringment damagse royalty",
+      "wantCaseName": "georgia-?pacific|panduit|lucent|uniloc|aro manufacturing",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what is a patent",
+      "wantCaseName": "diamond v\\.? chakrabarty|alice corp|graham v\\.? john deere|ksr|bilski",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"pierce the corporate veil\" /s (\"alter ego\" OR undercapitalization)",
+      "wantCaseName": "walkovszky|sea-?land services|dewitt truck brokers|bartle|minton v\\.? cavaney",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "peirce corporate viel alter ego",
+      "wantCaseName": "walkovszky|sea-?land services|dewitt truck brokers|bartle|minton v\\.? cavaney",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "does an llc protect my personal assets",
+      "wantCaseName": "walkovszky|sea-?land services|dewitt truck brokers|kaycee land",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "when is a member of an llc personally liable for company debts",
+      "wantCaseName": "kaycee land|walkovszky|sea-?land services|netjets",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"business judgment rule\" /p (\"duty of loyalty\" OR \"self dealing\")",
+      "wantCaseName": "smith v\\.? van gorkom|aronson v\\.? lewis|shlensky v\\.? wrigley|guth v\\.? loft|sinclair oil",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "fiduciery duty breech partner",
+      "wantCaseName": "meinhard v\\.? salmon|guth v\\.? loft|smith v\\.? van gorkom|bane v\\.? ferguson",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "my business partner took money from the company account",
+      "wantCaseName": "meinhard v\\.? salmon|guth v\\.? loft|wilkes v\\.? springside|donahue v\\.? rodd",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"derivative suit\" w/15 \"demand futility\"",
+      "wantCaseName": "aronson v\\.? lewis|zapata|rales v\\.? blasband|united food v\\.? zuckerberg|marchand",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "shareholdr derivitive action demand",
+      "wantCaseName": "aronson v\\.? lewis|zapata|rales v\\.? blasband|marchand",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what fiduciary duties does a majority shareholder owe a minority in a close corporation",
+      "wantCaseName": "wilkes v\\.? springside|donahue v\\.? rodd|sinclair oil|nixon v\\.? blackwell|zahn",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"operating agreement\" /p (\"member dissociation\" OR \"judicial dissolution\") AND llc",
+      "wantCaseName": "haley v\\.? talcott|in re silver leaf|dunbar group|fisk ventures",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "(\"debt collector\" OR fdcpa) /s (\"least sophisticated consumer\" OR harassment)",
+      "wantCaseName": "jerman|heintz v\\.? jenkins|clomon v\\.? jackson|russell v\\.? equifax|obduskey",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what conduct violates the fdcpa prohibition on unfair collection practices",
+      "wantCaseName": "jerman|heintz v\\.? jenkins|clomon v\\.? jackson|obduskey|hemmingsen",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can debt collectors call me at work",
+      "wantCaseName": "jerman|heintz v\\.? jenkins|clomon v\\.? jackson|obduskey",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "is a time barred debt actionable if the collector sues on it",
+      "wantCaseName": "midland funding v\\.? johnson|crawford v\\.? lvnv|phillips v\\.? asset acceptance|kimber",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"automatic stay\" /p (\"relief for cause\" OR foreclosure)",
+      "wantCaseName": "midlantic national bank|in re timbers of inwood|city of chicago v\\.? fulton|taggart",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"preferential transfer\" w/10 \"ninety day\"",
+      "wantCaseName": "barnhill v\\.? johnson|union bank v\\.? wolas|begier|deprizio",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"student loan\" /p \"undue hardship\" AND dischargeability",
+      "wantCaseName": "brunner v\\.? new york|in re gerhardt|in re long|educational credit v\\.? polleys",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "will bankruptcy get rid of my student loans",
+      "wantCaseName": "brunner v\\.? new york|in re gerhardt|in re long|educational credit v\\.? polleys",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "bankrupcy chapter 7 exemtions",
+      "wantCaseName": "owen v\\.? owen|schwab v\\.? reilly|law v\\.? siegel|taylor v\\.? freeland",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "garnishment of wagges judgement creditor",
+      "wantCaseName": "sniadach|endicott johnson|north georgia finishing|fuentes v\\.? shevin",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can they garnish my wages without telling me",
+      "wantCaseName": "sniadach|north georgia finishing|fuentes v\\.? shevin|mullane",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can a car be repossessed without notice",
+      "wantCaseName": "fuentes v\\.? shevin|flagg brothers|mitchell v\\.? w\\.? t\\.? grant|ford motor credit",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "reposession of vehical deficiency balance",
+      "wantCaseName": "fuentes v\\.? shevin|flagg brothers|mitchell v\\.? w\\.? t\\.? grant|ford motor credit",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how do I dispute something wrong on my credit report",
+      "wantCaseName": "safeco v\\.? burr|spokeo v\\.? robins|transunion v\\.? ramirez|cushman v\\.? trans union",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"bad faith\" /s (\"failure to settle\" OR \"within policy limits\")",
+      "wantCaseName": "crisci|comunale v\\.? traders|gruenberg|campbell v\\.? state farm|anderson v\\.? continental",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "insurence bad faith denile of claim",
+      "wantCaseName": "crisci|comunale v\\.? traders|gruenberg|anderson v\\.? continental",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "my insurance company denied my claim what can I do",
+      "wantCaseName": "crisci|comunale v\\.? traders|gruenberg|anderson v\\.? continental",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"duty to defend\" /p \"duty to indemnify\" AND broader",
+      "wantCaseName": "gray v\\.? zurich|buss v\\.? superior court|montrose|horace mann|aerojet",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "how is the duty to defend determined under the eight corners rule",
+      "wantCaseName": "gray v\\.? zurich|gehan homes|monroe guaranty|richards v\\.? state farm lloyds",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "does an insurer waive coverage defenses by defending without a reservation of rights",
+      "wantCaseName": "buss v\\.? superior court|gray v\\.? zurich|employers v\\.? beals|shelby steel",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "exclusion /s ambiguous AND \"construed against the insurer\"",
+      "wantCaseName": "gray v\\.? zurich|montrose|garvey v\\.? state farm|bank of the west",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "#stacking w/10 (\"underinsured motorist\" OR \"uninsured motorist\")",
+      "wantCaseName": "allstate v\\.? boynton|tucker v\\.? metropolitan|burnham|cunningham v\\.? insurance",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "uninsurred motorist covrage stacking",
+      "wantCaseName": "allstate v\\.? boynton|tucker v\\.? metropolitan|burnham|cunningham v\\.? insurance",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "who pays if an uninsured driver hits me",
+      "wantCaseName": "allstate v\\.? boynton|tucker v\\.? metropolitan|cunningham v\\.? insurance",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"cancellation of removal\" /s \"exceptional and extremely unusual hardship\"",
+      "wantCaseName": "in re monreal|in re recinas|in re andazola|wilkinson v\\.? garland",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "asylum /p (\"particular social group\" OR \"well founded fear\")",
+      "wantCaseName": "ins v\\.? cardoza-?fonseca|matter of acosta|ins v\\.? elias-?zacarias|matter of m-?e-?v-?g",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"crime involving moral turpitude\" w/15 (\"categorical approach\" OR deportable)",
+      "wantCaseName": "matter of silva-?trevino|moncrieffe|mellouli|descamps|matter of diaz-?lizarraga",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "does a deferred adjudication count as a conviction for immigration purposes",
+      "wantCaseName": "matter of punu|matter of roldan|moncrieffe|matter of eslamizar",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I be deported for a misdemeanor",
+      "wantCaseName": "moncrieffe|mellouli|padilla v\\.? kentucky|leocal|matter of silva-?trevino",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "depportation defence removal hearing",
+      "wantCaseName": "ins v\\.? lopez-?mendoza|matter of monreal|padilla v\\.? kentucky|niz-?chavez",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "asylum aplication credibile fear",
+      "wantCaseName": "ins v\\.? cardoza-?fonseca|ins v\\.? elias-?zacarias|matter of acosta|matter of m-?e-?v-?g",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\")",
+      "wantCaseName": "state farm mutual|overton park|fcc v\\.? fox|dhs v\\.? regents|motor vehicle manufacturers",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what deference does a court owe an agency interpretation after loper bright",
+      "wantCaseName": "loper bright|chevron|skidmore|kisor v\\.? wilkie|auer v\\.? robbins",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"exhaustion of administrative remedies\" /p futility",
+      "wantCaseName": "mccarthy v\\.? madigan|woodford v\\.? ngo|darby v\\.? cisneros|ross v\\.? blake",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"substantial evidence\" w/15 (\"disability\" OR \"residual functional capacity\")",
+      "wantCaseName": "biestek v\\.? berryhill|richardson v\\.? perales|bowen v\\.? yuckert|sullivan v\\.? zebley",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "sosial security disabilty appeal denile",
+      "wantCaseName": "biestek v\\.? berryhill|richardson v\\.? perales|bowen v\\.? yuckert|sims v\\.? apfel",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "my disability claim was denied how do I appeal",
+      "wantCaseName": "biestek v\\.? berryhill|richardson v\\.? perales|sims v\\.? apfel|bowen v\\.? yuckert",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can the dmv suspend my license without a hearing",
+      "wantCaseName": "mackey v\\.? montrym|bell v\\.? burson|dixon v\\.? love|illinois v\\.? batchelder",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "unemploymnet benifits appeal hearing",
+      "wantCaseName": "sherbert v\\.? verner|california dept of human resources v\\.? java|frazee|thomas v\\.? review board",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "can I get unemployment if I quit my job",
+      "wantCaseName": "sherbert v\\.? verner|frazee|thomas v\\.? review board|hobbie",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"abuse of discretion\" /s (\"clear error\" OR \"de novo\") AND \"standard of review\"",
+      "wantCaseName": "koon v\\.? united states|pierce v\\.? underwood|anderson v\\.? bessemer|cooter & gell",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"plain error\" /p (\"not preserved\" OR waived) NOT sentencing",
+      "wantCaseName": "united states v\\.? olano|puckett v\\.? united states|johnson v\\.? united states|rosales-?mireles",
+      "wantFlags": "i",
+      "federalOnly": true,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "harmles error preseved objection",
+      "wantCaseName": "chapman v\\.? california|kotteakos|neder v\\.? united states|olano",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your ground\")",
+      "wantCaseName": "people v\\.? goetz|state v\\.? norman|beard v\\.? united states|brown v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "assult and battery charges self defence",
+      "wantCaseName": "people v\\.? goetz|state v\\.? norman|beard v\\.? united states|brown v\\.? united states",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"felony murder\" /p \"in furtherance of\" NOT conspiracy",
+      "wantCaseName": "people v\\.? stamp|state v\\.? canola|enmund|tison v\\.? arizona|people v\\.? washington",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "what is required to establish accomplice liability for aiding and abetting",
+      "wantCaseName": "rosemond v\\.? united states|nye & nissen|state v\\.? tally|people v\\.? beeman",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    },
+    {
+      "query": "\"constructive possession\" w/10 \"intent to distribute\"",
+      "wantCaseName": "united states v\\.? jenkins|turner v\\.? united states|united states v\\.? blue|county court",
+      "wantFlags": "i",
+      "federalOnly": false,
+      "homeStates": null,
+      "stateLandmarksOnly": false
+    }
+  ]
+}

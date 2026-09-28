@@ -1,0 +1,845 @@
+{
+  "version": 1,
+  "description": "Graded queries for LawDiver ranking eval. Labels use reporter citations resolved at replay time; grade 0–3 (3 = must appear on page 1).",
+  "queries": [
+    {
+      "id": "cite-miranda",
+      "query": "384 U.S. 436",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "384 U.S. 436",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-brown",
+      "query": "347 U.S. 483",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "347 U.S. 483",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-marbury",
+      "query": "5 U.S. 137",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "5 U.S. 137",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-roe",
+      "query": "410 U.S. 113",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "410 U.S. 113",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-terry",
+      "query": "392 U.S. 1",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "392 U.S. 1",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-chevron",
+      "query": "467 U.S. 837",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "467 U.S. 837",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-iqbal",
+      "query": "556 U.S. 662",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "556 U.S. 662",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "cite-twombly",
+      "query": "550 U.S. 544",
+      "kind": "citation",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "550 U.S. 544",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-miranda",
+      "query": "miranda v. arizona",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "384 U.S. 436",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-brown",
+      "query": "brown v. board of education",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "347 U.S. 483",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-terry",
+      "query": "terry v. ohio",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "392 U.S. 1",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-gideon",
+      "query": "gideon v. wainwright",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "372 U.S. 335",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-mapp",
+      "query": "mapp v. ohio",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "367 U.S. 643",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "name-loving",
+      "query": "loving v. virginia",
+      "kind": "name",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "388 U.S. 1",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "bool-child-support",
+      "query": "\"child support\" AND guidelines",
+      "kind": "boolean",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "PA"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "bool-res-ipsa",
+      "query": "\"res ipsa loquitur\" AND (surgery OR anesthesia)",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "bool-qualified-immunity",
+      "query": "\"qualified immunity\" AND \"clearly established\"",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "bool-search-seizure",
+      "query": "\"search and seizure\" AND warrant",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "prox-qualified",
+      "query": "qualified immunity /s clearly established",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "prox-probable-cause",
+      "query": "probable cause /p warrant",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "prox-duty-care",
+      "query": "duty of care w/5 breach",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "phrase-motion-dismiss",
+      "query": "\"motion to dismiss\"",
+      "kind": "phrase",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "phrase-summary-judgment",
+      "query": "\"summary judgment\"",
+      "kind": "phrase",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "phrase-statute-limitations",
+      "query": "\"statute of limitations\"",
+      "kind": "phrase",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "phrase-pierce-veil",
+      "query": "\"pierce the corporate veil\"",
+      "kind": "phrase",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "phrase-forum-non",
+      "query": "\"forum non conveniens\"",
+      "kind": "phrase",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-landlord-deposit",
+      "query": "can a landlord withhold a security deposit for normal wear and tear",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-at-will-fire",
+      "query": "when can an employer fire an at-will employee without cause",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-miranda-custody",
+      "query": "when must police give miranda warnings during a traffic stop",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "384 U.S. 436",
+          "grade": 2
+        }
+      ]
+    },
+    {
+      "id": "nl-search-car",
+      "query": "can police search a car without a warrant after a traffic stop",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-ada-accommodation",
+      "query": "what is a reasonable accommodation under the americans with disabilities act",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-title-vii",
+      "query": "hostile work environment sexual harassment elements under title vii",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-flsa-overtime",
+      "query": "when is an employee exempt from overtime under the fair labor standards act",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-fourth-amendment-home",
+      "query": "does the fourth amendment require a warrant to enter a home to arrest someone",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-standing",
+      "query": "what are the elements of article iii standing for a federal lawsuit",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-personal-jurisdiction",
+      "query": "when does a court have personal jurisdiction over an out of state defendant",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-daubert",
+      "query": "standard for admitting expert scientific testimony in federal court",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "509 U.S. 579",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "nl-abortion-right",
+      "query": "right to an abortion",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "597 U.S. 215",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "nl-dobbs-name",
+      "query": "Dobbs",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "597 U.S. 215",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "nl-abortion-constitutional",
+      "query": "abortion constitutional right",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "597 U.S. 215",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "nl-brady",
+      "query": "prosecution duty to disclose exculpatory evidence to the defense",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "373 U.S. 83",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "nl-batson",
+      "query": "equal protection challenge to peremptory strikes of jurors",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "476 U.S. 79",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "nl-strickland",
+      "query": "ineffective assistance of counsel standard for criminal defendants",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "466 U.S. 668",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "ca-negligence",
+      "query": "elements of negligence duty breach causation damages",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_plus_federal",
+        "states": [
+          "CA"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "ny-landlord",
+      "query": "landlord liability for failure to repair dangerous conditions",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "NY"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "tx-noncompete",
+      "query": "enforceability of noncompete agreements under texas law",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "TX"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "fl-homestead",
+      "query": "florida homestead exemption from creditors",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "FL"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "il-dram-shop",
+      "query": "dram shop liability for serving alcohol to intoxicated patrons",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "IL"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "pa-workers-comp",
+      "query": "pennsylvania workers compensation exclusive remedy",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "PA"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "field-holdings",
+      "query": "holdings:\"clearly established\"",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "field-case-name",
+      "query": "case_name:miranda",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "384 U.S. 436",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "hybrid-qi",
+      "query": "Miranda v. Arizona qualified immunity /s clearly established",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "384 U.S. 436",
+          "grade": 2
+        }
+      ]
+    },
+    {
+      "id": "creditor-claim",
+      "query": "creditor w/3 claim",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "bool-and-or",
+      "query": "(negligence OR recklessness) AND causation",
+      "kind": "boolean",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-trade-secret",
+      "query": "what constitutes misappropriation of a trade secret under the defend trade secrets act",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-copyright-fair-use",
+      "query": "fair use factors for copyright infringement defense",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-patent-obviousness",
+      "query": "obviousness standard for patent invalidity under section 103",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-securities-fraud",
+      "query": "elements of securities fraud under rule 10b-5",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-antitrust",
+      "query": "rule of reason versus per se analysis under the sherman act",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-bankruptcy-stay",
+      "query": "automatic stay in bankruptcy and exceptions for domestic support",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-erisa",
+      "query": "standard of review for denial of erisa plan benefits",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-habeas",
+      "query": "exhaustion of state remedies requirement for federal habeas corpus",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-class-action",
+      "query": "requirements for class certification under rule 23",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": []
+    },
+    {
+      "id": "9th-circuit-qi",
+      "query": "qualified immunity clearly established",
+      "kind": "nl",
+      "scope": {
+        "kind": "circuit",
+        "circuits": [
+          9
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "nl-probate-exception",
+      "query": "probate exception federal law",
+      "kind": "nl",
+      "scope": {
+        "kind": "national"
+      },
+      "labels": [
+        {
+          "citation": "547 U.S. 293",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "fl-undue-influence-probate",
+      "query": "undue influence in probate",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "FL"
+        ]
+      },
+      "labels": [
+        {
+          "citation": "253 So. 2d 697",
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "ca-undue-influence-probate-will-contest",
+      "query": "undue influence in probate will contest",
+      "kind": "nl",
+      "scope": {
+        "kind": "state_only",
+        "states": [
+          "CA"
+        ]
+      },
+      "labels": []
+    },
+    {
+      "id": "landmark-agency-deference",
+      "query": "deference owed to an agency interpretation of an ambiguous statute",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [
+        { "citation": "603 U.S. 369", "grade": 3 },
+        { "citation": "467 U.S. 837", "grade": 1 }
+      ]
+    },
+    {
+      "id": "landmark-custodial-warnings",
+      "query": "warnings required before custodial interrogation",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "384 U.S. 436", "grade": 3 }]
+    },
+    {
+      "id": "landmark-appointed-counsel",
+      "query": "right to appointed counsel for indigent criminal defendants",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "372 U.S. 335", "grade": 3 }]
+    },
+    {
+      "id": "landmark-exclusionary-states",
+      "query": "exclusionary rule applied to the states",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "367 U.S. 643", "grade": 3 }]
+    },
+    {
+      "id": "landmark-minimum-contacts",
+      "query": "minimum contacts required for personal jurisdiction",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "326 U.S. 310", "grade": 3 }]
+    },
+    {
+      "id": "landmark-cell-phone-sia",
+      "query": "warrantless search of a cell phone seized incident to arrest",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "573 U.S. 373", "grade": 3 }]
+    },
+    {
+      "id": "landmark-plausible-pleading",
+      "query": "pleading standard requiring a plausible claim for relief",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [
+        { "citation": "550 U.S. 544", "grade": 3 },
+        { "citation": "556 U.S. 662", "grade": 2 }
+      ]
+    },
+    {
+      "id": "landmark-expert-scientific",
+      "query": "admissibility standard for expert scientific testimony",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "509 U.S. 579", "grade": 3 }]
+    },
+    {
+      "id": "landmark-qi-clearly-established",
+      "query": "qualified immunity clearly established law standard",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "555 U.S. 223", "grade": 3 }]
+    },
+    {
+      "id": "landmark-sj-moving-party",
+      "query": "summary judgment burden on the moving party",
+      "kind": "landmark_issue",
+      "scope": { "kind": "national" },
+      "labels": [{ "citation": "477 U.S. 317", "grade": 3 }]
+    }
+  ]
+}
