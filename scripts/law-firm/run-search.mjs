@@ -19,6 +19,8 @@ const arg = (n, d) => process.argv.find((a) => a.startsWith(`--${n}=`))?.split('
 const RUN = arg('run', new Date().toISOString().slice(0, 10));
 const LIMIT = Number(arg('limit', 0)) || null;
 const SUITE = arg('suite', 'all');
+// --force-type=keyword sends every row with that searchType (keyword = the boolean engine)
+const FORCE = arg('force-type', null);
 const RAW = resolve(ROOT, 'runs/law-firm', RUN, 'raw');
 mkdirSync(RAW, { recursive: true });
 const OUT = resolve(RAW, 'search.jsonl');
@@ -34,7 +36,11 @@ if (SUITE !== 'carried') {
 if (SUITE !== 'bank') {
   const q = load('datasets/law-firm/carried-forward/realworld-boolean/queries.json').rows;
   const k = new Map(load('datasets/law-firm/carried-forward/realworld-boolean/answer-key.json').rows.map((r) => [r.id, r]));
-  for (const r of q) items.push({ suite: 'carried', row: { ...r, searchType: 'auto', limit: 10 }, key: k.get(r.id) });
+  for (const r of q) {
+    const kk = k.get(r.id);
+    // under a forced type, also full-text check every 12th carried row
+    items.push({ suite: 'carried', row: { ...r, searchType: 'auto', limit: 10 }, key: FORCE && Number(r.id.replace(/\D/g, '')) % 12 === 0 ? { ...kk, verifyBooleanText: true } : kk });
+  }
 }
 const done = new Set();
 if (existsSync(OUT)) {
@@ -86,7 +92,7 @@ await pool(
   async ({ suite, row, key: k }) => {
     const body = {
       query: row.query,
-      searchType: row.searchType ?? 'auto',
+      searchType: FORCE ?? row.searchType ?? 'auto',
       limit: row.limit ?? 10,
       jurisdiction: row.jurisdiction,
       include: { goodLawReport: false },
@@ -98,6 +104,7 @@ await pool(
     const rec = {
       id: row.id,
       suite,
+      searchType: FORCE ?? row.searchType ?? 'auto',
       at: new Date().toISOString(),
       httpStatus: r.status,
       ms: r.ms,

@@ -65,7 +65,7 @@ function gradeSearch() {
     for (const q of Q) {
       const k = K.get(q.id);
       const r = raw.get(q.id);
-      const g = { id: q.id, suite, query: q.query, scope: q.jurisdiction, searchType: q.searchType, template: q.template ?? q.style, topic: q.topic ?? q.category, filters: q.filters ?? null, problems: [] };
+      const g = { id: q.id, suite, query: q.query, scope: q.jurisdiction, searchType: raw.get(q.id)?.searchType ?? q.searchType, template: q.template ?? q.style, topic: q.topic ?? q.category, filters: q.filters ?? null, problems: [] };
       graded.push(g);
       if (!r) {
         g.status = 'not_run';
@@ -86,7 +86,7 @@ function gradeSearch() {
         g.problems.push({ code: 'degraded', detail: JSON.stringify(r.searchInfo?.engineErrors ?? r.warning ?? '').slice(0, 160) });
         fix('search_degraded', 'Search came back degraded (an engine failed or timed out).', `${q.id}`, 'search');
       }
-      if (q.searchType === 'keyword' && (g.engines ?? []).some((e) => e !== 'keyword')) {
+      if (g.searchType === 'keyword' && (g.engines ?? []).some((e) => e !== 'keyword')) {
         g.problems.push({ code: 'keyword_mode_ran_other_engines', detail: g.engines.join(',') });
         fix('search_keyword_mode_mixed', 'searchType "keyword" still blended semantic/topic engines into a terms-and-connectors query.', `${q.id} engines=${g.engines.join('+')}`, 'search');
       }
@@ -95,7 +95,7 @@ function gradeSearch() {
         const broad = ['all_federal', 'all_states', 'all_states_and_federal'].includes(q.jurisdiction.type);
         if (broad && !q.filters?.dateFrom && !q.filters?.dateTo && suite === 'bank') {
           g.problems.push({ code: 'empty_broad_scope', detail: `nothing in ${q.jurisdiction.type} for a mainstream doctrine query` });
-          fix(q.template === 'wl-but-not' ? 'search_empty_but_not' : 'search_empty_broad', q.template === 'wl-but-not' ? 'Westlaw "%" (BUT NOT) query returns nothing in a nationwide scope — the % operator is not parsed (the same exclusion written "AND NOT" returns results).' : 'Nationwide-scope boolean query on a mainstream doctrine returns an empty page.', `${q.id} [${q.searchType}] ${q.query.slice(0, 80)}`, 'search');
+          fix(q.template === 'wl-but-not' ? 'search_empty_but_not' : 'search_empty_broad', q.template === 'wl-but-not' ? 'Westlaw "%" (BUT NOT) query returns nothing in a nationwide scope — the % operator is not parsed (the same exclusion written "AND NOT" returns results).' : 'Nationwide-scope boolean query on a mainstream doctrine returns an empty page.', `${q.id} [${g.searchType}] ${q.query.slice(0, 80)}`, 'search');
         }
       }
       // scope / dates / published / duplicates / lint

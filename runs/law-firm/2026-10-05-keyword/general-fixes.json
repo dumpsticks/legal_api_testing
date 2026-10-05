@@ -1,0 +1,336 @@
+[
+ {
+  "code": "landmark_missing_bank",
+  "title": "Controlling landmark for the doctrine not in the top 10 of an in-scope boolean search.",
+  "area": "search",
+  "count": 430,
+  "examples": [
+   "LF-BS-0002 [CA + federal] bystand! /p \"zone of danger\" → want dillon v\\. legg|thing v\\. la chusa",
+   "LF-BS-0019 [4 Cir.] (retaliation OR \"protected activity\") /s \"materially adverse\" → want burlington n|nassar|crawford v\\. metro|t",
+   "LF-BS-0025 [all_states] \"market share liability\" w/s des → want sindell|hymowitz",
+   "LF-BS-0028 [9 Cir.] (\"likelihood of confusion\" OR \"sleekcraft factors\") /s trademark → want sleekcraft|amf inc",
+   "LF-BS-0031 [5 Cir.] \"economic substance\" & \"business purpose\" % criminal → want gregory v\\. helvering|frank lyon|knetsch",
+   "LF-BS-0054 [4 Cir.] \"automatic stay\" w/s \"section 362\" → want city of chicago v\\. fulton|strumpf",
+   "LF-BS-0055 [OH + federal] jeopard! /25 \"multiple punishments\" → want blockburger|united states v\\. dixon|gamb",
+   "LF-BS-0057 [DE state courts] \"business judgment rule\" & \"duty of care\" % criminal → want aronson|smith v\\. van gorkom|unocal|revl"
+  ]
+ },
+ {
+  "code": "scope_all_states_federal_court_in_state_scope",
+  "title": "Scope \"all_states\" returned federal court in state scope.",
+  "area": "search",
+  "count": 330,
+  "examples": [
+   "LF-BS-0025: District Court, District of Columbia — Bortell v. Eli Lilly and Co.",
+   "LF-BS-0025: District Court, E.D. New York — In re DES Cases",
+   "LF-BS-0044: District Court, S.D. Indiana — Encompass Insurance Company v. Samsung Electronics",
+   "LF-BS-0044: District Court, D. Arizona — Groth v. Ceska Zbrojovka Defence SE",
+   "LF-BS-0044: District Court, N.D. Georgia — Harvard v. Sig Sauer, Inc.",
+   "LF-BS-0044: District Court, N.D. Texas — Allstate Vehicle and Property Insurance Co. v. Sam",
+   "LF-BS-0044: District Court, M.D. Florida — Demanget v. Samsung Electronics America, Inc., A N",
+   "LF-BS-0044: District Court, E.D. California — Smith v. Link Snacks, Inc."
+  ]
+ },
+ {
+  "code": "search_empty_keyed",
+  "title": "Empty result page for an in-scope doctrine query that has a controlling landmark.",
+  "area": "search",
+  "count": 119,
+  "examples": [
+   "LF-BS-0002 [CA + federal] bystand! /p \"zone of danger\"",
+   "LF-BS-0031 [5 Cir.] \"economic substance\" & \"business purpose\" % criminal",
+   "LF-BS-0108 [all_states] \"social host\" w/p intoxicat! and \"guest\"",
+   "LF-BS-0144 [2 Cir.] \"free exercise\" & \"neutral and generally applicable\" % contract",
+   "LF-BS-0184 [5 Cir.] obviousness & \"prior art\" % criminal",
+   "LF-BS-0209 [6 Cir.] \"age discrimination\" & \"but-for\" % criminal",
+   "LF-BS-0212 [all_federal] \"motion to dismiss\" & plausib! % habeas",
+   "LF-BS-0236 [all_states_and_federal] \"cell-site location\" & warrant % civil"
+  ]
+ },
+ {
+  "code": "search_duplicate_hit",
+  "title": "Same opinion (same id or same reporter cite) twice on one results page — duplicate records.",
+  "area": "data",
+  "count": 96,
+  "examples": [
+   "LF-BS-0035: Hofer v. DPHHS 2005 MT 302",
+   "LF-BS-0115: Pipe & Piling Supplies (U.S.A.), Ltd. v. Betterman & Katelma 596 N.W.2d 24",
+   "LF-BS-0211: Zahl v. Harper 282 F.3d 204",
+   "LF-BS-0273: Gladon v. Greater Cleveland Regional Transit Auth. 75 Ohio St. 3d 312",
+   "LF-BS-0436: MECHANICAL AIR ENGINEER. v. Totem Const. 801 P.2d 426",
+   "LF-BS-0455: Zahl v. Harper 282 F.3d 204",
+   "LF-BS-0458: TRANSPORT v. Liberty Mut. Ins. Co. 2010 WI 49",
+   "LF-BS-0522: 62 Fair empl.prac.cas. 1289, 62 Empl. Prac. Dec. P 42,536 He 3 F.3d 1419"
+  ]
+ },
+ {
+  "code": "result_missing_court",
+  "title": "Search hit has no court (court field null), so a firm cannot tell where it was decided and scope cannot be enforced.",
+  "area": "data",
+  "count": 63,
+  "examples": [
+   "LF-BS-0148: CEC Entertainment, Inc. 202000012134",
+   "LF-BS-0170: Crawford v. Ford Motor Company 202600020041",
+   "LF-BS-0170: Swaine v. XPO Logistics Freight, Inc. et al. 202600019849",
+   "LF-BS-0222: Cabalceta v. Standard Fruit Co. 198900010546",
+   "LF-BS-0222: Winburn v. Liberty Mutual Insurance 199600003544",
+   "LF-BS-0222: Rossbach v. Lorillard, Inc. 199900012854",
+   "LF-BS-0222: Gottlieb v. Westin Hotel Co. 199300018158",
+   "LF-BS-0222: Updike v. West 194900006915"
+  ]
+ },
+ {
+  "code": "search_empty_but_not",
+  "title": "Westlaw \"%\" (BUT NOT) query returns nothing in a nationwide scope — the % operator is not parsed (the same exclusion written \"AND NOT\" returns results).",
+  "area": "search",
+  "count": 14,
+  "examples": [
+   "LF-BS-0212 [keyword] \"motion to dismiss\" & plausib! % habeas",
+   "LF-BS-0223 [keyword] \"proportional to the needs of the case\" & discovery % habeas",
+   "LF-BS-0236 [keyword] \"cell-site location\" & warrant % civil",
+   "LF-BS-1011 [keyword] \"parol evidence rule\" & integrat! % criminal",
+   "LF-BS-1061 [keyword] \"additional insured\" & \"arising out of\" % criminal",
+   "LF-BS-1083 [keyword] \"double jeopardy\" & blockburger % civil",
+   "LF-BS-1362 [keyword] \"cell-site location\" & warrant % civil",
+   "LF-BS-1709 [keyword] \"deceptive and unfair trade practices\" & consumer % criminal"
+  ]
+ },
+ {
+  "code": "search_empty_broad",
+  "title": "Nationwide-scope boolean query on a mainstream doctrine returns an empty page.",
+  "area": "search",
+  "count": 12,
+  "examples": [
+   "LF-BS-0108 [keyword] \"social host\" w/p intoxicat! and \"guest\"",
+   "LF-BS-0405 [keyword] nondischargeab! /p \"false pretenses\" & debtor",
+   "LF-BS-1251 [keyword] nondischargeab! w/15 (\"false pretenses\" or debtor)",
+   "LF-BS-1281 [keyword] \"social host\" w/p intoxicat! and \"guest\"",
+   "LF-BS-1469 [keyword] relian! /p \"clear and definite promise\"",
+   "LF-BS-1587 [keyword] \"pierce the corporate veil\" /10 undercapitaliz!",
+   "LF-BS-2540 [keyword] capaci! /25 \"natural objects of his bounty\"",
+   "LF-BS-2613 [keyword] eligib! /p \"section 101\""
+  ]
+ },
+ {
+  "code": "boolean_not_or-and-not",
+  "title": "NOT / % / AND NOT exclusion ignored (template or-and-not).",
+  "area": "search",
+  "count": 11,
+  "examples": [
+   "LF-BS-0024: (brady OR \"exculpatory evidence\") AND suppress! NOT civil → Strickler v. Greene",
+   "LF-BS-0072: (\"ineffective assistance of counsel\" OR \"deficient performance\") AND \" → Strickland v. Washington",
+   "LF-BS-1104: (\"qualified immunity\" OR \"clearly established\") AND officer NOT contra → Pearson v. Callahan",
+   "LF-BS-2172: (\"market share liability\" OR \"market share\") AND manufacturer NOT cont → Pharmaceutical Research and Manufacturer",
+   "LF-BS-2316: (\"underinsured motorist\" OR \"uninsured motorist\") AND policy NOT crimi → State Farm Mutual Automobile Insurance C",
+   "LF-BS-3168: (\"negligent infliction of emotional distress\" OR \"bystander recovery\") → Ochoa v. Superior Court",
+   "LF-BS-3168: (\"negligent infliction of emotional distress\" OR \"bystander recovery\") → Coon v. Joseph",
+   "LF-BS-3192: (\"negligence per se\" OR \"statutory violation\") AND statute NOT contrac → Spokeo, Inc. v. Robins"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-root-para",
+  "title": "Returned opinion does not satisfy the connectors (template wl-root-para).",
+  "area": "search",
+  "count": 9,
+  "examples": [
+   "LF-BS-0888: impractic! /p frustration → McGlinchey v. Aetna Casualty & Surety Co",
+   "LF-BS-1152: consorti! /p spouse → Watts v. State",
+   "LF-BS-1176: impractic! /p frustration → State v. Coffman",
+   "LF-BS-1176: impractic! /p frustration → McIntosh v. United States",
+   "LF-BS-1332: proportional! /p discovery → Requejo v. State",
+   "LF-BS-3360: easement! /p servient → Johnson v. RADLE",
+   "LF-BS-3804: locat! /p warrant → Iowa Department of Revenue & Finance v. ",
+   "LF-BS-3804: locat! /p warrant → Iowa v. Sampson"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-sentence",
+  "title": "Returned opinion does not satisfy the connectors (template wl-sentence).",
+  "area": "search",
+  "count": 9,
+  "examples": [
+   "LF-BS-1044: \"hostile work environment\" /s \"severe or pervasive\" → Meritor Savings Bank, FSB v. Vinson",
+   "LF-BS-1896: \"rule of reason\" /s \"anticompetitive effects\" → Eastman Kodak Co. v. Image Technical Ser",
+   "LF-BS-2532: \"claim construction\" /s specification → OPTRONIC SCIENCES LLC v. BOE Technology ",
+   "LF-BS-2532: \"claim construction\" /s specification → NEC Corporation v. Anker Innovations Tec",
+   "LF-BS-2796: \"malicious prosecution\" /s \"probable cause\" → Illinois v. Gates",
+   "LF-BS-2856: \"negligent infliction of emotional distress\" /s \"zone of danger\" → Thing v. Chusa",
+   "LF-BS-3408: \"qualified immunity\" /s \"constitutional right\" → Dobbs v. Jackson Women's Health Organiza",
+   "LF-BS-3972: monell /s \"policy or custom\" → Monell v. New York City Dept. of Social "
+  ]
+ },
+ {
+  "code": "search_date_filter",
+  "title": "Result outside the requested date window.",
+  "area": "search",
+  "count": 8,
+  "examples": [
+   "LF-BS-0013: 2013-06-17 vs 1990-01-01–2010-12-31",
+   "LF-BS-0194: 2011-02-28 vs 1990-01-01–2010-12-31",
+   "LF-BS-1752: 2004-05-03 vs –1999-12-31",
+   "LF-BS-2380: 2013-04-25 vs 1990-01-01–2010-12-31",
+   "LF-BS-3341: 2009-06-25 vs –1999-12-31",
+   "LF-BS-3731: 2016-08-15 vs 1990-01-01–2010-12-31",
+   "LF-BS-3973: 2009-06-25 vs –1999-12-31",
+   "LF-BS-3989: 2011-02-28 vs 1990-01-01–2010-12-31"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_lx-w-s",
+  "title": "Returned opinion does not satisfy the connectors (template lx-w-s).",
+  "area": "search",
+  "count": 8,
+  "examples": [
+   "LF-BS-0036: \"actual malice\" w/s \"public figure\" → New York Times Co. v. Sullivan",
+   "LF-BS-0372: \"malicious prosecution\" w/s \"probable cause\" → Illinois v. Gates",
+   "LF-BS-0732: \"prior bad acts\" w/s \"other crimes\" → Thomas v. Commonwealth",
+   "LF-BS-0876: monell w/s \"policy or custom\" → Monell v. New York City Dept. of Social ",
+   "LF-BS-2112: \"hostile work environment\" w/s \"severe or pervasive\" → Meritor Savings Bank, FSB v. Vinson",
+   "LF-BS-2712: \"malicious prosecution\" w/s \"probable cause\" → Illinois v. Gates",
+   "LF-BS-3456: deference w/s \"statutory ambiguity\" → Alaska Department of Environmental Conse",
+   "LF-BS-3552: erisa w/s \"abuse of discretion\" → Pierce v. Underwood"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-numeric",
+  "title": "Returned opinion does not satisfy the connectors (template wl-numeric).",
+  "area": "search",
+  "count": 7,
+  "examples": [
+   "LF-BS-0672: \"fraudulent joinder\" /10 remand → Jackson v. Morse",
+   "LF-BS-0672: \"fraudulent joinder\" /10 remand → Jenner v. CVS, Inc.",
+   "LF-BS-1260: \"medical malpractice\" /10 \"standard of care\" → Singing River Health System v. Amy Brand",
+   "LF-BS-1920: \"procedural due process\" /10 \"property interest\" → Mullane v. Central Hanover Bank & Trust ",
+   "LF-BS-2052: \"implied covenant of good faith and fair dealing\" /10 discretion → RoTec Services, Inc. v. Encompass Servic",
+   "LF-BS-3888: \"prescriptive easement\" /10 servient → Sandt v. Royster",
+   "LF-BS-3888: \"prescriptive easement\" /10 servient → House v. Close"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_and-not",
+  "title": "Returned opinion does not satisfy the connectors (template and-not).",
+  "area": "search",
+  "count": 6,
+  "examples": [
+   "LF-BS-0048: \"equitable distribution\" AND \"nonmarital\" AND NOT criminal → Cassara v. Cassara",
+   "LF-BS-0516: homestead AND devise AND NOT criminal → Hall v. Turney",
+   "LF-BS-0516: homestead AND devise AND NOT criminal → White v. Bates",
+   "LF-BS-0852: \"fraudulent inducement\" AND \"justifiable reliance\" AND NOT criminal → Brown v. Raines",
+   "LF-BS-0852: \"fraudulent inducement\" AND \"justifiable reliance\" AND NOT criminal → Alley v. Quebecor World Kingsportet al",
+   "LF-BS-1284: \"implied covenant of good faith and fair dealing\" AND discretion AND N → Kirke La Shelle Co. v. Paul Armstrong Co"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-ordered",
+  "title": "Returned opinion does not satisfy the connectors (template wl-ordered).",
+  "area": "search",
+  "count": 6,
+  "examples": [
+   "LF-BS-0120: \"fair use\" +s copyright → New York Times Co. v. Tasini",
+   "LF-BS-0468: \"free exercise\" +s \"neutral and generally applicable\" → United States v. Sineneng-Smith",
+   "LF-BS-1668: \"diversity jurisdiction\" +s \"amount in controversy\" → Kan v. General Motors LLC",
+   "LF-BS-2424: \"reasonable suspicion\" +s frisk → Terry v. Ohio",
+   "LF-BS-2880: \"bad faith\" +s insurer → U.S. Acute Care Solutions, L.L.C. v. Doc",
+   "LF-BS-3504: \"promissory estoppel\" +s \"clear and definite promise\" → Gonsalves v. Nissan Motor Corp. in Hawai"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_lx-w-p-and",
+  "title": "Returned opinion does not satisfy the connectors (template lx-w-p-and).",
+  "area": "search",
+  "count": 6,
+  "examples": [
+   "LF-BS-0708: \"business judgment rule\" w/p \"duty of care\" and director! → Gantler v. Stephens",
+   "LF-BS-0900: daubert w/p reliab! and \"rule 702\" → Daubert v. Merrell Dow Pharmaceuticals, ",
+   "LF-BS-0900: daubert w/p reliab! and \"rule 702\" → General Electric Co. v. Joiner",
+   "LF-BS-1860: \"cell-site location\" w/p warrant and \"reasonable expectation of privac → Katz v. United States",
+   "LF-BS-2820: \"cell-site location\" w/p warrant and \"reasonable expectation of privac → Katz v. United States",
+   "LF-BS-4068: \"second amendment\" w/p \"historical tradition\" and firearm → Noyes v. Texas for the Protection of Sam"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_lx-w-n",
+  "title": "Returned opinion does not satisfy the connectors (template lx-w-n).",
+  "area": "search",
+  "count": 5,
+  "examples": [
+   "LF-BS-0180: \"open and obvious\" w/15 (invitee or \"duty to warn\") → Rowland v. Christian",
+   "LF-BS-1272: retaliation w/15 (\"materially adverse\" or \"causal connection\") → Drake v. Minnesota Mining & Manufacturin",
+   "LF-BS-2016: \"design defect\" w/15 (\"consumer expectations\" or \"risk-utility\") → Punsoda-Diaz v. Ford Motor Company",
+   "LF-BS-2520: \"personal jurisdiction\" w/15 (\"minimum contacts\" or \"fair play\") → International Shoe Co. v. Washington",
+   "LF-BS-2868: \"free exercise\" w/15 (\"neutral and generally applicable\" or burden) → Children of the Kingdom v. Central Appra"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-root-near",
+  "title": "Returned opinion does not satisfy the connectors (template wl-root-near).",
+  "area": "search",
+  "count": 5,
+  "examples": [
+   "LF-BS-0504: substan! /25 commissioner → Skarbek, Norbert v. Barnhart, Jo Anne",
+   "LF-BS-2892: locat! /25 \"reasonable expectation of privacy\" → Katz v. United States",
+   "LF-BS-2892: locat! /25 \"reasonable expectation of privacy\" → Commonwealth v. Duncan",
+   "LF-BS-2892: locat! /25 \"reasonable expectation of privacy\" → United States v. Katzin",
+   "LF-BS-3660: avoid! /25 trustee → Perkins v. American International Specia"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-or-group",
+  "title": "Returned opinion does not satisfy the connectors (template wl-or-group).",
+  "area": "search",
+  "count": 5,
+  "examples": [
+   "LF-BS-0552: (\"design defect\" OR \"strict liability\") /s \"consumer expectations\" → Greenman v. Yuba Power Products, Inc.",
+   "LF-BS-1032: (guardianship OR \"incapacitated person\") /s ward → Bandelin v. Quinlan",
+   "LF-BS-1908: (abstention OR \"younger abstention\") /s \"pending state\" → Younger v. Harris",
+   "LF-BS-3636: (\"excessive force\" OR \"objective reasonableness\") /s \"fourth amendment → Tennessee v. Garner",
+   "LF-BS-3960: (\"hostile work environment\" OR \"sexual harassment\") /s \"severe or perv → Broil v. Kansas Bureau of Investigation"
+  ]
+ },
+ {
+  "code": "boolean_not_and-not",
+  "title": "NOT / % / AND NOT exclusion ignored (template and-not).",
+  "area": "search",
+  "count": 5,
+  "examples": [
+   "LF-BS-0780: \"second amendment\" AND \"historical tradition\" AND NOT contract → District of Columbia v. Heller",
+   "LF-BS-1080: \"hostile work environment\" AND \"severe or pervasive\" AND NOT criminal → Meritor Savings Bank, FSB v. Vinson",
+   "LF-BS-2592: \"malicious prosecution\" AND \"probable cause\" AND NOT contract → Albright v. Oliver",
+   "LF-BS-2628: asylum AND persecution AND NOT contract → Lin v. United States Department of Justi",
+   "LF-BS-3384: \"fair use\" AND copyright AND NOT criminal → Metro-Goldwyn-Mayer Studios Inc. v. Grok"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-para-and",
+  "title": "Returned opinion does not satisfy the connectors (template wl-para-and).",
+  "area": "search",
+  "count": 4,
+  "examples": [
+   "LF-BS-0240: \"duty to warn\" /p psychotherapist & \"identifiable victim\" → Thompson v. County of Alameda",
+   "LF-BS-0936: \"business judgment rule\" /p \"duty of care\" & director! → Gantler v. Stephens",
+   "LF-BS-2580: \"medical malpractice\" /p \"standard of care\" & \"expert testimony\" → Daubert v. Merrell Dow Pharmaceuticals, ",
+   "LF-BS-3228: \"hostile work environment\" /p \"severe or pervasive\" & employer → Meritor Savings Bank, FSB v. Vinson"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_three-and",
+  "title": "Returned opinion does not satisfy the connectors (template three-and).",
+  "area": "search",
+  "count": 4,
+  "examples": [
+   "LF-BS-0540: \"procedural due process\" AND \"property interest\" AND deprivat! → Mullane v. Central Hanover Bank & Trust ",
+   "LF-BS-1644: \"automobile exception\" AND \"probable cause\" AND warrantless → Chambers v. Maroney",
+   "LF-BS-2304: \"rule of reason\" AND \"anticompetitive effects\" AND \"relevant market\" → DIXON v. NATIONAL HOT ROD ASSOCIATION",
+   "LF-BS-3492: subrogation AND insurer AND reimburse! → Coventry Health Care of Mo., Inc. v. Nev"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_or-and-not",
+  "title": "Returned opinion does not satisfy the connectors (template or-and-not).",
+  "area": "search",
+  "count": 1,
+  "examples": [
+   "LF-BS-3996: (\"confrontation clause\" OR \"testimonial hearsay\") AND cross-examin! NO → Hightower v. Dixon"
+  ]
+ }
+]
