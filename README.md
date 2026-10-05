@@ -12,6 +12,7 @@ Every suite splits **inputs** (what you send) from **answer keys** (what a corre
 | [Search](datasets/search/README.md) | A research query | 3,000 + 77 graded | Landmark case, when one exists |
 | [Case-name retrieval](datasets/case-name-retrieval/README.md) | A case caption | 1,461 + 6 landmarks | The reporter locator of that case |
 | [Citation retrieval](datasets/citation-retrieval/README.md) | A citation string | 5,300 + 8 landmarks | Hit, corrected hit, or no hit |
+| [Law-firm series](datasets/law-firm/README.md) | Boolean queries with a jurisdiction, cites to good-law check, slightly-off cites, opinion ids | 5,000 + 1,000 + 1,000 + 200 (+ 943 carried forward) | In-scope, boolean-satisfying, landmark; negative/good history; Bluebook form; formatting checks |
 | [CLR bulk repair](datasets/clr-bulk-repair/README.md) | A cite, a case name, or a research query | 16 in each list | The reporter cite the bulk file omitted |
 
 Counts and family totals are in [`datasets/manifest.json`](datasets/manifest.json).

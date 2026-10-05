@@ -1,0 +1,5007 @@
+{
+ "suite": "law-firm/bluebook-offcite-1000",
+ "builtAt": "2026-10-05T19:27:19.237Z",
+ "count": 1000,
+ "rows": [
+  {
+   "id": "LF-BB-0001",
+   "citation": "Elam ex rel. Golay v. Comm'r of Soc. Sec., 348 F. 3d 124 (6th Cir. 2003)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0002",
+   "citation": "Alston v. Advanced Brands & Importing Co., 494 F. 3d 562 (6th Cir. 2007)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0003",
+   "citation": "United States v. Hurtado, 760 F. 3d 1065 (9th Cir. 2014)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0004",
+   "citation": "Calder v. Jones, 465 U. S. 783 (1984)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0005",
+   "citation": "Orona v. United States, 826 F. 3d 1196 (9th Cir. 2016)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0006",
+   "citation": "Pennsylvania v. Union Gas Co., 491 U. S. 1 (1989)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0007",
+   "citation": "Byrd v. Hall, 847 S. W. 2d 208 (Tenn. 1993)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0008",
+   "citation": "Parker v. Brown, 317 U. S. 341 (1943)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0009",
+   "citation": "Masias v. Sec'y of Health & Hum. Servs., 634 F. 3d 1283 (Fed. Cir. 2011)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0010",
+   "citation": "United Steel, Paper & Forestry, Rubber, Mfg. Energy, Allied Indus. & Serv. Workers Int'l Union, AFL-CIO-DC v. Kelsey-Hayes Co., 750 F. 3d 546 (6th Cir. 2014)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0011",
+   "citation": "Sentinel Mgmt. Co. v. N.H. Ins. Co., 563 N. W. 2d 296 (Minn. Ct. App. 1997)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0012",
+   "citation": "Revlon, Inc. v. MacAndrews & Forbes Holdings, Inc., 506 A. 2d 173 (Del. 1986)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0013",
+   "citation": "Craddock v. Sunshine Bus Lines, Inc., 133 S. W. 2d 124 (Tex. 1939)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0014",
+   "citation": "Lesesne v. Dist. of Columbia, 447 F. 3d 828 (D.C. Cir. 2006)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0015",
+   "citation": "Allman v. Garcia-Padilla, 782 F. 3d 42 (1st Cir. 2015)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0016",
+   "citation": "Adkins v. Children's Hospital, 261 U. S. 525 (1923)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0017",
+   "citation": "Bass v. E.I. Dupont De Nemours, 324 F. 3d 761 (4th Cir. 2003)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0018",
+   "citation": "State v. Yeargan, 958 S. W. 2d 626 (Tenn. 1997)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0019",
+   "citation": "Lee v. S.D. Dep't of Health, 411 N. W. 2d 108 (S.D. 1987)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0020",
+   "citation": "In re Sentencing Guidelines (Fla. Rules of Criminal Procedure 3.701, 3.988), 491 So.2d 1128 (Fla. 1986)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0021",
+   "citation": "In re Chantix (Varenicline) Prods. Liab. Litig., 889 F.Supp.2d 1272 (N.D. Ala. 2012)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0022",
+   "citation": "Crane v. Kentucky, 476 U. S. 683 (1986)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0023",
+   "citation": "Bassett v. Nat'l Collegiate Athletic Ass'n, 528 F. 3d 426 (6th Cir. 2008)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0024",
+   "citation": "McGehee v. Hutchinson, 854 F. 3d 488 (8th Cir. 2017)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0025",
+   "citation": "Hamilton v. Atlas Turner, Inc., 197 F. 3d 58 (2d Cir. 1999)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0026",
+   "citation": "Steelvest, Inc. v. Scansteel Serv. Ctr., Inc., 807 S. W. 2d 476 (Ky. 1991)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0027",
+   "citation": "Wolman v. Walter, 433 U. S. 229 (1977)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0028",
+   "citation": "Tennessee v. Garner, 471 U. S. 1 (1985)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0029",
+   "citation": "Atkins v. Virginia, 536 U. S. 304 (2002)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0030",
+   "citation": "Reali v. Mazda Motor of Am., Inc., 106 F.Supp.2d 75 (D. Me. 2000)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0031",
+   "citation": "Toure v. Avis Rent a Car Sys., Inc., 774 N. E. 2d 1197 (N.Y. 2002)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0032",
+   "citation": "Walton v. Mental Health Ass'n of Se. Pa., 168 F. 3d 661 (3d Cir. 1999)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0033",
+   "citation": "Harris Group, Inc. v. Robinson, 209 P. 3d 1188 (Colo. App. 2009)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0034",
+   "citation": "Sterilite Corp. v. Cont'l Cas. Co., 458 N. E. 2d 338 (Mass. App. Ct. 1983)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0035",
+   "citation": "Carl J. Perreira & Christina J. Perreira, Parents & Next Friend of Carly C. Perreira v. Sec'y of the Dep't of Health & Hum. Servs., 33 F. 3d 1375 (Fed. Cir. 1994)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0036",
+   "citation": "Nat'l Fed'n of Indep. Bus. v. Sebelius, 567 U. S. 519 (2012)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0037",
+   "citation": "Jones v. Dr. Stephen L. Purcell Kenneth L. McGinnis Gary Gabry, 107 F. 3d 11 (6th Cir. 1997)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0038",
+   "citation": "Perry v. U.S. Dep't of State, 669 F.Supp.2d 60 (D.D.C. 2009)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0039",
+   "citation": "Fabio v. Bellomo, 504 N. W. 2d 758 (Minn. 1993)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0040",
+   "citation": "Am. Home Assurance Co. v. SMG Stone Co., 119 F.Supp.3d 1053 (N.D. Cal. 2015)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0041",
+   "citation": "First Nat. Bank of Ariz. v. Cities Serv. Co., 391 U. S. 253 (1968)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0042",
+   "citation": "United States v. Brigham, 350 F. 3d 1297 (5th Cir. 2003)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0043",
+   "citation": "Meinhard v. Salmon, 249 N. Y. 458 (1928)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0044",
+   "citation": "Fung v. Japan Airlines Co., 9 N. Y. 3d 351 (2007)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0045",
+   "citation": "Jenkins v. Wash. Convention Ctr., 236 F. 3d 6 (D.C. Cir. 2001)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0046",
+   "citation": "Spinelli v. United States, 393 U. S. 410 (1969)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0047",
+   "citation": "Goshen v. Mut. Life Ins., 98 N. Y. 2d 314 (2002)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0048",
+   "citation": "United States v. Diaz-Jimenez, 622 F. 3d 692 (7th Cir. 2010)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0049",
+   "citation": "King Ranch, Inc. v. Chapman, 118 S. W. 3d 742 (Tex. 2003)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0050",
+   "citation": "Motor Vehicle Cas. Co. v. Thorpe Insulation Co. (In re Thorpe Insulation Co.), 677 F. 3d 869 (9th Cir. 2012)",
+   "defect": "reporter_spacing"
+  },
+  {
+   "id": "LF-BB-0051",
+   "citation": "Richmond Metro. Auth. v. McDevitt St. Bovis, Inc., 507 S.E.2nd 344 (Va. 1998)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0052",
+   "citation": "Schmidt v. Louis W. Sullivan, Sec'y of Health & Hum. Servs., 914 F.2nd 117 (7th Cir. 1990)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0053",
+   "citation": "W & W Equip. Co. v. Mink, 568 N.E.2nd 564 (Ind. Ct. App. 1991)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0054",
+   "citation": "Great Atl. & Pac. Tea Co. v. Checchio, 762 A.2nd 1057 (N.J. Super. Ct. App. Div. 2000)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0055",
+   "citation": "Bauman v. DaimlerChrysler Corp., 644 F.3rd 909 (9th Cir. 2011)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0056",
+   "citation": "Haugan v. Home Indemnity Co., 197 N.W.2nd 18 (S.D. 1972)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0057",
+   "citation": "Eley v. Dist. of Columbia, 793 F.3rd 97 (D.C. Cir. 2015)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0058",
+   "citation": "United States v. Barahona-Montenegro, 565 F.3rd 980 (6th Cir. 2009)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0059",
+   "citation": "Green-Younger v. Joanne B. Barnhart, Comm'r of the Soc. Sec. Admin., 335 F.3rd 99 (2d Cir. 2003)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0060",
+   "citation": "Morse v. Lower Merion Sch. Dist., 132 F.3rd 902 (3d Cir. 1997)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0061",
+   "citation": "Minter v. Prime Equip. Co., 451 F.3rd 1196 (10th Cir. 2006)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0062",
+   "citation": "Olympic S.S. Co. v. Centennial Ins. Co., 811 P.2nd 673 (Wash. 1991)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0063",
+   "citation": "Acorda Therapeutics, Inc. v. Mylan Pharms. Inc., 78 F. Supp. 3rd 572 (D. Del. 2015)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0064",
+   "citation": "Tincher v. Omega Flex, Inc., 104 A.3rd 328 (Pa. 2014)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0065",
+   "citation": "Matthews v. Jones, 35 F.3rd 1046 (6th Cir. 1994)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0066",
+   "citation": "Wilson v. City of Bessemer, 547 So. 2nd 868 (Ala. 1989)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0067",
+   "citation": "Byrne v. Avon Prods., Inc., 328 F.3rd 379 (7th Cir. 2003)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0068",
+   "citation": "Amaya v. Home Ice, Fuel & Supply Co., 59 Cal. 2nd 295 (1963)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0069",
+   "citation": "Sindell v. Abbott Lab'ys, 26 Cal. 3rd 588 (1980)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0070",
+   "citation": "Warner v. Hillcrest Med. Ctr., 914 P.2nd 1060 (Okla. Civ. App. 1995)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0071",
+   "citation": "Doe v. Harris, 640 F.3rd 972 (9th Cir. 2011)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0072",
+   "citation": "Cal. Clinical Lab'y Ass'n v. Sec'y of Dep't of Health & Hum. Servs., 104 F. Supp. 3rd 66 (D.D.C. 2015)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0073",
+   "citation": "Merritt v. Shuttle, Inc., U.S. Airways Inc., Terry v. Hallcom, Steven K. Wilson, & United States of America, 245 F.3rd 182 (2d Cir. 2001)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0074",
+   "citation": "Joseph M. Black, Jr., Tr. v. Educ. Credit Mgmt. Corp., 459 F.3rd 796 (7th Cir. 2006)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0075",
+   "citation": "ITT Com. Fin. Corp. v. Mid-Am. Marine Supply Corp., 854 S.W.2nd 371 (Mo. 1993)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0076",
+   "citation": "Dybach v. Fla. Dep't of Corr., 942 F.2nd 1562 (11th Cir. 1991)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0077",
+   "citation": "Golden Eagle Archery, Inc. v. Jackson, 116 S.W.3rd 757 (Tex. 2003)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0078",
+   "citation": "Craft v. Astrue, 539 F.3rd 668 (7th Cir. 2008)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0079",
+   "citation": "Kamalyan v. Holder, 620 F.3rd 1054 (9th Cir. 2010)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0080",
+   "citation": "Buchanan v. Bowman, 820 F.2nd 359 (11th Cir. 1987)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0081",
+   "citation": "Citigroup Inc. v. City Holding Co., 97 F. Supp. 2nd 549 (S.D.N.Y. 2000)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0082",
+   "citation": "Wood v. Safeway, Inc., 121 P.3rd 1026 (Nev. 2005)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0083",
+   "citation": "Araya v. JPMorgan Chase Bank, N.A., 775 F.3rd 409 (D.C. Cir. 2014)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0084",
+   "citation": "Fisher v. SD Prot. Inc., 948 F.3rd 593 (2d Cir. 2020)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0085",
+   "citation": "Cohen v. Bd. of Trustees of the Univ., 819 F.3rd 476 (D.C. Cir. 2016)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0086",
+   "citation": "In re Memorandum Opinions, 700 S.W.2nd 63 (Ark. Ct. App. 1985)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0087",
+   "citation": "Hershel Fleming, Hon. Wolodymyr Cybriwsky, Attorney- v. Comm'r of Soc. Sec., 110 F.3rd 63 (6th Cir. 1997)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0088",
+   "citation": "United States v. Zambrano-Reyes, 724 F.3rd 761 (7th Cir. 2013)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0089",
+   "citation": "Sun Valley Shopping Ctr., Inc. v. Idaho Power Co., 803 P.2nd 993 (Idaho 1991)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0090",
+   "citation": "Saratoga Cnty. Chamber of Commerce, Inc. v. Pataki, 798 N.E.2nd 1047 (N.Y. 2003)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0091",
+   "citation": "Arista Records LLC v. John Does 1-19, 551 F. Supp. 2nd 1 (D.D.C. 2008)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0092",
+   "citation": "United States v. Williams, 616 F.3rd 685 (7th Cir. 2010)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0093",
+   "citation": "United States v. Harper, 805 F.3rd 818 (7th Cir. 2015)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0094",
+   "citation": "In re Focus Media, Inc., 378 F.3rd 916 (9th Cir. 2004)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0095",
+   "citation": "People v. Wright, 51 Cal. Rptr. 3rd 80 (Cal. 2006)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0096",
+   "citation": "Brehm v. Eisner, 746 A.2nd 244 (Del. 2000)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0097",
+   "citation": "Foley v. Interactive Data Corp., 47 Cal. 3rd 654 (1988)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0098",
+   "citation": "Clifton v. Shirley S. Chater, Comm'r of Soc. Sec., 79 F.3rd 1007 (10th Cir. 1996)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0099",
+   "citation": "Madison Constr. Co. v. Harleysville Mut. Ins., 735 A.2nd 100 (Pa. 1999)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0100",
+   "citation": "Gerald Wall, Dr. v. Cnty. of Orange, a Political Sub-Div. of Cal. H. Watson, 364 F.3rd 1107 (9th Cir. 2004)",
+   "defect": "ordinal_form"
+  },
+  {
+   "id": "LF-BB-0101",
+   "citation": "Jaroma v. Massey, 873 F2d 17 (1st Cir. 1989)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0102",
+   "citation": "State v. Godejohn, 425 So 2d 750 (La. 1983)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0103",
+   "citation": "Sharbi v. Bush, 601 F Supp 2d 317 (D.D.C. 2009)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0104",
+   "citation": "N.Y. Times Co. v. Sullivan, 376 US 254 (1964)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0105",
+   "citation": "Gonzales v. Raich, 545 US 1 (2005)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0106",
+   "citation": "Sec. & Exch. Comm'n v. Koenig, 532 F Supp 2d 987 (N.D. Ill. 2007)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0107",
+   "citation": "Fox v. Am. Airlines, Inc., 389 F3d 1291 (D.C. Cir. 2004)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0108",
+   "citation": "Burlington N. & Santa Fe Ry. Co. v. White, 548 US 53 (2006)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0109",
+   "citation": "Palko v. Connecticut, 302 US 319 (1937)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0110",
+   "citation": "Wood v. Safeway, Inc., 121 Nev 724 (2005)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0111",
+   "citation": "Markadonatos v. Vill. of Woodridge, 739 F3d 984 (7th Cir. 2014)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0112",
+   "citation": "Croucher v. Croucher, 660 SW2d 55 (Tex. 1983)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0113",
+   "citation": "Chambers v. NASCO, Inc., 501 US 32 (1991)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0114",
+   "citation": "In re Marvin Griffin, 823 F3d 1350 (11th Cir. 2016)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0115",
+   "citation": "Brill v. Guardian Life Ins. Co. of Am., 142 NJ 520 (1995)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0116",
+   "citation": "Prometheus Labs., Inc. v. Mayo Collaborative Servs., 628 F3d 1347 (Fed. Cir. 2010)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0117",
+   "citation": "Brown v. Credit Ctr., Inc., 444 So 2d 358 (Miss. 1983)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0118",
+   "citation": "Gibbs v. Ernst, 647 A2d 882 (Pa. 1994)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0119",
+   "citation": "Lucas v. S.C. Coastal Council, 505 US 1003 (1992)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0120",
+   "citation": "Taylor v. Books a Million, Inc., 296 F3d 376 (5th Cir. 2002)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0121",
+   "citation": "Kalitta Air L.L.C. v. Cent. Tex. Airborne Sys. Inc., 741 F3d 955 (9th Cir. 2013)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0122",
+   "citation": "Shekoyan, Vladmir v. Intl, 409 F3d 414 (D.C. Cir. 2005)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0123",
+   "citation": "Ford v. Kenneth S. Apfel, Comm'r of Soc. Sec., No. 97-55948. D.C. No. Cv-96-05452-Ghk, 145 F3d 1337 (9th Cir. 1998)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0124",
+   "citation": "Capizzano v. Sec'y of Health & Hum. Servs., 440 F3d 1317 (Fed. Cir. 2006)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0125",
+   "citation": "Royal Globe Ins. Co. v. Superior Court, 23 Cal 3d 880 (1979)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0126",
+   "citation": "Shapiro v. Pub. Serv. Mut. Ins., 477 NE2d 146 (Mass. App. Ct. 1985)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0127",
+   "citation": "Strazza v. McKittrick, 146 Conn 714 (1959)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0128",
+   "citation": "Whren v. United States, 517 US 806 (1996)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0129",
+   "citation": "Vaught v. Waites, 387 SE2d 91 (S.C. Ct. App. 1989)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0130",
+   "citation": "United States v. Moore, 651 F3d 30 (D.C. Cir. 2011)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0131",
+   "citation": "Engle v. Liggett Group, Inc., 945 So 2d 1246 (Fla. 2006)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0132",
+   "citation": "Merrill v. Sherburne, 1 NH 199 (N.H. Super. Ct. 1818)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0133",
+   "citation": "Sykes v. United States, 564 US 1 (2011)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0134",
+   "citation": "Fay v. Noia, 372 US 391 (1963)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0135",
+   "citation": "United States v. Honeycutt, 816 F3d 362 (6th Cir. 2016)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0136",
+   "citation": "Davis v. Research Med. Ctr., 903 SW2d 557 (Mo. Ct. App. 1995)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0137",
+   "citation": "Employment Div., Dept. of Hum. Res. of Ore. v. Smith, 494 US 872 (1990)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0138",
+   "citation": "Pure Gold, Inc. v. Syntex (u.s.a.), Inc., 739 F2d 624 (Fed. Cir. 1984)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0139",
+   "citation": "Graham v. John Deere Co., 383 US 1 (1966)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0140",
+   "citation": "Hadley v. Peters, 70 F3d 117 (7th Cir. 1995)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0141",
+   "citation": "Lewis v. B & R Corp., 56 SW3d 432 (Ky. Ct. App. 2001)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0142",
+   "citation": "Commonwealth ex rel. Wash. v. Maroney, 427 Pa 599 (1967)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0143",
+   "citation": "Ferryman v. City of Groton, 212 Conn 138 (1989)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0144",
+   "citation": "Trans World Airlines, Inc. v. Hardison, 432 US 63 (1977)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0145",
+   "citation": "Kreger v. Francis, 271 Mont 444 (1995)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0146",
+   "citation": "Cotter v. Patricia Roberts Harris, Sec'y of Health & Hum. Servs., 642 F2d 700 (3d Cir. 1981)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0147",
+   "citation": "Markman v. Westview Instruments, Inc., 517 US 370 (1996)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0148",
+   "citation": "Meek v. Pittenger, 421 US 349 (1975)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0149",
+   "citation": "United States v. Pettit, 785 F3d 1374 (10th Cir. 2015)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0150",
+   "citation": "Santisas v. Goodin, 17 Cal 4th 599 (Cal. Ct. App. 1998)",
+   "defect": "reporter_no_periods"
+  },
+  {
+   "id": "LF-BB-0151",
+   "citation": "Rainey v. Lange, 261 ga. app. 491 (2003)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0152",
+   "citation": "Hildwin v. Florida, 490 u.s. 638 (1989)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0153",
+   "citation": "State v. DiGuilio, 491 so. 2d 1129 (Fla. 1986)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0154",
+   "citation": "Artis v. Bernanke, 630 f.3d 1031 (D.C. Cir. 2011)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0155",
+   "citation": "Padilla v. Kentucky, 559 u.s. 356 (2010)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0156",
+   "citation": "Fed. Sec. L. Rep. P 98,813 Sec. & Exch. Comm'n v. Patel, 61 f.3d 137 (2d Cir. 1995)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0157",
+   "citation": "Weedo v. Stone-E-Brick, Inc., 405 a.2d 788 (N.J. 1979)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0158",
+   "citation": "Wilson v. Williams, 961 f.3d 829 (6th Cir. 2020)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0159",
+   "citation": "Babula v. Robertson, 536 n.w.2d 834 (Mich. Ct. App. 1995)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0160",
+   "citation": "Wallace v. Milliken & Co., 305 s.c. 118 (1991)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0161",
+   "citation": "Dube v. Likins, 167 p.3d 93 (Ariz. Ct. App. 2007)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0162",
+   "citation": "Phillips v. Corr. Corp. of Am., 407 f. supp. 2d 18 (D.D.C. 2005)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0163",
+   "citation": "Ernst v. State, 170 n.w.2d 713 (Wis. 1969)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0164",
+   "citation": "State v. Carter, 370 s.e.2d 553 (N.C. 1988)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0165",
+   "citation": "West v. Founders Life Assur. Co. of Fla., 547 so. 2d 870 (Ala. 1989)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0166",
+   "citation": "State v. Hawk, 411 n.w.2d 120 (S.D. 1987)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0167",
+   "citation": "Lugo v. Ameritech Corp., 464 mich. 512 (2001)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0168",
+   "citation": "Ross v. Stouffer Hotel Co. (Hawai'i), 879 p.2d 1037 (Haw. 1994)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0169",
+   "citation": "James M. Patton & Joann Patton, Legal Guardians ex rel. Patton v. Sec'y of the Dep't of Health & Hum. Servs., 25 f.3d 1021 (Fed. Cir. 1994)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0170",
+   "citation": "Mullane v. Cent. Hanover Bank & Tr. Co., 339 u.s. 306 (1950)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0171",
+   "citation": "In re Driscoll, 410 mass. 695 (1991)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0172",
+   "citation": "Saucier v. Katz, 533 u.s. 194 (2001)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0173",
+   "citation": "United States v. Gregorio MacEdo & Victor Hugo Contreras, 406 f.3d 778 (7th Cir. 2005)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0174",
+   "citation": "Bowles v. Seminole Rock & Sand Co., 325 u.s. 410 (1945)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0175",
+   "citation": "Espinoza v. Comm'r, 636 f.3d 747 (5th Cir. 2011)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0176",
+   "citation": "Life Partners Inc. v. United States, 650 f.3d 1026 (5th Cir. 2011)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0177",
+   "citation": "Kelley's Case, 137 n.h. 314 (1993)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0178",
+   "citation": "Meritor Sav. Bank, FSB v. Vinson, 477 u.s. 57 (1986)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0179",
+   "citation": "Raplee v. United States, 842 f.3d 328 (4th Cir. 2016)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0180",
+   "citation": "Polshek v. Bergen Cty. Iron Works, 142 n.j. super. 516 (N.J. Super. Ct. App. Div. 1976)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0181",
+   "citation": "Massachusetts v. EPA, 549 u.s. 497 (2007)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0182",
+   "citation": "Alvis v. Ribar, 85 ill. 2d 1 (1981)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0183",
+   "citation": "Graff v. Bonnett, 31 n.y. 9 (1865)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0184",
+   "citation": "Denooyer v. Joseph Merinelli, Jane Van Poperin, Kent Gage, Carole Samples, Livonia Pub. Schs., 12 f.3d 211 (6th Cir. 1993)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0185",
+   "citation": "Heck v. Humphrey, 512 u.s. 477 (1994)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0186",
+   "citation": "Thomas v. State, 261 ga. app. 493 (2003)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0187",
+   "citation": "Carbon Cnty. v. Union Reserve Coal Co., 271 mont. 459 (1995)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0188",
+   "citation": "Groff v. DeJoy, 600 u.s. 447 (2023)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0189",
+   "citation": "Gray v. Morley, 460 mich. 738 (1999)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0190",
+   "citation": "Sec. & Exch. Comm'n v. Chenery Corp., 318 u.s. 80 (1943)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0191",
+   "citation": "Hicks v. Bledsoe, 828 f. supp. 2d 152 (D.D.C. 2011)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0192",
+   "citation": "In re Investigating Grand Jury, 518 pa. 485 (1988)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0193",
+   "citation": "Morley v. Cent. Intelligence Agency, 508 f.3d 1108 (D.C. Cir. 2007)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0194",
+   "citation": "Halvorsen v. Ferguson, 735 p.2d 675 (Wash. Ct. App. 1986)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0195",
+   "citation": "Sabella v. Sec'y of the Dep't of Health & Hum. Servs., 86 fed. cl. 201 (Fed. Cl. 2009)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0196",
+   "citation": "Winter v. Nat. Res. Def. Council, Inc., 555 u.s. 7 (2008)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0197",
+   "citation": "Kyles v. Whitley, 514 u.s. 419 (1995)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0198",
+   "citation": "Parratt v. Taylor, 451 u.s. 527 (1981)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0199",
+   "citation": "Hodgins v. State, 962 p.2d 153 (Wyo. 1998)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0200",
+   "citation": "Gross v. FBL Fin. Servs., Inc., 557 u.s. 167 (2009)",
+   "defect": "reporter_lowercase"
+  },
+  {
+   "id": "LF-BB-0201",
+   "citation": "Loper Bright Enters. versus Raimondo, 603 U.S. 369 (2024)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0202",
+   "citation": "Beard v Goodyear Tire & Rubber Co., 587 A.2d 195 (D.C. 1991)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0203",
+   "citation": "Jarupan VS Hanna, 878 N.E.2d 66 (Ohio Ct. App. 2007)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0204",
+   "citation": "Rapid Litig. Mgmt. Ltd. VS CellzDirect, Inc., 827 F.3d 1042 (Fed. Cir. 2016)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0205",
+   "citation": "Univac Dental Co. vs. Dentsply Int'l, Inc., 702 F. Supp. 2d 465 (M.D. Pa. 2010)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0206",
+   "citation": "Falwell vs. Flynt, 797 F.2d 1270 (4th Cir. 1986)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0207",
+   "citation": "Adams vs. Rick Thaler, Dir., 679 F.3d 312 (5th Cir. 2012)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0208",
+   "citation": "City of Pontiac Policemen's & Firemen's Ret. Sys. VS Ubs Ag, 752 F.3d 173 (2d Cir. 2014)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0209",
+   "citation": "State versus Fell, 210 Ariz. 554 (2005)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0210",
+   "citation": "Faragher VS City of Boca Raton, 524 U.S. 775 (1998)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0211",
+   "citation": "Li versus Yellow Cab Co., 13 Cal. 3d 804 (1975)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0212",
+   "citation": "Pearson versus Callahan, 555 U.S. 223 (2009)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0213",
+   "citation": "Wetherhorn v Alaska Psychiatric Inst., 156 P.3d 371 (Alaska 2007)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0214",
+   "citation": "Dukes versus Wal-Mart Stores, Inc., 603 F.3d 571 (9th Cir. 2010)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0215",
+   "citation": "Commonwealth v Turner, 518 Pa. 491 (1988)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0216",
+   "citation": "Morrison versus Nat'l Australia Bank Ltd., 547 F.3d 167 (2d Cir. 2008)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0217",
+   "citation": "Perfect 10, Inc. VS Google, Inc., 653 F.3d 976 (9th Cir. 2011)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0218",
+   "citation": "Jackson Women's Health Org. versus Dobbs, 945 F.3d 265 (5th Cir. 2019)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0219",
+   "citation": "Cnty. of Cameron vs. Brown, 80 S.W.3d 549 (Tex. 2002)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0220",
+   "citation": "Campbell versus Acuff-Rose Music, Inc., 510 U.S. 569 (1994)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0221",
+   "citation": "Miller VS Alabama, 567 U.S. 460 (2012)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0222",
+   "citation": "Cole versus Arkansas, 333 U.S. 196 (1948)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0223",
+   "citation": "People v Dorado, 62 Cal. 2d 338 (1965)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0224",
+   "citation": "Ramos VS Louisiana, 590 U.S. 83 (2020)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0225",
+   "citation": "South Dakota versus Dole, 483 U.S. 203 (1987)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0226",
+   "citation": "Comcast Corp. vs. Behrend, 569 U.S. 27 (2013)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0227",
+   "citation": "Close VS Thomas, 653 F.3d 970 (9th Cir. 2011)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0228",
+   "citation": "Kevlin Servs., Inc. VS Lexington State Bank, 46 F.3d 13 (5th Cir. 1995)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0229",
+   "citation": "Davis vs. Washington, 547 U.S. 813 (2006)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0230",
+   "citation": "TransUnion LLC vs. Ramirez, 594 U.S. 413 (2021)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0231",
+   "citation": "VIP Prods. LLC v Jack Daniel's Props., Inc., 953 F.3d 1170 (9th Cir. 2020)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0232",
+   "citation": "Ecc Int'l Constructors, LLC vs. Sec'y of the Army, 79 F.4th 1364 (Fed. Cir. 2023)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0233",
+   "citation": "Austin v Mich. Chamber of Commerce, 494 U.S. 652 (1990)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0234",
+   "citation": "Collins VS Morgan Stanley Dean Witter, 224 F.3d 496 (5th Cir. 2000)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0235",
+   "citation": "United States VS Langford, 516 F.3d 205 (3d Cir. 2008)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0236",
+   "citation": "Jud. Watch, Inc. vs. U.S. Dep't of Commerce, 337 F. Supp. 2d 146 (D.D.C. 2004)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0237",
+   "citation": "Estate of Wayne Hage VS United States, 687 F.3d 1281 (Fed. Cir. 2012)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0238",
+   "citation": "Ferrell v Work, 156 F.3d 182 (5th Cir. 1998)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0239",
+   "citation": "Moning versus Alfono, 400 Mich. 425 (1977)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0240",
+   "citation": "Aguilar versus Texas, 378 U.S. 108 (1964)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0241",
+   "citation": "Moore ex rel. D.s. VS Kan. City Pub. Schs., 828 F.3d 687 (8th Cir. 2016)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0242",
+   "citation": "Chapo versus Astrue, 682 F.3d 1285 (10th Cir. 2012)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0243",
+   "citation": "Florida vs. Jardines, 569 U.S. 1 (2013)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0244",
+   "citation": "Nishimatsu Constr. Co. v Houston Nat'l Bank Party v. Jack D. Baize, 515 F.2d 1200 (3d Cir. 1975)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0245",
+   "citation": "Daughhetee vs. State Farm Mut. Auto. Ins., 743 F.3d 1128 (8th Cir. 2014)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0246",
+   "citation": "Donnelly Const. Co. versus Oberg/Hunt/Gilleland, 677 P.2d 1292 (Ariz. 1984)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0247",
+   "citation": "Foster Found. vs. Gainer, 228 W. Va. 99 (2011)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0248",
+   "citation": "Chandler versus Sec., 667 F.3d 356 (3d Cir. 2011)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0249",
+   "citation": "Ives vs. Nmtc, Inc., 746 A.2d 236 (Conn. Super. Ct. 1999)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0250",
+   "citation": "Melissa Cloer, M.D. vs. Sec. Of Health & Hum. Servs., 675 F.3d 1358 (Fed. Cir. 2012)",
+   "defect": "v_form"
+  },
+  {
+   "id": "LF-BB-0251",
+   "citation": "Spaziano v. Florida, 468 U.S. 447",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0252",
+   "citation": "United States v. Carpenter, 819 F.3d 880",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0253",
+   "citation": "Carhart v. Gonzales, 413 F.3d 791",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0254",
+   "citation": "Variety Stores, Inc. v. Wal-Mart Stores, Inc., 888 F.3d 651",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0255",
+   "citation": "Payton v. New York, 445 U.S. 573",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0256",
+   "citation": "McKenzie v. Renberg's Inc., 94 F.3d 1478",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0257",
+   "citation": "Hickson v. Moya, 926 S.W.2d 397",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0258",
+   "citation": "United States v. Morrison, 529 U.S. 598",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0259",
+   "citation": "Iqbal v. Hasty, 490 F.3d 143",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0260",
+   "citation": "United States v. Chavez, 281 F.3d 479",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0261",
+   "citation": "St. Jude Med., Cardiology Div., Inc. v. Volcano Corp., 749 F.3d 1373",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0262",
+   "citation": "Albrecht v. Herald Co., 390 U.S. 145",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0263",
+   "citation": "Printz v. United States, 521 U.S. 898",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0264",
+   "citation": "Bank of the West v. Superior Ct., 2 Cal. 4th 1254",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0265",
+   "citation": "State v. Stieben, 292 Kan. 533",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0266",
+   "citation": "United States v. Martinez-Lugo, 782 F.3d 198",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0267",
+   "citation": "Cooley v. Carmike Cinemas, Inc., 25 F.3d 1325",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0268",
+   "citation": "Kema v. Gaddis, 91 Haw. 200",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0269",
+   "citation": "State v. Moore, 782 P.2d 91",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0270",
+   "citation": "Schad v. Ryan, 671 F.3d 708",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0271",
+   "citation": "Westfield Ins. v. Galatis, 797 N.E.2d 1256",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0272",
+   "citation": "Navigation v. Lloyd Bermuda Lines, Va. Pineda Urrutia, Thelma Smith Steer Va. Pineda Urrutia…, 166 F.3d 1208",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0273",
+   "citation": "Warfield v. Byron, 436 F.3d 551",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0274",
+   "citation": "Hayduk v. Lanna, 775 F.2d 441",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0275",
+   "citation": "Int'l Shoe Co. v. Washington, 326 U.S. 310",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0276",
+   "citation": "Ky. Off-Track Betting, Inc. v. McBurney, 993 S.W.2d 946",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0277",
+   "citation": "Griswold v. Connecticut, 381 U.S. 479",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0278",
+   "citation": "Rosete v. Office of Personnel Mgmt., 48 F.3d 514",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0279",
+   "citation": "Ex parte Young, 209 U.S. 123",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0280",
+   "citation": "Alice Corp. v. CLS Bank Int'l, 573 U.S. 208",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0281",
+   "citation": "U.S. ex rel. Thomas v. Black & Veatch Special Projects Corp., 820 F.3d 1162",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0282",
+   "citation": "Wood v. Safeco Ins. Co. of Am., 980 S.W.2d 43",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0283",
+   "citation": "McGalliard v. Kuhlmann, 722 S.W.2d 694",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0284",
+   "citation": "Walton v. Arizona, 497 U.S. 639",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0285",
+   "citation": "Patane v. Clark, 508 F.3d 106",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0286",
+   "citation": "Luginbyhl v. Commonwealth, 618 S.E.2d 347",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0287",
+   "citation": "In re Marckson Saint Fleur, 824 F.3d 1337",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0288",
+   "citation": "Apotex, Inc. v. Food & Drug Admin., 393 F.3d 210",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0289",
+   "citation": "Bova v. U.S. Bank, N.A., 446 F. Supp. 2d 926",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0290",
+   "citation": "William Blair & Co. v. Fi Liquidation Corp., 358 Ill. App. 3d 324",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0291",
+   "citation": "Veasey v. Perry, 769 F.3d 890",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0292",
+   "citation": "Horace Mann Ins. v. Leeber, 376 S.E.2d 581",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0293",
+   "citation": "Dr. Miles Med. Co. v. John D. Park & Sons Co., 220 U.S. 373",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0294",
+   "citation": "Kyllo v. United States, 533 U.S. 27",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0295",
+   "citation": "United States v. Three Tracts of Prop. Located on Beaver Creek, Knott Cnty., Ky., 65 F.3d 169",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0296",
+   "citation": "Noah v. Noah, 491 So. 2d 1124",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0297",
+   "citation": "Cortes-Morales v. Hastings, 827 F.3d 1009",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0298",
+   "citation": "Lee v. Kan. City S. Ry. Co., 574 F.3d 253",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0299",
+   "citation": "Hammer v. Dagenhart, 247 U.S. 251",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0300",
+   "citation": "Citizens ex rel. Responsibility & Ethics v. U.S. Dep't of Justice, 658 F. Supp. 2d 217",
+   "defect": "no_parenthetical"
+  },
+  {
+   "id": "LF-BB-0301",
+   "citation": "Webster v. Caraway, 761 F.3d 764 (7th Cir. 2015)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0302",
+   "citation": "United States v. Collins, 715 F.3d 1032 (7th Cir. 2014)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0303",
+   "citation": "State v. Urrabazo, 244 P.3d 1244 (Idaho 2009)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0304",
+   "citation": "Parks v. City of Brewer, 56 F. Supp. 2d 89 (D. Me. 1998)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0305",
+   "citation": "State v. Thompkins, 78 Ohio St. 3d 380 (1998)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0306",
+   "citation": "Daimler AG v. Bauman, 571 U.S. 117 (2015)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0307",
+   "citation": "Vaughn v. State, 962 P.2d 149 (Wyo. 1997)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0308",
+   "citation": "United States v. Marrero, 743 F.3d 389 (3d Cir. 2013)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0309",
+   "citation": "Christo v. Padgett, 223 F.3d 1324 (11th Cir. 2001)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0310",
+   "citation": "Moradi-Shalal v. Fireman's Fund Ins. Cos., 46 Cal. 3d 287 (1987)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0311",
+   "citation": "United States v. Jorgensen, 13 F.3d 407 (10th Cir. 1992)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0312",
+   "citation": "Goldberg v. Kelly, 397 U.S. 254 (1969)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0313",
+   "citation": "Marable v. Nitchman, 511 F.3d 924 (9th Cir. 2008)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0314",
+   "citation": "United States v. Troisi, 849 F.3d 490 (1st Cir. 2018)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0315",
+   "citation": "United States v. Jones, 180 F.3d 261 (5th Cir. 2000)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0316",
+   "citation": "Templet v. Hydrochem Inc., 367 F.3d 473 (5th Cir. 2003)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0317",
+   "citation": "Clarke v. Office of Fed. Hous. Enter. Oversight, 355 F. Supp. 2d 56 (D.D.C. 2003)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0318",
+   "citation": "KSR Int'l Co. v. Teleflex Inc., 550 U.S. 398 (2006)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0319",
+   "citation": "Az v. Lamar, 210 Ariz. 571 (2004)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0320",
+   "citation": "Young v. Keohane, 809 F. Supp. 1185 (M.D. Pa. 1991)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0321",
+   "citation": "Katz v. Pershing, LLC, 672 F.3d 64 (1st Cir. 2013)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0322",
+   "citation": "Sweaney v. Dist. Ct.. Eighteenth Jud. Dist., 713 P.2d 914 (Colo. 1985)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0323",
+   "citation": "Makarova v. United States, 201 F.3d 110 (2d Cir. 2001)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0324",
+   "citation": "Awon v. United States, 308 F.3d 133 (1st Cir. 2003)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0325",
+   "citation": "Alexis v. Dist. of Columbia, 44 F. Supp. 2d 331 (D.D.C. 1998)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0326",
+   "citation": "United States v. Hawks, 74 F.3d 1234 (4th Cir. 1997)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0327",
+   "citation": "Will v. Mill Condo. Owners' Ass'n, 176 Vt. 380 (2005)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0328",
+   "citation": "Bank of the West v. Superior Ct., 10 Cal. Rptr. 2d 538 (Cal. 1991)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0329",
+   "citation": "Penn Cent. Transp. Co. v. New York City, 438 U.S. 104 (1979)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0330",
+   "citation": "Nuance Commc'ns, Inc. v. House, 626 F.3d 1222 (Fed. Cir. 2011)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0331",
+   "citation": "Nollan v. Cal. Coastal Comm'n, 483 U.S. 825 (1986)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0332",
+   "citation": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1987)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0333",
+   "citation": "Kumar v. Dhanda, 17 A.3d 744 (Md. Ct. Spec. App. 2012)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0334",
+   "citation": "Goodyear Tire & Rubber Co. v. Mayes, 236 S.W.3d 754 (Tex. 2008)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0335",
+   "citation": "Hendrickson v. Sears, 365 Mass. 83 (1975)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0336",
+   "citation": "Barrows v. Am. Family Ins., 842 N.W.2d 508 (Wis. Ct. App. 2014)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0337",
+   "citation": "Phillips v. Awh Corp., Hopeman Bros., 415 F.3d 1303 (Fed. Cir. 2007)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0338",
+   "citation": "Petties v. Carter, 836 F.3d 722 (7th Cir. 2015)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0339",
+   "citation": "McConnell v. FEC, 540 U.S. 93 (2002)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0340",
+   "citation": "Louisville & Nashville R.R. Co. v. Mottley, 211 U.S. 149 (1909)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0341",
+   "citation": "Cedillo v. Sec'y of Health & Hum. Servs., 617 F.3d 1328 (Fed. Cir. 2009)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0342",
+   "citation": "Brandenburg v. Ohio, 395 U.S. 444 (1970)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0343",
+   "citation": "Centimark Corp. v. Vill. Manor Assocs. Ltd. P'ship, 967 A.2d 550 (Conn. App. Ct. 2008)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0344",
+   "citation": "Estate of Marvin L. Booker v. Gomez, 745 F.3d 405 (10th Cir. 2013)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0345",
+   "citation": "Hendry v. Francis J. Pelland & Sadur, Pelland & Rubinstein, P.C., 73 F.3d 397 (D.C. Cir. 1997)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0346",
+   "citation": "United States v. $23,000.00 in U.S. Currency John Michael Williams, 54 F.3d 777 (6th Cir. 1994)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0347",
+   "citation": "Figgie Int'l, Inc. v. Fred W. Bailey, James Upfield, Travelers Ins. Co., 25 F.3d 1267 (5th Cir. 1995)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0348",
+   "citation": "Am. Mech. Corp. v. Union MacHine Co. of Lynn, 485 N.E.2d 680 (Mass. App. Ct. 1984)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0349",
+   "citation": "State v. Lee, 91 Haw. 206 (2000)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0350",
+   "citation": "Perez v. Fenoglio, 792 F.3d 768 (7th Cir. 2016)",
+   "defect": "year_off_by_one"
+  },
+  {
+   "id": "LF-BB-0351",
+   "citation": "Am. Civil Liberties Union v. Barnes, 168 F.3d 423 (1999)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0352",
+   "citation": "Sparrow v. Credit, 385 F. Supp. 2d 1063 (2005)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0353",
+   "citation": "In re Termination Parent-Child Rel. of JM, 895 N.E.2d 1228 (2008)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0354",
+   "citation": "Employers Ins. of Wausau v. Tektronix, Inc., 156 P.3d 105 (2007)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0355",
+   "citation": "United States v. Waters, 96 F.3d 1449 (1996)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0356",
+   "citation": "Oracle Am., Inc. v. Google LLC, 886 F.3d 1179 (2018)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0357",
+   "citation": "United States v. Sainz, 827 F.3d 602 (2016)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0358",
+   "citation": "Antonelli v. Fed. Bureau of Prisons, 591 F. Supp. 2d 15 (2008)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0359",
+   "citation": "Kaplan v. Shure Bros., 266 F.3d 598 (2001)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0360",
+   "citation": "United States v. Cain, 104 F.3d 354 (1996)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0361",
+   "citation": "United States v. Jenkins, 84 F.3d 433 (1996)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0362",
+   "citation": "Hibbard v. Sec'y of Health & Hum. Servs., 698 F.3d 1355 (2012)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0363",
+   "citation": "Coronado v. Holder, 759 F.3d 977 (2014)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0364",
+   "citation": "Ex parte Newton, 895 So. 2d 851 (2004)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0365",
+   "citation": "Cottrell v. Duke, 737 F.3d 1238 (2013)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0366",
+   "citation": "Raimi v. Furlong, 702 So. 2d 1273 (1997)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0367",
+   "citation": "West v. Caterpillar Tractor Co., 336 So. 2d 80 (1976)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0368",
+   "citation": "In re Thomas, 823 F.3d 1345 (2016)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0369",
+   "citation": "Adams & Assocs., Inc. v. Nat'l Labor Relations Bd., 871 F.3d 358 (2017)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0370",
+   "citation": "Burke, Kenneth M. v. Gould, William B., 286 F.3d 513 (2002)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0371",
+   "citation": "Oral Surgeons, P.C. v. Cincinnati Ins. Co., 2 F.4th 1141 (2021)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0372",
+   "citation": "Makaeff v. Trump Univ., Llc, 715 F.3d 254 (2013)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0373",
+   "citation": "Johnson v. Fourth Ct. of Appeals, 700 S.W.2d 916 (1985)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0374",
+   "citation": "Nelson v. Scala, 192 F.3d 32 (1999)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0375",
+   "citation": "Liberty Lobby, Inc. v. Anderson, 746 F.2d 1563 (1984)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0376",
+   "citation": "Equal Employment Opportunity Comm'n v. Peabody W. Coal Co., 610 F.3d 1070 (2010)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0377",
+   "citation": "Hancock v. Am. Tel. & Tel. Co., 701 F.3d 1248 (2012)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0378",
+   "citation": "Panaro v. City of North Las Vegas, 432 F.3d 949 (2005)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0379",
+   "citation": "Miguel v. United States, 736 F.3d 44 (2013)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0380",
+   "citation": "Schoenefeld v. Schneiderman, 821 F.3d 273 (2016)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0381",
+   "citation": "Anderson v. LaVere, 895 So. 2d 828 (2004)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0382",
+   "citation": "Rollins v. Wackenhut Servs., Inc., 703 F.3d 122 (2012)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0383",
+   "citation": "Andreu ex rel. Andreu v. Sec'y of Health & Hum. Servs., 569 F.3d 1367 (2009)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0384",
+   "citation": "Price v. E.I. DuPont De Nemours & Co., 26 A.3d 162 (2011)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0385",
+   "citation": "Barkhordarian v. Ins, 174 F.3d 197 (1999)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0386",
+   "citation": "Castillo v. Am. Laundry MacHinery Inc. Cooper Indus., Inc., 74 F.3d 1248 (1996)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0387",
+   "citation": "Gasparini v. Pordomingo, 972 So. 2d 1053 (2008)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0388",
+   "citation": "Bazan v. Sec'y of Health & Hum. Servs., 539 F.3d 1347 (2008)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0389",
+   "citation": "Overall v. Ascension, 23 F. Supp. 3d 816 (2014)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0390",
+   "citation": "Johnson v. State Dept. of Correctional Servs., 709 F. Supp. 2d 178 (2010)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0391",
+   "citation": "Democratic Party of Haw. v. Nago, 833 F.3d 1119 (2016)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0392",
+   "citation": "State v. Bavouset, 784 A.2d 27 (2001)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0393",
+   "citation": "Dulany v. Carnahan, 132 F.3d 1234 (1997)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0394",
+   "citation": "R.I. Hosp. Trust Nat'l Bank v. E. Gen. Contractors, Inc., 674 A.2d 1227 (1996)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0395",
+   "citation": "Lisby v. State, 414 P.2d 592 (1966)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0396",
+   "citation": "United States v. Pawlak, 822 F.3d 902 (2016)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0397",
+   "citation": "Hamdan v. Rumsfeld, 415 F.3d 33 (2005)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0398",
+   "citation": "Sussex v. U.S. Dist. Ct., 781 F.3d 1065 (2015)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0399",
+   "citation": "United States v. Johnson, 74 F.3d 1244 (1996)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0400",
+   "citation": "Gayheart v. Comm'r of Soc. Sec., 710 F.3d 365 (2013)",
+   "defect": "court_missing"
+  },
+  {
+   "id": "LF-BB-0401",
+   "citation": "Rodriguez v. State, 962 P.2d 141 (Wyo. Sup. Ct. 1998)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0402",
+   "citation": "Wi-Fi One, LLC v. Broadcom Corp., 837 F.3d 1329 (Federal Circuit 2016)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0403",
+   "citation": "McCoy v. Miss. State Tax Cmsn, 666 F.3d 924 (5th Circuit 2012)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0404",
+   "citation": "Procter Gamble Co. v. Stoneham, 747 N.E.2d 268 (Ohio App. 2000)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0405",
+   "citation": "Phillips v. Cnty. of Allegheny, 515 F.3d 224 (3rd Circuit 2008)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0406",
+   "citation": "Allen v. Allen, 789 S.E.2d 787 (Va. App. 2016)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0407",
+   "citation": "Chavez-Alvarez v. Warden York Cnty. Prison, 783 F.3d 469 (3rd Circuit 2015)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0408",
+   "citation": "United States v. Jimenez-Arzate, 776 F.3d 662 (9th Circuit 2015)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0409",
+   "citation": "Ventura v. L. A. Howard Constr. Co., 134 F. Supp. 3d 99 (DDC 2015)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0410",
+   "citation": "Elec. Power Group, LLC v. Alstom S.A., 830 F.3d 1350 (Federal Circuit 2016)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0411",
+   "citation": "Frederick v. Morse, 439 F.3d 1114 (9th Circuit 2006)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0412",
+   "citation": "Zimko v. Cyanamid, 905 So. 2d 465 (La. App. 2005)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0413",
+   "citation": "Magallanes v. Otis R. Bowen, Sec'y of Health & Hum. Servs., 881 F.2d 747 (9th Circuit 1989)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0414",
+   "citation": "DeLeon v. Wells Fargo Bank, N.A., 729 F. Supp. 2d 1119 (NDCal 2010)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0415",
+   "citation": "Wheeler v. BL Dev. Corp., 415 F.3d 399 (5th Circuit 2005)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0416",
+   "citation": "United States v. Reamonia Abbott, John Abbott, 56 F.3d 65 (6th Circuit 1995)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0417",
+   "citation": "Tolle v. Fenley, 132 P.3d 63 (Utah App. 2006)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0418",
+   "citation": "Thoen v. United States, 765 F.2d 1110 (Federal Circuit 1985)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0419",
+   "citation": "City of Rome v. Jordan, 426 S.E.2d 861 (Ga. Sup. Ct. 1993)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0420",
+   "citation": "United States v. Vega-Salgado, 769 F.3d 100 (1st Circuit 2014)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0421",
+   "citation": "Dairl Johnson Claudine Johnson v. Mammoth Recreations, Inc., 975 F.2d 604 (9th Circuit 1992)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0422",
+   "citation": "Williams v. Romarm, SA, 756 F.3d 777 (DC Circuit 2014)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0423",
+   "citation": "Barr v. Resolution Trust Corp. Ex Rel. Sunbelt Fed. Sav., 837 S.W.2d 627 (Tex. Sup. Ct. 1992)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0424",
+   "citation": "Loper Bright Enters., Inc. v. Raimondo, 45 F.4th 359 (DC Circuit 2022)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0425",
+   "citation": "Clark v. State, 363 So. 2d 331 (Fla. Sup. Ct. 1978)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0426",
+   "citation": "Romero v. Drummond Co., 552 F.3d 1303 (11th Circuit 2008)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0427",
+   "citation": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. Sup. Ct. 1995)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0428",
+   "citation": "Lentz v. Spanky's Rest. II, Inc., 491 F. Supp. 2d 663 (NDTex 2007)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0429",
+   "citation": "Northwest G.F. Mut. Ins. Co. v. Norgard, 518 N.W.2d 179 (N.D. Sup. Ct. 1994)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0430",
+   "citation": "Smothers v. Gresham Transfer, Inc., 23 P.3d 333 (Or. Sup. Ct. 2001)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0431",
+   "citation": "Kinard v. Kinard, 986 S.W.2d 220 (Tenn. App. 1998)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0432",
+   "citation": "Silva-Trevino v. Holder, 742 F.3d 197 (5th Circuit 2014)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0433",
+   "citation": "Jones v. Sch. Dist. of Philadelphia, 198 F.3d 403 (3rd Circuit 1999)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0434",
+   "citation": "Robbins v. Soc. Sec. Admin., 466 F.3d 880 (9th Circuit 2006)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0435",
+   "citation": "People v. Dist. Ct., Second Jud. Dist., 713 P.2d 918 (Colo. Sup. Ct. 1986)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0436",
+   "citation": "Kvaerner Asa v. Bank Of Tokyo-Mitsubishi, Ltd., 210 F.3d 262 (1st Circuit 2000)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0437",
+   "citation": "Cumis Ins. Soc'y, Inc. v. Clark, 318 F. Supp. 3d 199 (DC Circuit 2018)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0438",
+   "citation": "German v. State, 428 N.E.2d 234 (Ind. Sup. Ct. 1981)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0439",
+   "citation": "Synopsys, Inc. v. Mentor Graphics Corp., 814 F.3d 1309 (Federal Circuit 2016)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0440",
+   "citation": "Chen v. Holder, 751 F.3d 876 (8th Circuit 2014)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0441",
+   "citation": "State v. Just, 602 P.2d 957 (Mont. Sup. Ct. 1979)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0442",
+   "citation": "Clewis v. State, 922 S.W.2d 126 (Tex. Sup. Ct. 1996)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0443",
+   "citation": "United States v. Hargrove, 508 F.3d 445 (7th Circuit 2007)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0444",
+   "citation": "Trafny v. United States, 503 F.3d 1339 (Federal Circuit 2007)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0445",
+   "citation": "Prendergast v. Nelson, 256 N.W.2d 657 (Neb. Sup. Ct. 1977)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0446",
+   "citation": "Bailey v. Mann, 895 N.E.2d 1215 (Ind. Sup. Ct. 2008)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0447",
+   "citation": "Ramirez v. TransUnion LLC, 951 F.3d 1008 (9th Circuit 2020)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0448",
+   "citation": "Defender Sec. Co. v. First Mercury Ins. Compan, 803 F.3d 327 (7th Circuit 2015)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0449",
+   "citation": "Drakes Bay Oyster Co. v. Jewell, 747 F.3d 1073 (9th Circuit 2013)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0450",
+   "citation": "Zeman v. Airlines, 699 P.2d 1274 (Alaska Sup. Ct. 1985)",
+   "defect": "court_nonbluebook"
+  },
+  {
+   "id": "LF-BB-0451",
+   "citation": "Daubert v. Merrell Dow Pharms., Inc., 951 F.2d 1128 (9th Cir. Dec. 20, 1991)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0452",
+   "citation": "Outboard Marine Corp. v. Liberty Mut. Ins., 154 Ill. 2d 90 (Dec. 4, 1992)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0453",
+   "citation": "Peterson v. Superior Court, 10 Cal. 4th 1185 (Aug. 21, 1995)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0454",
+   "citation": "Coker v. Coker, 650 S.W.2d 391 (Tex. May 4, 1983)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0455",
+   "citation": "Young v. Sweeney, 46 F.3d 66 (5th Cir. Jan. 13, 1995)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0456",
+   "citation": "Finn v. McCuen, 303 Ark. 418 (Oct. 26, 1990)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0457",
+   "citation": "Vogel v. Vogel, 137 N.H. 321 (June 30, 1993)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0458",
+   "citation": "Oceana, Inc. v. Evans, 384 F. Supp. 2d 203 (D.D.C. Aug. 2, 2005)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0459",
+   "citation": "In re Winship, 397 U.S. 358 (Mar. 31, 1970)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0460",
+   "citation": "Castro v. Attorney Gen. of U.S., 671 F.3d 356 (3d Cir. Feb. 14, 2012)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0461",
+   "citation": "Steel Co. v. Citizens for a Better Env't, 523 U.S. 83 (Mar. 4, 1998)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0462",
+   "citation": "Comm'r v. Simmons, 646 F.3d 6 (D.C. Cir. June 21, 2011)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0463",
+   "citation": "2922 Sherman Ave. Tenants' Ass'n v. Dist. of Columbia, 444 F.3d 673 (D.C. Cir. Apr. 14, 2006)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0464",
+   "citation": "King Cole Foods, Inc. v. SuperValu, Inc., 707 F.3d 917 (8th Cir. Feb. 13, 2013)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0465",
+   "citation": "Hunt v. First Ins. Co. of Haw., 922 P.2d 976 (Haw. Ct. App. Sept. 23, 1996)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0466",
+   "citation": "Arpaio v. Obama, 797 F.3d 11 (D.C. Cir. Aug. 14, 2015)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0467",
+   "citation": "Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (Mar. 27, 1996)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0468",
+   "citation": "Brady v. Oliver, 125 Tenn. 595 (Dec. 15, 1911)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0469",
+   "citation": "Zambelli Fireworks Mfg. Co. v. Wood, 592 F.3d 412 (3d Cir. Jan. 15, 2010)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0470",
+   "citation": "State v. Williams, 305 S.C. 116 (July 8, 1991)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0471",
+   "citation": "Barker v. Wingo, 407 U.S. 514 (June 22, 1972)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0472",
+   "citation": "Brady v. Maryland, 373 U.S. 83 (May 13, 1963)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0473",
+   "citation": "Gen. Agents Ins. Co. of Am. v. People's Bank & Trust Co., 854 S.W.2d 368 (Ark. Ct. App. June 2, 1993)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0474",
+   "citation": "Cannon v. Perry, 144 Idaho 728 (Oct. 19, 2007)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0475",
+   "citation": "Haim v. Islamic Republic of Iran, 784 F. Supp. 2d 1 (D.D.C. May 19, 2011)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0476",
+   "citation": "Wiley v. Glassman, 511 F.3d 151 (D.C. Cir. Dec. 14, 2007)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0477",
+   "citation": "Gillespie v. Gillespie, 644 S.W.2d 449 (Tex. Nov. 3, 1982)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0478",
+   "citation": "Hendrickson v. Minn. Power & Light Co., 258 Minn. 368 (July 8, 1960)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0479",
+   "citation": "Williamson Cnty. Reg'l Planning Comm'n v. Hamilton Bank, 473 U.S. 172 (June 28, 1985)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0480",
+   "citation": "Boumediene v. Bush, 476 F.3d 981 (D.C. Cir. Feb. 20, 2007)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0481",
+   "citation": "In re Harris, 292 Kan. 521 (July 22, 2011)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0482",
+   "citation": "Beebe v. Wash. Metro. Area Transit Auth., 129 F.3d 1283 (D.C. Cir. Nov. 28, 1997)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0483",
+   "citation": "Shamrock Foods Co. v. Nat'l Labor Relations Bd., 346 F.3d 1130 (D.C. Cir. Oct. 21, 2003)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0484",
+   "citation": "Nat'l Bellas Hess, Inc. v. Dep't of Revenue, 386 U.S. 753 (May 8, 1967)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0485",
+   "citation": "Cardwell v. State, 895 N.E.2d 1219 (Ind. Nov. 12, 2008)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0486",
+   "citation": "Whittaker v. Whittaker, 228 W. Va. 84 (Mar. 1, 2011)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0487",
+   "citation": "Cole v. Ferrell, 82 F.3d 422 (9th Cir. Apr. 1, 1996)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0488",
+   "citation": "Chiang v. Verizon New England, Inc., 595 F.3d 26 (1st Cir. Feb. 9, 2010)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0489",
+   "citation": "Nathaniel Mosley v. Gen. Motors Corp., 497 F.2d 1330 (8th Cir. May 31, 1974)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0490",
+   "citation": "Hall v. Beals, 396 U.S. 45 (Nov. 24, 1969)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0491",
+   "citation": "Robinson v. City of Detroit, 462 Mich. 439 (July 18, 2000)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0492",
+   "citation": "Roman Catholic Diocese v. Sylvia Burwell, Secretar, 793 F.3d 449 (5th Cir. June 22, 2015)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0493",
+   "citation": "Valadez v. Avitia, 238 S.W.3d 843 (Tex. App. Oct. 18, 2007)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0494",
+   "citation": "People v. Johnson, 460 Mich. 720 (July 20, 1999)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0495",
+   "citation": "Burwell v. Hobby Lobby Stores, Inc., 573 U.S. 682 (June 30, 2014)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0496",
+   "citation": "Kaczorowski v. Mayor of Baltimore, 309 Md. 505 (May 15, 1987)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0497",
+   "citation": "Melendez-Diaz v. Massachusetts, 557 U.S. 305 (June 25, 2009)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0498",
+   "citation": "Cnty. of Klamath v. Ricard, 317 Or. App. 608 (Feb. 16, 2022)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0499",
+   "citation": "Batson v. Kentucky, 476 U.S. 79 (Apr. 30, 1986)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0500",
+   "citation": "Sledge v. United States, 723 F. Supp. 2d 87 (D.D.C. July 13, 2010)",
+   "defect": "full_date"
+  },
+  {
+   "id": "LF-BB-0501",
+   "citation": "Lyon v. Hartford Accident & Indemnity Company, 480 P.2d 739 (Utah 1971)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0502",
+   "citation": "Piper Aircraft Company v. Reyno, 454 U.S. 235 (1981)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0503",
+   "citation": "Kerobo v. Southwestern Clean Fuels, Corporation, 285 F.3d 531 (6th Cir. 2002)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0504",
+   "citation": "Vinole v. Countrywide Home Loans, Incorporated, 571 F.3d 935 (9th Cir. 2009)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0505",
+   "citation": "Advocat, Incorporated v. Sauer, 353 Ark. 29 (2003)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0506",
+   "citation": "Burch v. Regents of the University of Cal., 433 F. Supp. 2d 1110 (E.D. Cal. 2006)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0507",
+   "citation": "Basic Incorporated v. Levinson, 485 U.S. 224 (1988)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0508",
+   "citation": "H & R Block, Incorporated v. Testerman, 338 A.2d 48 (Md. 1975)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0509",
+   "citation": "Pacific Insurance Company v. American National Fire Insurance Company, Rail Link, 148 F.3d 396 (4th Cir. 1998)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0510",
+   "citation": "Church of the Lukumi Babalu Aye, Incorporated v. City of Hialeah, 508 U.S. 520 (1993)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0511",
+   "citation": "Lugo v. Ameritech Corporation, 629 N.W.2d 384 (Mich. 2001)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0512",
+   "citation": "Ray Dancer, Incorporated v. D M C Corporation, 230 Ill. App. 3d 40 (1992)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0513",
+   "citation": "Matsushita Electronic Industry Company v. Zenith Radio Corporation, 475 U.S. 574 (1986)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0514",
+   "citation": "Ind. Insurance v. General Electronic Company, 326 F. Supp. 2d 844 (N.D. Ohio 2004)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0515",
+   "citation": "Acuity v. Burd & Smith Construction, Incorporated, 2006 N.D. 187 (2006)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0516",
+   "citation": "Dye v. Office of the Racing Commission, 702 F.3d 286 (6th Cir. 2012)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0517",
+   "citation": "Bronson Methodist Hospital v. Mich. Assigned Claims Facility, 298 Mich. App. 192 (2012)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0518",
+   "citation": "Tinker v. Des Moines Independent Community School District, 393 U.S. 503 (1969)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0519",
+   "citation": "United Oil Company v. Urban Redevelopment Commission, 260 A.2d 596 (Conn. 1969)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0520",
+   "citation": "Amchem Products, Incorporated v. Windsor, 521 U.S. 591 (1997)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0521",
+   "citation": "Thomas Southern Amlie Estate of June T. Amlie, Deceased Richard R. Epple, Jr. v. Commissioner of the Internal Revenue Service, 14 F.3d 593 (4th Cir. 1993)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0522",
+   "citation": "Pa. Liquor Control Board v. Tlk, Incorporated, 518 Pa. 500 (1988)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0523",
+   "citation": "Novak v. MetroHealth Medicine Centre, 503 F.3d 572 (6th Cir. 2007)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0524",
+   "citation": "Permann v. SouthernD. Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (S.D. 1987)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0525",
+   "citation": "Students for Fair Admissions, Incorporated v. President & Fellows of Harvard College, 600 U.S. 181 (2023)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0526",
+   "citation": "Hymowitz v. Eli Lilly & Company, 73 N.Y.2d 487 (1989)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0527",
+   "citation": "Parranto Brothers v. City of New Brighton, 425 N.W.2d 585 (Minn. Ct. App. 1988)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0528",
+   "citation": "Churchey v. Adolph Coors Company, 759 P.2d 1336 (Colo. 1988)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0529",
+   "citation": "A & F Properties, LLC v. Lake Caroline, Incorporated, 775 So. 2d 1276 (Miss. Ct. App. 2000)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0530",
+   "citation": "Malone v. U.Southern Postal Service, an Agency of the U.Southern, 833 F.2d 128 (9th Cir. 1987)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0531",
+   "citation": "Western Union Telegraph Company v. Krichbaum, 132 Ala. 535 (1902)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0532",
+   "citation": "Foremost Insurance Company v. Parham, 693 So. 2d 409 (Ala. 1997)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0533",
+   "citation": "Morrison v. National Austl. Bank Limited, 561 U.S. 247 (2010)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0534",
+   "citation": "Cardinal Towing & Auto Repair, Incorporated v. City of Bedford, 180 F.3d 686 (5th Cir. 1999)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0535",
+   "citation": "Polaroid Corporation v. Travelers Indemnity Company, 414 Mass. 747 (1993)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0536",
+   "citation": "United States v. Arnold, Schwinn & Company, 388 U.S. 365 (1967)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0537",
+   "citation": "Epic Systems Corporation v. Lewis, 584 U.S. 497 (2018)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0538",
+   "citation": "Franklin v. District of Columbia, 163 F.3d 625 (D.C. Cir. 1999)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0539",
+   "citation": "Miners in General Group v. Hix, 17 S.E.2d 810 (W. Va. 1941)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0540",
+   "citation": "Bacadam Outdoor Advertising, Incorporated v. Kennard, 721 So. 2d 226 (Ala. Civ. App. 1998)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0541",
+   "citation": "Butler, Joan Southern v. Barnhart, Jo Anne B., 353 F.3d 992 (D.C. Cir. 2004)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0542",
+   "citation": "GE Capital Commercial, Incorporated v. Worthington National Bank, 754 F.3d 297 (5th Cir. 2014)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0543",
+   "citation": "Anderson v. Liberty Lobby, Incorporated, 477 U.S. 242 (1986)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0544",
+   "citation": "Armstrong v. Best Buy Company, 99 Ohio St. 3d 79 (2003)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0545",
+   "citation": "Hobby Lobby Stores, Incorporated v. Sebelius, 723 F.3d 1114 (10th Cir. 2013)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0546",
+   "citation": "Klaxon Company v. Stentor Electronic Manufacturing Company, 313 U.S. 487 (1941)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0547",
+   "citation": "Exxon Mobil Corporation v. Allapattah Services, Incorporated, 545 U.S. 546 (2005)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0548",
+   "citation": "Conner v. Mayor, C. of NorthernY., 5 N.Y. 285 (1851)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0549",
+   "citation": "Wilson v. Transportation Insurance Company, 889 A.2d 563 (Pa. Super. Ct. 2005)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0550",
+   "citation": "Hertz Corporation v. Friend, 559 U.S. 77 (2010)",
+   "defect": "t6_spelled_out"
+  },
+  {
+   "id": "LF-BB-0551",
+   "citation": "Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0552",
+   "citation": "Environmental Protection Agency v. Mink, 410 U.S. 73 (1973)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0553",
+   "citation": "The Cherokee Nation of Oklahoma v. The United States, the Choctaw Nation of Oklahoma and the Chickasaw Nation v. United States, 124 F.3d 1413 (Fed. Cir. 1997)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0554",
+   "citation": "John James Mary James v. Cecil B. Jacobson, Jr., M.D. Reproductive Genetics Center, Limited, 6 F.3d 233 (4th Cir. 1993)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0555",
+   "citation": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 321 (N.D. 1985)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0556",
+   "citation": "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0557",
+   "citation": "Schreiber v. K-Sea Transportation Corp., 9 N.Y.3d 331 (2007)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0558",
+   "citation": "Johnson v. Executive Office for United States Attorneys, 310 F.3d 771 (D.C. Cir. 2002)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0559",
+   "citation": "Treasurer of New Jersey v. United States Department of the Treasury, 684 F.3d 382 (3d Cir. 2012)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0560",
+   "citation": "Metro Broadcasting, Inc. v. Federal Communications Commission, 497 U.S. 547 (1990)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0561",
+   "citation": "Planned Parenthood of Southeastern Pa. v. Casey, 505 U.S. 833 (1992)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0562",
+   "citation": "American Home Assurance Company v. Czarniecki, 230 So. 2d 253 (La. 1969)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0563",
+   "citation": "Portland General Electric Co. v. Bureau of Labor & Industries, 317 Or. 606 (1993)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0564",
+   "citation": "UBS Financial Services, Inc. v. West Virginia University Hospitals, Inc., 660 F.3d 643 (2d Cir. 2011)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0565",
+   "citation": "Dobbs v. Jackson Women's Health Organization, 597 U.S. 215 (2022)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0566",
+   "citation": "Shelby County, Ala. v. Holder, 679 F.3d 848 (D.C. Cir. 2012)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0567",
+   "citation": "Bandstra v. International Harvester Co., 367 N.W.2d 282 (Iowa Ct. App. 1985)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0568",
+   "citation": "Dickau v. Vermont Mutual Insurance Co., 2014 Me. 158 (2014)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0569",
+   "citation": "Winston & Strawn, LLP v. James P. McLean, Jr., 843 F.3d 503 (D.C. Cir. 2016)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0570",
+   "citation": "Barkley v. United States Marshals Service, 766 F.3d 25 (D.C. Cir. 2014)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0571",
+   "citation": "State Highway Administration v. Kee, 309 Md. 523 (1987)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0572",
+   "citation": "Dura Pharmaceuticals, Inc. v. Broudo, 544 U.S. 336 (2005)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0573",
+   "citation": "In re: Byron Jones, A/K/A Carl Lee, A/K/A B, 226 F.3d 328 (4th Cir. 2000)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0574",
+   "citation": "Koehn v. Secretary of Health & Human Services, 773 F.3d 1239 (Fed. Cir. 2014)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0575",
+   "citation": "Baybutt Construction Corp. v. Commercial Union Insurance, 455 A.2d 914 (Me. 1983)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0576",
+   "citation": "Hosanna-Tabor Evangelical Lutheran Church & School v. Equal Employment Opportunity Commission, 565 U.S. 171 (2012)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0577",
+   "citation": "Hall Street Associates, L. L. C. v. Mattel, Inc., 552 U.S. 576 (2008)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0578",
+   "citation": "Persell v. Secretary of Health and Human Services, 36 F.3d 1097 (6th Cir. 1994)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0579",
+   "citation": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing, 545 U.S. 308 (2005)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0580",
+   "citation": "Huang v. Eric Holder, Jr., 744 F.3d 1149 (9th Cir. 2014)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0581",
+   "citation": "Gift of Learning Foundation, Inc. v. TGC, Inc., Adelphia Cable Communications, At&T Cable, 329 F.3d 792 (11th Cir. 2003)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0582",
+   "citation": "Campbell v. Secretary of Health & Human Services, 69 Fed. Cl. 775 (Fed. Cl. 2006)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0583",
+   "citation": "Gallo v. Prudential Residential Services, Limited Partnership, Doing Business as Prudential Relocation Management, 22 F.3d 1219 (2d Cir. 1994)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0584",
+   "citation": "Murphy v. National Collegiate Athletic Assn., 584 U.S. 453 (2018)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0585",
+   "citation": "Chen v. City University of New York, 805 F.3d 59 (2d Cir. 2015)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0586",
+   "citation": "Desmond v. Administrative Director of the Courts, 91 Haw. 212 (Haw. Ct. App. 1998)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0587",
+   "citation": "Feist Publications, Inc. v. Rural Telephone Service Co., 499 U.S. 340 (1991)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0588",
+   "citation": "Pickering v. American Employers Insurance, 282 A.2d 584 (R.I. 1971)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0589",
+   "citation": "Marcusse v. United States Department of Justice Office of Information Policy, 959 F. Supp. 2d 119 (D.D.C. 2013)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0590",
+   "citation": "Disability Advocates, Inc. v. New York Coalition for Quality Assisted Living, Inc., 675 F.3d 149 (2d Cir. 2012)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0591",
+   "citation": "Jones v. Washington Metropolitan Area Transit Authority, 205 F.3d 428 (D.C. Cir. 2000)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0592",
+   "citation": "Logan v. Us Bank National Association, 722 F.3d 1163 (9th Cir. 2013)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0593",
+   "citation": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation, 756 F.2d 181 (D.C. Cir. 1985)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0594",
+   "citation": "Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett, 477 U.S. 317 (1986)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0595",
+   "citation": "Monell v. New York City Dept. of Social Servs., 436 U.S. 658 (1978)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0596",
+   "citation": "Kushell v. Department of Natural Resources, 870 A.2d 186 (Md. 2005)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0597",
+   "citation": "Central Hudson Gas & Electric Corp. v. Public Service Commission, 447 U.S. 557 (1980)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0598",
+   "citation": "Lewis v. Epic Systems Corporation, 823 F.3d 1147 (7th Cir. 2016)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0599",
+   "citation": "Poteet v. Kansas Department of Revenue, 233 P.3d 286 (Kan. Ct. App. 2010)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0600",
+   "citation": "Mayo Collaborative Services v. Prometheus Laboratories, Inc., 566 U.S. 66 (2012)",
+   "defect": "full_caption"
+  },
+  {
+   "id": "LF-BB-0601",
+   "citation": "BLAKELY v. WASHINGTON, 542 U.S. 296 (2004)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0602",
+   "citation": "UNITED STATES v. NIXON, 418 U.S. 683 (1974)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0603",
+   "citation": "TWOMBLY v. BELL ATL. CORP., 425 F.3d 99 (2d Cir. 2005)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0604",
+   "citation": "KOUROUVACILIS v. GEN. MOTORS CORP., 410 Mass. 706 (1991)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0605",
+   "citation": "DCD PROGRAMS, LTD. v. MICHAEL W. LEIGHTON, HILL, FARRER & BURRILL, 833 F.2d 183 (9th Cir. 1987)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0606",
+   "citation": "HOUSE v. MAYO, 324 U.S. 42 (1945)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0607",
+   "citation": "INT'L TECH. CORP. v. WINTER, 523 F.3d 1341 (Fed. Cir. 2008)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0608",
+   "citation": "STATE v. MURDOCK, 299 Kan. 312 (2014)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0609",
+   "citation": "SMITH v. VAN GORKOM, 488 A.2d 858 (Del. 1985)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0610",
+   "citation": "O'KEEFE v. CHISHOLM, 769 F.3d 936 (7th Cir. 2014)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0611",
+   "citation": "CICHOCKI v. ASTRUE, 729 F.3d 172 (2d Cir. 2013)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0612",
+   "citation": "CARMICHAEL v. SAMYANG TIRE, INC., 131 F.3d 1433 (11th Cir. 1997)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0613",
+   "citation": "WASHINGTON v. TRUMP, 847 F.3d 1151 (9th Cir. 2017)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0614",
+   "citation": "BOWLING v. COMMONWEALTH, 942 S.W.2d 293 (Ky. 1997)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0615",
+   "citation": "VIGIL v. COLVIN, 805 F.3d 1199 (10th Cir. 2015)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0616",
+   "citation": "SCOTT v. MOREQUITY, INC., 683 F. Supp. 2d 1280 (N.D. Ala. 2009)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0617",
+   "citation": "MURRAY v. ALLEN, 154 A. 678 (Vt. 1931)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0618",
+   "citation": "PALSGRAF v. LONG ISLAND R.R. CO., 222 A.D. 166 (1927)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0619",
+   "citation": "PEOPLE v. CARINES, 460 Mich. 750 (1999)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0620",
+   "citation": "LEAGUE OF WOMEN VOTERS OF N.C. v. NORTH CAROLINA, 769 F.3d 224 (4th Cir. 2014)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0621",
+   "citation": "QUALITEX CO. v. JACOBSON PRODS. CO., 514 U.S. 159 (1995)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0622",
+   "citation": "GILMAN v. SHAMES, 212 Conn. App. 147 (2022)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0623",
+   "citation": "MCDONNELL DOUGLAS CORP. v. GREEN, 411 U.S. 792 (1973)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0624",
+   "citation": "CHIMEL v. CALIFORNIA, 395 U.S. 752 (1969)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0625",
+   "citation": "SCHEAFNOCKER v. COMM'R, 642 F.3d 428 (3d Cir. 2011)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0626",
+   "citation": "SHERWOOD ICE CO. v. U. S. CAS. CO., 100 A. 572 (R.I. 1917)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0627",
+   "citation": "AHMED v. OBAMA, 613 F. Supp. 2d 51 (D.D.C. 2009)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0628",
+   "citation": "HAWAII v. TRUMP, 878 F.3d 662 (9th Cir. 2017)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0629",
+   "citation": "AZZARELLO v. BLACK BROS. CO., 480 Pa. 547 (1978)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0630",
+   "citation": "UNITED STATES v. SILVA, 608 F.3d 663 (10th Cir. 2010)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0631",
+   "citation": "RALLS CORP. v. COMM. ON FOREIGN INV. IN THE U.S., 926 F. Supp. 2d 71 (D.D.C. 2013)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0632",
+   "citation": "ROPER v. SIMMONS, 543 U.S. 551 (2005)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0633",
+   "citation": "JAMES v. UNITED STATES, 550 U.S. 192 (2007)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0634",
+   "citation": "R.A. ARGUETA, HUSBAND MARY ARGUETA, WIFE GRUPO SAL CORP. v. BANCO MEXICANO, S.A. FRANCISCO SUAREZ DAVILA ALONSO CUEVAS DEL VILLAR, 87 F.3d 320 (9th Cir. 1996)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0635",
+   "citation": "S&W ENTERS., L.L.C. v. SOUTHTRUST BANK OF ALA., NA, AN ALA. BANKING CORP., 315 F.3d 533 (5th Cir. 2003)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0636",
+   "citation": "SANTEN v. TUTHILL, 265 Va. 492 (2003)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0637",
+   "citation": "DILLON v. LEGG, 68 Cal. 2d 728 (1968)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0638",
+   "citation": "CRAWFORD v. WASHINGTON, 541 U.S. 36 (2004)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0639",
+   "citation": "UNITED STATES v. COOK, 594 F.3d 883 (D.C. Cir. 2010)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0640",
+   "citation": "QUILL CORP. v. NORTH DAKOTA, 504 U.S. 298 (1992)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0641",
+   "citation": "ROE v. WADE, 410 U.S. 113 (1973)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0642",
+   "citation": "DALTON v. CAMP, 548 S.E.2d 704 (N.C. 2001)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0643",
+   "citation": "FREEMAN & MILLS, INC. v. BELCHER OIL CO., 11 Cal. 4th 85 (1995)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0644",
+   "citation": "TIPTON v. UNITED STATES, 97 F.3d 1452 (6th Cir. 1996)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0645",
+   "citation": "KUMHO TIRE CO. v. CARMICHAEL, 526 U.S. 137 (1999)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0646",
+   "citation": "IN RE MCDIVITT ESTATE, 425 N.W.2d 575 (Mich. Ct. App. 1988)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0647",
+   "citation": "AIKEN v. BYARS, 765 S.E.2d 572 (S.C. 2014)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0648",
+   "citation": "ROWLAND v. STATE, 42 So. 3d 503 (Miss. 2010)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0649",
+   "citation": "SCHNECKLOTH v. BUSTAMONTE, 412 U.S. 218 (1973)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0650",
+   "citation": "SEAMAN'S DIRECT BUYING SERV., INC. v. STANDARD OIL CO., 36 Cal. 3d 752 (1984)",
+   "defect": "all_caps_name"
+  },
+  {
+   "id": "LF-BB-0651",
+   "citation": "Harrell v. City of Norfolk, 265 Va. 505 (2003)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0652",
+   "citation": "Pizza v. Workers' Comp. Appeals Bd., 51 Cal. Rptr. 3d 122 (Cal. Ct. App. 2006)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0653",
+   "citation": "Dolan v. City of Tigard, 512 U.S. 380 (1994)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0654",
+   "citation": "Goldman v. United States, 316 U.S. 133 (1942)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0655",
+   "citation": "United States v. Cooper, 750 F.3d 265 (3d Cir. 2014)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0656",
+   "citation": "In re Mouttet, 686 F.3d 1326 (Fed. Cir. 2012)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0657",
+   "citation": "Pearson v. Lincoln Tel. Co., 513 N.W.2d 365 (Neb. Ct. App. 1994)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0658",
+   "citation": "United States v. Robinson, 846 F.3d 698 (4th Cir. 2017)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0659",
+   "citation": "Wolfe v. Bank One Corp., 433 F. Supp. 2d 849 (N.D. Ohio 2005)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0660",
+   "citation": "Shaw v. Shirley S. Chater, as Comm'r of the Soc. Sec. Admin., 221 F.3d 129 (2d Cir. 2000)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0661",
+   "citation": "Careau & Co. v. Sec. Pac. Bus. Credit, Inc., 222 Cal. App. 3d 1376 (1990)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0662",
+   "citation": "Lewis v. Rick Thaler, Dir., 701 F.3d 786 (5th Cir. 2012)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0663",
+   "citation": "Mapp v. Ohio, 367 U.S. 649 (1961)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0664",
+   "citation": "Kent Cnty. Bd. of Educ. v. Bilbrough, 309 Md. 490 (1987)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0665",
+   "citation": "Hyland v. State, 660 So. 2d 1192 (Fla. Dist. Ct. App. 1995)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0666",
+   "citation": "United States v. Lopez, 514 U.S. 553 (1995)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0667",
+   "citation": "United States v. Ruiz-Huertas, 792 F.3d 228 (1st Cir. 2015)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0668",
+   "citation": "Haskill v. Andros, 4 Vt. 613 (1832)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0669",
+   "citation": "Reed v. Town of Gilbert, 576 U.S. 159 (2015)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0670",
+   "citation": "Loughran v. Superior Ct. of Maricopa, 699 P.2d 1293 (Ariz. 1985)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0671",
+   "citation": "Wilkie v. Auto-Owners Ins., 469 Mich. 43 (2003)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0672",
+   "citation": "Hartsfield v. Lemacks, 50 F.3d 952 (11th Cir. 1995)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0673",
+   "citation": "AMS Assocs., Inc. v. United States, 719 F.3d 1381 (Fed. Cir. 2013)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0674",
+   "citation": "United States v. Dunkel, 927 F.2d 957 (7th Cir. 1991)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0675",
+   "citation": "Hall v. Sec'y of Health & Hum. Servs., 640 F.3d 1357 (Fed. Cir. 2011)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0676",
+   "citation": "Katz v. United States, 389 U.S. 349 (1967)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0677",
+   "citation": "State v. Knight, 371 N.W.2d 320 (Neb. 1985)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0678",
+   "citation": "N.Y. State Rifle & Pistol Ass'n v. Bruen, 597 U.S. 6 (2022)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0679",
+   "citation": "AT&T Mobility LLC v. Concepcion, 563 U.S. 339 (2011)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0680",
+   "citation": "Harlow v. Fitzgerald, 457 U.S. 804 (1982)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0681",
+   "citation": "Goldman v. Citigroup Global Markets Inc, 834 F.3d 245 (3d Cir. 2016)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0682",
+   "citation": "Taylor v. Kellogg Brown & Root Servs., Inc., 658 F.3d 408 (4th Cir. 2011)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0683",
+   "citation": "MacPherson v. Buick Motor Co., 217 N.Y. 384 (1916)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0684",
+   "citation": "Tangreti v. Bachmann, 983 F.3d 615 (2d Cir. 2020)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0685",
+   "citation": "Lujan v. Defs. of Wildlife, 504 U.S. 559 (1992)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0686",
+   "citation": "N.Y. State Ass'n ex rel. Retarded Children v. Carey, 711 F.2d 1141 (2d Cir. 1983)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0687",
+   "citation": "Dedes v. Asch, 446 Mich. 102 (1994)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0688",
+   "citation": "Bristol-Myers Squibb Co. v. Superior Court, 1 Cal. 5th 787 (2016)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0689",
+   "citation": "World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 289 (1980)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0690",
+   "citation": "Brooks v. Grundmann, 748 F.3d 1278 (D.C. Cir. 2014)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0691",
+   "citation": "United States v. Hardin, 9 F.3d 1554 (6th Cir. 1993)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0692",
+   "citation": "United States v. Engles, 779 F.3d 1163 (10th Cir. 2015)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0693",
+   "citation": "Territory of Okla. ex rel. Sampson v. Clark, 35 P. 884 (Okla. 1894)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0694",
+   "citation": "Butnaru v. Ford Motor Co., 84 S.W.3d 203 (Tex. 2002)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0695",
+   "citation": "Iowa v. Hennings, 791 N.W.2d 833 (Iowa 2010)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0696",
+   "citation": "Conservancy v. Bosley, 118 Wash. 2d 804 (1992)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0697",
+   "citation": "Agins v. City of Tiburon, 447 U.S. 260 (1980)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0698",
+   "citation": "Hoffman v. Jones, 280 So. 2d 435 (Fla. 1973)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0699",
+   "citation": "Marvin v. Marvin, 18 Cal. 3d 663 (1976)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0700",
+   "citation": "Abood v. Detroit Bd. of Educ., 431 U.S. 213 (1977)",
+   "defect": "pin_as_first_page"
+  },
+  {
+   "id": "LF-BB-0701",
+   "citation": "Bowen ex rel. Estate of Bowen v. Warden, Baldwin State Prison,826 F.3d 1312 (11th Cir. 2016)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0702",
+   "citation": "In re Karen A. Briscoe Alfred Lara Wanda T. Kizer Debra Alexander Rhonda Allen Mary Green Glenda D. Abbott & Leslie Bales, 448 F.3d 201, (3d Cir. 2006).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0703",
+   "citation": "Mendoza v. Perez, 754 F.3d 1002, (D.C. Cir. 2014).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0704",
+   "citation": "United States v. Pablo Luis Gomez Angarra, 105 F.3d 670, (10th Cir. 1997).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0705",
+   "citation": "Diag Hum. S.E. v. Czech Republic - Ministry of H,  824  F.3d  131 ( D.C. Cir. 2016 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0706",
+   "citation": "Fisher v. City of Detroit Robert Butucal Richard Ivy Robert Gerds 4 F.3d 993 (6th Cir. 1993)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0707",
+   "citation": "Colo. River Water Conservation Dist. v. United States,  424  U.S.  800 ( 1976 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0708",
+   "citation": "Dreaded, Inc. v. St. Paul Guardian Ins. Co.,  904  N.E.2d  1267 ( Ind. 2009 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0709",
+   "citation": "Helena Chem. Co. v. Wilkins 47 S.W.3d 486 (Tex. 2001)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0710",
+   "citation": "Hart v. Arnold,  884  A.2d  316 ( Pa. Super. Ct. 2005 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0711",
+   "citation": "Allison v. Kleinman,317 Or. 604 (1993)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0712",
+   "citation": "Graham v. Florida 560 U.S. 48 (2010)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0713",
+   "citation": "Thing v. La Chusa,48 Cal. 3d 644 (1989)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0714",
+   "citation": "United States v. Van Buren,940 F.3d 1192 (11th Cir. 2019)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0715",
+   "citation": "State v. Mapp,  170  Ohio St.  427 ( 1960 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0716",
+   "citation": "Summers v. Tice 33 Cal. 2d 80 (1948)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0717",
+   "citation": "State v. Oliver, 144 Idaho 722, (2007).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0718",
+   "citation": "Bush v. Squellati,  122  Ill. 2d  153 ( 1988 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0719",
+   "citation": "Bell Atl. Corp. v. Twombly,  550  U.S.  544 ( 2007 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0720",
+   "citation": "MercExchange, L.L.C. v. eBay, Inc.,  401  F.3d  1323 ( Fed. Cir. 2005 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0721",
+   "citation": "Hickman v. Carven 784 A.2d 31 (Md. 2001)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0722",
+   "citation": "City of Keller v. Wilson 168 S.W.3d 802 (Tex. 2005)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0723",
+   "citation": "Kuroda v. Spjs Holdings, L.L.C., 971 A.2d 872, (Del. Ch. 2009).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0724",
+   "citation": "United States v. Bramblett,  348  U.S.  503 ( 1955 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0725",
+   "citation": "State v. Miranda 98 Ariz. 18 (1965)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0726",
+   "citation": "Ortego v. Shalala, 99 F.3d 1135, (5th Cir. 1996).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0727",
+   "citation": "Walker v. Sheldon,223 N.Y.S.2d 488 (N.Y. 1961)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0728",
+   "citation": "In re Mason,122 Ill. 2d 163 (1988)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0729",
+   "citation": "United States v. Jones, 846 F.3d 366, (D.C. Cir. 2017).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0730",
+   "citation": "Blockburger v. United States 284 U.S. 299 (1932)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0731",
+   "citation": "Trimble Inc. v. Perdiemco LLC 997 F.3d 1147 (Fed. Cir. 2021)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0732",
+   "citation": "Leblanc v. United States,  50  F.3d  1025 ( Fed. Cir. 1995 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0733",
+   "citation": "Hill v. Curcione,657 F.3d 116 (2d Cir. 2011)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0734",
+   "citation": "Adamson v. California 332 U.S. 46 (1947)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0735",
+   "citation": "Law Offices of Ronald J. Palagi v. Howard,275 Neb. 334 (2008)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0736",
+   "citation": "Obergefell v. Hodges,  576  U.S.  644 ( 2015 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0737",
+   "citation": "United States v. R&F Props. of Lake Cnty., Inc.,  433  F.3d  1349 ( 11th Cir. 2005 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0738",
+   "citation": "Miranda v. Arizona, 384 U.S. 436, (1966).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0739",
+   "citation": "State v. Lawrence, 365 N.C. 506, (2012).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0740",
+   "citation": "Alanis-Alvarado v. Holder,558 F.3d 833 (9th Cir. 2009)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0741",
+   "citation": "Apodaca v. Oregon, 406 U.S. 404, (1972).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0742",
+   "citation": "Aguilar v. Felton,473 U.S. 402 (1985)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0743",
+   "citation": "Moore, William v. CapitalCare Inc,461 F.3d 1 (D.C. Cir. 2006)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0744",
+   "citation": "State v. Battershaw,371 N.W.2d 313 (Neb. 1985)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0745",
+   "citation": "Garner v. Mitchell, 557 F.3d 257, (6th Cir. 2009).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0746",
+   "citation": "Jackson v. Virginia 443 U.S. 307 (1979)",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0747",
+   "citation": "Battalla v. State, 10 N.Y.2d 237, (1961).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0748",
+   "citation": "Rasmussen v. Baker,  50  P.  819 ( Wyo. 1897 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0749",
+   "citation": "Nursery v. Hassid,  594  U.S.  139 ( 2021 )",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0750",
+   "citation": "United States v. Amodeo, 71 F.3d 1044, (2d Cir. 1995).",
+   "defect": "punctuation"
+  },
+  {
+   "id": "LF-BB-0751",
+   "citation": "United States v. Nichols, 1994 WL 119002 (D.C. Cir. 1994)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0752",
+   "citation": "United States v. Ganoe, 2015 WL 4430466 (9th Cir. 2008)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0753",
+   "citation": "Moore v. Quarterman, 2012 WL 3996836 (5th Cir. 2008)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0754",
+   "citation": "McKinney v. Ryan, 2014 WL 1013859 (9th Cir. 2013)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0755",
+   "citation": "United States v. Houston, 2011 WL 5387535 (8th Cir. 2008)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0756",
+   "citation": "Hale v. Carl Townley, Billy J. Hale v. Carl Townley, 2003 WL 21697174 (5th Cir. 1995)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0757",
+   "citation": "Fisheries v. Locke, 2011 WL 2636863 (1st Cir. 2012)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0758",
+   "citation": "United States v. Siegel, 2014 WL 2210762 (7th Cir. 2014)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0759",
+   "citation": "United States v. Lyons, 2015 WL 4899590 (6th Cir. 2012)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0760",
+   "citation": "Mejia v. Holder, 2014 WL 2872220 (1st Cir. 2014)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0761",
+   "citation": "United States v. Rodriguez, 2001 WL 845452 (5th Cir. 2010)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0762",
+   "citation": "United States v. Begay, 1998 WL 17765 (10th Cir. 1998)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0763",
+   "citation": "United States v. Baston, 2016 WL 1162202 (11th Cir. 2016)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0764",
+   "citation": "Garg v. Potter, 2013 WL 4413323 (7th Cir. 2008)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0765",
+   "citation": "United States v. Richardson, 2015 WL 4174809 (6th Cir. 2015)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0766",
+   "citation": "Debrew v. Atwood, 2015 WL 3949421 (D.C. Cir. 2015)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0767",
+   "citation": "Laster v. Dist. of Columbia, 2013 WL 5460281 (D.D.C. 2005)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0768",
+   "citation": "Cent. States, Southeast & Southwest Areas Health & Welfare Fund v. First Agency, Inc., 2014 WL 2933225 (6th Cir. 2014)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0769",
+   "citation": "Gibbs v. Deckers, 2015 WL 4915538 (D. Del. 2002)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0770",
+   "citation": "Pardo-Kronemann v. Donovan, 2011 WL 192497 (D.C. Cir. 2010)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0771",
+   "citation": "Ammex, Inc. v. United States of America Internal Revenue Serv., 2002 WL 32065583 (6th Cir. 2004)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0772",
+   "citation": "Martin v. Dep't of Justice, 2016 WL 3544989 (D.C. Cir. 2007)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0773",
+   "citation": "United States v. Nichols, 2015 WL 1805151 (7th Cir. 2015)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0774",
+   "citation": "Khadr v. Bush, 2008 WL 948337 (D.D.C. 2008)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0775",
+   "citation": "Gonzalez v. Hasty, 2015 WL 5155150 (2d Cir. 2015)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0776",
+   "citation": "Dura Auto. Sys. of Ind., Inc., Formerly Known as Excel Corp. v. Cts Corp., 2014 WL 5038142 (7th Cir. 2002)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0777",
+   "citation": "Reynolds v. Middleton, 2013 WL 5652493 (4th Cir. 2015)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0778",
+   "citation": "Conservation Force, Inc. v. Jewell, 2013 WL 4417452 (D.C. Cir. 2013)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0779",
+   "citation": "Stanger v. China Elec. Motor, Inc., 2016 WL 191986 (9th Cir. 2016)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0780",
+   "citation": "Evans v. City of Houston, 2008 WL 2325639 (5th Cir. 2001)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0781",
+   "citation": "Mich. Catholic Conference & Catholic Family Servs. v. Burwell, 2014 WL 2596753 (6th Cir. 2014)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0782",
+   "citation": "Wright v. Maria Pappas, Individually & in Her Official Capacity as Treasurer of Cook Cnty., Ill., 2007 WL 1748890 (7th Cir. 2001)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0783",
+   "citation": "United States v. Morrison, 2016 WL 1305291 (D.C. Cir. 1996)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0784",
+   "citation": "Netzer v. Office of Lawyer Regulation, 2017 WL 961740 (7th Cir. 2017)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0785",
+   "citation": "DeKalb Cnty. v. Fed. Hous. Fin. Agency, 2013 WL 7098638 (7th Cir. 2013)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0786",
+   "citation": "Cephas v. Mvm, Inc., 2011 WL 3476824 (D.C. Cir. 2008)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0787",
+   "citation": "Cavallaro v. Umass Mem'l Healthcare, Inc., 2011 WL 2295023 (1st Cir. 2012)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0788",
+   "citation": "United States v. Trinh, 2015 WL 5025225 (1st Cir. 2011)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0789",
+   "citation": "United States v. Hale, 1999 WL 155674 (5th Cir. 1999)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0790",
+   "citation": "Smith v. Sec'y, Dept. of Corr., 2007 WL 2302207 (11th Cir. 2009)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0791",
+   "citation": "Adams v. Trustees of the Univ. of N.C.-Wilmington, 2013 WL 4880364 (4th Cir. 2011)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0792",
+   "citation": "Black v. Bennett, 2001 WL 830348 (5th Cir. 1998)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0793",
+   "citation": "Linder, David v. Calero-Portocarrero, 2010 WL 2134285 (D.C. Cir. 1998)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0794",
+   "citation": "Clark v. Waller, 2011 WL 1901994 (6th Cir. 2007)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0795",
+   "citation": "Feingold v. John Hancock Life Ins. Co, 2014 WL 2186595 (1st Cir. 2014)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0796",
+   "citation": "Saunder, Jr. v. United States, 2015 WL 3824889 (D.D.C. 2014)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0797",
+   "citation": "Joshua v. U.S., on Motion, 2014 WL 5838611 (Fed. Cir. 1994)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0798",
+   "citation": "Hairston v. Tapella, 2010 WL 1875626 (D.D.C. 2009)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0799",
+   "citation": "Harris v. Citimortgage, Inc., 2011 WL 321711 (D.D.C. 2012)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0800",
+   "citation": "United States v. Madrid, 2016 WL 2802723 (10th Cir. 2015)",
+   "defect": "vendor_cite"
+  },
+  {
+   "id": "LF-BB-0801",
+   "citation": "Terry v. Ohio, 88 S. Ct. 1868 (1968)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0802",
+   "citation": "Illinois v. Gates, 103 S. Ct. 2317 (1983)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0803",
+   "citation": "Shaffer v. Heitner, 97 S. Ct. 2569 (1977)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0804",
+   "citation": "Hickman v. Taylor, 67 S. Ct. 385 (1947)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0805",
+   "citation": "Goodyear Dunlop Tires Operations, S.A. v. Brown, 131 S. Ct. 2846 (2011)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0806",
+   "citation": "La. Power & Light Co. v. City of Thibodaux, 79 S. Ct. 1070 (1959)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0807",
+   "citation": "Younger v. Harris, 91 S. Ct. 746 (1971)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0808",
+   "citation": "New York v. Belton, 101 S. Ct. 2860 (1981)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0809",
+   "citation": "Gideon v. Wainwright, 83 S. Ct. 792 (1963)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0810",
+   "citation": "Snyder v. Phelps, 131 S. Ct. 1207 (2011)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0811",
+   "citation": "Kulko v. Superior Ct. of Cal., City & Cnty. of San Francisco, 98 S. Ct. 1690 (1978)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0812",
+   "citation": "United States v. Rabinowitz, 70 S. Ct. 430 (1950)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0813",
+   "citation": "United States v. Booker, 125 S. Ct. 738 (2005)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0814",
+   "citation": "Twining v. New Jersey, 29 S. Ct. 14 (1908)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0815",
+   "citation": "Hustler Mag., Inc. v. Falwell, 108 S. Ct. 876 (1988)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0816",
+   "citation": "United States v. Jones, 132 S. Ct. 945 (2012)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0817",
+   "citation": "Whitney v. California, 47 S. Ct. 641 (1927)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0818",
+   "citation": "New York v. United States, 112 S. Ct. 2408 (1992)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0819",
+   "citation": "Harris v. United States, 67 S. Ct. 1098 (1947)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0820",
+   "citation": "Edwards v. Arizona, 101 S. Ct. 1880 (1981)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0821",
+   "citation": "Wickard v. Filburn, 63 S. Ct. 82 (1942)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0822",
+   "citation": "Lawrence v. Texas, 123 S. Ct. 2472 (2003)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0823",
+   "citation": "Farmer v. Brennan, 114 S. Ct. 1970 (1994)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0824",
+   "citation": "Ernst & Ernst v. Hochfelder, 96 S. Ct. 1375 (1976)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0825",
+   "citation": "Mathews v. Eldridge, 96 S. Ct. 893 (1976)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0826",
+   "citation": "Apprendi v. New Jersey, 120 S. Ct. 2348 (2000)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0827",
+   "citation": "Jones v. City of Opelika, 62 S. Ct. 1231 (1942)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0828",
+   "citation": "Wolf v. Colorado, 69 S. Ct. 1359 (1949)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0829",
+   "citation": "Tellabs, Inc. v. Makor Issues & Rts., Ltd., 127 S. Ct. 2499 (2007)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0830",
+   "citation": "Thompson v. Utah, 18 S. Ct. 620 (1898)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0831",
+   "citation": "South Carolina v. Gathers, 109 S. Ct. 2207 (1989)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0832",
+   "citation": "Wisconsin v. Yoder, 92 S. Ct. 1526 (1972)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0833",
+   "citation": "Korematsu v. United States, 65 S. Ct. 193 (1944)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0834",
+   "citation": "Olmstead v. United States, 48 S. Ct. 564 (1928)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0835",
+   "citation": "Monroe v. Pape, 81 S. Ct. 473 (1961)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0836",
+   "citation": "Duncan v. Louisiana, 88 S. Ct. 1444 (1968)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0837",
+   "citation": "Wal-Mart Stores, Inc. v. Dukes, 131 S. Ct. 2541 (2011)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0838",
+   "citation": "Reynolds v. Sims, 84 S. Ct. 1362 (1964)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0839",
+   "citation": "United States v. Leon, 104 S. Ct. 3405 (1984)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0840",
+   "citation": "Booth v. Maryland, 107 S. Ct. 2529 (1987)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0841",
+   "citation": "Kingsley Books, Inc. v. Brown, 77 S. Ct. 1325 (1957)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0842",
+   "citation": "Harris v. Forklift Sys., Inc., 114 S. Ct. 367 (1993)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0843",
+   "citation": "Pace v. Alabama, 1 S. Ct. 637 (1883)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0844",
+   "citation": "Two Pesos, Inc. v. Taco Cabana, Inc., 112 S. Ct. 2753 (1992)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0845",
+   "citation": "eBay Inc. v. MercExchange, L.L.C., 126 S. Ct. 1837 (2006)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0846",
+   "citation": "Carpenter v. United States, 138 S. Ct. 2206 (2018)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0847",
+   "citation": "Citizens United v. FEC, 130 S. Ct. 876 (2010)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0848",
+   "citation": "Firestone Tire & Rubber Co. v. Bruch, 109 S. Ct. 948 (1989)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0849",
+   "citation": "Loving v. Virginia, 87 S. Ct. 1817 (1967)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0850",
+   "citation": "Riley v. California, 134 S. Ct. 2473 (2014)",
+   "defect": "parallel_only"
+  },
+  {
+   "id": "LF-BB-0851",
+   "citation": "State of Nebraska Counsel ex rel. Discipline v. Wadman, 275 Neb. 357 (2008)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0852",
+   "citation": "Bogdanov v. People of the State of Colorado, 941 P.2d 247 (Colo. 1997)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0853",
+   "citation": "State of New Jersey v. Cooke, 751 A.2d 92 (N.J. 2000)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0854",
+   "citation": "United States of America v. Ovalle-Garcia, 868 F.3d 313 (5th Cir. 2017)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0855",
+   "citation": "People of the State of California v. Kelly, 51 Cal. Rptr. 3d 98 (Cal. 2006)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0856",
+   "citation": "People of the State of New York v. Danielson, 9 N.Y.3d 342 (2007)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0857",
+   "citation": "State of Kansas v. Ward, 292 Kan. 541 (2011)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0858",
+   "citation": "State of Georgia v. Thornton, 322 S.E.2d 711 (Ga. 1984)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0859",
+   "citation": "State of Louisiana ex rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0860",
+   "citation": "Clements v. State of Alabama, 370 So. 2d 723 (Ala. 1979)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0861",
+   "citation": "State of South Dakota v. Houghton, 272 N.W.2d 788 (S.D. 1978)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0862",
+   "citation": "State of Tennessee v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0863",
+   "citation": "People of the State of Illinois v. Enoch, 122 Ill. 2d 176 (1988)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0864",
+   "citation": "Flores v. State of Nevada, 121 Nev. 706 (2005)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0865",
+   "citation": "Harris v. United States of America, 536 U.S. 545 (2002)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0866",
+   "citation": "United States of America v. Windley, 864 F.3d 36 (1st Cir. 2017)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0867",
+   "citation": "State of Nebraska v. Thomas, 637 N.W.2d 632 (Neb. 2002)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0868",
+   "citation": "State of Arizona v. Henderson, 210 Ariz. 561 (2005)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0869",
+   "citation": "United States of America v. Torres-Perez, 777 F.3d 764 (5th Cir. 2015)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0870",
+   "citation": "State of New Hampshire v. Paris, 137 N.H. 322 (1993)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0871",
+   "citation": "Upjohn Co. v. United States of America, 449 U.S. 383 (1981)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0872",
+   "citation": "State of South Carolina v. Owens, 552 S.E.2d 745 (S.C. 2001)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0873",
+   "citation": "Williams v. State of Arkansas, 854 S.W.2d 370 (Ark. Ct. App. 1993)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0874",
+   "citation": "United States of America v. Huff, 72 F.3d 130 (6th Cir. 1995)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0875",
+   "citation": "Commonwealth of Kentucky v. English, 993 S.W.2d 941 (Ky. 1999)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0876",
+   "citation": "Giglio v. United States of America, 405 U.S. 150 (1972)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0877",
+   "citation": "Commonwealth of Massachusetts v. Riccard, 410 Mass. 718 (1991)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0878",
+   "citation": "State of Oklahoma ex rel. Okla. Bar Ass'n v. Briery, 914 P.2d 1046 (Okla. 1996)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0879",
+   "citation": "State of Tennessee v. Bingham, 910 S.W.2d 448 (Tenn. Crim. App. 1995)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0880",
+   "citation": "Bush v. State of Mississippi, 895 So. 2d 836 (Miss. 2005)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0881",
+   "citation": "Commonwealth of Virginia v. Hudson, 265 Va. 505 (2003)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0882",
+   "citation": "United States of America v. McPherson, 629 F.3d 609 (6th Cir. 2011)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0883",
+   "citation": "United States of America v. Smiley, 553 F.3d 1137 (8th Cir. 2009)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0884",
+   "citation": "Crawford v. State of Nevada, 121 Nev. 744 (2005)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0885",
+   "citation": "Rodriguez v. United States of America, 575 U.S. 348 (2015)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0886",
+   "citation": "State of North Carolina v. Lewis, 365 N.C. 488 (2012)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0887",
+   "citation": "AMS Assocs., Inc. v. United States of America, 719 F.3d 1376 (Fed. Cir. 2013)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0888",
+   "citation": "United States of America v. Morrison, 529 U.S. 598 (2000)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0889",
+   "citation": "United States of America v. Pawlak, 822 F.3d 902 (6th Cir. 2016)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0890",
+   "citation": "United States of America v. Engles, 779 F.3d 1161 (10th Cir. 2015)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0891",
+   "citation": "Rodriguez v. State of Wyoming, 962 P.2d 141 (Wyo. 1998)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0892",
+   "citation": "Commonwealth of Pennsylvania v. Turner, 518 Pa. 491 (1988)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0893",
+   "citation": "United States of America v. Johnson, 74 F.3d 1244 (8th Cir. 1996)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0894",
+   "citation": "Sykes v. United States of America, 564 U.S. 1 (2011)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0895",
+   "citation": "United States of America v. Zambrano-Reyes, 724 F.3d 761 (7th Cir. 2013)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0896",
+   "citation": "Estate of Wayne Hage v. United States of America, 687 F.3d 1281 (Fed. Cir. 2012)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0897",
+   "citation": "United States of America v. Arnold, Schwinn & Co., 388 U.S. 365 (1967)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0898",
+   "citation": "Bowling v. Commonwealth of Kentucky, 942 S.W.2d 293 (Ky. 1997)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0899",
+   "citation": "United States of America v. Brigham, 350 F.3d 1297 (5th Cir. 2003)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0900",
+   "citation": "United States of America v. Hurtado, 760 F.3d 1065 (9th Cir. 2014)",
+   "defect": "government_long_form"
+  },
+  {
+   "id": "LF-BB-0901",
+   "citation": "Kennedy v. Bremerton Sch. Dist., 597 U.S. 507 (U.S. 2022)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0902",
+   "citation": "Watt's Ex'rs. v. Sheppard, 2 Ala. 425 (Ala. 1841)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0903",
+   "citation": "Eighmie v. Taylor, 98 N.Y. 288 (N.Y. 1885)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0904",
+   "citation": "Rawlings v. Kentucky, 448 U.S. 98 (U.S. 1980)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0905",
+   "citation": "Plessy v. Ferguson, 163 U.S. 537 (U.S. 1896)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0906",
+   "citation": "Robertson v. Mylan Lab'ys, Inc., 176 Vt. 356 (Vt. 2004)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0907",
+   "citation": "Michigan v. Jackson, 475 U.S. 625 (U.S. 1986)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0908",
+   "citation": "Procunier v. Martinez, 416 U.S. 396 (U.S. 1974)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0909",
+   "citation": "Grutter v. Bollinger, 539 U.S. 306 (U.S. 2003)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0910",
+   "citation": "In re Disciplinary Proceeding Against Stoker, 118 Wash. 2d 782 (Wash. 1992)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0911",
+   "citation": "Brown v. Bd. of Educ., 347 U.S. 483 (U.S. 1954)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0912",
+   "citation": "Mangum v. Estate of Fuller, 303 Ark. 411 (Ark. 1990)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0913",
+   "citation": "Henningsen v. Bloomfield Motors, Inc., 32 N.J. 358 (N.J. 1960)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0914",
+   "citation": "J. McIntyre Mach., Ltd. v. Nicastro, 564 U.S. 873 (U.S. 2011)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0915",
+   "citation": "Walden v. Fiore, 571 U.S. 277 (U.S. 2014)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0916",
+   "citation": "Matjoulis v. Integon Gen. Ins. Corp., 226 Ga. App. 459 (Ga. Ct. App. 1997)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0917",
+   "citation": "Trop v. Dulles, 356 U.S. 86 (U.S. 1958)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0918",
+   "citation": "Rice v. Ragsdale, 104 Ark. App. 364 (Ark. Ct. App. 2009)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0919",
+   "citation": "In re Estate of Cooper, 275 Neb. 322 (Neb. 2008)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0920",
+   "citation": "Hensley v. Eckerhart, 461 U.S. 424 (U.S. 1983)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0921",
+   "citation": "Nat'l League of Cities v. Usery, 426 U.S. 833 (U.S. 1976)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0922",
+   "citation": "Toure v. Avis Rent a Car Sys., Inc., 98 N.Y.2d 345 (N.Y. 2002)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0923",
+   "citation": "Estelle v. Gamble, 429 U.S. 97 (U.S. 1976)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0924",
+   "citation": "Mont. Pub. Employee's Ass'n v. Office of the Governor, 271 Mont. 450 (Mont. 1995)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0925",
+   "citation": "Burlington Indus., Inc. v. Ellerth, 524 U.S. 742 (U.S. 1998)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0926",
+   "citation": "District of Columbia v. Heller, 554 U.S. 570 (U.S. 2008)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0927",
+   "citation": "Stoner v. California, 376 U.S. 483 (U.S. 1964)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0928",
+   "citation": "Texas v. Johnson, 491 U.S. 397 (U.S. 1989)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0929",
+   "citation": "In re Cecil T., 228 W. Va. 89 (W. Va. 2011)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0930",
+   "citation": "Betts v. Brady, 316 U.S. 455 (U.S. 1942)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0931",
+   "citation": "Dean v. Smith, 106 N.H. 314 (N.H. 1965)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0932",
+   "citation": "Variety Wholesalers, Inc. v. Salem Logistics Traffic Servs., LLC, 365 N.C. 520 (N.C. 2012)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0933",
+   "citation": "Mitchell v. Rochester Ry. Co., 151 N.Y. 107 (N.Y. 1896)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0934",
+   "citation": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339 (N.Y. 1928)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0935",
+   "citation": "Conrad v. Hazen, 140 N.H. 249 (N.H. 1995)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0936",
+   "citation": "Minersville Sch. Dist. v. Gobitis, 310 U.S. 586 (U.S. 1940)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0937",
+   "citation": "Missouri v. Frye, 566 U.S. 134 (U.S. 2012)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0938",
+   "citation": "Townsend v. Sain, 372 U.S. 293 (U.S. 1963)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0939",
+   "citation": "Amalgamated Food Emps. Union Local 590 v. Logan Valley Plaza, Inc., 391 U.S. 308 (U.S. 1968)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0940",
+   "citation": "City of Tacoma v. Luvene, 118 Wash. 2d 826 (Wash. 1992)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0941",
+   "citation": "Ashcroft v. Iqbal, 556 U.S. 662 (U.S. 2009)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0942",
+   "citation": "Breedlove v. Suttles, 302 U.S. 277 (U.S. 1937)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0943",
+   "citation": "Ford Motor Co. v. Mont. Eighth Jud. Dist. Ct., 592 U.S. 351 (U.S. 2021)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0944",
+   "citation": "Basso v. Miller, 40 N.Y.2d 233 (N.Y. 1976)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0945",
+   "citation": "Key v. Currie, 305 S.C. 115 (S.C. 1991)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0946",
+   "citation": "Donn v. McCuen, 303 Ark. 415 (Ark. 1990)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0947",
+   "citation": "Nevada v. Hall, 440 U.S. 410 (U.S. 1979)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0948",
+   "citation": "Grovey v. Townsend, 295 U.S. 45 (U.S. 1935)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0949",
+   "citation": "Lemon v. Kurtzman, 403 U.S. 602 (U.S. 1971)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0950",
+   "citation": "Google LLC v. Oracle Am., Inc., 593 U.S. 1 (U.S. 2021)",
+   "defect": "redundant_court"
+  },
+  {
+   "id": "LF-BB-0951",
+   "citation": "Bruce-Terminix Co. v. Zurich Ins. Co., 504 S.E.2d 547 (N.C. Ct. App. 1998)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0952",
+   "citation": "Robins v. Spokeo, Inc., 742 F.3d 490 (9th Cir. 2014)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0953",
+   "citation": "Nowling v. Colvin, 813 F.3d 1101 (8th Cir. 2016)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0954",
+   "citation": "Rohr v. Reliance Bank, 826 F.3d 1064 (8th Cir. 2016)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0955",
+   "citation": "Peckham v. Ronrico Corp., 171 F.2d 635 (1st Cir. 1948)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0956",
+   "citation": "Bradford v. Vento, 48 S.W.3d 794 (Tex. 2001)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0957",
+   "citation": "Nat. Res. Def. Council, Inc. v. Gorsuch, 685 F.2d 781 (D.C. Cir. 1982)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0958",
+   "citation": "Renstrom v. Astrue, 680 F.3d 1075 (8th Cir. 2012)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0959",
+   "citation": "Beach v. Jean, 746 A.2d 282 (Conn. Super. Ct. 1999)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0960",
+   "citation": "Aronson v. Lewis, 473 A.2d 850 (Del. 1984)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0961",
+   "citation": "Valence Operating Co. v. Dorsett, 164 S.W.3d 665 (Tex. 2005)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0962",
+   "citation": "Tex. Dep't of Parks & Wildlife v. Miranda, 133 S.W.3d 271 (Tex. 2004)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0963",
+   "citation": "Alvarez v. Ketchikan Gateway Borough, 91 P.3d 298 (Alaska Ct. App. 2004)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0964",
+   "citation": "Strickland v. Washington, 466 U.S. 686 (1984)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0965",
+   "citation": "Murphy v. Implicito, 920 A.2d 687 (N.J. Super. Ct. App. Div. 2007)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0966",
+   "citation": "Auer v. Robbins, 519 U.S. 425 (1997)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0967",
+   "citation": "Swain v. Alabama, 380 U.S. 220 (1965)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0968",
+   "citation": "Moore v. Sims, 442 U.S. 451 (1979)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0969",
+   "citation": "Hyler v. Garner, 548 N.W.2d 846 (Iowa 1996)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0970",
+   "citation": "Kelo v. City of New London, 545 U.S. 496 (2005)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0971",
+   "citation": "Friendship Edison Pub. Charter Sch. Chamberlain Campus v. Suggs, 562 F. Supp. 2d 114 (D.D.C. 2008)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0972",
+   "citation": "Sinclair Refin. Co. v. Atkinson, 370 U.S. 159 (1962)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0973",
+   "citation": "Graham v. Connor, 490 U.S. 368 (1989)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0974",
+   "citation": "Randall's Food Markets, Inc. v. Johnson, 891 S.W.2d 604 (Tex. 1995)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0975",
+   "citation": "Hormel v. Helvering, 312 U.S. 525 (1941)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0976",
+   "citation": "Canter v. Koehring Co., 283 So. 2d 761 (La. 1973)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0977",
+   "citation": "Bogan v. Bogan, 60 S.W.3d 712 (Tenn. 2001)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0978",
+   "citation": "Hanna v. Plumer, 380 U.S. 406 (1965)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0979",
+   "citation": "McClellan v. Tottenhoff, 666 P.2d 480 (Wyo. 1983)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0980",
+   "citation": "Penry v. Lynaugh, 492 U.S. 320 (1989)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0981",
+   "citation": "Bowers v. Hardwick, 478 U.S. 168 (1986)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0982",
+   "citation": "Hendron v. Colvin, 767 F.3d 915 (10th Cir. 2014)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0983",
+   "citation": "Thomas v. Oldham, 895 S.W.2d 325 (Tex. 1995)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0984",
+   "citation": "Kring v. Missouri, 107 U.S. 212 (1883)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0985",
+   "citation": "Hubbard v. Haley, 262 F.3d 1149 (11th Cir. 2001)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0986",
+   "citation": "Perez v. Cleveland, 78 Ohio St. 3d 367 (1997)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0987",
+   "citation": "Nelson v. Martin, 958 S.W.2d 634 (Tenn. 1997)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0988",
+   "citation": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1232 (R.I. 1996)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0989",
+   "citation": "Hall Manor Owner's Ass'n v. City of West Haven, 212 Conn. 174 (1989)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0990",
+   "citation": "Katz v. Cellco P'ship, 794 F.3d 314 (2d Cir. 2015)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0991",
+   "citation": "Taylor v. Sturgell, 553 U.S. 808 (2008)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0992",
+   "citation": "Short v. Hartman, 87 F.4th 539 (4th Cir. 2023)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0993",
+   "citation": "Marine Midland Bank v. Bicknell, 176 Vt. 398 (2004)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0994",
+   "citation": "Miller v. Johnson, 289 P.3d 1089 (Kan. 2012)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0995",
+   "citation": "McDonald v. City of Chicago, 561 U.S. 724 (2010)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0996",
+   "citation": "Saunders v. Senkowski, 587 F.3d 534 (2d Cir. 2009)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0997",
+   "citation": "Garrison v. Colvin, 759 F.3d 959 (9th Cir. 2014)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0998",
+   "citation": "In Matter of Marilyn Woodyear, 162 F.3d 1106 (5th Cir. 1998)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-0999",
+   "citation": "Doe v. Calumet City, 641 N.E.2d 489 (Ill. 1994)",
+   "defect": "page_typo"
+  },
+  {
+   "id": "LF-BB-1000",
+   "citation": "Arizona v. Gant, 556 U.S. 323 (2009)",
+   "defect": "page_typo"
+  }
+ ]
+}

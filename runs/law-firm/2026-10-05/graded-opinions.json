@@ -1,0 +1,4802 @@
+[
+ {
+  "id": "LF-OP-003",
+  "caseId": "196300006619",
+  "group": "scotus",
+  "caseName": "Gideon v. Wainwright",
+  "citation": "Gideon v. Wainwright, 372 U.S. 335 (1963)",
+  "problems": [
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000196300005575 vs good-law 8954562"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-001",
+  "caseId": "200195400000042",
+  "group": "scotus",
+  "caseName": "Brown v. Board of Education",
+  "citation": "Brown v. Board of Education, 347 U.S. 483 (1954)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Brown v. Board of Education, 347 U.S. 483 (1954)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "14.71 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "28 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200195400000042 vs good-law 105221"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-002",
+  "caseId": "200196600000149",
+  "group": "scotus",
+  "caseName": "Miranda v. Arizona",
+  "citation": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196600000149 vs good-law 107252"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-004",
+  "caseId": "200196100000150",
+  "group": "scotus",
+  "caseName": "Mapp v. Ohio",
+  "citation": "Mapp v. Ohio, 367 U.S. 643 (1961)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196100000150 vs good-law 106285"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-005",
+  "caseId": "200196800000165",
+  "group": "scotus",
+  "caseName": "Terry v. Ohio",
+  "citation": "Terry v. Ohio, 392 U.S. 1 (1968)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196800000165 vs good-law 107729"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-006",
+  "caseId": "200196700000243",
+  "group": "scotus",
+  "caseName": "Katz v. United States",
+  "citation": "Katz v. United States, 389 U.S. 347 (1967)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196700000243 vs good-law 107564"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-008",
+  "caseId": "200198600000147",
+  "group": "scotus",
+  "caseName": "Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett",
+  "citation": "Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett, 477 U.S. 317 (1986)",
+  "problems": [
+   {
+    "code": "bluebook_descriptive_phrase_in_name",
+    "detail": "Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett, 477 U.S. 317 (1986)"
+   },
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett, 477 U.S. 317 (1986)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "56 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198600000147 vs good-law 111722"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-009",
+  "caseId": "200198600000144",
+  "group": "scotus",
+  "caseName": "Anderson v. Liberty Lobby, Inc.",
+  "citation": "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "82 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198600000144 vs good-law 111719"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-007",
+  "caseId": "200196400000054",
+  "group": "scotus",
+  "caseName": "New York Times Co. v. Sullivan",
+  "citation": "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
+  "problems": [
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196400000054 vs good-law 106761"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-010",
+  "caseId": "200198600000051",
+  "group": "scotus",
+  "caseName": "Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corporation",
+  "citation": "Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corporation, 475 U.S. 574 (1986)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corporation, 475 U.S. 574 (1986)"
+   },
+   {
+    "code": "bluebook_redundant_business_designation",
+    "detail": "Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corporation, 475 U.S. 574 (1986)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "86 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198600000051 vs good-law 111620"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-012",
+  "caseId": "200200900000121",
+  "group": "scotus",
+  "caseName": "Ashcroft v. Iqbal",
+  "citation": "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200200900000096 vs good-law 145875"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-011",
+  "caseId": "200700000385",
+  "group": "scotus",
+  "caseName": "Bell Atlantic Corp. v. Twombly",
+  "citation": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000200700000385 vs good-law 145730"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-013",
+  "caseId": "200199300000096",
+  "group": "scotus",
+  "caseName": "Daubert v. Merrell Dow Pharmaceuticals, Inc.",
+  "citation": "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200199300000096 vs good-law 112903"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-014",
+  "caseId": "200199900000030",
+  "group": "scotus",
+  "caseName": "Kumho Tire Co. v. Carmichael",
+  "citation": "Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200199900000030 vs good-law 118271"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-016",
+  "caseId": "200196300000106",
+  "group": "scotus",
+  "caseName": "Brady v. Maryland",
+  "citation": "Brady v. Maryland, 373 U.S. 83 (1963)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196300000106 vs good-law 106598"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-017",
+  "caseId": "200198600000090",
+  "group": "scotus",
+  "caseName": "Batson v. Kentucky",
+  "citation": "Batson v. Kentucky, 476 U.S. 79 (1986)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198600000090 vs good-law 111662"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-015",
+  "caseId": "200198400000093",
+  "group": "scotus",
+  "caseName": "Strickland v. Washington",
+  "citation": "Strickland v. Washington, 466 U.S. 668 (1984)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "136 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198400000093 vs good-law 111170"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-018",
+  "caseId": "200196700000164",
+  "group": "scotus",
+  "caseName": "Loving v. Virginia",
+  "citation": "Loving v. Virginia, 388 U.S. 1 (1967)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196700000164 vs good-law 107480"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-020",
+  "caseId": "200201500000051",
+  "group": "scotus",
+  "caseName": "Obergefell v. Hodges",
+  "citation": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "11.37 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "78 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200201500000051 vs good-law 2812209"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-021",
+  "caseId": "200300002941",
+  "group": "scotus",
+  "caseName": "Lawrence v. Texas",
+  "citation": "Lawrence v. Texas, 539 U.S. 558 (2003)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000200300002941 vs good-law 130160"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-019",
+  "caseId": "200196500000170",
+  "group": "scotus",
+  "caseName": "Griswold v. Connecticut",
+  "citation": "Griswold v. Connecticut, 381 U.S. 479 (1965)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196500000170 vs good-law 107082"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-024",
+  "caseId": "200202200000038",
+  "group": "scotus",
+  "caseName": "New York State Rifle & Pistol Assn., Inc. v. Bruen",
+  "citation": "New York State Rifle & Pistol Assn., Inc. v. Bruen, 597 U.S. 1 (2022)",
+  "problems": [
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "New York State Rifle & Pistol Assn., Inc. v. Bruen, 597 U.S. 1 (2022)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.15 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "7 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "hyphen_splits",
+    "detail": "22.89 per 1k words"
+   },
+   {
+    "code": "duplicated_text",
+    "detail": "4 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200202200000038 vs good-law 6480696"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-022",
+  "caseId": "200200800000002",
+  "group": "scotus",
+  "caseName": "District of Columbia v. Heller",
+  "citation": "District of Columbia v. Heller, 554 U.S. 570 (2008)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "District of Columbia v. Heller, 554 U.S. 570 (2008)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200200800000002 vs good-law 145777"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-023",
+  "caseId": "201000001691",
+  "group": "scotus",
+  "caseName": "McDonald v. City of Chicago",
+  "citation": "McDonald v. City of Chicago, 561 U.S. 742 (2010)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "15 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000201000001691 vs good-law 149702"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-026",
+  "caseId": "200193800000082",
+  "group": "scotus",
+  "caseName": "Railroad v. Tompkins",
+  "citation": "Railroad v. Tompkins, 304 U.S. 64 (1938)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Railroad v. Tompkins, 304 U.S. 64 (1938)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200193800000082 vs good-law 103012"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-027",
+  "caseId": "200194500000167",
+  "group": "scotus",
+  "caseName": "International Shoe Co. v. Washington",
+  "citation": "International Shoe Co. v. Washington, 326 U.S. 310 (1945)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "International Shoe Co. v. Washington, 326 U.S. 310 (1945)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "14.4 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200194500000167 vs good-law 104200"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-025",
+  "caseId": "201000000518",
+  "group": "scotus",
+  "caseName": "Citizens United v. Federal Election Commission",
+  "citation": "Citizens United v. Federal Election Commission, 558 U.S. 310 (2010)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Citizens United v. Federal Election Commission, 558 U.S. 310 (2010)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000201000000518 vs good-law 1741"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-029",
+  "caseId": "200198500000107",
+  "group": "scotus",
+  "caseName": "Burger King Corp. v. Rudzewicz",
+  "citation": "Burger King Corp. v. Rudzewicz, 471 U.S. 462 (1985)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198500000107 vs good-law 111429"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-028",
+  "caseId": "200198000000006",
+  "group": "scotus",
+  "caseName": "World-Wide Volkswagen Corp. v. Woodson",
+  "citation": "World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286 (1980)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198000000006 vs good-law 110170"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-030",
+  "caseId": "200201400000001",
+  "group": "scotus",
+  "caseName": "Daimler AG v. Bauman",
+  "citation": "Daimler AG v. Bauman, 571 U.S. 117 (2014)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "13.3 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "64 bare page-number lines, 1 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200201400000001 vs good-law 2649076"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-031",
+  "caseId": "200201100000033",
+  "group": "scotus",
+  "caseName": "Goodyear Dunlop Tires Operations, S. A. v. Brown",
+  "citation": "Goodyear Dunlop Tires Operations, S. A. v. Brown, 564 U.S. 915 (2011)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "16.42 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "12 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200201100000033 vs good-law 219732"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-033",
+  "caseId": "200197600000018",
+  "group": "scotus",
+  "caseName": "Mathews v. Eldridge",
+  "citation": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200197600000018 vs good-law 109382"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-032",
+  "caseId": "200197700000139",
+  "group": "scotus",
+  "caseName": "Shaffer v. Heitner",
+  "citation": "Shaffer v. Heitner, 433 U.S. 186 (1977)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200197700000139 vs good-law 109721"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-034",
+  "caseId": "200197000000068",
+  "group": "scotus",
+  "caseName": "Goldberg v. Kelly",
+  "citation": "Goldberg v. Kelly, 397 U.S. 254 (1970)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200197000000068 vs good-law 108100"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-036",
+  "caseId": "200198200000140",
+  "group": "scotus",
+  "caseName": "Harlow v. Fitzgerald",
+  "citation": "Harlow v. Fitzgerald, 457 U.S. 800 (1982)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198200000140 vs good-law 110763"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-035",
+  "caseId": "200197800000099",
+  "group": "scotus",
+  "caseName": "Monell v. New York City Dept. of Social Servs.",
+  "citation": "Monell v. New York City Dept. of Social Servs., 436 U.S. 658 (1978)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Monell v. New York City Dept. of Social Servs., 436 U.S. 658 (1978)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Monell v. New York City Dept. of Social Servs., 436 U.S. 658 (1978)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200197800000099 vs good-law 109881"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-037",
+  "caseId": "200200900000031",
+  "group": "scotus",
+  "caseName": "Pearson v. Callahan",
+  "citation": "Pearson v. Callahan, 555 U.S. 223 (2009)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "22.67 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200200900000031 vs good-law 145918"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-038",
+  "caseId": "200198900000078",
+  "group": "scotus",
+  "caseName": "Graham v. Connor",
+  "citation": "Graham v. Connor, 490 U.S. 386 (1989)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198900000078 vs good-law 112257"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-039",
+  "caseId": "200198500000077",
+  "group": "scotus",
+  "caseName": "Tennessee v. Garner",
+  "citation": "Tennessee v. Garner, 471 U.S. 1 (1985)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198500000077 vs good-law 111397"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-040",
+  "caseId": "200195000000044",
+  "group": "scotus",
+  "caseName": "Mullane v. Central Hanover Bank & Trust Co.",
+  "citation": "Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306 (1950)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306 (1950)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200195000000044 vs good-law 104786"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-041",
+  "caseId": "202100025726",
+  "group": "scotus",
+  "caseName": "TransUnion LLC v. Ramirez",
+  "citation": "TransUnion LLC v. Ramirez, 594 U.S. 413 (2021)",
+  "problems": [
+   {
+    "code": "hyphen_splits",
+    "detail": "21.89 per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000202100025726 vs good-law 4894912"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-042",
+  "caseId": "200700000401",
+  "group": "scotus",
+  "caseName": "Massachusetts v. Environmental Protection Agency",
+  "citation": "Massachusetts v. Environmental Protection Agency, 549 U.S. 497 (2007)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Massachusetts v. Environmental Protection Agency, 549 U.S. 497 (2007)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000200700000401 vs good-law 145749"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-043",
+  "caseId": "200195200000072",
+  "group": "scotus",
+  "caseName": "Youngstown Sheet & Tube Co. v. Sawyer",
+  "citation": "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)",
+  "problems": [
+   {
+    "code": "duplicated_text",
+    "detail": "2 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200195200000072 vs good-law 105018"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-044",
+  "caseId": "200197400000157",
+  "group": "scotus",
+  "caseName": "United States v. Nixon",
+  "citation": "United States v. Nixon, 418 U.S. 683 (1974)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "15.99 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "42 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200197400000157 vs good-law 109101"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-047",
+  "caseId": "200196900000066",
+  "group": "scotus",
+  "caseName": "Tinker v. Des Moines Independent Community School District",
+  "citation": "Tinker v. Des Moines Independent Community School District, 393 U.S. 503 (1969)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Tinker v. Des Moines Independent Community School District, 393 U.S. 503 (1969)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196900000066 vs good-law 107841"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-045",
+  "caseId": "200196200000039",
+  "group": "scotus",
+  "caseName": "Baker v. Carr",
+  "citation": "Baker v. Carr, 369 U.S. 186 (1962)",
+  "problems": [
+   {
+    "code": "duplicated_text",
+    "detail": "5 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196200000039 vs good-law 106366"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-046",
+  "caseId": "200196400000139",
+  "group": "scotus",
+  "caseName": "Reynolds v. Sims",
+  "citation": "Reynolds v. Sims, 377 U.S. 533 (1964)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196400000139 vs good-law 106850"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-048",
+  "caseId": "200196900000178",
+  "group": "scotus",
+  "caseName": "Brandenburg v. Ohio",
+  "citation": "Brandenburg v. Ohio, 395 U.S. 444 (1969)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200196900000178 vs good-law 107965"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-050",
+  "caseId": "200198800000026",
+  "group": "scotus",
+  "caseName": "Hustler Magazine, Inc. v. Falwell",
+  "citation": "Hustler Magazine, Inc. v. Falwell, 485 U.S. 46 (1988)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198800000026 vs good-law 112011"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-049",
+  "caseId": "200198900000122",
+  "group": "scotus",
+  "caseName": "Texas v. Johnson",
+  "citation": "Texas v. Johnson, 491 U.S. 397 (1989)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198900000122 vs good-law 112304"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-051",
+  "caseId": "200194700000014",
+  "group": "scotus",
+  "caseName": "Hickman v. Taylor",
+  "citation": "Hickman v. Taylor, 329 U.S. 495 (1947)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200194700000014 vs good-law 104357"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-053",
+  "caseId": "200600019931",
+  "group": "scotus",
+  "caseName": "Burlington Northern & Santa Fe Railway Co. v. White",
+  "citation": "Burlington Northern & Santa Fe Railway Co. v. White, 548 U.S. 53 (2006)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Burlington Northern & Santa Fe Railway Co. v. White, 548 U.S. 53 (2006)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000200600019931 vs good-law 145636"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-052",
+  "caseId": "200198100000009",
+  "group": "scotus",
+  "caseName": "Upjohn Co. v. United States",
+  "citation": "Upjohn Co. v. United States, 449 U.S. 383 (1981)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198100000009 vs good-law 110374"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-055",
+  "caseId": "200199800000084",
+  "group": "scotus",
+  "caseName": "Faragher v. City of Boca Raton",
+  "citation": "Faragher v. City of Boca Raton, 524 U.S. 775 (1998)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200199800000084 vs good-law 118245"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-054",
+  "caseId": "200197300000094",
+  "group": "scotus",
+  "caseName": "McDonnell Douglas Corp. v. Green",
+  "citation": "McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "9.25 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "42 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200197300000094 vs good-law 108786"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-056",
+  "caseId": "200199800000083",
+  "group": "scotus",
+  "caseName": "Burlington Industries, Inc. v. Ellerth",
+  "citation": "Burlington Industries, Inc. v. Ellerth, 524 U.S. 742 (1998)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Burlington Industries, Inc. v. Ellerth, 524 U.S. 742 (1998)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200199800000083 vs good-law 118244"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-058",
+  "caseId": "200199300000102",
+  "group": "scotus",
+  "caseName": "Harris v. Forklift Systems, Inc.",
+  "citation": "Harris v. Forklift Systems, Inc., 510 U.S. 17 (1993)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Harris v. Forklift Systems, Inc., 510 U.S. 17 (1993)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200199300000102 vs good-law 112911"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-057",
+  "caseId": "200198600000137",
+  "group": "scotus",
+  "caseName": "Meritor Savings Bank, FSB v. Vinson",
+  "citation": "Meritor Savings Bank, FSB v. Vinson, 477 U.S. 57 (1986)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Meritor Savings Bank, FSB v. Vinson, 477 U.S. 57 (1986)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200198600000137 vs good-law 111712"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-060",
+  "caseId": "200199200000066",
+  "group": "scotus",
+  "caseName": "Lujan v. Defenders of Wildlife",
+  "citation": "Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200199200000066 vs good-law 112747"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-061",
+  "caseId": "300200500022149",
+  "group": "circuit",
+  "caseName": "Twombly v. Bell Atlantic Corp.",
+  "citation": "Twombly v. Bell Atlantic Corp., 425 F.3d 99 (2d Cir. 2005)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Twombly v. Bell Atlantic Corp., 425 F.3d 99 (2d Cir. 2005)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200500022149 vs good-law 8439042"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-059",
+  "caseId": "200202000000030",
+  "group": "scotus",
+  "caseName": "Bostock v. Clayton County",
+  "citation": "Bostock v. Clayton County, 590 U.S. 644 (2020)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Bostock v. Clayton County, 590 U.S. 644 (2020)"
+   },
+   {
+    "code": "html_leak",
+    "detail": "2 tags/entities"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "8 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "hyphen_splits",
+    "detail": "24.51 per 1k words"
+   },
+   {
+    "code": "duplicated_text",
+    "detail": "2 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5200202000000030 vs good-law 4760997"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-063",
+  "caseId": "300201900019117",
+  "group": "circuit",
+  "caseName": "Jackson Women's Health Orgn v. Dobbs",
+  "citation": "Jackson Women's Health Orgn v. Dobbs, 945 F.3d 265 (5th Cir. 2019)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "31 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201900019117 vs good-law 4687092"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-062",
+  "caseId": "300200700013687",
+  "group": "circuit",
+  "caseName": "Iqbal v. Hasty",
+  "citation": "Iqbal v. Hasty, 490 F.3d 143 (2d Cir. 2007)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "161 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200700013687 vs good-law 798076"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-064",
+  "caseId": "202200017598",
+  "group": "circuit",
+  "caseName": "Loper Bright Enterprises, Inc v. Raimondo",
+  "citation": "Loper Bright Enterprises, Inc v. Raimondo, 45 F.4th 359 (D.C. Cir. 2022)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Loper Bright Enterprises, Inc v. Raimondo, 45 F.4th 359 (D.C. Cir. 2022)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "81 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000202200017598 vs good-law 7856351"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-065",
+  "caseId": "300201000020230",
+  "group": "circuit",
+  "caseName": "Dukes v. Wal-Mart Stores, Inc.",
+  "citation": "Dukes v. Wal-Mart Stores, Inc., 603 F.3d 571 (9th Cir. 2010)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201000020230 vs good-law 8440598"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-066",
+  "caseId": "300201200008619",
+  "group": "circuit",
+  "caseName": "Shelby County, Ala. v. Holder",
+  "citation": "Shelby County, Ala. v. Holder, 679 F.3d 848 (D.C. Cir. 2012)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Shelby County, Ala. v. Holder, 679 F.3d 848 (D.C. Cir. 2012)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201200008619 vs good-law 800131"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-067",
+  "caseId": "300201900010430",
+  "group": "circuit",
+  "caseName": "United States v. Buren",
+  "citation": "United States v. Buren, 940 F.3d 1192 (11th Cir. 2019)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "45.32 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "36 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201900010430 vs good-law 4668643"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-068",
+  "caseId": "300201800004389",
+  "group": "circuit",
+  "caseName": "Oracle America, Inc. v. Google Inc.",
+  "citation": "Oracle America, Inc. v. Google Inc., 886 F.3d 1179 (Fed. Cir. 2018)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.76 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "28 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201800004389 vs good-law 4481135"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-070",
+  "caseId": "300196700000021",
+  "group": "circuit",
+  "caseName": "Katz v. United States",
+  "citation": "Katz v. United States, 369 F.2d 130 (9th Cir. 1967)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "10 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300196700000021 vs good-law 273830"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-069",
+  "caseId": "300202000002344",
+  "group": "circuit",
+  "caseName": "Vip Products LLC v. Jack Daniel's Properties, Inc.",
+  "citation": "Vip Products LLC v. Jack Daniel's Properties, Inc., 953 F.3d 1170 (9th Cir. 2020)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Vip Products LLC v. Jack Daniel's Properties, Inc., 953 F.3d 1170 (9th Cir. 2020)"
+   },
+   {
+    "code": "hyphen_splits",
+    "detail": "1.23 per 1k words"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300202000002344 vs good-law 4740705"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-071",
+  "caseId": "300198200006460",
+  "group": "circuit",
+  "caseName": "Natural Resources Defense Council, Inc. v. Gorsuch",
+  "citation": "Natural Resources Defense Council, Inc. v. Gorsuch, 685 F.2d 718 (D.C. Cir. 1982)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Natural Resources Defense Council, Inc. v. Gorsuch, 685 F.2d 718 (D.C. Cir. 1982)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "77 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198200006460 vs good-law 407575"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-072",
+  "caseId": "300198500002285",
+  "group": "circuit",
+  "caseName": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation",
+  "citation": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation, 756 F.2d 181 (D.C. Cir. 1985)",
+  "problems": [
+   {
+    "code": "bluebook_descriptive_phrase_in_name",
+    "detail": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation, 756 F.2d 181 (D.C. Cir. 1985)"
+   },
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation, 756 F.2d 181 (D.C. Cir. 1985)"
+   },
+   {
+    "code": "bluebook_name_too_long",
+    "detail": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation, 756 F.2d 181 (D.C. Cir. 1985)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "67 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198500002285 vs good-law 448996"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-074",
+  "caseId": "300200600013010",
+  "group": "circuit",
+  "caseName": "Frederick v. Deborah Morse Juneau School Board",
+  "citation": "Frederick v. Deborah Morse Juneau School Board, 439 F.3d 1114 (9th Cir. 2006)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Frederick v. Deborah Morse Juneau School Board, 439 F.3d 1114 (9th Cir. 2006)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "10.85 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "126 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200600013010 vs good-law 793544"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-073",
+  "caseId": "300200700010784",
+  "group": "circuit",
+  "caseName": "Boumediene, Lakhdar v. Bush, George",
+  "citation": "Boumediene, Lakhdar v. Bush, George, 476 F.3d 981 (D.C. Cir. 2007)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "129 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200700010784 vs good-law 186848"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-075",
+  "caseId": "300200500012185",
+  "group": "circuit",
+  "caseName": "Carhart v. Gonzales",
+  "citation": "Carhart v. Gonzales, 413 F.3d 791 (8th Cir. 2005)",
+  "problems": [
+   {
+    "code": "html_leak",
+    "detail": "1 tags/entities"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "42 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200500012185 vs good-law 790868"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-076",
+  "caseId": "300200500009975",
+  "group": "circuit",
+  "caseName": "Mercexchange, L.L.C. v. Ebay, Inc.",
+  "citation": "Mercexchange, L.L.C. v. Ebay, Inc., 401 F.3d 1323 (Fed. Cir. 2005)",
+  "problems": [
+   {
+    "code": "text_short",
+    "detail": "1311 chars"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200500009975 vs good-law 211991"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-077",
+  "caseId": "300201000011733",
+  "group": "circuit",
+  "caseName": "Prometheus Laboratories v. Collaborative",
+  "citation": "Prometheus Laboratories v. Collaborative, 628 F.3d 1347 (Fed. Cir. 2010)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Prometheus Laboratories v. Collaborative, 628 F.3d 1347 (Fed. Cir. 2010)"
+   },
+   {
+    "code": "text_short",
+    "detail": "1335 chars"
+   },
+   {
+    "code": "hyphen_splits",
+    "detail": "15.46 per 1k words"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201000011733 vs good-law 175281"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-078",
+  "caseId": "300200900013906",
+  "group": "circuit",
+  "caseName": "Laster v. AT & T MOBILITY LLC",
+  "citation": "Laster v. AT & T MOBILITY LLC, 584 F.3d 849 (9th Cir. 2009)",
+  "problems": [
+   {
+    "code": "bluebook_all_caps_name",
+    "detail": "Laster v. AT & T MOBILITY LLC, 584 F.3d 849 (9th Cir. 2009)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "13.05 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200900013906 vs good-law 1436159"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-079",
+  "caseId": "300201100023366",
+  "group": "circuit",
+  "caseName": "Bauman v. Daimlerchrysler Corp.",
+  "citation": "Bauman v. Daimlerchrysler Corp., 644 F.3d 909 (9th Cir. 2011)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201100023366 vs good-law 8440968"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-080",
+  "caseId": "300201400002150",
+  "group": "circuit",
+  "caseName": "Robins v. Spokeo, Inc.",
+  "citation": "Robins v. Spokeo, Inc., 742 F.3d 409 (9th Cir. 2014)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "11.27 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "8 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201400002150 vs good-law 2652303"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-081",
+  "caseId": "300202000001459",
+  "group": "circuit",
+  "caseName": "Ramirez v. Transunion LLC",
+  "citation": "Ramirez v. Transunion LLC, 951 F.3d 1008 (9th Cir. 2020)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "16 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300202000001459 vs good-law 4730631"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-082",
+  "caseId": "300198400013267",
+  "group": "circuit",
+  "caseName": "Liberty Lobby, Inc. v. Anderson",
+  "citation": "Liberty Lobby, Inc. v. Anderson, 746 F.2d 1563 (D.C. Cir. 1984)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "13.41 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "29 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198400013267 vs good-law 443937"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-083",
+  "caseId": "300199100018349",
+  "group": "circuit",
+  "caseName": "34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individually and as…",
+  "citation": "34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individually and as…, 951 F.2d 1128 (9th Cir. 1991)",
+  "problems": [
+   {
+    "code": "bluebook_descriptive_phrase_in_name",
+    "detail": "34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individually and as…, 951 F.2d 1128 (9th Cir. 1991)"
+   },
+   {
+    "code": "bluebook_and_not_ampersand",
+    "detail": "34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individually and as…, 951 F.2d 1128 (9th Cir. 1991)"
+   },
+   {
+    "code": "bluebook_name_too_long",
+    "detail": "34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individually and as…, 951 F.2d 1128 (9th Cir. 1991)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "12 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300199100018349 vs good-law 573993"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-084",
+  "caseId": "300199700002952",
+  "group": "circuit",
+  "caseName": "Carmichael v. Samyang Tire, Inc.",
+  "citation": "Carmichael v. Samyang Tire, Inc., 131 F.3d 1433 (11th Cir. 1997)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "11.93 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300199700002952 vs good-law 72445"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-085",
+  "caseId": "300198600017635",
+  "group": "circuit",
+  "caseName": "Falwell v. Flynt",
+  "citation": "Falwell v. Flynt, 797 F.2d 1270 (4th Cir. 1986)",
+  "problems": [
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198600017635 vs good-law 8952725"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-087",
+  "caseId": "300199700018965",
+  "group": "circuit",
+  "caseName": "Dulany v. Carnahan",
+  "citation": "Dulany v. Carnahan, 132 F.3d 1234 (8th Cir. 1997)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "46 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300199700018965 vs good-law 749908"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-086",
+  "caseId": "300201700014977",
+  "group": "circuit",
+  "caseName": "Hawaii v. Trump",
+  "citation": "Hawaii v. Trump, 878 F.3d 662 (9th Cir. 2017)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "52 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201700014977 vs good-law 4454886"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-089",
+  "caseId": "300201300002774",
+  "group": "circuit",
+  "caseName": "Cichocki v. Astrue",
+  "citation": "Cichocki v. Astrue, 729 F.3d 172 (2d Cir. 2013)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "6.09 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201300002774 vs good-law 1039899"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-088",
+  "caseId": "300198400005255",
+  "group": "circuit",
+  "caseName": "Valente v. Secretary of Health and Human Services",
+  "citation": "Valente v. Secretary of Health and Human Services, 733 F.2d 1037 (2d Cir. 1984)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Valente v. Secretary of Health and Human Services, 733 F.2d 1037 (2d Cir. 1984)"
+   },
+   {
+    "code": "bluebook_and_not_ampersand",
+    "detail": "Valente v. Secretary of Health and Human Services, 733 F.2d 1037 (2d Cir. 1984)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.56 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198400005255 vs good-law 435238"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-090",
+  "caseId": "300198400008883",
+  "group": "circuit",
+  "caseName": "Pure Gold, Inc. v. Syntex (u.s.a.), Inc.",
+  "citation": "Pure Gold, Inc. v. Syntex (u.s.a.), Inc., 739 F.2d 624 (Fed. Cir. 1984)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.08 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "pdf_duplicated",
+    "detail": "2 copies of a mid-opinion passage"
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198400008883 vs good-law 438982"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-091",
+  "caseId": "300202000008944",
+  "group": "circuit",
+  "caseName": "Fisher v. SD Protection Inc.",
+  "citation": "Fisher v. SD Protection Inc., 948 F.3d 593 (2d Cir. 2020)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Fisher v. SD Protection Inc., 948 F.3d 593 (2d Cir. 2020)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "36.36 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "28 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300202000008944 vs good-law 4724078"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-092",
+  "caseId": "300200000007802",
+  "group": "circuit",
+  "caseName": "Makarova v. United States",
+  "citation": "Makarova v. United States, 201 F.3d 110 (2d Cir. 2000)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.4 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200000007802 vs good-law 767339"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-093",
+  "caseId": "300200700014213",
+  "group": "circuit",
+  "caseName": "Patane v. Clark",
+  "citation": "Patane v. Clark, 508 F.3d 106 (2d Cir. 2007)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "7.45 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "16 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200700014213 vs good-law 1229090"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-094",
+  "caseId": "300199500022637",
+  "group": "circuit",
+  "caseName": "United States v. Amodeo",
+  "citation": "United States v. Amodeo, 71 F.3d 1044 (2d Cir. 1995)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "6.65 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300199500022637 vs good-law 709495"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-096",
+  "caseId": "300201200010157",
+  "group": "circuit",
+  "caseName": "Renstrom v. Astrue",
+  "citation": "Renstrom v. Astrue, 680 F.3d 1057 (8th Cir. 2012)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201200010157 vs good-law 802092"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-095",
+  "caseId": "300202000015747",
+  "group": "circuit",
+  "caseName": "Tangreti v. Bachmann",
+  "citation": "Tangreti v. Bachmann, 983 F.3d 609 (2d Cir. 2020)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "18 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300202000015747 vs good-law 4843259"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-097",
+  "caseId": "300198500012716",
+  "group": "circuit",
+  "caseName": "Hayduk v. Lanna",
+  "citation": "Hayduk v. Lanna, 775 F.2d 441 (1st Cir. 1985)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "5.39 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "5 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300198500012716 vs good-law 460035"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-099",
+  "caseId": "300200600010256",
+  "group": "circuit",
+  "caseName": "Minter v. Prime Equipment Co.",
+  "citation": "Minter v. Prime Equipment Co., 451 F.3d 1196 (10th Cir. 2006)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Minter v. Prime Equipment Co., 451 F.3d 1196 (10th Cir. 2006)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "18 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200600010256 vs good-law 167718"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-100",
+  "caseId": "300202300015062",
+  "group": "circuit",
+  "caseName": "Short v. Hartman",
+  "citation": "Short v. Hartman, 87 F.4th 593 (4th Cir. 2023)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "35.21 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "46 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "duplicated_text",
+    "detail": "2 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300202300015062 vs good-law 9450747"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-098",
+  "caseId": "300201100015542",
+  "group": "circuit",
+  "caseName": "Hill v. Curcione",
+  "citation": "Hill v. Curcione, 657 F.3d 116 (2d Cir. 2011)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.14 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201100015542 vs good-law 613658"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-103",
+  "caseId": "300201600004247",
+  "group": "circuit",
+  "caseName": "United States v. Sanders",
+  "citation": "United States v. Sanders, 819 F.3d 880 (6th Cir. 2016)",
+  "problems": [
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201600004247 vs good-law 3193662"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-101",
+  "caseId": "300200000004474",
+  "group": "circuit",
+  "caseName": "Collins v. Morgan Stanley Dean Witter",
+  "citation": "Collins v. Morgan Stanley Dean Witter, 224 F.3d 496 (5th Cir. 2000)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "61 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200000004474 vs good-law 21707"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-102",
+  "caseId": "300201400020871",
+  "group": "circuit",
+  "caseName": "DeBoer v. Snyder",
+  "citation": "DeBoer v. Snyder, 772 F.3d 388 (6th Cir. 2014)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201400020871 vs good-law 8442035"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-104",
+  "caseId": "300201600006329",
+  "group": "circuit",
+  "caseName": "Lewis v. Epic Systems Corporation",
+  "citation": "Lewis v. Epic Systems Corporation, 823 F.3d 1147 (7th Cir. 2016)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Lewis v. Epic Systems Corporation, 823 F.3d 1147 (7th Cir. 2016)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "8.06 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300201600006329 vs good-law 3207221"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-105",
+  "caseId": "300200500008907",
+  "group": "circuit",
+  "caseName": "Hamdan, Salim Ahmed v. Rumsfeld, Donald H.",
+  "citation": "Hamdan, Salim Ahmed v. Rumsfeld, Donald H., 415 F.3d 33 (D.C. Cir. 2005)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5300200500008907 vs good-law 186504"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-106",
+  "caseId": "134199400000213",
+  "group": "district",
+  "caseName": "Northwest G.F. Mutual Insurance Co. v. Norgard",
+  "citation": "Northwest G.F. Mutual Insurance Co. v. Norgard, 518 N.W.2d 179 (N.D. 1994)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Northwest G.F. Mutual Insurance Co. v. Norgard, 518 N.W.2d 179 (N.D. 1994)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "7.19 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5134199400000213 vs good-law 2197042"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-108",
+  "caseId": "134200600000180",
+  "group": "district",
+  "caseName": "ACUITY v. Burd & Smith Construction, Inc.",
+  "citation": "ACUITY v. Burd & Smith Construction, Inc., 2006 ND 187 (N.D. 2006)",
+  "problems": [
+   {
+    "code": "bluebook_reporter_spacing",
+    "detail": "ACUITY v. Burd & Smith Construction, Inc., 2006 ND 187 (N.D. 2006)"
+   },
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "ACUITY v. Burd & Smith Construction, Inc., 2006 ND 187 (N.D. 2006)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.76 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5134200600000180 vs good-law 897931"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-107",
+  "caseId": "141198700000152",
+  "group": "district",
+  "caseName": "Lee v. South Dakota Department of Health",
+  "citation": "Lee v. South Dakota Department of Health, 411 N.W.2d 108 (S.D. 1987)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Lee v. South Dakota Department of Health, 411 N.W.2d 108 (S.D. 1987)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Lee v. South Dakota Department of Health, 411 N.W.2d 108 (S.D. 1987)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5141198700000152 vs good-law 1940696"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-109",
+  "caseId": "134198500000186",
+  "group": "district",
+  "caseName": "County of Stutsman v. State Historical Society of North Dakota",
+  "citation": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 321 (N.D. 1985)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 321 (N.D. 1985)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "10.24 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5134198500000186 vs good-law 2203197"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-110",
+  "caseId": "438199200000069",
+  "group": "district",
+  "caseName": "Young v. Keohane",
+  "citation": "Young v. Keohane, 809 F. Supp. 1185 (M.D. Pa. 1992)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "5.97 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "32 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5438199200000069 vs good-law 1455990"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-112",
+  "caseId": "405200600000317",
+  "group": "district",
+  "caseName": "Burch v. Regents of the University of California",
+  "citation": "Burch v. Regents of the University of California, 433 F. Supp. 2d 1110 (E.D. Cal. 2006)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Burch v. Regents of the University of California, 433 F. Supp. 2d 1110 (E.D. Cal. 2006)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Burch v. Regents of the University of California, 433 F. Supp. 2d 1110 (E.D. Cal. 2006)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "9.29 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "44 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5405200600000317 vs good-law 2533431"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-111",
+  "caseId": "141198700000157",
+  "group": "district",
+  "caseName": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division",
+  "citation": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (S.D. 1987)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (S.D. 1987)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (S.D. 1987)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5141198700000157 vs good-law 1941148"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-113",
+  "caseId": "141197200000023",
+  "group": "district",
+  "caseName": "Haugan v. Home Indemnity Company",
+  "citation": "Haugan v. Home Indemnity Company, 197 N.W.2d 18 (S.D. 1972)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Haugan v. Home Indemnity Company, 197 N.W.2d 18 (S.D. 1972)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5141197200000023 vs good-law 1650846"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-114",
+  "caseId": "432200000000132",
+  "group": "district",
+  "caseName": "Citigroup Inc. v. City Holding Co.",
+  "citation": "Citigroup Inc. v. City Holding Co., 97 F. Supp. 2d 549 (S.D.N.Y. 2000)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.76 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "18 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5432200000000132 vs good-law 2339492"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-115",
+  "caseId": "435200400000078",
+  "group": "district",
+  "caseName": "Indiana Insurance v. General Electric Co.",
+  "citation": "Indiana Insurance v. General Electric Co., 326 F. Supp. 2d 844 (N.D. Ohio 2004)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Indiana Insurance v. General Electric Co., 326 F. Supp. 2d 844 (N.D. Ohio 2004)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Indiana Insurance v. General Electric Co., 326 F. Supp. 2d 844 (N.D. Ohio 2004)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.07 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "18 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5435200400000078 vs good-law 2463669"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-116",
+  "caseId": "438201000000019",
+  "group": "district",
+  "caseName": "Univac Dental Co. v. Dentsply International, Inc.",
+  "citation": "Univac Dental Co. v. Dentsply International, Inc., 702 F. Supp. 2d 465 (M.D. Pa. 2010)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Univac Dental Co. v. Dentsply International, Inc., 702 F. Supp. 2d 465 (M.D. Pa. 2010)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.93 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "14 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "duplicated_text",
+    "detail": "4 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5438201000000019 vs good-law 2342731"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-117",
+  "caseId": "141198700000150",
+  "group": "district",
+  "caseName": "State v. Hawk",
+  "citation": "State v. Hawk, 411 N.W.2d 120 (S.D. 1987)",
+  "problems": [
+   {
+    "code": "duplicated_text",
+    "detail": "2 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5141198700000150 vs good-law 1940612"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-118",
+  "caseId": "141197800000148",
+  "group": "district",
+  "caseName": "State v. Houghton",
+  "citation": "State v. Houghton, 272 N.W.2d 788 (S.D. 1978)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5141197800000148 vs good-law 2164804"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-120",
+  "caseId": "451201500000456",
+  "group": "district",
+  "caseName": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services",
+  "citation": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services, 104 F. Supp. 3d 66 (D.D.C. 2015)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services, 104 F. Supp. 3d 66 (D.D.C. 2015)"
+   },
+   {
+    "code": "bluebook_and_not_ampersand",
+    "detail": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services, 104 F. Supp. 3d 66 (D.D.C. 2015)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services, 104 F. Supp. 3d 66 (D.D.C. 2015)"
+   },
+   {
+    "code": "bluebook_name_too_long",
+    "detail": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services, 104 F. Supp. 3d 66 (D.D.C. 2015)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "9.43 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451201500000456 vs good-law 2802192"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-119",
+  "caseId": "451200900000505",
+  "group": "district",
+  "caseName": "Perry v. United States Department of State",
+  "citation": "Perry v. United States Department of State, 669 F. Supp. 2d 60 (D.D.C. 2009)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Perry v. United States Department of State, 669 F. Supp. 2d 60 (D.D.C. 2009)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "11.89 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "8 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451200900000505 vs good-law 2409228"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-121",
+  "caseId": "451200900000060",
+  "group": "district",
+  "caseName": "Hairston v. Tapella",
+  "citation": "Hairston v. Tapella, 664 F. Supp. 2d 106 (D.D.C. 2009)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.12 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451200900000060 vs good-law 1504148"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-122",
+  "caseId": "447200100000017",
+  "group": "district",
+  "caseName": "Lara v. Arctic King Ltd.",
+  "citation": "Lara v. Arctic King Ltd., 2001 A.M.C. 2665 (W.D. Wash. 2001)",
+  "problems": [
+   {
+    "code": "bluebook_reporter_not_t1",
+    "detail": "Lara v. Arctic King Ltd., 2001 A.M.C. 2665 (W.D. Wash. 2001)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5447200100000017 vs good-law 2510033"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-124",
+  "caseId": "405200500000184",
+  "group": "district",
+  "caseName": "Sparrow v. Credit",
+  "citation": "Sparrow v. Credit, 385 F. Supp. 2d 1063 (E.D. Cal. 2005)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "7.62 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "8 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5405200500000184 vs good-law 2440936"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-123",
+  "caseId": "401200900000035",
+  "group": "district",
+  "caseName": "Scott v. MOREQUITY, INC.",
+  "citation": "Scott v. MOREQUITY, INC., 683 F. Supp. 2d 1280 (N.D. Ala. 2009)",
+  "problems": [
+   {
+    "code": "bluebook_all_caps_name",
+    "detail": "Scott v. MOREQUITY, INC., 683 F. Supp. 2d 1280 (N.D. Ala. 2009)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.41 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5401200900000035 vs good-law 2350201"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-125",
+  "caseId": "451201300001414",
+  "group": "district",
+  "caseName": "Ralls Corporation v. Committee on Foreign Investment in the United States",
+  "citation": "Ralls Corporation v. Committee on Foreign Investment in the United States, 926 F. Supp. 2d 71 (D.D.C. 2013)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Ralls Corporation v. Committee on Foreign Investment in the United States, 926 F. Supp. 2d 71 (D.D.C. 2013)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "7.4 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "29 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451201300001414 vs good-law 2661054"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-128",
+  "caseId": "419199900000034",
+  "group": "district",
+  "caseName": "Parks v. City of Brewer",
+  "citation": "Parks v. City of Brewer, 56 F. Supp. 2d 89 (D. Me. 1999)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.06 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "26 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5419199900000034 vs good-law 2449068"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-126",
+  "caseId": "432201000000826",
+  "group": "district",
+  "caseName": "Johnson v. STATE DEPT. OF CORRECTIONAL SERVICES",
+  "citation": "Johnson v. STATE DEPT. OF CORRECTIONAL SERVICES, 709 F. Supp. 2d 178 (N.D.N.Y. 2010)",
+  "problems": [
+   {
+    "code": "bluebook_all_caps_name",
+    "detail": "Johnson v. STATE DEPT. OF CORRECTIONAL SERVICES, 709 F. Supp. 2d 178 (N.D.N.Y. 2010)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5432201000000826 vs good-law 2539456"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-127",
+  "caseId": "409201200000024",
+  "group": "district",
+  "caseName": "Lobegeiger v. Celebrity Cruises, Inc.",
+  "citation": "Lobegeiger v. Celebrity Cruises, Inc., 2013 A.M.C. 1254 (S.D. Fla. 2012)",
+  "problems": [
+   {
+    "code": "bluebook_reporter_not_t1",
+    "detail": "Lobegeiger v. Celebrity Cruises, Inc., 2013 A.M.C. 1254 (S.D. Fla. 2012)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5409201200000024 vs good-law 8716375"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-129",
+  "caseId": "451199900000211",
+  "group": "district",
+  "caseName": "Alexis v. District of Columbia",
+  "citation": "Alexis v. District of Columbia, 44 F. Supp. 2d 331 (D.D.C. 1999)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Alexis v. District of Columbia, 44 F. Supp. 2d 331 (D.D.C. 1999)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.61 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "34 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451199900000211 vs good-law 2568019"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-131",
+  "caseId": "451200900000861",
+  "group": "district",
+  "caseName": "Sharbi v. Bush",
+  "citation": "Sharbi v. Bush, 601 F. Supp. 2d 317 (D.D.C. 2009)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "8 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451200900000861 vs good-law 2518782"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-130",
+  "caseId": "401201200000004",
+  "group": "district",
+  "caseName": "In re Chantix (Varenicline) Products Liability Litigation",
+  "citation": "In re Chantix (Varenicline) Products Liability Litigation, 889 F. Supp. 2d 1272 (N.D. Ala. 2012)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "In re Chantix (Varenicline) Products Liability Litigation, 889 F. Supp. 2d 1272 (N.D. Ala. 2012)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5401201200000004 vs good-law 8718718"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-132",
+  "caseId": "451201100000120",
+  "group": "district",
+  "caseName": "Haim v. Islamic Republic of Iran",
+  "citation": "Haim v. Islamic Republic of Iran, 784 F. Supp. 2d 1 (D.D.C. 2011)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "5.69 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451201100000120 vs good-law 2147435"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-134",
+  "caseId": "451201200000822",
+  "group": "district",
+  "caseName": "Harris v. Citimortgage, Inc.",
+  "citation": "Harris v. Citimortgage, Inc., 878 F. Supp. 2d 154 (D.D.C. 2012)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.54 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "16 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451201200000822 vs good-law 2662154"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-135",
+  "caseId": "451200800000173",
+  "group": "district",
+  "caseName": "Friendship Edison Public Charter School Chamberlain Campus v. Suggs",
+  "citation": "Friendship Edison Public Charter School Chamberlain Campus v. Suggs, 562 F. Supp. 2d 141 (D.D.C. 2008)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Friendship Edison Public Charter School Chamberlain Campus v. Suggs, 562 F. Supp. 2d 141 (D.D.C. 2008)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "5.8 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "17 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451200800000173 vs good-law 1570984"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-133",
+  "caseId": "451200400000240",
+  "group": "district",
+  "caseName": "Clarke v. Office of Federal Housing Enterprise Oversight",
+  "citation": "Clarke v. Office of Federal Housing Enterprise Oversight, 355 F. Supp. 2d 56 (D.D.C. 2004)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Clarke v. Office of Federal Housing Enterprise Oversight, 355 F. Supp. 2d 56 (D.D.C. 2004)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.36 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5451200400000240 vs good-law 2453278"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-136",
+  "caseId": "105196800000029",
+  "group": "state-supreme",
+  "caseName": "Dillon v. Legg",
+  "citation": "Dillon v. Legg, 68 Cal. 2d 728, 69 Cal. Rptr. 72 (1968)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105196800000029 vs good-law 1180570"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-138",
+  "caseId": "103196500000231",
+  "group": "state-supreme",
+  "caseName": "State v. Miranda",
+  "citation": "State v. Miranda, 401 P.2d 721 (Ariz. 1965)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5103196500000231 vs good-law 1297557"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-139",
+  "caseId": "135196000000355",
+  "group": "state-supreme",
+  "caseName": "State v. Mapp",
+  "citation": "State v. Mapp, 170 Ohio St. 427 (1960)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5135196000000355 vs good-law 8385700"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-137",
+  "caseId": "105201600004485",
+  "group": "state-supreme",
+  "caseName": "Bristol-Myers Squibb Co. v. Superior Court of San Francisco County",
+  "citation": "Bristol-Myers Squibb Co. v. Superior Court of San Francisco County, 1 Cal. 5th 783, 206 Cal. Rptr. 3d 636 (2016)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Bristol-Myers Squibb Co. v. Superior Court of San Francisco County, 1 Cal. 5th 783, 206 Cal. Rptr. 3d 636 (2016)"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "70 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105201600004485 vs good-law 4252111"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-141",
+  "caseId": "132191600000189",
+  "group": "state-supreme",
+  "caseName": "MacPherson v. Buick Motor Co.",
+  "citation": "MacPherson v. Buick Motor Co., 217 N.Y. 382, 111 N.E. 1050 (1916)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "18.68 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5132191600000189 vs good-law 3616523"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-142",
+  "caseId": "132192800000043",
+  "group": "state-supreme",
+  "caseName": "Palsgraf v. Long Island R.R. Co.",
+  "citation": "Palsgraf v. Long Island R.R. Co., 248 N.Y. 339, 162 N.E. 99 (1928)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "11.42 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5132192800000043 vs good-law 3602780"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-140",
+  "caseId": "105194800000176",
+  "group": "state-supreme",
+  "caseName": "Summers v. Tice",
+  "citation": "Summers v. Tice, 33 Cal. 2d 80 (1948)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "8.56 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105194800000176 vs good-law 1184099"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-143",
+  "caseId": "105196300000048",
+  "group": "state-supreme",
+  "caseName": "Greenman v. Yuba Power Products, Inc.",
+  "citation": "Greenman v. Yuba Power Products, Inc., 59 Cal. 2d 57, 27 Cal. Rptr. 697 (1963)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Greenman v. Yuba Power Products, Inc., 59 Cal. 2d 57, 27 Cal. Rptr. 697 (1963)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "16.91 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105196300000048 vs good-law 1168887"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-144",
+  "caseId": "105198000000030",
+  "group": "state-supreme",
+  "caseName": "Sindell v. Abbott Laboratories",
+  "citation": "Sindell v. Abbott Laboratories, 26 Cal. 3d 588, 163 Cal. Rptr. 132 (1980)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Sindell v. Abbott Laboratories, 26 Cal. 3d 588, 163 Cal. Rptr. 132 (1980)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105198000000030 vs good-law 1177800"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-145",
+  "caseId": "105197600000007",
+  "group": "state-supreme",
+  "caseName": "Marvin v. Marvin",
+  "citation": "Marvin v. Marvin, 18 Cal. 3d 660, 134 Cal. Rptr. 815 (1976)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105197600000007 vs good-law 1148641"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-147",
+  "caseId": "132198900000156",
+  "group": "state-supreme",
+  "caseName": "Hymowitz v. Eli Lilly & Co.",
+  "citation": "Hymowitz v. Eli Lilly & Co., 73 N.Y.2d 487, 541 N.Y.S.2d 941, 539 N.E.2d 1069 (1989)",
+  "problems": [
+   {
+    "code": "bluebook_no_year",
+    "detail": "Hymowitz v. Eli Lilly & Co., 73 N.Y.2d 487, 541 N.Y.S.2d 941, 539 N.E.2d 1069 (1989)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5132198900000156 vs good-law 5689494"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-146",
+  "caseId": "130196000000220",
+  "group": "state-supreme",
+  "caseName": "Henningsen v. Bloomfield Motors, Inc.",
+  "citation": "Henningsen v. Bloomfield Motors, Inc., 161 A.2d 69 (N.J. 1960)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "6.12 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "195 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5130196000000220 vs good-law 1955969"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-148",
+  "caseId": "113198100001137",
+  "group": "state-supreme",
+  "caseName": "Alvis v. Ribar",
+  "citation": "Alvis v. Ribar, 85 Ill. 2d 1, 421 N.E.2d 886 (1981)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5113198100001137 vs good-law 2230336"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-149",
+  "caseId": "105198900000074",
+  "group": "state-supreme",
+  "caseName": "Thing v. Chusa",
+  "citation": "Thing v. Chusa, 48 Cal. 3d 644, 257 Cal. Rptr. 865 (1989)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105198900000074 vs good-law 1355526"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-150",
+  "caseId": "105197500000010",
+  "group": "state-supreme",
+  "caseName": "Li v. Yellow Cab Co.",
+  "citation": "Li v. Yellow Cab Co., 13 Cal. 3d 804, 119 Cal. Rptr. 858 (1975)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105197500000010 vs good-law 1139343"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-151",
+  "caseId": "109197300000385",
+  "group": "state-supreme",
+  "caseName": "Hoffman v. Jones",
+  "citation": "Hoffman v. Jones, 280 So. 2d 431 (Fla. 1973)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5109197300000385 vs good-law 1704250"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-152",
+  "caseId": "105196300001104",
+  "group": "state-supreme",
+  "caseName": "Amaya v. Home Ice, Fuel & Supply Co.",
+  "citation": "Amaya v. Home Ice, Fuel & Supply Co., 59 Cal. 2d 295, 29 Cal. Rptr. 33 (1963)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105196300001104 vs good-law 2610425"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-154",
+  "caseId": "105197900000091",
+  "group": "state-supreme",
+  "caseName": "Royal Globe Insurance v. Superior Court",
+  "citation": "Royal Globe Insurance v. Superior Court, 23 Cal. 3d 880, 153 Cal. Rptr. 842 (1979)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Royal Globe Insurance v. Superior Court, 23 Cal. 3d 880, 153 Cal. Rptr. 842 (1979)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105197900000091 vs good-law 1410538"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-153",
+  "caseId": "105198400000897",
+  "group": "state-supreme",
+  "caseName": "Seaman's Direct Buying Service, Inc. v. Standard Oil Co.",
+  "citation": "Seaman's Direct Buying Service, Inc. v. Standard Oil Co., 36 Cal. 3d 752, 206 Cal. Rptr. 354 (1984)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Seaman's Direct Buying Service, Inc. v. Standard Oil Co., 36 Cal. 3d 752, 206 Cal. Rptr. 354 (1984)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105198400000897 vs good-law 2607839"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-155",
+  "caseId": "132189600000068",
+  "group": "state-supreme",
+  "caseName": "Mitchell v. Rochester Railway Co.",
+  "citation": "Mitchell v. Rochester Railway Co., 151 N.Y. 107, 45 N.E. 354 (1896)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Mitchell v. Rochester Railway Co., 151 N.Y. 107, 45 N.E. 354 (1896)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "10.3 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5132189600000068 vs good-law 3606857"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-156",
+  "caseId": "122199400000367",
+  "group": "state-supreme",
+  "caseName": "Dedes v. Asch",
+  "citation": "Dedes v. Asch, 446 Mich. 99, 521 N.W.2d 488 (1994)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5122199400000367 vs good-law 1969363"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-157",
+  "caseId": "122200100000040",
+  "group": "state-supreme",
+  "caseName": "Lugo v. Ameritech Corp., Inc.",
+  "citation": "Lugo v. Ameritech Corp., Inc., 464 Mich. 512, 629 N.W.2d 384 (2001)",
+  "problems": [
+   {
+    "code": "bluebook_redundant_business_designation",
+    "detail": "Lugo v. Ameritech Corp., Inc., 464 Mich. 512, 629 N.W.2d 384 (2001)"
+   },
+   {
+    "code": "duplicated_text",
+    "detail": "2 repeated paragraphs"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5122200100000040 vs good-law 849195"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-159",
+  "caseId": "105200600000852",
+  "group": "state-supreme",
+  "caseName": "People v. Wright",
+  "citation": "People v. Wright, 40 Cal. 4th 81, 51 Cal. Rptr. 3d 80 (2006)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105200600000852 vs good-law 2588381"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-158",
+  "caseId": "138197800000726",
+  "group": "state-supreme",
+  "caseName": "Azzarello v. Black Bros. Co., Inc.",
+  "citation": "Azzarello v. Black Bros. Co., Inc., 391 A.2d 1020 (Pa. 1978)",
+  "problems": [
+   {
+    "code": "bluebook_redundant_business_designation",
+    "detail": "Azzarello v. Black Bros. Co., Inc., 391 A.2d 1020 (Pa. 1978)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.31 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "24 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5138197800000726 vs good-law 1957128"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-161",
+  "caseId": "105198800000108",
+  "group": "state-supreme",
+  "caseName": "Moradi-Shalal v. Fireman's Fund Ins. Companies",
+  "citation": "Moradi-Shalal v. Fireman's Fund Ins. Companies, 46 Cal. 3d 287, 250 Cal. Rptr. 116 (1988)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105198800000108 vs good-law 1405841"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-162",
+  "caseId": "132196100000291",
+  "group": "state-supreme",
+  "caseName": "Battalla v. State",
+  "citation": "Battalla v. State, 10 N.Y.2d 237, 219 N.Y.S.2d 34, 176 N.E.2d 729 (1961)",
+  "problems": [
+   {
+    "code": "bluebook_no_year",
+    "detail": "Battalla v. State, 10 N.Y.2d 237, 219 N.Y.S.2d 34, 176 N.E.2d 729 (1961)"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5132196100000291 vs good-law 5672164"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-160",
+  "caseId": "105199500000026",
+  "group": "state-supreme",
+  "caseName": "Freeman & Mills, Inc. v. Belcher Oil Co.",
+  "citation": "Freeman & Mills, Inc. v. Belcher Oil Co., 11 Cal. 4th 85, 44 Cal. Rptr. 2d 420 (1995)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105199500000026 vs good-law 1158333"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-164",
+  "caseId": "108198500000004",
+  "group": "state-supreme",
+  "caseName": "Smith v. Gorkom",
+  "citation": "Smith v. Gorkom, 488 A.2d 858 (Del. 1985)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5108198500000004 vs good-law 1479784"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-165",
+  "caseId": "108198500000047",
+  "group": "state-supreme",
+  "caseName": "Unocal Corp. v. Mesa Petroleum Co.",
+  "citation": "Unocal Corp. v. Mesa Petroleum Co., 493 A.2d 946 (Del. 1985)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.72 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "30 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5108198500000047 vs good-law 2053200"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-163",
+  "caseId": "138201400002623",
+  "group": "state-supreme",
+  "caseName": "Tincher, T. v. Omega Flex, Inc., Aplt.",
+  "citation": "Tincher, T. v. Omega Flex, Inc., Aplt., 104 A.3d 328 (Pa. 2014)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "44.12 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "29 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5138201400002623 vs good-law 2753363"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-166",
+  "caseId": "108198600000136",
+  "group": "state-supreme",
+  "caseName": "Revlon, Inc. v. MacAndrews & Forbes Holdings, Inc.",
+  "citation": "Revlon, Inc. v. MacAndrews & Forbes Holdings, Inc., 506 A.2d 173 (Del. 1986)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.42 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "32 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5108198600000136 vs good-law 2161715"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-168",
+  "caseId": "199500002092",
+  "group": "state-supreme",
+  "caseName": "Peterson v. Superior Court",
+  "citation": "Peterson v. Superior Court, 10 Cal. 4th 1185, 43 Cal. Rptr. 2d 836 (1995)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Peterson v. Superior Court, 10 Cal. 4th 1185, 43 Cal. Rptr. 2d 836 (1995)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "14.64 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "28 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5000199500002092 vs good-law 1360581"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-167",
+  "caseId": "143200500001179",
+  "group": "state-supreme",
+  "caseName": "City of Keller v. Wilson",
+  "citation": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5143200500001179 vs good-law 1987708"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-169",
+  "caseId": "122200000000352",
+  "group": "state-supreme",
+  "caseName": "Robinson v. City of Detroit",
+  "citation": "Robinson v. City of Detroit, 462 Mich. 439, 613 N.W.2d 307 (2000)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5122200000000352 vs good-law 2221680"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-170",
+  "caseId": "146199800000007",
+  "group": "state-supreme",
+  "caseName": "Richmond Metropolitan Authority v. McDevitt Street Bovis, Inc.",
+  "citation": "Richmond Metropolitan Authority v. McDevitt Street Bovis, Inc., 256 Va. 553, 507 S.E.2d 344 (1998)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Richmond Metropolitan Authority v. McDevitt Street Bovis, Inc., 256 Va. 553, 507 S.E.2d 344 (1998)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.71 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "12 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5146199800000007 vs good-law 1059830"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-171",
+  "caseId": "143200300001525",
+  "group": "state-supreme",
+  "caseName": "King Ranch, Inc. v. Chapman",
+  "citation": "King Ranch, Inc. v. Chapman, 118 S.W.3d 742 (Tex. 2003)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "19 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5143200300001525 vs good-law 2331188"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-172",
+  "caseId": "127198500000283",
+  "group": "state-supreme",
+  "caseName": "State v. Knight",
+  "citation": "State v. Knight, 371 N.W.2d 317 (Neb. 1985)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.2 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5127198500000283 vs good-law 2202848"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-173",
+  "caseId": "138196700000074",
+  "group": "state-supreme",
+  "caseName": "Commonwealth Ex Rel. Washington v. Maroney",
+  "citation": "Commonwealth Ex Rel. Washington v. Maroney, 235 A.2d 349 (Pa. 1967)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5138196700000074 vs good-law 1544998"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-174",
+  "caseId": "122199900000165",
+  "group": "state-supreme",
+  "caseName": "Gray v. Morley",
+  "citation": "Gray v. Morley, 460 Mich. 738, 596 N.W.2d 922 (1999)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5122199900000165 vs good-law 1985203"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-176",
+  "caseId": "132192700003270",
+  "group": "state-intermediate",
+  "caseName": "Palsgraf v. Railroad",
+  "citation": "Palsgraf v. Railroad, 222 A.D. 166, 225 N.Y.S. 412 (N.Y. App. Div. 1927)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Palsgraf v. Railroad, 222 A.D. 166, 225 N.Y.S. 412 (N.Y. App. Div. 1927)"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5132192700003270 vs good-law 5459351"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-175",
+  "caseId": "147199200000095",
+  "group": "state-supreme",
+  "caseName": "Conservancy v. Bosley",
+  "citation": "Conservancy v. Bosley, 828 P.2d 549 (Wash. 1992)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.02 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5147199200000095 vs good-law 1171395"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-178",
+  "caseId": "107202200000263",
+  "group": "state-intermediate",
+  "caseName": "Gilman v. Shames",
+  "citation": "Gilman v. Shames, 212 Conn. App. 147 (Conn. Ct. App. 2022)",
+  "problems": [
+   {
+    "code": "page_furniture",
+    "detail": "10 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "hyphen_splits",
+    "detail": "14.17 per 1k words"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5107202200000263 vs good-law 6462452"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-177",
+  "caseId": "143199600000614",
+  "group": "state-intermediate",
+  "caseName": "Hickson v. Moya",
+  "citation": "Hickson v. Moya, 926 S.W.2d 397 (Tex. App. 10th Dist. 1996)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.24 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5143199600000614 vs good-law 1758516"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-179",
+  "caseId": "136200200000029",
+  "group": "state-intermediate",
+  "caseName": "Major v. Microsoft Corp.",
+  "citation": "Major v. Microsoft Corp., 60 P.3d 511 (Okla. Civ. App. 2002)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "9.17 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5136200200000029 vs good-law 2580897"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-181",
+  "caseId": "113199200001350",
+  "group": "state-intermediate",
+  "caseName": "Ray Dancer, Inc. v. D M C Corp.",
+  "citation": "Ray Dancer, Inc. v. D M C Corp., 230 Ill. App. 3d 40, 594 N.E.2d 1344 (Ill. Ct. App. 1992)",
+  "problems": [
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5113199200001350 vs good-law 2249093"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-180",
+  "caseId": "138200500001316",
+  "group": "state-intermediate",
+  "caseName": "Hart v. Arnold",
+  "citation": "Hart v. Arnold, 884 A.2d 316 (Pa. Super. 2005)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5138200500001316 vs good-law 5141887"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-182",
+  "caseId": "111199600000108",
+  "group": "state-intermediate",
+  "caseName": "Hunt v. First Ins. Co. of Hawaii Ltd.",
+  "citation": "Hunt v. First Ins. Co. of Hawaii Ltd., 922 P.2d 976 (Haw. Ct. App. 1996)",
+  "problems": [
+   {
+    "code": "bluebook_redundant_business_designation",
+    "detail": "Hunt v. First Ins. Co. of Hawaii Ltd., 922 P.2d 976 (Haw. Ct. App. 1996)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Hunt v. First Ins. Co. of Hawaii Ltd., 922 P.2d 976 (Haw. Ct. App. 1996)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "5.46 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5111199600000108 vs good-law 1287508"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-183",
+  "caseId": "142199500000187",
+  "group": "state-intermediate",
+  "caseName": "State v. Bingham",
+  "citation": "State v. Bingham, 910 S.W.2d 448 (Tenn. Crim. App. 1995)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "2.85 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "6 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5142199500000187 vs good-law 1638328"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-184",
+  "caseId": "144200600000134",
+  "group": "state-intermediate",
+  "caseName": "Tolle v. Fenley",
+  "citation": "Tolle v. Fenley, 132 P.3d 63 (Utah Ct. App. 2006)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5144200600000134 vs good-law 2630819"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-185",
+  "caseId": "104198500000165",
+  "group": "state-intermediate",
+  "caseName": "In re Memorandum Opinions",
+  "citation": "In re Memorandum Opinions, 700 S.W.2d 63 (Ark. Ct. App. 1985)",
+  "problems": [
+   {
+    "code": "text_short",
+    "detail": "1432 chars"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5104198500000165 vs good-law 2419337"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-186",
+  "caseId": "120201100000419",
+  "group": "state-intermediate",
+  "caseName": "Kumar v. Dhanda",
+  "citation": "Kumar v. Dhanda, 17 A.3d 744 (Md. Ct. Spec. App. 2011)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.71 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "10 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "pdf_text_differs",
+    "detail": "a mid-opinion passage from /text not found verbatim in PDF"
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5120201100000419 vs good-law 2423612"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-187",
+  "caseId": "114199100000290",
+  "group": "state-intermediate",
+  "caseName": "W & W Equipment Co., Inc. v. Mink",
+  "citation": "W & W Equipment Co., Inc. v. Mink, 568 N.E.2d 564 (Ind. Ct. App. 1991)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "W & W Equipment Co., Inc. v. Mink, 568 N.E.2d 564 (Ind. Ct. App. 1991)"
+   },
+   {
+    "code": "bluebook_redundant_business_designation",
+    "detail": "W & W Equipment Co., Inc. v. Mink, 568 N.E.2d 564 (Ind. Ct. App. 1991)"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5114199100000290 vs good-law 2094375"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-188",
+  "caseId": "122201200002416",
+  "group": "state-intermediate",
+  "caseName": "Bronson Methodist Hospital v. Michigan Assigned Claims Facility",
+  "citation": "Bronson Methodist Hospital v. Michigan Assigned Claims Facility, 826 N.W.2d 197 (Mich. Ct. App. 2012)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Bronson Methodist Hospital v. Michigan Assigned Claims Facility, 826 N.W.2d 197 (Mich. Ct. App. 2012)"
+   },
+   {
+    "code": "bluebook_t10_unabbreviated",
+    "detail": "Bronson Methodist Hospital v. Michigan Assigned Claims Facility, 826 N.W.2d 197 (Mich. Ct. App. 2012)"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5122201200002416 vs good-law 8006707"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-189",
+  "caseId": "109200800001665",
+  "group": "state-intermediate",
+  "caseName": "Gasparini v. Pordomingo",
+  "citation": "Gasparini v. Pordomingo, 972 So. 2d 1053 (Fla. 3d DCA 2008)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5109200800001665 vs good-law 1589404"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-190",
+  "caseId": "133199800000312",
+  "group": "state-intermediate",
+  "caseName": "Bruce-Terminix Company v. Zurich Ins. Co.",
+  "citation": "Bruce-Terminix Company v. Zurich Ins. Co., 504 S.E.2d 574 (N.C. Ct. App. 1998)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Bruce-Terminix Company v. Zurich Ins. Co., 504 S.E.2d 574 (N.C. Ct. App. 1998)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.39 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5133199800000312 vs good-law 1358905"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-192",
+  "caseId": "122199500000434",
+  "group": "state-intermediate",
+  "caseName": "Babula v. Robertson",
+  "citation": "Babula v. Robertson, 536 N.W.2d 834 (Mich. Ct. App. 1995)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "6.28 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "4 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5122199500000434 vs good-law 2176196"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-191",
+  "caseId": "114200800001749",
+  "group": "state-intermediate",
+  "caseName": "In re Termination Parent-Child Rel. of JM",
+  "citation": "In re Termination Parent-Child Rel. of JM, 895 N.E.2d 1228 (Ind. Ct. App. 2008)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5114200800001749 vs good-law 2152970"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-195",
+  "caseId": "105199800000965",
+  "group": "state-intermediate",
+  "caseName": "Santisas v. Goodin",
+  "citation": "Santisas v. Goodin, 17 Cal. 4th 599, 71 Cal. Rptr. 2d 830 (Cal. Ct. App. 1998)",
+  "problems": [
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5105199800000965 vs good-law 5795440"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-193",
+  "caseId": "112198800000113",
+  "group": "state-intermediate",
+  "caseName": "Nalen v. Jenkins",
+  "citation": "Nalen v. Jenkins, 763 P.2d 1081 (Idaho Ct. App. 1988)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "6.22 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "10 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5112198800000113 vs good-law 1281648"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-194",
+  "caseId": "135200700003895",
+  "group": "state-intermediate",
+  "caseName": "Jarupan v. Hanna",
+  "citation": "Jarupan v. Hanna, 878 N.E.2d 66 (Ohio Ct. App. 2007)",
+  "problems": [
+   {
+    "code": "hard_wrapped_text",
+    "detail": "5.25 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5135200700003895 vs good-law 4003620"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-196",
+  "caseId": "135200000002589",
+  "group": "state-intermediate",
+  "caseName": "Procter Gamble Company v. Stoneham",
+  "citation": "Procter Gamble Company v. Stoneham, 747 N.E.2d 268 (Ohio Ct. App. 2000)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Procter Gamble Company v. Stoneham, 747 N.E.2d 268 (Ohio Ct. App. 2000)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "4.26 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "44 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5135200000002589 vs good-law 3974897"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-197",
+  "caseId": "104200900000486",
+  "group": "state-intermediate",
+  "caseName": "Rice v. Ragsdale",
+  "citation": "Rice v. Ragsdale, 292 S.W.3d 856 (Ark. Ct. App. 2009)",
+  "problems": [
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5104200900000486 vs good-law 5280835"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-198",
+  "caseId": "121198500000180",
+  "group": "state-intermediate",
+  "caseName": "Shapiro v. Public Service Mutual Insurance",
+  "citation": "Shapiro v. Public Service Mutual Insurance, 477 N.E.2d 146 (Mass. Ct. App. 1985)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Shapiro v. Public Service Mutual Insurance, 477 N.E.2d 146 (Mass. Ct. App. 1985)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "3.84 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "page_furniture",
+    "detail": "20 bare page-number lines, 0 running headers"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5121198500000180 vs good-law 2048636"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-199",
+  "caseId": "131199800000106",
+  "group": "state-intermediate",
+  "caseName": "State v. Ingram",
+  "citation": "State v. Ingram, 1998 NMCA 177 (N.M. Ct. App. 1998)",
+  "problems": [
+   {
+    "code": "bluebook_reporter_not_t1",
+    "detail": "State v. Ingram, 1998 NMCA 177 (N.M. Ct. App. 1998)"
+   },
+   {
+    "code": "no_star_paging",
+    "detail": ""
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5131199800000106 vs good-law 1345094"
+   }
+  ],
+  "status": "fail"
+ },
+ {
+  "id": "LF-OP-200",
+  "caseId": "110199700000256",
+  "group": "state-intermediate",
+  "caseName": "Matjoulis v. Integon General Ins. Corp.",
+  "citation": "Matjoulis v. Integon General Ins. Corp., 226 Ga. App. 459, 486 S.E.2d 684 (Ga. Ct. App. 1997)",
+  "problems": [
+   {
+    "code": "bluebook_t6_unabbreviated",
+    "detail": "Matjoulis v. Integon General Ins. Corp., 226 Ga. App. 459, 486 S.E.2d 684 (Ga. Ct. App. 1997)"
+   },
+   {
+    "code": "hard_wrapped_text",
+    "detail": "11.27 mid-sentence paragraph breaks per 1k words"
+   },
+   {
+    "code": "pdf_old_brand",
+    "detail": "header reads \"LAWTOOLS · LAWTOOLS.AI\""
+   },
+   {
+    "code": "cluster_id_mismatch",
+    "detail": "cases/:id 5110199700000256 vs good-law 1280813"
+   }
+  ],
+  "status": "fail"
+ }
+]

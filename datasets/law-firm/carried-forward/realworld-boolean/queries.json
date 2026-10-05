@@ -1,0 +1,3381 @@
+{
+ "suite": "law-firm/carried-forward/realworld-boolean",
+ "source": "datasets/search/realworld-1000 (style=boolean)",
+ "count": 286,
+ "rows": [
+  {
+   "id": "rw-0001",
+   "seq": 1,
+   "jurisdictionKey": "federal",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"summary judgment\" /s \"genuine dispute\" AND \"material fact\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0002",
+   "seq": 2,
+   "jurisdictionKey": "federal",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"comparative fault\" /p apportionment NOT \"workers compensation\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0003",
+   "seq": 3,
+   "jurisdictionKey": "federal",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"deliberate indifference\" w/15 (\"serious medical need\" OR prison)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0004",
+   "seq": 4,
+   "jurisdictionKey": "federal",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your ground\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0005",
+   "seq": 5,
+   "jurisdictionKey": "federal",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"material breach\" /s \"substantial performance\" NOT construction",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0007",
+   "seq": 7,
+   "jurisdictionKey": "federal",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\") AND enforcement",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0008",
+   "seq": 8,
+   "jurisdictionKey": "federal",
+   "category": "probate",
+   "style": "boolean",
+   "query": "trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0010",
+   "seq": 10,
+   "jurisdictionKey": "federal",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"equitable distribution\" /p (\"separate property\" OR commingled)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0017",
+   "seq": 17,
+   "jurisdictionKey": "federal",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"certificate of merit\" /p (\"expert affidavit\" OR dismissal) AND malpractice",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0018",
+   "seq": 18,
+   "jurisdictionKey": "federal",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"hostile work environment\" /p \"severe or pervasive\" AND \"title vii\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0022",
+   "seq": 22,
+   "jurisdictionKey": "federal",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "exclusion /s ambiguous AND \"construed against the insurer\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0031",
+   "seq": 31,
+   "jurisdictionKey": "federal",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"motion to dismiss\" /p \"plausible on its face\" NOT arbitration",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0032",
+   "seq": 32,
+   "jurisdictionKey": "federal",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"premises liability\" /s (\"open and obvious\" OR invitee)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0033",
+   "seq": 33,
+   "jurisdictionKey": "federal",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "(\"first amendment\" OR \"free speech\") /s \"public forum\" AND \"content based\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0034",
+   "seq": 34,
+   "jurisdictionKey": "federal",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"felony murder\" /p \"in furtherance of\" NOT conspiracy",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0035",
+   "seq": 35,
+   "jurisdictionKey": "federal",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"liquidated damages\" /p penalty AND (\"reasonable forecast\" OR unenforceable)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0036",
+   "seq": 36,
+   "jurisdictionKey": "federal",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0038",
+   "seq": 38,
+   "jurisdictionKey": "federal",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"elective share\" w/15 \"surviving spouse\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0040",
+   "seq": 40,
+   "jurisdictionKey": "federal",
+   "category": "family law",
+   "style": "boolean",
+   "query": "alimony /p (\"ability to pay\" OR \"need\") NOT \"child support\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0044",
+   "seq": 44,
+   "jurisdictionKey": "federal",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "daubert /s (\"reliability\" OR \"gatekeeping\") AND \"expert testimony\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0048",
+   "seq": 48,
+   "jurisdictionKey": "federal",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "noncompete /p (\"geographic scope\" OR \"legitimate business interest\") NOT physician",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0061",
+   "seq": 61,
+   "jurisdictionKey": "federal",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "(\"personal jurisdiction\" OR \"long-arm\") /s \"purposeful availment\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0062",
+   "seq": 62,
+   "jurisdictionKey": "federal",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"rear end collision\" w/15 (\"presumption\" OR \"following too closely\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0063",
+   "seq": 63,
+   "jurisdictionKey": "federal",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"equal protection\" /p (\"strict scrutiny\" OR \"suspect classification\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0064",
+   "seq": 64,
+   "jurisdictionKey": "federal",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"constructive possession\" w/10 \"intent to distribute\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0065",
+   "seq": 65,
+   "jurisdictionKey": "federal",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"promissory estoppel\" w/15 \"detrimental reliance\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0066",
+   "seq": 66,
+   "jurisdictionKey": "federal",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"exhaustion of administrative remedies\" /p futility",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0069",
+   "seq": 69,
+   "jurisdictionKey": "federal",
+   "category": "general",
+   "style": "boolean",
+   "query": "\"attorney fees\" /s (\"prevailing party\" OR \"fee shifting\") AND lodestar",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0070",
+   "seq": 70,
+   "jurisdictionKey": "federal",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"prenuptial agreement\" /s (\"full disclosure\" OR unconscionable)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0074",
+   "seq": 74,
+   "jurisdictionKey": "federal",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "hearsay /p (\"excited utterance\" OR \"present sense impression\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0078",
+   "seq": 78,
+   "jurisdictionKey": "federal",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"reasonable accommodation\" w/15 \"interactive process\" AND ada",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0079",
+   "seq": 79,
+   "jurisdictionKey": "federal",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"pierce the corporate veil\" /s (\"alter ego\" OR undercapitalization)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0085",
+   "seq": 85,
+   "jurisdictionKey": "federal",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "\"cancellation of removal\" /s \"exceptional and extremely unusual hardship\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0091",
+   "seq": 91,
+   "jurisdictionKey": "federal",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"statute of limitations\" w/10 \"discovery rule\" AND accrual",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0092",
+   "seq": 92,
+   "jurisdictionKey": "federal",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"respondeat superior\" /p \"scope of employment\" AND \"personal errand\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0094",
+   "seq": 94,
+   "jurisdictionKey": "federal",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "dui /p \"breath test\" AND (\"implied consent\" OR refusal)",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0095",
+   "seq": 95,
+   "jurisdictionKey": "federal",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"parol evidence\" /s (\"integration clause\" OR \"fully integrated\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0096",
+   "seq": 96,
+   "jurisdictionKey": "federal",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"substantial evidence\" w/15 (\"disability\" OR \"residual functional capacity\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0099",
+   "seq": 99,
+   "jurisdictionKey": "federal",
+   "category": "general",
+   "style": "boolean",
+   "query": "(\"temporary restraining order\" OR \"preliminary injunction\") /p \"irreparable harm\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0100",
+   "seq": 100,
+   "jurisdictionKey": "federal",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"termination of parental rights\" w/10 \"clear and convincing\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0104",
+   "seq": 104,
+   "jurisdictionKey": "federal",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "\"attorney client privilege\" w/15 \"crime fraud exception\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0105",
+   "seq": 105,
+   "jurisdictionKey": "federal",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "landlord /p \"security deposit\" AND itemized NOT commercial",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0108",
+   "seq": 108,
+   "jurisdictionKey": "federal",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "(\"unpaid overtime\" OR flsa) /s \"administrative exemption\"",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0109",
+   "seq": 109,
+   "jurisdictionKey": "federal",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"business judgment rule\" /p (\"duty of loyalty\" OR \"self dealing\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0115",
+   "seq": 115,
+   "jurisdictionKey": "federal",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "asylum /p (\"particular social group\" OR \"well founded fear\")",
+   "jurisdiction": {
+    "type": "all_federal"
+   }
+  },
+  {
+   "id": "rw-0121",
+   "seq": 121,
+   "jurisdictionKey": "scotus",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"class certification\" /p predominance NOT \"collective action\"",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0122",
+   "seq": 122,
+   "jurisdictionKey": "scotus",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"punitive damages\" /s (\"clear and convincing\" OR \"reckless indifference\")",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0125",
+   "seq": 125,
+   "jurisdictionKey": "scotus",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "unconscionable /p \"contract of adhesion\" AND (\"procedural\" OR substantive)",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0130",
+   "seq": 130,
+   "jurisdictionKey": "scotus",
+   "category": "family law",
+   "style": "boolean",
+   "query": "relocation /p \"custodial parent\" AND burden NOT immigration",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0134",
+   "seq": 134,
+   "jurisdictionKey": "scotus",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "\"prior bad acts\" /s (\"404(b)\" OR propensity) NOT sentencing",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0135",
+   "seq": 135,
+   "jurisdictionKey": "scotus",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"constructive eviction\" /s \"warranty of habitability\"",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0136",
+   "seq": 136,
+   "jurisdictionKey": "scotus",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "(\"debt collector\" OR fdcpa) /s (\"least sophisticated consumer\" OR harassment)",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0138",
+   "seq": 138,
+   "jurisdictionKey": "scotus",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "whistleblower /p \"protected activity\" AND \"adverse employment action\"",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0139",
+   "seq": 139,
+   "jurisdictionKey": "scotus",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"derivative suit\" w/15 \"demand futility\"",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0145",
+   "seq": 145,
+   "jurisdictionKey": "scotus",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "\"crime involving moral turpitude\" w/15 (\"categorical approach\" OR deportable)",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0150",
+   "seq": 150,
+   "jurisdictionKey": "scotus",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"likelihood of confusion\" /s (\"trademark infringement\" OR \"sleekcraft\")",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0162",
+   "seq": 162,
+   "jurisdictionKey": "scotus",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"reasonable suspicion\" /s \"terry stop\" AND frisk",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0165",
+   "seq": 165,
+   "jurisdictionKey": "scotus",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"holdover tenant\" w/10 \"month to month\"",
+   "jurisdiction": {
+    "type": "us_supreme_court"
+   }
+  },
+  {
+   "id": "rw-0166",
+   "seq": 166,
+   "jurisdictionKey": "circuit-1",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"automatic stay\" /p (\"relief for cause\" OR foreclosure)",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "1"
+   }
+  },
+  {
+   "id": "rw-0169",
+   "seq": 169,
+   "jurisdictionKey": "circuit-1",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"operating agreement\" /p (\"member dissociation\" OR \"judicial dissolution\") AND llc",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "1"
+   }
+  },
+  {
+   "id": "rw-0180",
+   "seq": 180,
+   "jurisdictionKey": "circuit-3",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"fair use\" /p transformative AND (\"market harm\" OR parody)",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "3"
+   }
+  },
+  {
+   "id": "rw-0192",
+   "seq": 192,
+   "jurisdictionKey": "circuit-5",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "miranda /p \"custodial interrogation\" NOT \"public safety\"",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "5"
+   }
+  },
+  {
+   "id": "rw-0195",
+   "seq": 195,
+   "jurisdictionKey": "circuit-5",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "(\"notice to quit\" OR \"notice to vacate\") /p defective AND eviction",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "5"
+   }
+  },
+  {
+   "id": "rw-0196",
+   "seq": 196,
+   "jurisdictionKey": "circuit-6",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"preferential transfer\" w/10 \"ninety day\"",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "6"
+   }
+  },
+  {
+   "id": "rw-0210",
+   "seq": 210,
+   "jurisdictionKey": "circuit-8",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"trade secret\" w/15 (\"reasonable measures\" OR misappropriation)",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "8"
+   }
+  },
+  {
+   "id": "rw-0222",
+   "seq": 222,
+   "jurisdictionKey": "circuit-10",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"good faith exception\" /s \"exclusionary rule\"",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "10"
+   }
+  },
+  {
+   "id": "rw-0226",
+   "seq": 226,
+   "jurisdictionKey": "circuit-11",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"student loan\" /p \"undue hardship\" AND dischargeability",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "11"
+   }
+  },
+  {
+   "id": "rw-0227",
+   "seq": 227,
+   "jurisdictionKey": "circuit-11",
+   "category": "appellate procedure",
+   "style": "boolean",
+   "query": "\"abuse of discretion\" /s (\"clear error\" OR \"de novo\") AND \"standard of review\"",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "11"
+   }
+  },
+  {
+   "id": "rw-0236",
+   "seq": 236,
+   "jurisdictionKey": "circuit-dc",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"adverse possession\" /s hostile AND \"open and notorious\"",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "dc"
+   }
+  },
+  {
+   "id": "rw-0240",
+   "seq": 240,
+   "jurisdictionKey": "circuit-federal",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"work made for hire\" /p (\"independent contractor\" OR \"scope of employment\")",
+   "jurisdiction": {
+    "type": "federal_circuit",
+    "circuit": "federal"
+   }
+  },
+  {
+   "id": "rw-0251",
+   "seq": 251,
+   "jurisdictionKey": "CA",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "\"bad faith\" /s (\"failure to settle\" OR \"within policy limits\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0252",
+   "seq": 252,
+   "jurisdictionKey": "CA",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "(\"cell phone\" OR smartphone) /p warrant AND \"search incident to arrest\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0253",
+   "seq": 253,
+   "jurisdictionKey": "CA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "defamation /s \"actual malice\" AND \"public figure\" NOT trademark",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0257",
+   "seq": 257,
+   "jurisdictionKey": "CA",
+   "category": "appellate procedure",
+   "style": "boolean",
+   "query": "\"plain error\" /p (\"not preserved\" OR waived) NOT sentencing",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0262",
+   "seq": 262,
+   "jurisdictionKey": "CA",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"qualified immunity\" /s \"clearly established\" AND \"excessive force\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0266",
+   "seq": 266,
+   "jurisdictionKey": "CA",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "easement /p (\"by necessity\" OR prescriptive) AND \"landlocked\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0267",
+   "seq": 267,
+   "jurisdictionKey": "CA",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"undue influence\" /s (\"testamentary capacity\" OR \"confidential relationship\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0281",
+   "seq": 281,
+   "jurisdictionKey": "CA",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "\"duty to defend\" /p \"duty to indemnify\" AND broader",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0282",
+   "seq": 282,
+   "jurisdictionKey": "CA",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"ineffective assistance\" w/15 \"deficient performance\" AND prejudice",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0283",
+   "seq": 283,
+   "jurisdictionKey": "CA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "(\"invasion of privacy\" OR \"intrusion upon seclusion\") /p recording",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0291",
+   "seq": 291,
+   "jurisdictionKey": "CA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "negligence /s \"proximate cause\" AND (\"duty of care\" OR foreseeability)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0292",
+   "seq": 292,
+   "jurisdictionKey": "CA",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"section 1983\" /p (\"policy or custom\" OR monell) NOT \"eleventh amendment\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CA"
+   }
+  },
+  {
+   "id": "rw-0296",
+   "seq": 296,
+   "jurisdictionKey": "NY",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"quiet title\" w/15 \"cloud on title\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0297",
+   "seq": 297,
+   "jurisdictionKey": "NY",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"holographic will\" /p (\"material provisions\" OR handwriting)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0299",
+   "seq": 299,
+   "jurisdictionKey": "NY",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"best interests\" /s custody AND (\"material change\" OR modification)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0306",
+   "seq": 306,
+   "jurisdictionKey": "NY",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"medical malpractice\" /s (\"standard of care\" OR \"informed consent\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0307",
+   "seq": 307,
+   "jurisdictionKey": "NY",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"at will\" /s (\"public policy\" OR retaliation) AND termination",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0311",
+   "seq": 311,
+   "jurisdictionKey": "NY",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "#stacking w/10 (\"underinsured motorist\" OR \"uninsured motorist\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0313",
+   "seq": 313,
+   "jurisdictionKey": "NY",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"intentional infliction\" w/10 \"outrageous conduct\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0320",
+   "seq": 320,
+   "jurisdictionKey": "NY",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"summary judgment\" /s \"genuine dispute\" AND \"material fact\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0321",
+   "seq": 321,
+   "jurisdictionKey": "NY",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"comparative fault\" /p apportionment NOT \"workers compensation\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0322",
+   "seq": 322,
+   "jurisdictionKey": "NY",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"deliberate indifference\" w/15 (\"serious medical need\" OR prison)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0323",
+   "seq": 323,
+   "jurisdictionKey": "NY",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your ground\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0324",
+   "seq": 324,
+   "jurisdictionKey": "NY",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"material breach\" /s \"substantial performance\" NOT construction",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0326",
+   "seq": 326,
+   "jurisdictionKey": "NY",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\") AND enforcement",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0327",
+   "seq": 327,
+   "jurisdictionKey": "NY",
+   "category": "probate",
+   "style": "boolean",
+   "query": "trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0329",
+   "seq": 329,
+   "jurisdictionKey": "NY",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"equitable distribution\" /p (\"separate property\" OR commingled)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NY"
+   }
+  },
+  {
+   "id": "rw-0336",
+   "seq": 336,
+   "jurisdictionKey": "TX",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"certificate of merit\" /p (\"expert affidavit\" OR dismissal) AND malpractice",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0337",
+   "seq": 337,
+   "jurisdictionKey": "TX",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"hostile work environment\" /p \"severe or pervasive\" AND \"title vii\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0341",
+   "seq": 341,
+   "jurisdictionKey": "TX",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "exclusion /s ambiguous AND \"construed against the insurer\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0350",
+   "seq": 350,
+   "jurisdictionKey": "TX",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"motion to dismiss\" /p \"plausible on its face\" NOT arbitration",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0351",
+   "seq": 351,
+   "jurisdictionKey": "TX",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"premises liability\" /s (\"open and obvious\" OR invitee)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0352",
+   "seq": 352,
+   "jurisdictionKey": "TX",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "(\"first amendment\" OR \"free speech\") /s \"public forum\" AND \"content based\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0353",
+   "seq": 353,
+   "jurisdictionKey": "TX",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"felony murder\" /p \"in furtherance of\" NOT conspiracy",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0354",
+   "seq": 354,
+   "jurisdictionKey": "TX",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"liquidated damages\" /p penalty AND (\"reasonable forecast\" OR unenforceable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0355",
+   "seq": 355,
+   "jurisdictionKey": "TX",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0357",
+   "seq": 357,
+   "jurisdictionKey": "TX",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"elective share\" w/15 \"surviving spouse\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0359",
+   "seq": 359,
+   "jurisdictionKey": "TX",
+   "category": "family law",
+   "style": "boolean",
+   "query": "alimony /p (\"ability to pay\" OR \"need\") NOT \"child support\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0363",
+   "seq": 363,
+   "jurisdictionKey": "TX",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "daubert /s (\"reliability\" OR \"gatekeeping\") AND \"expert testimony\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0367",
+   "seq": 367,
+   "jurisdictionKey": "TX",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "noncompete /p (\"geographic scope\" OR \"legitimate business interest\") NOT physician",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TX"
+   }
+  },
+  {
+   "id": "rw-0380",
+   "seq": 380,
+   "jurisdictionKey": "FL",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "(\"personal jurisdiction\" OR \"long-arm\") /s \"purposeful availment\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0381",
+   "seq": 381,
+   "jurisdictionKey": "FL",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"rear end collision\" w/15 (\"presumption\" OR \"following too closely\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0382",
+   "seq": 382,
+   "jurisdictionKey": "FL",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"equal protection\" /p (\"strict scrutiny\" OR \"suspect classification\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0383",
+   "seq": 383,
+   "jurisdictionKey": "FL",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"constructive possession\" w/10 \"intent to distribute\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0384",
+   "seq": 384,
+   "jurisdictionKey": "FL",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"promissory estoppel\" w/15 \"detrimental reliance\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0385",
+   "seq": 385,
+   "jurisdictionKey": "FL",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"exhaustion of administrative remedies\" /p futility",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0388",
+   "seq": 388,
+   "jurisdictionKey": "FL",
+   "category": "general",
+   "style": "boolean",
+   "query": "\"attorney fees\" /s (\"prevailing party\" OR \"fee shifting\") AND lodestar",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0389",
+   "seq": 389,
+   "jurisdictionKey": "FL",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"prenuptial agreement\" /s (\"full disclosure\" OR unconscionable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0393",
+   "seq": 393,
+   "jurisdictionKey": "FL",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "hearsay /p (\"excited utterance\" OR \"present sense impression\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0397",
+   "seq": 397,
+   "jurisdictionKey": "FL",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"reasonable accommodation\" w/15 \"interactive process\" AND ada",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0398",
+   "seq": 398,
+   "jurisdictionKey": "FL",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"pierce the corporate veil\" /s (\"alter ego\" OR undercapitalization)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0404",
+   "seq": 404,
+   "jurisdictionKey": "FL",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "\"cancellation of removal\" /s \"exceptional and extremely unusual hardship\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0410",
+   "seq": 410,
+   "jurisdictionKey": "FL",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"statute of limitations\" w/10 \"discovery rule\" AND accrual",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0411",
+   "seq": 411,
+   "jurisdictionKey": "FL",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"respondeat superior\" /p \"scope of employment\" AND \"personal errand\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0413",
+   "seq": 413,
+   "jurisdictionKey": "FL",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "dui /p \"breath test\" AND (\"implied consent\" OR refusal)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0414",
+   "seq": 414,
+   "jurisdictionKey": "FL",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"parol evidence\" /s (\"integration clause\" OR \"fully integrated\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "FL"
+   }
+  },
+  {
+   "id": "rw-0415",
+   "seq": 415,
+   "jurisdictionKey": "IL",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"substantial evidence\" w/15 (\"disability\" OR \"residual functional capacity\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0418",
+   "seq": 418,
+   "jurisdictionKey": "IL",
+   "category": "general",
+   "style": "boolean",
+   "query": "(\"temporary restraining order\" OR \"preliminary injunction\") /p \"irreparable harm\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0419",
+   "seq": 419,
+   "jurisdictionKey": "IL",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"termination of parental rights\" w/10 \"clear and convincing\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0423",
+   "seq": 423,
+   "jurisdictionKey": "IL",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "\"attorney client privilege\" w/15 \"crime fraud exception\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0424",
+   "seq": 424,
+   "jurisdictionKey": "IL",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "landlord /p \"security deposit\" AND itemized NOT commercial",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0427",
+   "seq": 427,
+   "jurisdictionKey": "IL",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "(\"unpaid overtime\" OR flsa) /s \"administrative exemption\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0428",
+   "seq": 428,
+   "jurisdictionKey": "IL",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"business judgment rule\" /p (\"duty of loyalty\" OR \"self dealing\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0434",
+   "seq": 434,
+   "jurisdictionKey": "IL",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "asylum /p (\"particular social group\" OR \"well founded fear\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0440",
+   "seq": 440,
+   "jurisdictionKey": "IL",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"class certification\" /p predominance NOT \"collective action\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IL"
+   }
+  },
+  {
+   "id": "rw-0441",
+   "seq": 441,
+   "jurisdictionKey": "PA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"punitive damages\" /s (\"clear and convincing\" OR \"reckless indifference\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0444",
+   "seq": 444,
+   "jurisdictionKey": "PA",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "unconscionable /p \"contract of adhesion\" AND (\"procedural\" OR substantive)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0449",
+   "seq": 449,
+   "jurisdictionKey": "PA",
+   "category": "family law",
+   "style": "boolean",
+   "query": "relocation /p \"custodial parent\" AND burden NOT immigration",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0453",
+   "seq": 453,
+   "jurisdictionKey": "PA",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "\"prior bad acts\" /s (\"404(b)\" OR propensity) NOT sentencing",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0454",
+   "seq": 454,
+   "jurisdictionKey": "PA",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"constructive eviction\" /s \"warranty of habitability\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0455",
+   "seq": 455,
+   "jurisdictionKey": "PA",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "(\"debt collector\" OR fdcpa) /s (\"least sophisticated consumer\" OR harassment)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0457",
+   "seq": 457,
+   "jurisdictionKey": "PA",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "whistleblower /p \"protected activity\" AND \"adverse employment action\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0458",
+   "seq": 458,
+   "jurisdictionKey": "PA",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"derivative suit\" w/15 \"demand futility\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0464",
+   "seq": 464,
+   "jurisdictionKey": "PA",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "\"crime involving moral turpitude\" w/15 (\"categorical approach\" OR deportable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "PA"
+   }
+  },
+  {
+   "id": "rw-0469",
+   "seq": 469,
+   "jurisdictionKey": "OH",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"likelihood of confusion\" /s (\"trademark infringement\" OR \"sleekcraft\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OH"
+   }
+  },
+  {
+   "id": "rw-0481",
+   "seq": 481,
+   "jurisdictionKey": "OH",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"reasonable suspicion\" /s \"terry stop\" AND frisk",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OH"
+   }
+  },
+  {
+   "id": "rw-0484",
+   "seq": 484,
+   "jurisdictionKey": "OH",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"holdover tenant\" w/10 \"month to month\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OH"
+   }
+  },
+  {
+   "id": "rw-0485",
+   "seq": 485,
+   "jurisdictionKey": "OH",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"automatic stay\" /p (\"relief for cause\" OR foreclosure)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OH"
+   }
+  },
+  {
+   "id": "rw-0488",
+   "seq": 488,
+   "jurisdictionKey": "GA",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"operating agreement\" /p (\"member dissociation\" OR \"judicial dissolution\") AND llc",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "GA"
+   }
+  },
+  {
+   "id": "rw-0499",
+   "seq": 499,
+   "jurisdictionKey": "GA",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"fair use\" /p transformative AND (\"market harm\" OR parody)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "GA"
+   }
+  },
+  {
+   "id": "rw-0511",
+   "seq": 511,
+   "jurisdictionKey": "NJ",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "miranda /p \"custodial interrogation\" NOT \"public safety\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NJ"
+   }
+  },
+  {
+   "id": "rw-0514",
+   "seq": 514,
+   "jurisdictionKey": "NJ",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "(\"notice to quit\" OR \"notice to vacate\") /p defective AND eviction",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NJ"
+   }
+  },
+  {
+   "id": "rw-0515",
+   "seq": 515,
+   "jurisdictionKey": "NJ",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"preferential transfer\" w/10 \"ninety day\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NJ"
+   }
+  },
+  {
+   "id": "rw-0529",
+   "seq": 529,
+   "jurisdictionKey": "NC",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"trade secret\" w/15 (\"reasonable measures\" OR misappropriation)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NC"
+   }
+  },
+  {
+   "id": "rw-0541",
+   "seq": 541,
+   "jurisdictionKey": "NC",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"good faith exception\" /s \"exclusionary rule\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NC"
+   }
+  },
+  {
+   "id": "rw-0545",
+   "seq": 545,
+   "jurisdictionKey": "MI",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"student loan\" /p \"undue hardship\" AND dischargeability",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MI"
+   }
+  },
+  {
+   "id": "rw-0546",
+   "seq": 546,
+   "jurisdictionKey": "MI",
+   "category": "appellate procedure",
+   "style": "boolean",
+   "query": "\"abuse of discretion\" /s (\"clear error\" OR \"de novo\") AND \"standard of review\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MI"
+   }
+  },
+  {
+   "id": "rw-0555",
+   "seq": 555,
+   "jurisdictionKey": "MI",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"adverse possession\" /s hostile AND \"open and notorious\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MI"
+   }
+  },
+  {
+   "id": "rw-0559",
+   "seq": 559,
+   "jurisdictionKey": "MI",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"work made for hire\" /p (\"independent contractor\" OR \"scope of employment\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MI"
+   }
+  },
+  {
+   "id": "rw-0570",
+   "seq": 570,
+   "jurisdictionKey": "VA",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "\"bad faith\" /s (\"failure to settle\" OR \"within policy limits\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VA"
+   }
+  },
+  {
+   "id": "rw-0571",
+   "seq": 571,
+   "jurisdictionKey": "VA",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "(\"cell phone\" OR smartphone) /p warrant AND \"search incident to arrest\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VA"
+   }
+  },
+  {
+   "id": "rw-0572",
+   "seq": 572,
+   "jurisdictionKey": "VA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "defamation /s \"actual malice\" AND \"public figure\" NOT trademark",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VA"
+   }
+  },
+  {
+   "id": "rw-0576",
+   "seq": 576,
+   "jurisdictionKey": "VA",
+   "category": "appellate procedure",
+   "style": "boolean",
+   "query": "\"plain error\" /p (\"not preserved\" OR waived) NOT sentencing",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VA"
+   }
+  },
+  {
+   "id": "rw-0581",
+   "seq": 581,
+   "jurisdictionKey": "WA",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"qualified immunity\" /s \"clearly established\" AND \"excessive force\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WA"
+   }
+  },
+  {
+   "id": "rw-0585",
+   "seq": 585,
+   "jurisdictionKey": "WA",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "easement /p (\"by necessity\" OR prescriptive) AND \"landlocked\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WA"
+   }
+  },
+  {
+   "id": "rw-0586",
+   "seq": 586,
+   "jurisdictionKey": "WA",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"undue influence\" /s (\"testamentary capacity\" OR \"confidential relationship\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WA"
+   }
+  },
+  {
+   "id": "rw-0600",
+   "seq": 600,
+   "jurisdictionKey": "MA",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "\"duty to defend\" /p \"duty to indemnify\" AND broader",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MA"
+   }
+  },
+  {
+   "id": "rw-0601",
+   "seq": 601,
+   "jurisdictionKey": "MA",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"ineffective assistance\" w/15 \"deficient performance\" AND prejudice",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MA"
+   }
+  },
+  {
+   "id": "rw-0602",
+   "seq": 602,
+   "jurisdictionKey": "MA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "(\"invasion of privacy\" OR \"intrusion upon seclusion\") /p recording",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MA"
+   }
+  },
+  {
+   "id": "rw-0610",
+   "seq": 610,
+   "jurisdictionKey": "MA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "negligence /s \"proximate cause\" AND (\"duty of care\" OR foreseeability)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MA"
+   }
+  },
+  {
+   "id": "rw-0611",
+   "seq": 611,
+   "jurisdictionKey": "MA",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"section 1983\" /p (\"policy or custom\" OR monell) NOT \"eleventh amendment\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MA"
+   }
+  },
+  {
+   "id": "rw-0615",
+   "seq": 615,
+   "jurisdictionKey": "AZ",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"quiet title\" w/15 \"cloud on title\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AZ"
+   }
+  },
+  {
+   "id": "rw-0616",
+   "seq": 616,
+   "jurisdictionKey": "AZ",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"holographic will\" /p (\"material provisions\" OR handwriting)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AZ"
+   }
+  },
+  {
+   "id": "rw-0618",
+   "seq": 618,
+   "jurisdictionKey": "AZ",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"best interests\" /s custody AND (\"material change\" OR modification)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AZ"
+   }
+  },
+  {
+   "id": "rw-0625",
+   "seq": 625,
+   "jurisdictionKey": "AZ",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"medical malpractice\" /s (\"standard of care\" OR \"informed consent\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AZ"
+   }
+  },
+  {
+   "id": "rw-0626",
+   "seq": 626,
+   "jurisdictionKey": "AZ",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"at will\" /s (\"public policy\" OR retaliation) AND termination",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AZ"
+   }
+  },
+  {
+   "id": "rw-0630",
+   "seq": 630,
+   "jurisdictionKey": "AZ",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "#stacking w/10 (\"underinsured motorist\" OR \"uninsured motorist\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AZ"
+   }
+  },
+  {
+   "id": "rw-0632",
+   "seq": 632,
+   "jurisdictionKey": "MD",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"intentional infliction\" w/10 \"outrageous conduct\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0639",
+   "seq": 639,
+   "jurisdictionKey": "MD",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"summary judgment\" /s \"genuine dispute\" AND \"material fact\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0640",
+   "seq": 640,
+   "jurisdictionKey": "MD",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"comparative fault\" /p apportionment NOT \"workers compensation\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0641",
+   "seq": 641,
+   "jurisdictionKey": "MD",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"deliberate indifference\" w/15 (\"serious medical need\" OR prison)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0642",
+   "seq": 642,
+   "jurisdictionKey": "MD",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your ground\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0643",
+   "seq": 643,
+   "jurisdictionKey": "MD",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"material breach\" /s \"substantial performance\" NOT construction",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0645",
+   "seq": 645,
+   "jurisdictionKey": "MD",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\") AND enforcement",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MD"
+   }
+  },
+  {
+   "id": "rw-0646",
+   "seq": 646,
+   "jurisdictionKey": "CO",
+   "category": "probate",
+   "style": "boolean",
+   "query": "trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CO"
+   }
+  },
+  {
+   "id": "rw-0648",
+   "seq": 648,
+   "jurisdictionKey": "CO",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"equitable distribution\" /p (\"separate property\" OR commingled)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CO"
+   }
+  },
+  {
+   "id": "rw-0655",
+   "seq": 655,
+   "jurisdictionKey": "CO",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"certificate of merit\" /p (\"expert affidavit\" OR dismissal) AND malpractice",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CO"
+   }
+  },
+  {
+   "id": "rw-0656",
+   "seq": 656,
+   "jurisdictionKey": "CO",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"hostile work environment\" /p \"severe or pervasive\" AND \"title vii\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CO"
+   }
+  },
+  {
+   "id": "rw-0660",
+   "seq": 660,
+   "jurisdictionKey": "TN",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "exclusion /s ambiguous AND \"construed against the insurer\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TN"
+   }
+  },
+  {
+   "id": "rw-0669",
+   "seq": 669,
+   "jurisdictionKey": "TN",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"motion to dismiss\" /p \"plausible on its face\" NOT arbitration",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TN"
+   }
+  },
+  {
+   "id": "rw-0670",
+   "seq": 670,
+   "jurisdictionKey": "TN",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"premises liability\" /s (\"open and obvious\" OR invitee)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TN"
+   }
+  },
+  {
+   "id": "rw-0671",
+   "seq": 671,
+   "jurisdictionKey": "TN",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "(\"first amendment\" OR \"free speech\") /s \"public forum\" AND \"content based\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TN"
+   }
+  },
+  {
+   "id": "rw-0672",
+   "seq": 672,
+   "jurisdictionKey": "TN",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"felony murder\" /p \"in furtherance of\" NOT conspiracy",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TN"
+   }
+  },
+  {
+   "id": "rw-0673",
+   "seq": 673,
+   "jurisdictionKey": "TN",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"liquidated damages\" /p penalty AND (\"reasonable forecast\" OR unenforceable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "TN"
+   }
+  },
+  {
+   "id": "rw-0674",
+   "seq": 674,
+   "jurisdictionKey": "IN",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IN"
+   }
+  },
+  {
+   "id": "rw-0676",
+   "seq": 676,
+   "jurisdictionKey": "IN",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"elective share\" w/15 \"surviving spouse\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IN"
+   }
+  },
+  {
+   "id": "rw-0678",
+   "seq": 678,
+   "jurisdictionKey": "IN",
+   "category": "family law",
+   "style": "boolean",
+   "query": "alimony /p (\"ability to pay\" OR \"need\") NOT \"child support\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IN"
+   }
+  },
+  {
+   "id": "rw-0682",
+   "seq": 682,
+   "jurisdictionKey": "IN",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "daubert /s (\"reliability\" OR \"gatekeeping\") AND \"expert testimony\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IN"
+   }
+  },
+  {
+   "id": "rw-0686",
+   "seq": 686,
+   "jurisdictionKey": "IN",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "noncompete /p (\"geographic scope\" OR \"legitimate business interest\") NOT physician",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "IN"
+   }
+  },
+  {
+   "id": "rw-0699",
+   "seq": 699,
+   "jurisdictionKey": "MO",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "(\"personal jurisdiction\" OR \"long-arm\") /s \"purposeful availment\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MO"
+   }
+  },
+  {
+   "id": "rw-0700",
+   "seq": 700,
+   "jurisdictionKey": "WI",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"rear end collision\" w/15 (\"presumption\" OR \"following too closely\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0701",
+   "seq": 701,
+   "jurisdictionKey": "WI",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"equal protection\" /p (\"strict scrutiny\" OR \"suspect classification\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0702",
+   "seq": 702,
+   "jurisdictionKey": "WI",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"constructive possession\" w/10 \"intent to distribute\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0703",
+   "seq": 703,
+   "jurisdictionKey": "WI",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"promissory estoppel\" w/15 \"detrimental reliance\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0704",
+   "seq": 704,
+   "jurisdictionKey": "WI",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"exhaustion of administrative remedies\" /p futility",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0707",
+   "seq": 707,
+   "jurisdictionKey": "WI",
+   "category": "general",
+   "style": "boolean",
+   "query": "\"attorney fees\" /s (\"prevailing party\" OR \"fee shifting\") AND lodestar",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0708",
+   "seq": 708,
+   "jurisdictionKey": "WI",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"prenuptial agreement\" /s (\"full disclosure\" OR unconscionable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0712",
+   "seq": 712,
+   "jurisdictionKey": "WI",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "hearsay /p (\"excited utterance\" OR \"present sense impression\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WI"
+   }
+  },
+  {
+   "id": "rw-0716",
+   "seq": 716,
+   "jurisdictionKey": "MN",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"reasonable accommodation\" w/15 \"interactive process\" AND ada",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MN"
+   }
+  },
+  {
+   "id": "rw-0717",
+   "seq": 717,
+   "jurisdictionKey": "MN",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"pierce the corporate veil\" /s (\"alter ego\" OR undercapitalization)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MN"
+   }
+  },
+  {
+   "id": "rw-0723",
+   "seq": 723,
+   "jurisdictionKey": "MN",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "\"cancellation of removal\" /s \"exceptional and extremely unusual hardship\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MN"
+   }
+  },
+  {
+   "id": "rw-0729",
+   "seq": 729,
+   "jurisdictionKey": "SC",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"statute of limitations\" w/10 \"discovery rule\" AND accrual",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SC"
+   }
+  },
+  {
+   "id": "rw-0730",
+   "seq": 730,
+   "jurisdictionKey": "SC",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"respondeat superior\" /p \"scope of employment\" AND \"personal errand\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SC"
+   }
+  },
+  {
+   "id": "rw-0732",
+   "seq": 732,
+   "jurisdictionKey": "SC",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "dui /p \"breath test\" AND (\"implied consent\" OR refusal)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SC"
+   }
+  },
+  {
+   "id": "rw-0733",
+   "seq": 733,
+   "jurisdictionKey": "SC",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"parol evidence\" /s (\"integration clause\" OR \"fully integrated\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SC"
+   }
+  },
+  {
+   "id": "rw-0734",
+   "seq": 734,
+   "jurisdictionKey": "SC",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"substantial evidence\" w/15 (\"disability\" OR \"residual functional capacity\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SC"
+   }
+  },
+  {
+   "id": "rw-0737",
+   "seq": 737,
+   "jurisdictionKey": "SC",
+   "category": "general",
+   "style": "boolean",
+   "query": "(\"temporary restraining order\" OR \"preliminary injunction\") /p \"irreparable harm\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SC"
+   }
+  },
+  {
+   "id": "rw-0738",
+   "seq": 738,
+   "jurisdictionKey": "AL",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"termination of parental rights\" w/10 \"clear and convincing\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AL"
+   }
+  },
+  {
+   "id": "rw-0742",
+   "seq": 742,
+   "jurisdictionKey": "AL",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "\"attorney client privilege\" w/15 \"crime fraud exception\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AL"
+   }
+  },
+  {
+   "id": "rw-0743",
+   "seq": 743,
+   "jurisdictionKey": "AL",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "landlord /p \"security deposit\" AND itemized NOT commercial",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AL"
+   }
+  },
+  {
+   "id": "rw-0746",
+   "seq": 746,
+   "jurisdictionKey": "AL",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "(\"unpaid overtime\" OR flsa) /s \"administrative exemption\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AL"
+   }
+  },
+  {
+   "id": "rw-0747",
+   "seq": 747,
+   "jurisdictionKey": "AL",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"business judgment rule\" /p (\"duty of loyalty\" OR \"self dealing\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AL"
+   }
+  },
+  {
+   "id": "rw-0753",
+   "seq": 753,
+   "jurisdictionKey": "LA",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "asylum /p (\"particular social group\" OR \"well founded fear\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "LA"
+   }
+  },
+  {
+   "id": "rw-0759",
+   "seq": 759,
+   "jurisdictionKey": "LA",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"class certification\" /p predominance NOT \"collective action\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "LA"
+   }
+  },
+  {
+   "id": "rw-0760",
+   "seq": 760,
+   "jurisdictionKey": "LA",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"punitive damages\" /s (\"clear and convincing\" OR \"reckless indifference\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "LA"
+   }
+  },
+  {
+   "id": "rw-0763",
+   "seq": 763,
+   "jurisdictionKey": "KY",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "unconscionable /p \"contract of adhesion\" AND (\"procedural\" OR substantive)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KY"
+   }
+  },
+  {
+   "id": "rw-0768",
+   "seq": 768,
+   "jurisdictionKey": "KY",
+   "category": "family law",
+   "style": "boolean",
+   "query": "relocation /p \"custodial parent\" AND burden NOT immigration",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KY"
+   }
+  },
+  {
+   "id": "rw-0772",
+   "seq": 772,
+   "jurisdictionKey": "KY",
+   "category": "evidence",
+   "style": "boolean",
+   "query": "\"prior bad acts\" /s (\"404(b)\" OR propensity) NOT sentencing",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KY"
+   }
+  },
+  {
+   "id": "rw-0773",
+   "seq": 773,
+   "jurisdictionKey": "KY",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"constructive eviction\" /s \"warranty of habitability\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KY"
+   }
+  },
+  {
+   "id": "rw-0774",
+   "seq": 774,
+   "jurisdictionKey": "OR",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "(\"debt collector\" OR fdcpa) /s (\"least sophisticated consumer\" OR harassment)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OR"
+   }
+  },
+  {
+   "id": "rw-0776",
+   "seq": 776,
+   "jurisdictionKey": "OR",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "whistleblower /p \"protected activity\" AND \"adverse employment action\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OR"
+   }
+  },
+  {
+   "id": "rw-0777",
+   "seq": 777,
+   "jurisdictionKey": "OR",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"derivative suit\" w/15 \"demand futility\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OR"
+   }
+  },
+  {
+   "id": "rw-0783",
+   "seq": 783,
+   "jurisdictionKey": "OR",
+   "category": "immigration",
+   "style": "boolean",
+   "query": "\"crime involving moral turpitude\" w/15 (\"categorical approach\" OR deportable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OR"
+   }
+  },
+  {
+   "id": "rw-0788",
+   "seq": 788,
+   "jurisdictionKey": "OK",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"likelihood of confusion\" /s (\"trademark infringement\" OR \"sleekcraft\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "OK"
+   }
+  },
+  {
+   "id": "rw-0800",
+   "seq": 800,
+   "jurisdictionKey": "CT",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"reasonable suspicion\" /s \"terry stop\" AND frisk",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CT"
+   }
+  },
+  {
+   "id": "rw-0803",
+   "seq": 803,
+   "jurisdictionKey": "CT",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"holdover tenant\" w/10 \"month to month\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CT"
+   }
+  },
+  {
+   "id": "rw-0804",
+   "seq": 804,
+   "jurisdictionKey": "CT",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"automatic stay\" /p (\"relief for cause\" OR foreclosure)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CT"
+   }
+  },
+  {
+   "id": "rw-0807",
+   "seq": 807,
+   "jurisdictionKey": "CT",
+   "category": "corporate law",
+   "style": "boolean",
+   "query": "\"operating agreement\" /p (\"member dissociation\" OR \"judicial dissolution\") AND llc",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "CT"
+   }
+  },
+  {
+   "id": "rw-0818",
+   "seq": 818,
+   "jurisdictionKey": "UT",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"fair use\" /p transformative AND (\"market harm\" OR parody)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "UT"
+   }
+  },
+  {
+   "id": "rw-0830",
+   "seq": 830,
+   "jurisdictionKey": "NV",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "miranda /p \"custodial interrogation\" NOT \"public safety\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NV"
+   }
+  },
+  {
+   "id": "rw-0833",
+   "seq": 833,
+   "jurisdictionKey": "NV",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "(\"notice to quit\" OR \"notice to vacate\") /p defective AND eviction",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NV"
+   }
+  },
+  {
+   "id": "rw-0834",
+   "seq": 834,
+   "jurisdictionKey": "NV",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"preferential transfer\" w/10 \"ninety day\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NV"
+   }
+  },
+  {
+   "id": "rw-0848",
+   "seq": 848,
+   "jurisdictionKey": "AR",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"trade secret\" w/15 (\"reasonable measures\" OR misappropriation)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AR"
+   }
+  },
+  {
+   "id": "rw-0860",
+   "seq": 860,
+   "jurisdictionKey": "KS",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"good faith exception\" /s \"exclusionary rule\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KS"
+   }
+  },
+  {
+   "id": "rw-0864",
+   "seq": 864,
+   "jurisdictionKey": "KS",
+   "category": "consumer law",
+   "style": "boolean",
+   "query": "\"student loan\" /p \"undue hardship\" AND dischargeability",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KS"
+   }
+  },
+  {
+   "id": "rw-0865",
+   "seq": 865,
+   "jurisdictionKey": "KS",
+   "category": "appellate procedure",
+   "style": "boolean",
+   "query": "\"abuse of discretion\" /s (\"clear error\" OR \"de novo\") AND \"standard of review\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "KS"
+   }
+  },
+  {
+   "id": "rw-0874",
+   "seq": 874,
+   "jurisdictionKey": "NM",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"adverse possession\" /s hostile AND \"open and notorious\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NM"
+   }
+  },
+  {
+   "id": "rw-0878",
+   "seq": 878,
+   "jurisdictionKey": "NE",
+   "category": "intellectual property",
+   "style": "boolean",
+   "query": "\"work made for hire\" /p (\"independent contractor\" OR \"scope of employment\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NE"
+   }
+  },
+  {
+   "id": "rw-0889",
+   "seq": 889,
+   "jurisdictionKey": "ID",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "\"bad faith\" /s (\"failure to settle\" OR \"within policy limits\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ID"
+   }
+  },
+  {
+   "id": "rw-0890",
+   "seq": 890,
+   "jurisdictionKey": "ID",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "(\"cell phone\" OR smartphone) /p warrant AND \"search incident to arrest\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ID"
+   }
+  },
+  {
+   "id": "rw-0891",
+   "seq": 891,
+   "jurisdictionKey": "ID",
+   "category": "torts",
+   "style": "boolean",
+   "query": "defamation /s \"actual malice\" AND \"public figure\" NOT trademark",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ID"
+   }
+  },
+  {
+   "id": "rw-0895",
+   "seq": 895,
+   "jurisdictionKey": "WV",
+   "category": "appellate procedure",
+   "style": "boolean",
+   "query": "\"plain error\" /p (\"not preserved\" OR waived) NOT sentencing",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WV"
+   }
+  },
+  {
+   "id": "rw-0900",
+   "seq": 900,
+   "jurisdictionKey": "WV",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"qualified immunity\" /s \"clearly established\" AND \"excessive force\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WV"
+   }
+  },
+  {
+   "id": "rw-0904",
+   "seq": 904,
+   "jurisdictionKey": "HI",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "easement /p (\"by necessity\" OR prescriptive) AND \"landlocked\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "HI"
+   }
+  },
+  {
+   "id": "rw-0905",
+   "seq": 905,
+   "jurisdictionKey": "HI",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"undue influence\" /s (\"testamentary capacity\" OR \"confidential relationship\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "HI"
+   }
+  },
+  {
+   "id": "rw-0919",
+   "seq": 919,
+   "jurisdictionKey": "NH",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "\"duty to defend\" /p \"duty to indemnify\" AND broader",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NH"
+   }
+  },
+  {
+   "id": "rw-0920",
+   "seq": 920,
+   "jurisdictionKey": "NH",
+   "category": "criminal procedure",
+   "style": "boolean",
+   "query": "\"ineffective assistance\" w/15 \"deficient performance\" AND prejudice",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NH"
+   }
+  },
+  {
+   "id": "rw-0921",
+   "seq": 921,
+   "jurisdictionKey": "NH",
+   "category": "torts",
+   "style": "boolean",
+   "query": "(\"invasion of privacy\" OR \"intrusion upon seclusion\") /p recording",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "NH"
+   }
+  },
+  {
+   "id": "rw-0929",
+   "seq": 929,
+   "jurisdictionKey": "ME",
+   "category": "torts",
+   "style": "boolean",
+   "query": "negligence /s \"proximate cause\" AND (\"duty of care\" OR foreseeability)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ME"
+   }
+  },
+  {
+   "id": "rw-0930",
+   "seq": 930,
+   "jurisdictionKey": "ME",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"section 1983\" /p (\"policy or custom\" OR monell) NOT \"eleventh amendment\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ME"
+   }
+  },
+  {
+   "id": "rw-0934",
+   "seq": 934,
+   "jurisdictionKey": "RI",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"quiet title\" w/15 \"cloud on title\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "RI"
+   }
+  },
+  {
+   "id": "rw-0935",
+   "seq": 935,
+   "jurisdictionKey": "RI",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"holographic will\" /p (\"material provisions\" OR handwriting)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "RI"
+   }
+  },
+  {
+   "id": "rw-0937",
+   "seq": 937,
+   "jurisdictionKey": "RI",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"best interests\" /s custody AND (\"material change\" OR modification)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "RI"
+   }
+  },
+  {
+   "id": "rw-0944",
+   "seq": 944,
+   "jurisdictionKey": "MT",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"medical malpractice\" /s (\"standard of care\" OR \"informed consent\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MT"
+   }
+  },
+  {
+   "id": "rw-0945",
+   "seq": 945,
+   "jurisdictionKey": "MT",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"at will\" /s (\"public policy\" OR retaliation) AND termination",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "MT"
+   }
+  },
+  {
+   "id": "rw-0949",
+   "seq": 949,
+   "jurisdictionKey": "DE",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "#stacking w/10 (\"underinsured motorist\" OR \"uninsured motorist\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "DE"
+   }
+  },
+  {
+   "id": "rw-0951",
+   "seq": 951,
+   "jurisdictionKey": "DE",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"intentional infliction\" w/10 \"outrageous conduct\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "DE"
+   }
+  },
+  {
+   "id": "rw-0958",
+   "seq": 958,
+   "jurisdictionKey": "DE",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"summary judgment\" /s \"genuine dispute\" AND \"material fact\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "DE"
+   }
+  },
+  {
+   "id": "rw-0959",
+   "seq": 959,
+   "jurisdictionKey": "DE",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"comparative fault\" /p apportionment NOT \"workers compensation\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "DE"
+   }
+  },
+  {
+   "id": "rw-0960",
+   "seq": 960,
+   "jurisdictionKey": "DE",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "\"deliberate indifference\" w/15 (\"serious medical need\" OR prison)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "DE"
+   }
+  },
+  {
+   "id": "rw-0961",
+   "seq": 961,
+   "jurisdictionKey": "SD",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your ground\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SD"
+   }
+  },
+  {
+   "id": "rw-0962",
+   "seq": 962,
+   "jurisdictionKey": "SD",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"material breach\" /s \"substantial performance\" NOT construction",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SD"
+   }
+  },
+  {
+   "id": "rw-0964",
+   "seq": 964,
+   "jurisdictionKey": "SD",
+   "category": "real estate",
+   "style": "boolean",
+   "query": "\"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\") AND enforcement",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SD"
+   }
+  },
+  {
+   "id": "rw-0965",
+   "seq": 965,
+   "jurisdictionKey": "SD",
+   "category": "probate",
+   "style": "boolean",
+   "query": "trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SD"
+   }
+  },
+  {
+   "id": "rw-0967",
+   "seq": 967,
+   "jurisdictionKey": "SD",
+   "category": "family law",
+   "style": "boolean",
+   "query": "\"equitable distribution\" /p (\"separate property\" OR commingled)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "SD"
+   }
+  },
+  {
+   "id": "rw-0974",
+   "seq": 974,
+   "jurisdictionKey": "ND",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"certificate of merit\" /p (\"expert affidavit\" OR dismissal) AND malpractice",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ND"
+   }
+  },
+  {
+   "id": "rw-0975",
+   "seq": 975,
+   "jurisdictionKey": "ND",
+   "category": "employment law",
+   "style": "boolean",
+   "query": "\"hostile work environment\" /p \"severe or pervasive\" AND \"title vii\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "ND"
+   }
+  },
+  {
+   "id": "rw-0979",
+   "seq": 979,
+   "jurisdictionKey": "AK",
+   "category": "insurance",
+   "style": "boolean",
+   "query": "exclusion /s ambiguous AND \"construed against the insurer\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "AK"
+   }
+  },
+  {
+   "id": "rw-0988",
+   "seq": 988,
+   "jurisdictionKey": "VT",
+   "category": "civil procedure",
+   "style": "boolean",
+   "query": "\"motion to dismiss\" /p \"plausible on its face\" NOT arbitration",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VT"
+   }
+  },
+  {
+   "id": "rw-0989",
+   "seq": 989,
+   "jurisdictionKey": "VT",
+   "category": "torts",
+   "style": "boolean",
+   "query": "\"premises liability\" /s (\"open and obvious\" OR invitee)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VT"
+   }
+  },
+  {
+   "id": "rw-0990",
+   "seq": 990,
+   "jurisdictionKey": "VT",
+   "category": "civil rights",
+   "style": "boolean",
+   "query": "(\"first amendment\" OR \"free speech\") /s \"public forum\" AND \"content based\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VT"
+   }
+  },
+  {
+   "id": "rw-0991",
+   "seq": 991,
+   "jurisdictionKey": "VT",
+   "category": "criminal law",
+   "style": "boolean",
+   "query": "\"felony murder\" /p \"in furtherance of\" NOT conspiracy",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VT"
+   }
+  },
+  {
+   "id": "rw-0992",
+   "seq": 992,
+   "jurisdictionKey": "VT",
+   "category": "contracts",
+   "style": "boolean",
+   "query": "\"liquidated damages\" /p penalty AND (\"reasonable forecast\" OR unenforceable)",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "VT"
+   }
+  },
+  {
+   "id": "rw-0993",
+   "seq": 993,
+   "jurisdictionKey": "WY",
+   "category": "administrative",
+   "style": "boolean",
+   "query": "\"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\")",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WY"
+   }
+  },
+  {
+   "id": "rw-0995",
+   "seq": 995,
+   "jurisdictionKey": "WY",
+   "category": "probate",
+   "style": "boolean",
+   "query": "\"elective share\" w/15 \"surviving spouse\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WY"
+   }
+  },
+  {
+   "id": "rw-0997",
+   "seq": 997,
+   "jurisdictionKey": "WY",
+   "category": "family law",
+   "style": "boolean",
+   "query": "alimony /p (\"ability to pay\" OR \"need\") NOT \"child support\"",
+   "jurisdiction": {
+    "type": "one_state_plus_federal",
+    "state": "WY"
+   }
+  }
+ ]
+}

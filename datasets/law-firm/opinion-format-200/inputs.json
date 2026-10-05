@@ -1,0 +1,2021 @@
+{
+ "suite": "law-firm/opinion-format-200",
+ "builtAt": "2026-10-05T19:27:19.339Z",
+ "count": 200,
+ "calls": [
+  "GET /cases/:id",
+  "GET /cases/:id/text (all pages)",
+  "GET /cases/:id/pdf",
+  "GET /cases/:id/good-law"
+ ],
+ "checks": {
+  "bluebookLine": "Metadata and PDF citation line pass the Bluebook lint (Rule 10.2.1, T6, T10, T1 court forms).",
+  "cleanText": "No mid-sentence paragraph breaks, HTML/entity leakage, page-number or running-header lines, hyphenation splits, mojibake.",
+  "noDuplication": "No paragraph or whole opinion printed twice.",
+  "pinCites": "Star paging (*123) present so a firm can pin-cite the reporter.",
+  "pdf": "Valid PDF; shows case name, reporter cite, court and date; whole opinion present (coverage ≥ 0.8 of the text endpoint); LawDiver branding; caption not collapsed into one run-on line.",
+  "ids": "cases/:id and good-law agree on clusterId."
+ },
+ "rows": [
+  {
+   "id": "LF-OP-001",
+   "caseId": "200195400000042",
+   "caseName": "Brown v. Board of Education",
+   "citation": "347 U.S. 483",
+   "court": "Supreme Court of the United States",
+   "year": 1954,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0001"
+  },
+  {
+   "id": "LF-OP-002",
+   "caseId": "200196600000149",
+   "caseName": "Miranda v. Arizona",
+   "citation": "384 U.S. 436",
+   "court": "Supreme Court of the United States",
+   "year": 1966,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0002"
+  },
+  {
+   "id": "LF-OP-003",
+   "caseId": "196300006619",
+   "caseName": "Gideon v. Wainwright",
+   "citation": "372 U.S. 335",
+   "court": "Supreme Court of the United States",
+   "year": 1963,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0003"
+  },
+  {
+   "id": "LF-OP-004",
+   "caseId": "200196100000150",
+   "caseName": "Mapp v. Ohio",
+   "citation": "367 U.S. 643",
+   "court": "Supreme Court of the United States",
+   "year": 1961,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0004"
+  },
+  {
+   "id": "LF-OP-005",
+   "caseId": "200196800000165",
+   "caseName": "Terry v. Ohio",
+   "citation": "392 U.S. 1",
+   "court": "Supreme Court of the United States",
+   "year": 1968,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0005"
+  },
+  {
+   "id": "LF-OP-006",
+   "caseId": "200196700000243",
+   "caseName": "Katz v. United States",
+   "citation": "389 U.S. 347",
+   "court": "Supreme Court of the United States",
+   "year": 1967,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0006"
+  },
+  {
+   "id": "LF-OP-007",
+   "caseId": "200196400000054",
+   "caseName": "New York Times Co. v. Sullivan",
+   "citation": "376 U.S. 254",
+   "court": "Supreme Court of the United States",
+   "year": 1964,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0007"
+  },
+  {
+   "id": "LF-OP-008",
+   "caseId": "200198600000147",
+   "caseName": "Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett",
+   "citation": "477 U.S. 317",
+   "court": "Supreme Court of the United States",
+   "year": 1986,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0008"
+  },
+  {
+   "id": "LF-OP-009",
+   "caseId": "200198600000144",
+   "caseName": "Anderson v. Liberty Lobby, Inc.",
+   "citation": "477 U.S. 242",
+   "court": "Supreme Court of the United States",
+   "year": 1986,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0009"
+  },
+  {
+   "id": "LF-OP-010",
+   "caseId": "200198600000051",
+   "caseName": "Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corporation",
+   "citation": "475 U.S. 574",
+   "court": "Supreme Court of the United States",
+   "year": 1986,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0010"
+  },
+  {
+   "id": "LF-OP-011",
+   "caseId": "200700000385",
+   "caseName": "Bell Atlantic Corp. v. Twombly",
+   "citation": "550 U.S. 544",
+   "court": "Supreme Court of the United States",
+   "year": 2007,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0011"
+  },
+  {
+   "id": "LF-OP-012",
+   "caseId": "200200900000121",
+   "caseName": "Ashcroft v. Iqbal",
+   "citation": "556 U.S. 662",
+   "court": "Supreme Court of the United States",
+   "year": 2009,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0012"
+  },
+  {
+   "id": "LF-OP-013",
+   "caseId": "200199300000096",
+   "caseName": "Daubert v. Merrell Dow Pharmaceuticals, Inc.",
+   "citation": "509 U.S. 579",
+   "court": "Supreme Court of the United States",
+   "year": 1993,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0013"
+  },
+  {
+   "id": "LF-OP-014",
+   "caseId": "200199900000030",
+   "caseName": "Kumho Tire Co. v. Carmichael",
+   "citation": "526 U.S. 137",
+   "court": "Supreme Court of the United States",
+   "year": 1999,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0014"
+  },
+  {
+   "id": "LF-OP-015",
+   "caseId": "200198400000093",
+   "caseName": "Strickland v. Washington",
+   "citation": "466 U.S. 668",
+   "court": "Supreme Court of the United States",
+   "year": 1984,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0015"
+  },
+  {
+   "id": "LF-OP-016",
+   "caseId": "200196300000106",
+   "caseName": "Brady v. Maryland",
+   "citation": "373 U.S. 83",
+   "court": "Supreme Court of the United States",
+   "year": 1963,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0016"
+  },
+  {
+   "id": "LF-OP-017",
+   "caseId": "200198600000090",
+   "caseName": "Batson v. Kentucky",
+   "citation": "476 U.S. 79",
+   "court": "Supreme Court of the United States",
+   "year": 1986,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0017"
+  },
+  {
+   "id": "LF-OP-018",
+   "caseId": "200196700000164",
+   "caseName": "Loving v. Virginia",
+   "citation": "388 U.S. 1",
+   "court": "Supreme Court of the United States",
+   "year": 1967,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0018"
+  },
+  {
+   "id": "LF-OP-019",
+   "caseId": "200196500000170",
+   "caseName": "Griswold v. Connecticut",
+   "citation": "381 U.S. 479",
+   "court": "Supreme Court of the United States",
+   "year": 1965,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0019"
+  },
+  {
+   "id": "LF-OP-020",
+   "caseId": "200201500000051",
+   "caseName": "Obergefell v. Hodges",
+   "citation": "576 U.S. 644",
+   "court": "Supreme Court of the United States",
+   "year": 2015,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0020"
+  },
+  {
+   "id": "LF-OP-021",
+   "caseId": "200300002941",
+   "caseName": "Lawrence v. Texas",
+   "citation": "539 U.S. 558",
+   "court": "Supreme Court of the United States",
+   "year": 2003,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0021"
+  },
+  {
+   "id": "LF-OP-022",
+   "caseId": "200200800000002",
+   "caseName": "District of Columbia v. Heller",
+   "citation": "554 U.S. 570",
+   "court": "Supreme Court of the United States",
+   "year": 2008,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0022"
+  },
+  {
+   "id": "LF-OP-023",
+   "caseId": "201000001691",
+   "caseName": "McDonald v. City of Chicago",
+   "citation": "561 U.S. 742",
+   "court": "Supreme Court of the United States",
+   "year": 2010,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0023"
+  },
+  {
+   "id": "LF-OP-024",
+   "caseId": "200202200000038",
+   "caseName": "New York State Rifle & Pistol Assn., Inc. v. Bruen",
+   "citation": "597 U.S. 1",
+   "court": "Supreme Court of the United States",
+   "year": 2022,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0024"
+  },
+  {
+   "id": "LF-OP-025",
+   "caseId": "201000000518",
+   "caseName": "Citizens United v. Federal Election Commission",
+   "citation": "558 U.S. 310",
+   "court": "Supreme Court of the United States",
+   "year": 2010,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0025"
+  },
+  {
+   "id": "LF-OP-026",
+   "caseId": "200193800000082",
+   "caseName": "Railroad v. Tompkins",
+   "citation": "304 U.S. 64",
+   "court": "Supreme Court of the United States",
+   "year": 1938,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0026"
+  },
+  {
+   "id": "LF-OP-027",
+   "caseId": "200194500000167",
+   "caseName": "International Shoe Co. v. Washington",
+   "citation": "326 U.S. 310",
+   "court": "Supreme Court of the United States",
+   "year": 1945,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0027"
+  },
+  {
+   "id": "LF-OP-028",
+   "caseId": "200198000000006",
+   "caseName": "World-Wide Volkswagen Corp. v. Woodson",
+   "citation": "444 U.S. 286",
+   "court": "Supreme Court of the United States",
+   "year": 1980,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0028"
+  },
+  {
+   "id": "LF-OP-029",
+   "caseId": "200198500000107",
+   "caseName": "Burger King Corp. v. Rudzewicz",
+   "citation": "471 U.S. 462",
+   "court": "Supreme Court of the United States",
+   "year": 1985,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0029"
+  },
+  {
+   "id": "LF-OP-030",
+   "caseId": "200201400000001",
+   "caseName": "Daimler AG v. Bauman",
+   "citation": "571 U.S. 117",
+   "court": "Supreme Court of the United States",
+   "year": 2014,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0030"
+  },
+  {
+   "id": "LF-OP-031",
+   "caseId": "200201100000033",
+   "caseName": "Goodyear Dunlop Tires Operations, S. A. v. Brown",
+   "citation": "564 U.S. 915",
+   "court": "Supreme Court of the United States",
+   "year": 2011,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0031"
+  },
+  {
+   "id": "LF-OP-032",
+   "caseId": "200197700000139",
+   "caseName": "Shaffer v. Heitner",
+   "citation": "433 U.S. 186",
+   "court": "Supreme Court of the United States",
+   "year": 1977,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0032"
+  },
+  {
+   "id": "LF-OP-033",
+   "caseId": "200197600000018",
+   "caseName": "Mathews v. Eldridge",
+   "citation": "424 U.S. 319",
+   "court": "Supreme Court of the United States",
+   "year": 1976,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0033"
+  },
+  {
+   "id": "LF-OP-034",
+   "caseId": "200197000000068",
+   "caseName": "Goldberg v. Kelly",
+   "citation": "397 U.S. 254",
+   "court": "Supreme Court of the United States",
+   "year": 1970,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0034"
+  },
+  {
+   "id": "LF-OP-035",
+   "caseId": "200197800000099",
+   "caseName": "Monell v. New York City Dept. of Social Servs.",
+   "citation": "436 U.S. 658",
+   "court": "Supreme Court of the United States",
+   "year": 1978,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0035"
+  },
+  {
+   "id": "LF-OP-036",
+   "caseId": "200198200000140",
+   "caseName": "Harlow v. Fitzgerald",
+   "citation": "457 U.S. 800",
+   "court": "Supreme Court of the United States",
+   "year": 1982,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0036"
+  },
+  {
+   "id": "LF-OP-037",
+   "caseId": "200200900000031",
+   "caseName": "Pearson v. Callahan",
+   "citation": "555 U.S. 223",
+   "court": "Supreme Court of the United States",
+   "year": 2009,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0037"
+  },
+  {
+   "id": "LF-OP-038",
+   "caseId": "200198900000078",
+   "caseName": "Graham v. Connor",
+   "citation": "490 U.S. 386",
+   "court": "Supreme Court of the United States",
+   "year": 1989,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0038"
+  },
+  {
+   "id": "LF-OP-039",
+   "caseId": "200198500000077",
+   "caseName": "Tennessee v. Garner",
+   "citation": "471 U.S. 1",
+   "court": "Supreme Court of the United States",
+   "year": 1985,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0039"
+  },
+  {
+   "id": "LF-OP-040",
+   "caseId": "200195000000044",
+   "caseName": "Mullane v. Central Hanover Bank & Trust Co.",
+   "citation": "339 U.S. 306",
+   "court": "Supreme Court of the United States",
+   "year": 1950,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0040"
+  },
+  {
+   "id": "LF-OP-041",
+   "caseId": "202100025726",
+   "caseName": "TransUnion LLC v. Ramirez",
+   "citation": "594 U.S. 413",
+   "court": "Supreme Court of the United States",
+   "year": 2021,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0051"
+  },
+  {
+   "id": "LF-OP-042",
+   "caseId": "200700000401",
+   "caseName": "Massachusetts v. Environmental Protection Agency",
+   "citation": "549 U.S. 497",
+   "court": "Supreme Court of the United States",
+   "year": 2007,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0052"
+  },
+  {
+   "id": "LF-OP-043",
+   "caseId": "200195200000072",
+   "caseName": "Youngstown Sheet & Tube Co. v. Sawyer",
+   "citation": "343 U.S. 579",
+   "court": "Supreme Court of the United States",
+   "year": 1952,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0053"
+  },
+  {
+   "id": "LF-OP-044",
+   "caseId": "200197400000157",
+   "caseName": "United States v. Nixon",
+   "citation": "418 U.S. 683",
+   "court": "Supreme Court of the United States",
+   "year": 1974,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0054"
+  },
+  {
+   "id": "LF-OP-045",
+   "caseId": "200196200000039",
+   "caseName": "Baker v. Carr",
+   "citation": "369 U.S. 186",
+   "court": "Supreme Court of the United States",
+   "year": 1962,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0055"
+  },
+  {
+   "id": "LF-OP-046",
+   "caseId": "200196400000139",
+   "caseName": "Reynolds v. Sims",
+   "citation": "377 U.S. 533",
+   "court": "Supreme Court of the United States",
+   "year": 1964,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0056"
+  },
+  {
+   "id": "LF-OP-047",
+   "caseId": "200196900000066",
+   "caseName": "Tinker v. Des Moines Independent Community School District",
+   "citation": "393 U.S. 503",
+   "court": "Supreme Court of the United States",
+   "year": 1969,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0057"
+  },
+  {
+   "id": "LF-OP-048",
+   "caseId": "200196900000178",
+   "caseName": "Brandenburg v. Ohio",
+   "citation": "395 U.S. 444",
+   "court": "Supreme Court of the United States",
+   "year": 1969,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0058"
+  },
+  {
+   "id": "LF-OP-049",
+   "caseId": "200198900000122",
+   "caseName": "Texas v. Johnson",
+   "citation": "491 U.S. 397",
+   "court": "Supreme Court of the United States",
+   "year": 1989,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0059"
+  },
+  {
+   "id": "LF-OP-050",
+   "caseId": "200198800000026",
+   "caseName": "Hustler Magazine, Inc. v. Falwell",
+   "citation": "485 U.S. 46",
+   "court": "Supreme Court of the United States",
+   "year": 1988,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0060"
+  },
+  {
+   "id": "LF-OP-051",
+   "caseId": "200194700000014",
+   "caseName": "Hickman v. Taylor",
+   "citation": "329 U.S. 495",
+   "court": "Supreme Court of the United States",
+   "year": 1947,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0041"
+  },
+  {
+   "id": "LF-OP-052",
+   "caseId": "200198100000009",
+   "caseName": "Upjohn Co. v. United States",
+   "citation": "449 U.S. 383",
+   "court": "Supreme Court of the United States",
+   "year": 1981,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0042"
+  },
+  {
+   "id": "LF-OP-053",
+   "caseId": "200600019931",
+   "caseName": "Burlington Northern & Santa Fe Railway Co. v. White",
+   "citation": "548 U.S. 53",
+   "court": "Supreme Court of the United States",
+   "year": 2006,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0043"
+  },
+  {
+   "id": "LF-OP-054",
+   "caseId": "200197300000094",
+   "caseName": "McDonnell Douglas Corp. v. Green",
+   "citation": "411 U.S. 792",
+   "court": "Supreme Court of the United States",
+   "year": 1973,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0044"
+  },
+  {
+   "id": "LF-OP-055",
+   "caseId": "200199800000084",
+   "caseName": "Faragher v. City of Boca Raton",
+   "citation": "524 U.S. 775",
+   "court": "Supreme Court of the United States",
+   "year": 1998,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0045"
+  },
+  {
+   "id": "LF-OP-056",
+   "caseId": "200199800000083",
+   "caseName": "Burlington Industries, Inc. v. Ellerth",
+   "citation": "524 U.S. 742",
+   "court": "Supreme Court of the United States",
+   "year": 1998,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0046"
+  },
+  {
+   "id": "LF-OP-057",
+   "caseId": "200198600000137",
+   "caseName": "Meritor Savings Bank, FSB v. Vinson",
+   "citation": "477 U.S. 57",
+   "court": "Supreme Court of the United States",
+   "year": 1986,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0047"
+  },
+  {
+   "id": "LF-OP-058",
+   "caseId": "200199300000102",
+   "caseName": "Harris v. Forklift Systems, Inc.",
+   "citation": "510 U.S. 17",
+   "court": "Supreme Court of the United States",
+   "year": 1993,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0048"
+  },
+  {
+   "id": "LF-OP-059",
+   "caseId": "200202000000030",
+   "caseName": "Bostock v. Clayton County",
+   "citation": "590 U.S. 644",
+   "court": "Supreme Court of the United States",
+   "year": 2020,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0049"
+  },
+  {
+   "id": "LF-OP-060",
+   "caseId": "200199200000066",
+   "caseName": "Lujan v. Defenders of Wildlife",
+   "citation": "504 U.S. 555",
+   "court": "Supreme Court of the United States",
+   "year": 1992,
+   "group": "scotus",
+   "sourceId": "LF-BBS-0050"
+  },
+  {
+   "id": "LF-OP-061",
+   "caseId": "300200500022149",
+   "caseName": "Twombly v. Bell Atlantic Corp.",
+   "citation": "425 F.3d 99",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2005,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0245"
+  },
+  {
+   "id": "LF-OP-062",
+   "caseId": "300200700013687",
+   "caseName": "Iqbal v. Hasty",
+   "citation": "490 F.3d 143",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2007,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0246"
+  },
+  {
+   "id": "LF-OP-063",
+   "caseId": "300201900019117",
+   "caseName": "Jackson Women's Health Orgn v. Dobbs",
+   "citation": "945 F.3d 265",
+   "court": "Court of Appeals for the Fifth Circuit",
+   "year": 2019,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0247"
+  },
+  {
+   "id": "LF-OP-064",
+   "caseId": "202200017598",
+   "caseName": "Loper Bright Enterprises, Inc v. Raimondo",
+   "citation": "45 F.4th 359",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 2022,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0248"
+  },
+  {
+   "id": "LF-OP-065",
+   "caseId": "300201000020230",
+   "caseName": "Dukes v. Wal-Mart Stores, Inc.",
+   "citation": "603 F.3d 571",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2010,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0249"
+  },
+  {
+   "id": "LF-OP-066",
+   "caseId": "300201200008619",
+   "caseName": "Shelby County, Ala. v. Holder",
+   "citation": "679 F.3d 848",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 2012,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0250"
+  },
+  {
+   "id": "LF-OP-067",
+   "caseId": "300201900010430",
+   "caseName": "United States v. Buren",
+   "citation": "940 F.3d 1192",
+   "court": "Court of Appeals for the Eleventh Circuit",
+   "year": 2019,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0272"
+  },
+  {
+   "id": "LF-OP-068",
+   "caseId": "300201800004389",
+   "caseName": "Oracle America, Inc. v. Google Inc.",
+   "citation": "886 F.3d 1179",
+   "court": "Court of Appeals for the Federal Circuit",
+   "year": 2018,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0273"
+  },
+  {
+   "id": "LF-OP-069",
+   "caseId": "300202000002344",
+   "caseName": "Vip Products LLC v. Jack Daniel's Properties, Inc.",
+   "citation": "953 F.3d 1170",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2020,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0274"
+  },
+  {
+   "id": "LF-OP-070",
+   "caseId": "300196700000021",
+   "caseName": "Katz v. United States",
+   "citation": "369 F.2d 130",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 1967,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0277"
+  },
+  {
+   "id": "LF-OP-071",
+   "caseId": "300198200006460",
+   "caseName": "Natural Resources Defense Council, Inc. v. Gorsuch",
+   "citation": "685 F.2d 718",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 1982,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0279"
+  },
+  {
+   "id": "LF-OP-072",
+   "caseId": "300198500002285",
+   "caseName": "Myrtle Nell Catrett, Administratrix of the Estate of Louis H. Catrett, Deceased v. Johns-Manville Sales Corporation",
+   "citation": "756 F.2d 181",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 1985,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0280"
+  },
+  {
+   "id": "LF-OP-073",
+   "caseId": "300200700010784",
+   "caseName": "Boumediene, Lakhdar v. Bush, George",
+   "citation": "476 F.3d 981",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 2007,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0261"
+  },
+  {
+   "id": "LF-OP-074",
+   "caseId": "300200600013010",
+   "caseName": "Frederick v. Deborah Morse Juneau School Board",
+   "citation": "439 F.3d 1114",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2006,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0262"
+  },
+  {
+   "id": "LF-OP-075",
+   "caseId": "300200500012185",
+   "caseName": "Carhart v. Gonzales",
+   "citation": "413 F.3d 791",
+   "court": "Court of Appeals for the Eighth Circuit",
+   "year": 2005,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0263"
+  },
+  {
+   "id": "LF-OP-076",
+   "caseId": "300200500009975",
+   "caseName": "Mercexchange, L.L.C. v. Ebay, Inc.",
+   "citation": "401 F.3d 1323",
+   "court": "Court of Appeals for the Federal Circuit",
+   "year": 2005,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0264"
+  },
+  {
+   "id": "LF-OP-077",
+   "caseId": "300201000011733",
+   "caseName": "Prometheus Laboratories v. Collaborative",
+   "citation": "628 F.3d 1347",
+   "court": "Court of Appeals for the Federal Circuit",
+   "year": 2010,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0265"
+  },
+  {
+   "id": "LF-OP-078",
+   "caseId": "300200900013906",
+   "caseName": "Laster v. AT & T MOBILITY LLC",
+   "citation": "584 F.3d 849",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2009,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0266"
+  },
+  {
+   "id": "LF-OP-079",
+   "caseId": "300201100023366",
+   "caseName": "Bauman v. Daimlerchrysler Corp.",
+   "citation": "644 F.3d 909",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2011,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0267"
+  },
+  {
+   "id": "LF-OP-080",
+   "caseId": "300201400002150",
+   "caseName": "Robins v. Spokeo, Inc.",
+   "citation": "742 F.3d 409",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2014,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0269"
+  },
+  {
+   "id": "LF-OP-081",
+   "caseId": "300202000001459",
+   "caseName": "Ramirez v. Transunion LLC",
+   "citation": "951 F.3d 1008",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2020,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0270"
+  },
+  {
+   "id": "LF-OP-082",
+   "caseId": "300198400013267",
+   "caseName": "Liberty Lobby, Inc. v. Anderson",
+   "citation": "746 F.2d 1563",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 1984,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0281"
+  },
+  {
+   "id": "LF-OP-083",
+   "caseId": "300199100018349",
+   "caseName": "34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individually and as…",
+   "citation": "951 F.2d 1128",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 1991,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0283"
+  },
+  {
+   "id": "LF-OP-084",
+   "caseId": "300199700002952",
+   "caseName": "Carmichael v. Samyang Tire, Inc.",
+   "citation": "131 F.3d 1433",
+   "court": "Court of Appeals for the Eleventh Circuit",
+   "year": 1997,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0284"
+  },
+  {
+   "id": "LF-OP-085",
+   "caseId": "300198600017635",
+   "caseName": "Falwell v. Flynt",
+   "citation": "797 F.2d 1270",
+   "court": "Court of Appeals for the Fourth Circuit",
+   "year": 1986,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0285"
+  },
+  {
+   "id": "LF-OP-086",
+   "caseId": "300201700014977",
+   "caseName": "Hawaii v. Trump",
+   "citation": "878 F.3d 662",
+   "court": "Court of Appeals for the Ninth Circuit",
+   "year": 2017,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0288"
+  },
+  {
+   "id": "LF-OP-087",
+   "caseId": "300199700018965",
+   "caseName": "Dulany v. Carnahan",
+   "citation": "132 F.3d 1234",
+   "court": "Court of Appeals for the Eighth Circuit",
+   "year": 1997,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0327"
+  },
+  {
+   "id": "LF-OP-088",
+   "caseId": "300198400005255",
+   "caseName": "Valente v. Secretary of Health and Human Services",
+   "citation": "733 F.2d 1037",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 1984,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0334"
+  },
+  {
+   "id": "LF-OP-089",
+   "caseId": "300201300002774",
+   "caseName": "Cichocki v. Astrue",
+   "citation": "729 F.3d 172",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2013,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0351"
+  },
+  {
+   "id": "LF-OP-090",
+   "caseId": "300198400008883",
+   "caseName": "Pure Gold, Inc. v. Syntex (u.s.a.), Inc.",
+   "citation": "739 F.2d 624",
+   "court": "Court of Appeals for the Federal Circuit",
+   "year": 1984,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0352"
+  },
+  {
+   "id": "LF-OP-091",
+   "caseId": "300202000008944",
+   "caseName": "Fisher v. SD Protection Inc.",
+   "citation": "948 F.3d 593",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2020,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0354"
+  },
+  {
+   "id": "LF-OP-092",
+   "caseId": "300200000007802",
+   "caseName": "Makarova v. United States",
+   "citation": "201 F.3d 110",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2000,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0341"
+  },
+  {
+   "id": "LF-OP-093",
+   "caseId": "300200700014213",
+   "caseName": "Patane v. Clark",
+   "citation": "508 F.3d 106",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2007,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0345"
+  },
+  {
+   "id": "LF-OP-094",
+   "caseId": "300199500022637",
+   "caseName": "United States v. Amodeo",
+   "citation": "71 F.3d 1044",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 1995,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0346"
+  },
+  {
+   "id": "LF-OP-095",
+   "caseId": "300202000015747",
+   "caseName": "Tangreti v. Bachmann",
+   "citation": "983 F.3d 609",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2020,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0348"
+  },
+  {
+   "id": "LF-OP-096",
+   "caseId": "300201200010157",
+   "caseName": "Renstrom v. Astrue",
+   "citation": "680 F.3d 1057",
+   "court": "Court of Appeals for the Eighth Circuit",
+   "year": 2012,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0375"
+  },
+  {
+   "id": "LF-OP-097",
+   "caseId": "300198500012716",
+   "caseName": "Hayduk v. Lanna",
+   "citation": "775 F.2d 441",
+   "court": "Court of Appeals for the First Circuit",
+   "year": 1985,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0376"
+  },
+  {
+   "id": "LF-OP-098",
+   "caseId": "300201100015542",
+   "caseName": "Hill v. Curcione",
+   "citation": "657 F.3d 116",
+   "court": "Court of Appeals for the Second Circuit",
+   "year": 2011,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0365"
+  },
+  {
+   "id": "LF-OP-099",
+   "caseId": "300200600010256",
+   "caseName": "Minter v. Prime Equipment Co.",
+   "citation": "451 F.3d 1196",
+   "court": "Court of Appeals for the Tenth Circuit",
+   "year": 2006,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0368"
+  },
+  {
+   "id": "LF-OP-100",
+   "caseId": "300202300015062",
+   "caseName": "Short v. Hartman",
+   "citation": "87 F.4th 593",
+   "court": "Court of Appeals for the Fourth Circuit",
+   "year": 2023,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0393"
+  },
+  {
+   "id": "LF-OP-101",
+   "caseId": "300200000004474",
+   "caseName": "Collins v. Morgan Stanley Dean Witter",
+   "citation": "224 F.3d 496",
+   "court": "Court of Appeals for the Fifth Circuit",
+   "year": 2000,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0397"
+  },
+  {
+   "id": "LF-OP-102",
+   "caseId": "300201400020871",
+   "caseName": "DeBoer v. Snyder",
+   "citation": "772 F.3d 388",
+   "court": "Court of Appeals for the Sixth Circuit",
+   "year": 2014,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0251"
+  },
+  {
+   "id": "LF-OP-103",
+   "caseId": "300201600004247",
+   "caseName": "United States v. Sanders",
+   "citation": "819 F.3d 880",
+   "court": "Court of Appeals for the Sixth Circuit",
+   "year": 2016,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0252"
+  },
+  {
+   "id": "LF-OP-104",
+   "caseId": "300201600006329",
+   "caseName": "Lewis v. Epic Systems Corporation",
+   "citation": "823 F.3d 1147",
+   "court": "Court of Appeals for the Seventh Circuit",
+   "year": 2016,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0253"
+  },
+  {
+   "id": "LF-OP-105",
+   "caseId": "300200500008907",
+   "caseName": "Hamdan, Salim Ahmed v. Rumsfeld, Donald H.",
+   "citation": "415 F.3d 33",
+   "court": "Court of Appeals for the D.C. Circuit",
+   "year": 2005,
+   "group": "circuit",
+   "sourceId": "LF-BBS-0260"
+  },
+  {
+   "id": "LF-OP-106",
+   "caseId": "438199200000069",
+   "caseName": "Young v. Keohane",
+   "citation": "809 F. Supp. 1185",
+   "court": "District Court, M.D. Pennsylvania",
+   "year": 1992,
+   "group": "district",
+   "sourceId": "LF-BBS-0436"
+  },
+  {
+   "id": "LF-OP-107",
+   "caseId": "405200600000317",
+   "caseName": "Burch v. Regents of the University of California",
+   "citation": "433 F. Supp. 2d 1110",
+   "court": "District Court, E.D. California",
+   "year": 2006,
+   "group": "district",
+   "sourceId": "LF-BBS-0449"
+  },
+  {
+   "id": "LF-OP-108",
+   "caseId": "432200000000132",
+   "caseName": "Citigroup Inc. v. City Holding Co.",
+   "citation": "97 F. Supp. 2d 549",
+   "court": "District Court, S.D. New York",
+   "year": 2000,
+   "group": "district",
+   "sourceId": "LF-BBS-0457"
+  },
+  {
+   "id": "LF-OP-109",
+   "caseId": "435200400000078",
+   "caseName": "Indiana Insurance v. General Electric Co.",
+   "citation": "326 F. Supp. 2d 844",
+   "court": "District Court, N.D. Ohio",
+   "year": 2004,
+   "group": "district",
+   "sourceId": "LF-BBS-0530"
+  },
+  {
+   "id": "LF-OP-110",
+   "caseId": "438201000000019",
+   "caseName": "Univac Dental Co. v. Dentsply International, Inc.",
+   "citation": "702 F. Supp. 2d 465",
+   "court": "District Court, M.D. Pennsylvania",
+   "year": 2010,
+   "group": "district",
+   "sourceId": "LF-BBS-0544"
+  },
+  {
+   "id": "LF-OP-111",
+   "caseId": "451200900000505",
+   "caseName": "Perry v. United States Department of State",
+   "citation": "669 F. Supp. 2d 60",
+   "court": "District Court, District of Columbia",
+   "year": 2009,
+   "group": "district",
+   "sourceId": "LF-BBS-0761"
+  },
+  {
+   "id": "LF-OP-112",
+   "caseId": "451201500000456",
+   "caseName": "California Clinical Laboratory Association v. Secretary of Department of Health and Human Services",
+   "citation": "104 F. Supp. 3d 66",
+   "court": "District Court, District of Columbia",
+   "year": 2015,
+   "group": "district",
+   "sourceId": "LF-BBS-0768"
+  },
+  {
+   "id": "LF-OP-113",
+   "caseId": "451200900000060",
+   "caseName": "Hairston v. Tapella",
+   "citation": "664 F. Supp. 2d 106",
+   "court": "District Court, District of Columbia",
+   "year": 2009,
+   "group": "district",
+   "sourceId": "LF-BBS-0742"
+  },
+  {
+   "id": "LF-OP-114",
+   "caseId": "447200100000017",
+   "caseName": "Lara v. Arctic King Ltd.",
+   "citation": "2001 A.M.C. 2665",
+   "court": "District Court, W.D. Washington",
+   "year": 2001,
+   "group": "district",
+   "sourceId": "LF-BBS-0756"
+  },
+  {
+   "id": "LF-OP-115",
+   "caseId": "401200900000035",
+   "caseName": "Scott v. MOREQUITY, INC.",
+   "citation": "683 F. Supp. 2d 1280",
+   "court": "District Court, N.D. Alabama",
+   "year": 2009,
+   "group": "district",
+   "sourceId": "LF-BBS-0801"
+  },
+  {
+   "id": "LF-OP-116",
+   "caseId": "405200500000184",
+   "caseName": "Sparrow v. Credit",
+   "citation": "385 F. Supp. 2d 1063",
+   "court": "District Court, E.D. California",
+   "year": 2005,
+   "group": "district",
+   "sourceId": "LF-BBS-0810"
+  },
+  {
+   "id": "LF-OP-117",
+   "caseId": "451201300001414",
+   "caseName": "Ralls Corporation v. Committee on Foreign Investment in the United States",
+   "citation": "926 F. Supp. 2d 71",
+   "court": "District Court, District of Columbia",
+   "year": 2013,
+   "group": "district",
+   "sourceId": "LF-BBS-0793"
+  },
+  {
+   "id": "LF-OP-118",
+   "caseId": "432201000000826",
+   "caseName": "Johnson v. STATE DEPT. OF CORRECTIONAL SERVICES",
+   "citation": "709 F. Supp. 2d 178",
+   "court": "District Court, N.D. New York",
+   "year": 2010,
+   "group": "district",
+   "sourceId": "LF-BBS-0799"
+  },
+  {
+   "id": "LF-OP-119",
+   "caseId": "409201200000024",
+   "caseName": "Lobegeiger v. Celebrity Cruises, Inc.",
+   "citation": "2013 A.M.C. 1254",
+   "court": "District Court, S.D. Florida",
+   "year": 2012,
+   "group": "district",
+   "sourceId": "LF-BBS-0813"
+  },
+  {
+   "id": "LF-OP-120",
+   "caseId": "419199900000034",
+   "caseName": "Parks v. City of Brewer",
+   "citation": "56 F. Supp. 2d 89",
+   "court": "District Court, D. Maine",
+   "year": 1999,
+   "group": "district",
+   "sourceId": "LF-BBS-0832"
+  },
+  {
+   "id": "LF-OP-121",
+   "caseId": "451199900000211",
+   "caseName": "Alexis v. District of Columbia",
+   "citation": "44 F. Supp. 2d 331",
+   "court": "District Court, District of Columbia",
+   "year": 1999,
+   "group": "district",
+   "sourceId": "LF-BBS-0833"
+  },
+  {
+   "id": "LF-OP-122",
+   "caseId": "401201200000004",
+   "caseName": "In re Chantix (Varenicline) Products Liability Litigation",
+   "citation": "889 F. Supp. 2d 1272",
+   "court": "District Court, N.D. Alabama",
+   "year": 2012,
+   "group": "district",
+   "sourceId": "LF-BBS-0822"
+  },
+  {
+   "id": "LF-OP-123",
+   "caseId": "451200900000861",
+   "caseName": "Sharbi v. Bush",
+   "citation": "601 F. Supp. 2d 317",
+   "court": "District Court, District of Columbia",
+   "year": 2009,
+   "group": "district",
+   "sourceId": "LF-BBS-0871"
+  },
+  {
+   "id": "LF-OP-124",
+   "caseId": "451201100000120",
+   "caseName": "Haim v. Islamic Republic of Iran",
+   "citation": "784 F. Supp. 2d 1",
+   "court": "District Court, District of Columbia",
+   "year": 2011,
+   "group": "district",
+   "sourceId": "LF-BBS-0894"
+  },
+  {
+   "id": "LF-OP-125",
+   "caseId": "451200400000240",
+   "caseName": "Clarke v. Office of Federal Housing Enterprise Oversight",
+   "citation": "355 F. Supp. 2d 56",
+   "court": "District Court, District of Columbia",
+   "year": 2004,
+   "group": "district",
+   "sourceId": "LF-BBS-0905"
+  },
+  {
+   "id": "LF-OP-126",
+   "caseId": "451201200000822",
+   "caseName": "Harris v. Citimortgage, Inc.",
+   "citation": "878 F. Supp. 2d 154",
+   "court": "District Court, District of Columbia",
+   "year": 2012,
+   "group": "district",
+   "sourceId": "LF-BBS-0912"
+  },
+  {
+   "id": "LF-OP-127",
+   "caseId": "451200800000173",
+   "caseName": "Friendship Edison Public Charter School Chamberlain Campus v. Suggs",
+   "citation": "562 F. Supp. 2d 141",
+   "court": "District Court, District of Columbia",
+   "year": 2008,
+   "group": "district",
+   "sourceId": "LF-BBS-0954"
+  },
+  {
+   "id": "LF-OP-128",
+   "caseId": "405201500000047",
+   "caseName": "American Home Assurance Co. v. SMG Stone Co.",
+   "citation": "119 F. Supp. 3d 1053",
+   "court": "District Court, N.D. California",
+   "year": 2015,
+   "group": "district",
+   "sourceId": "LF-BBS-0955"
+  },
+  {
+   "id": "LF-OP-129",
+   "caseId": "408201500000001",
+   "caseName": "Acorda Therapeutics, Inc. v. Mylan Pharmaceuticals Inc.",
+   "citation": "78 F. Supp. 3d 572",
+   "court": "District Court, D. Delaware",
+   "year": 2015,
+   "group": "district",
+   "sourceId": "LF-BBS-0981"
+  },
+  {
+   "id": "LF-OP-130",
+   "caseId": "451201300000604",
+   "caseName": "Marcusse v. United States Department of Justice Office of Information Policy",
+   "citation": "959 F. Supp. 2d 119",
+   "court": "District Court, District of Columbia",
+   "year": 2013,
+   "group": "district",
+   "sourceId": "LF-BBS-0984"
+  },
+  {
+   "id": "LF-OP-131",
+   "caseId": "419200000000019",
+   "caseName": "Reali v. Mazda Motor of America, Inc.",
+   "citation": "106 F. Supp. 2d 75",
+   "court": "District Court, D. Maine",
+   "year": 2000,
+   "group": "district",
+   "sourceId": "LF-BBS-0986"
+  },
+  {
+   "id": "LF-OP-132",
+   "caseId": "451201000000633",
+   "caseName": "Sledge v. United States",
+   "citation": "723 F. Supp. 2d 87",
+   "court": "District Court, District of Columbia",
+   "year": 2010,
+   "group": "district",
+   "sourceId": "LF-BBS-1023"
+  },
+  {
+   "id": "LF-OP-133",
+   "caseId": "413200700000086",
+   "caseName": "Securities & Exchange Commission v. Koenig",
+   "citation": "532 F. Supp. 2d 987",
+   "court": "District Court, N.D. Illinois",
+   "year": 2007,
+   "group": "district",
+   "sourceId": "LF-BBS-1024"
+  },
+  {
+   "id": "LF-OP-134",
+   "caseId": "451200400000285",
+   "caseName": "Judicial Watch, Inc. v. United States Department of Commerce",
+   "citation": "337 F. Supp. 2d 146",
+   "court": "District Court, District of Columbia",
+   "year": 2004,
+   "group": "district",
+   "sourceId": "LF-BBS-1015"
+  },
+  {
+   "id": "LF-OP-135",
+   "caseId": "451200500000106",
+   "caseName": "Phillips v. Corrections Corp. of America",
+   "citation": "407 F. Supp. 2d 18",
+   "court": "District Court, District of Columbia",
+   "year": 2005,
+   "group": "district",
+   "sourceId": "LF-BBS-1044"
+  },
+  {
+   "id": "LF-OP-136",
+   "caseId": "105196800000029",
+   "caseName": "Dillon v. Legg",
+   "citation": "68 Cal. 2d 728",
+   "court": "California Supreme Court",
+   "year": 1968,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0244"
+  },
+  {
+   "id": "LF-OP-137",
+   "caseId": "105201600004485",
+   "caseName": "Bristol-Myers Squibb Co. v. Superior Court of San Francisco County",
+   "citation": "1 Cal. 5th 783",
+   "court": "California Supreme Court",
+   "year": 2016,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0271"
+  },
+  {
+   "id": "LF-OP-138",
+   "caseId": "103196500000231",
+   "caseName": "State v. Miranda",
+   "citation": "401 P.2d 721",
+   "court": "Arizona Supreme Court",
+   "year": 1965,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0275"
+  },
+  {
+   "id": "LF-OP-139",
+   "caseId": "135196000000355",
+   "caseName": "State v. Mapp",
+   "citation": "170 Ohio St. 427",
+   "court": "Ohio Supreme Court",
+   "year": 1960,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0276"
+  },
+  {
+   "id": "LF-OP-140",
+   "caseId": "105194800000176",
+   "caseName": "Summers v. Tice",
+   "citation": "33 Cal. 2d 80",
+   "court": "California Supreme Court",
+   "year": 1948,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0291"
+  },
+  {
+   "id": "LF-OP-141",
+   "caseId": "132191600000189",
+   "caseName": "MacPherson v. Buick Motor Co.",
+   "citation": "217 N.Y. 382",
+   "court": "New York Court of Appeals",
+   "year": 1916,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0292"
+  },
+  {
+   "id": "LF-OP-142",
+   "caseId": "132192800000043",
+   "caseName": "Palsgraf v. Long Island R.R. Co.",
+   "citation": "248 N.Y. 339",
+   "court": "New York Court of Appeals",
+   "year": 1928,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0293"
+  },
+  {
+   "id": "LF-OP-143",
+   "caseId": "105196300000048",
+   "caseName": "Greenman v. Yuba Power Products, Inc.",
+   "citation": "59 Cal. 2d 57",
+   "court": "California Supreme Court",
+   "year": 1963,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0294"
+  },
+  {
+   "id": "LF-OP-144",
+   "caseId": "105198000000030",
+   "caseName": "Sindell v. Abbott Laboratories",
+   "citation": "26 Cal. 3d 588",
+   "court": "California Supreme Court",
+   "year": 1980,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0295"
+  },
+  {
+   "id": "LF-OP-145",
+   "caseId": "105197600000007",
+   "caseName": "Marvin v. Marvin",
+   "citation": "18 Cal. 3d 660",
+   "court": "California Supreme Court",
+   "year": 1976,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0296"
+  },
+  {
+   "id": "LF-OP-146",
+   "caseId": "130196000000220",
+   "caseName": "Henningsen v. Bloomfield Motors, Inc.",
+   "citation": "161 A.2d 69",
+   "court": "Supreme Court of New Jersey",
+   "year": 1960,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0297"
+  },
+  {
+   "id": "LF-OP-147",
+   "caseId": "132198900000156",
+   "caseName": "Hymowitz v. Eli Lilly & Co.",
+   "citation": "73 N.Y.2d 487",
+   "court": "New York Court of Appeals",
+   "year": 1989,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0298"
+  },
+  {
+   "id": "LF-OP-148",
+   "caseId": "113198100001137",
+   "caseName": "Alvis v. Ribar",
+   "citation": "85 Ill. 2d 1",
+   "court": "Illinois Supreme Court",
+   "year": 1981,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0299"
+  },
+  {
+   "id": "LF-OP-149",
+   "caseId": "105198900000074",
+   "caseName": "Thing v. Chusa",
+   "citation": "48 Cal. 3d 644",
+   "court": "California Supreme Court",
+   "year": 1989,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0300"
+  },
+  {
+   "id": "LF-OP-150",
+   "caseId": "105197500000010",
+   "caseName": "Li v. Yellow Cab Co.",
+   "citation": "13 Cal. 3d 804",
+   "court": "California Supreme Court",
+   "year": 1975,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0289"
+  },
+  {
+   "id": "LF-OP-151",
+   "caseId": "109197300000385",
+   "caseName": "Hoffman v. Jones",
+   "citation": "280 So. 2d 431",
+   "court": "Supreme Court of Florida",
+   "year": 1973,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0290"
+  },
+  {
+   "id": "LF-OP-152",
+   "caseId": "105196300001104",
+   "caseName": "Amaya v. Home Ice, Fuel & Supply Co.",
+   "citation": "59 Cal. 2d 295",
+   "court": "California Supreme Court",
+   "year": 1963,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0311"
+  },
+  {
+   "id": "LF-OP-153",
+   "caseId": "105198400000897",
+   "caseName": "Seaman's Direct Buying Service, Inc. v. Standard Oil Co.",
+   "citation": "36 Cal. 3d 752",
+   "court": "California Supreme Court",
+   "year": 1984,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0313"
+  },
+  {
+   "id": "LF-OP-154",
+   "caseId": "105197900000091",
+   "caseName": "Royal Globe Insurance v. Superior Court",
+   "citation": "23 Cal. 3d 880",
+   "court": "California Supreme Court",
+   "year": 1979,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0314"
+  },
+  {
+   "id": "LF-OP-155",
+   "caseId": "132189600000068",
+   "caseName": "Mitchell v. Rochester Railway Co.",
+   "citation": "151 N.Y. 107",
+   "court": "New York Court of Appeals",
+   "year": 1896,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0315"
+  },
+  {
+   "id": "LF-OP-156",
+   "caseId": "122199400000367",
+   "caseName": "Dedes v. Asch",
+   "citation": "446 Mich. 99",
+   "court": "Michigan Supreme Court",
+   "year": 1994,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0316"
+  },
+  {
+   "id": "LF-OP-157",
+   "caseId": "122200100000040",
+   "caseName": "Lugo v. Ameritech Corp., Inc.",
+   "citation": "464 Mich. 512",
+   "court": "Michigan Supreme Court",
+   "year": 2001,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0317"
+  },
+  {
+   "id": "LF-OP-158",
+   "caseId": "138197800000726",
+   "caseName": "Azzarello v. Black Bros. Co., Inc.",
+   "citation": "391 A.2d 1020",
+   "court": "Supreme Court of Pennsylvania",
+   "year": 1978,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0318"
+  },
+  {
+   "id": "LF-OP-159",
+   "caseId": "105200600000852",
+   "caseName": "People v. Wright",
+   "citation": "40 Cal. 4th 81",
+   "court": "California Supreme Court",
+   "year": 2006,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0319"
+  },
+  {
+   "id": "LF-OP-160",
+   "caseId": "105199500000026",
+   "caseName": "Freeman & Mills, Inc. v. Belcher Oil Co.",
+   "citation": "11 Cal. 4th 85",
+   "court": "California Supreme Court",
+   "year": 1995,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0301"
+  },
+  {
+   "id": "LF-OP-161",
+   "caseId": "105198800000108",
+   "caseName": "Moradi-Shalal v. Fireman's Fund Ins. Companies",
+   "citation": "46 Cal. 3d 287",
+   "court": "California Supreme Court",
+   "year": 1988,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0302"
+  },
+  {
+   "id": "LF-OP-162",
+   "caseId": "132196100000291",
+   "caseName": "Battalla v. State",
+   "citation": "10 N.Y.2d 237",
+   "court": "New York Court of Appeals",
+   "year": 1961,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0303"
+  },
+  {
+   "id": "LF-OP-163",
+   "caseId": "138201400002623",
+   "caseName": "Tincher, T. v. Omega Flex, Inc., Aplt.",
+   "citation": "104 A.3d 328",
+   "court": "Supreme Court of Pennsylvania",
+   "year": 2014,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0304"
+  },
+  {
+   "id": "LF-OP-164",
+   "caseId": "108198500000004",
+   "caseName": "Smith v. Gorkom",
+   "citation": "488 A.2d 858",
+   "court": "Supreme Court of Delaware",
+   "year": 1985,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0305"
+  },
+  {
+   "id": "LF-OP-165",
+   "caseId": "108198500000047",
+   "caseName": "Unocal Corp. v. Mesa Petroleum Co.",
+   "citation": "493 A.2d 946",
+   "court": "Supreme Court of Delaware",
+   "year": 1985,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0306"
+  },
+  {
+   "id": "LF-OP-166",
+   "caseId": "108198600000136",
+   "caseName": "Revlon, Inc. v. MacAndrews & Forbes Holdings, Inc.",
+   "citation": "506 A.2d 173",
+   "court": "Supreme Court of Delaware",
+   "year": 1986,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0307"
+  },
+  {
+   "id": "LF-OP-167",
+   "caseId": "143200500001179",
+   "caseName": "City of Keller v. Wilson",
+   "citation": "168 S.W.3d 802",
+   "court": "Texas Supreme Court",
+   "year": 2005,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0308"
+  },
+  {
+   "id": "LF-OP-168",
+   "caseId": "199500002092",
+   "caseName": "Peterson v. Superior Court",
+   "citation": "10 Cal. 4th 1185",
+   "court": "California Supreme Court",
+   "year": 1995,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0309"
+  },
+  {
+   "id": "LF-OP-169",
+   "caseId": "122200000000352",
+   "caseName": "Robinson v. City of Detroit",
+   "citation": "462 Mich. 439",
+   "court": "Michigan Supreme Court",
+   "year": 2000,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0310"
+  },
+  {
+   "id": "LF-OP-170",
+   "caseId": "146199800000007",
+   "caseName": "Richmond Metropolitan Authority v. McDevitt Street Bovis, Inc.",
+   "citation": "256 Va. 553",
+   "court": "Supreme Court of Virginia",
+   "year": 1998,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0321"
+  },
+  {
+   "id": "LF-OP-171",
+   "caseId": "143200300001525",
+   "caseName": "King Ranch, Inc. v. Chapman",
+   "citation": "118 S.W.3d 742",
+   "court": "Texas Supreme Court",
+   "year": 2003,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0322"
+  },
+  {
+   "id": "LF-OP-172",
+   "caseId": "134199400000213",
+   "caseName": "Northwest G.F. Mutual Insurance Co. v. Norgard",
+   "citation": "518 N.W.2d 179",
+   "court": "North Dakota Supreme Court",
+   "year": 1994,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0323"
+  },
+  {
+   "id": "LF-OP-173",
+   "caseId": "127198500000283",
+   "caseName": "State v. Knight",
+   "citation": "371 N.W.2d 317",
+   "court": "Nebraska Supreme Court",
+   "year": 1985,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0324"
+  },
+  {
+   "id": "LF-OP-174",
+   "caseId": "138196700000074",
+   "caseName": "Commonwealth Ex Rel. Washington v. Maroney",
+   "citation": "235 A.2d 349",
+   "court": "Supreme Court of Pennsylvania",
+   "year": 1967,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0326"
+  },
+  {
+   "id": "LF-OP-175",
+   "caseId": "122199900000165",
+   "caseName": "Gray v. Morley",
+   "citation": "460 Mich. 738",
+   "court": "Michigan Supreme Court",
+   "year": 1999,
+   "group": "state-supreme",
+   "sourceId": "LF-BBS-0328"
+  },
+  {
+   "id": "LF-OP-176",
+   "caseId": "132192700003270",
+   "caseName": "Palsgraf v. Railroad",
+   "citation": "222 A.D. 166",
+   "court": "Appellate Division of the Supreme Court of the State of New York",
+   "year": 1927,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0287"
+  },
+  {
+   "id": "LF-OP-177",
+   "caseId": "143199600000614",
+   "caseName": "Hickson v. Moya",
+   "citation": "926 S.W.2d 397",
+   "court": "Texas Court of Appeals, 10th District (Waco)",
+   "year": 1996,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0320"
+  },
+  {
+   "id": "LF-OP-178",
+   "caseId": "107202200000263",
+   "caseName": "Gilman v. Shames",
+   "citation": "212 Conn. App. 147",
+   "court": "Connecticut Appellate Court",
+   "year": 2022,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0329"
+  },
+  {
+   "id": "LF-OP-179",
+   "caseId": "136200200000029",
+   "caseName": "Major v. Microsoft Corp.",
+   "citation": "60 P.3d 511",
+   "court": "Court of Civil Appeals of Oklahoma",
+   "year": 2002,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0333"
+  },
+  {
+   "id": "LF-OP-180",
+   "caseId": "138200500001316",
+   "caseName": "Hart v. Arnold",
+   "citation": "884 A.2d 316",
+   "court": "Superior Court of Pennsylvania",
+   "year": 2005,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0336"
+  },
+  {
+   "id": "LF-OP-181",
+   "caseId": "113199200001350",
+   "caseName": "Ray Dancer, Inc. v. D M C Corp.",
+   "citation": "230 Ill. App. 3d 40",
+   "court": "Appellate Court of Illinois",
+   "year": 1992,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0337"
+  },
+  {
+   "id": "LF-OP-182",
+   "caseId": "111199600000108",
+   "caseName": "Hunt v. First Ins. Co. of Hawaii Ltd.",
+   "citation": "922 P.2d 976",
+   "court": "Hawaii Intermediate Court of Appeals",
+   "year": 1996,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0338"
+  },
+  {
+   "id": "LF-OP-183",
+   "caseId": "142199500000187",
+   "caseName": "State v. Bingham",
+   "citation": "910 S.W.2d 448",
+   "court": "Court of Criminal Appeals of Tennessee",
+   "year": 1995,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0380"
+  },
+  {
+   "id": "LF-OP-184",
+   "caseId": "144200600000134",
+   "caseName": "Tolle v. Fenley",
+   "citation": "132 P.3d 63",
+   "court": "Court of Appeals of Utah",
+   "year": 2006,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0381"
+  },
+  {
+   "id": "LF-OP-185",
+   "caseId": "104198500000165",
+   "caseName": "In re Memorandum Opinions",
+   "citation": "700 S.W.2d 63",
+   "court": "Court of Appeals of Arkansas",
+   "year": 1985,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0401"
+  },
+  {
+   "id": "LF-OP-186",
+   "caseId": "120201100000419",
+   "caseName": "Kumar v. Dhanda",
+   "citation": "17 A.3d 744",
+   "court": "Court of Special Appeals of Maryland",
+   "year": 2011,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0412"
+  },
+  {
+   "id": "LF-OP-187",
+   "caseId": "114199100000290",
+   "caseName": "W & W Equipment Co., Inc. v. Mink",
+   "citation": "568 N.E.2d 564",
+   "court": "Indiana Court of Appeals",
+   "year": 1991,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0413"
+  },
+  {
+   "id": "LF-OP-188",
+   "caseId": "122201200002416",
+   "caseName": "Bronson Methodist Hospital v. Michigan Assigned Claims Facility",
+   "citation": "826 N.W.2d 197",
+   "court": "Michigan Court of Appeals",
+   "year": 2012,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0434"
+  },
+  {
+   "id": "LF-OP-189",
+   "caseId": "109200800001665",
+   "caseName": "Gasparini v. Pordomingo",
+   "citation": "972 So. 2d 1053",
+   "court": "Florida Third District Court of Appeal",
+   "year": 2008,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0437"
+  },
+  {
+   "id": "LF-OP-190",
+   "caseId": "133199800000312",
+   "caseName": "Bruce-Terminix Company v. Zurich Ins. Co.",
+   "citation": "504 S.E.2d 574",
+   "court": "Court of Appeals of North Carolina",
+   "year": 1998,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0447"
+  },
+  {
+   "id": "LF-OP-191",
+   "caseId": "114200800001749",
+   "caseName": "In re Termination Parent-Child Rel. of JM",
+   "citation": "895 N.E.2d 1228",
+   "court": "Indiana Court of Appeals",
+   "year": 2008,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0466"
+  },
+  {
+   "id": "LF-OP-192",
+   "caseId": "122199500000434",
+   "caseName": "Babula v. Robertson",
+   "citation": "536 N.W.2d 834",
+   "court": "Michigan Court of Appeals",
+   "year": 1995,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0469"
+  },
+  {
+   "id": "LF-OP-193",
+   "caseId": "112198800000113",
+   "caseName": "Nalen v. Jenkins",
+   "citation": "763 P.2d 1081",
+   "court": "Idaho Court of Appeals",
+   "year": 1988,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0453"
+  },
+  {
+   "id": "LF-OP-194",
+   "caseId": "135200700003895",
+   "caseName": "Jarupan v. Hanna",
+   "citation": "878 N.E.2d 66",
+   "court": "Ohio Court of Appeals",
+   "year": 2007,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0460"
+  },
+  {
+   "id": "LF-OP-195",
+   "caseId": "105199800000965",
+   "caseName": "Santisas v. Goodin",
+   "citation": "17 Cal. 4th 599",
+   "court": "California Court of Appeal",
+   "year": 1998,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0424"
+  },
+  {
+   "id": "LF-OP-196",
+   "caseId": "135200000002589",
+   "caseName": "Procter Gamble Company v. Stoneham",
+   "citation": "747 N.E.2d 268",
+   "court": "Ohio Court of Appeals",
+   "year": 2000,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0430"
+  },
+  {
+   "id": "LF-OP-197",
+   "caseId": "104200900000486",
+   "caseName": "Rice v. Ragsdale",
+   "citation": "292 S.W.3d 856",
+   "court": "Court of Appeals of Arkansas",
+   "year": 2009,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0494"
+  },
+  {
+   "id": "LF-OP-198",
+   "caseId": "121198500000180",
+   "caseName": "Shapiro v. Public Service Mutual Insurance",
+   "citation": "477 N.E.2d 146",
+   "court": "Massachusetts Appeals Court",
+   "year": 1985,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0495"
+  },
+  {
+   "id": "LF-OP-199",
+   "caseId": "131199800000106",
+   "caseName": "State v. Ingram",
+   "citation": "1998 NMCA 177",
+   "court": "New Mexico Court of Appeals",
+   "year": 1998,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0527"
+  },
+  {
+   "id": "LF-OP-200",
+   "caseId": "110199700000256",
+   "caseName": "Matjoulis v. Integon General Ins. Corp.",
+   "citation": "226 Ga. App. 459",
+   "court": "Court of Appeals of Georgia",
+   "year": 1997,
+   "group": "state-intermediate",
+   "sourceId": "LF-BBS-0471"
+  }
+ ]
+}

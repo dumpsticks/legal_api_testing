@@ -1,0 +1,2580 @@
+{
+ "suite": "law-firm/carried-forward/realworld-boolean",
+ "count": 286,
+ "rows": [
+  {
+   "id": "rw-0001",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "celotex|liberty lobby|matsushita",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0002",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0003",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "estelle v\\.? gamble|farmer v\\.? brennan|wilson v\\.? seiter|helling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0004",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? goetz|state v\\.? norman|beard v\\.? united states|brown v\\.? united states",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0005",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jacob & youngs|k & g construction|walker & co|plante v\\.? jacobs",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0007",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "nahrstedt|shelley v\\.? kraemer|tulk v\\.? moxhay|neponsit|sanborn v\\.? mclean",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0008",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harvard college v\\.? amory|in re estate of janes|meinhard v\\.? salmon|shriners hospitals",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0010",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "painter v\\.? painter|o'brien v\\.? o'brien|rothman|pereira v\\.? pereira|van camp",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0017",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0018",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "meritor|harris v\\.? forklift|faragher|burlington industries|oncale",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0022",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|montrose|garvey v\\.? state farm|bank of the west",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0031",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "twombly|iqbal|conley v\\.? gibson",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0032",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0033",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "perry education|hague v\\.? cio|reed v\\.? town of gilbert|cornelius|ward v\\.? rock",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0034",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? stamp|state v\\.? canola|enmund|tison v\\.? arizona|people v\\.? washington",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0035",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "priebe & sons|wassenaar|lake river|truck rent-?a-?center",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0036",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "state farm mutual|overton park|fcc v\\.? fox|dhs v\\.? regents|motor vehicle manufacturers",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0038",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan v\\.? burkin|newman v\\.? dore|in re estate of cross|seifert v\\.? southern",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0040",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0044",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "daubert|kumho|joiner|frye",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0048",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "bdo seidman|reed roberts|mitchel v\\.? reynolds|edwards v\\.? arthur andersen",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0061",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "international shoe|daimler|ford motor|burger king|asahi|hanson v\\.? denckla|world-?wide volkswagen",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0062",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0063",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "carolene products|korematsu|loving v\\.? virginia|city of cleburne|adarand|craig v\\.? boren",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0064",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? jenkins|turner v\\.? united states|united states v\\.? blue|county court",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0065",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ricketts v\\.? scothorn|feinberg|hoffman v\\.? red owl|drennan|allegheny college",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0066",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "mccarthy v\\.? madigan|woodford v\\.? ngo|darby v\\.? cisneros|ross v\\.? blake",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0069",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "hensley|perdue|blum v\\.? stenson|city of burlington|buckhannon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0070",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "simeone v\\.? simeone|posner v\\.? posner|button v\\.? button|deLorean|newman v\\.? newman",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0074",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "crawford|davis v\\.? washington|tome|idaho v\\.? wright|white v\\.? illinois",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0078",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "us airways v\\.? barnett|toyota v\\.? williams|barnett|humiston-?keeling|eeoc v\\.? abercrombie",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0079",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "walkovszky|sea-?land services|dewitt truck brokers|bartle|minton v\\.? cavaney",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0085",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re monreal|in re recinas|in re andazola|wilkinson v\\.? garland",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0091",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rotella|urie v\\.? thompson|kubrick|merck|trw v\\.? andrews",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0092",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ira s\\.? bushey|faragher|burlington industries|meyer v\\.? holley",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0094",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "birchfield|mcneely|schmerber|mitchell v\\.? wisconsin|south dakota v\\.? neville",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0095",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "masterson v\\.? sine|mitchill v\\.? lath|pacific gas|thompson v\\.? libby",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0096",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "biestek v\\.? berryhill|richardson v\\.? perales|bowen v\\.? yuckert|sullivan v\\.? zebley",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0099",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "winter|munaf|ebay|nken|sampson v\\.? murray",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0100",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "santosky|lassiter|m\\.? l\\.? b\\.? v\\.? s\\.? l\\.? j\\.?|stanley v\\.? illinois",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0104",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "zolin|upjohn|clark v\\.? united states|nixon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0105",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0108",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "encino motorcars|christopher v\\.? smithkline|auer v\\.? robbins|helix energy",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0109",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "smith v\\.? van gorkom|aronson v\\.? lewis|shlensky v\\.? wrigley|guth v\\.? loft|sinclair oil",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0115",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ins v\\.? cardoza-?fonseca|matter of acosta|ins v\\.? elias-?zacarias|matter of m-?e-?v-?g",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0121",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "dukes|amchem|behrend|falcon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0122",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gore|campbell|exxon shipping|haslip|kolstad",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0125",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "williams v\\.? walker-?thomas|armendariz|henningsen|jones v\\.? star credit",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0130",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "baures v\\.? lewis|tropea|burgess|lamusga|ireland v\\.? ireland",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0134",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "huddleston|old chief|michelson|dowling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0135",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "javins|pugh v\\.? holmes|hilder v\\.? st\\.? peter|green v\\.? superior court|blackett",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0136",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jerman|heintz v\\.? jenkins|clomon v\\.? jackson|russell v\\.? equifax|obduskey",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0138",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "burlington northern|crawford v\\.? metropolitan|university of texas v\\.? nassar|lawson v\\.? ftc",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0139",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "aronson v\\.? lewis|zapata|rales v\\.? blasband|united food v\\.? zuckerberg|marchand",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0145",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "matter of silva-?trevino|moncrieffe|mellouli|descamps|matter of diaz-?lizarraga",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0150",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sleekcraft|polaroid|du pont|two pesos|virgin enterprises",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0162",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "terry v\\.? ohio|wardlow|arvizu|sokolow|navarette",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0165",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0166",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "midlantic national bank|in re timbers of inwood|city of chicago v\\.? fulton|taggart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0169",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "haley v\\.? talcott|in re silver leaf|dunbar group|fisk ventures",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0180",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "campbell v\\.? acuff-?rose|google v\\.? oracle|warhol|harper & row|sony v\\.? universal",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0192",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "miranda v\\.? arizona|innis|berghuis|howes v\\.? fields|stansbury",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0195",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0196",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "barnhill v\\.? johnson|union bank v\\.? wolas|begier|deprizio",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0210",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "kewanee oil|e\\.? i\\.? du pont v\\.? christopher|rockwell graphic|ruckelshaus",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0222",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? leon|mapp v\\.? ohio|herring|davis v\\.? united states|krull",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0226",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "brunner v\\.? new york|in re gerhardt|in re long|educational credit v\\.? polleys",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0227",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "koon v\\.? united states|pierce v\\.? underwood|anderson v\\.? bessemer|cooter & gell",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0236",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "howard v\\.? kunto|mannillo v\\.? gorski|van valkenburgh|marengo cave",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0240",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ccnv v\\.? reid|community for creative non-?violence|aymes v\\.? bonelli|martha graham",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0251",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "crisci|comunale v\\.? traders|gruenberg|campbell v\\.? state farm|anderson v\\.? continental",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0252",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "riley v\\.? california|carpenter|arizona v\\.? gant|chimel",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0253",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan|gertz|curtis publishing|hustler|firestone",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0257",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? olano|puckett v\\.? united states|johnson v\\.? united states|rosales-?mireles",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0262",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harlow v\\.? fitzgerald|pearson v\\.? callahan|saucier|graham v\\.? connor|kisela|mullenix",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0266",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "othen v\\.? rosier|finn v\\.? williams|granite properties|schwab v\\.? timmons",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0267",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh|logotheti",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0281",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|buss v\\.? superior court|montrose|horace mann|aerojet",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0282",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "strickland|padilla|hill v\\.? lockhart|cronic|lafler",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0283",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "katz v\\.? united states|shulman v\\.? group w|dietemann|hamberger|bartnicki",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0291",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "palsgraf|carroll towing|kinsman|petition of kinsman",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0292",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "monell|city of canton|pembaur|connick v\\.? thompson|board of county comm",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0296",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0297",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re estate of gonzalez|estate of muder|succession of burke|in re will of ranney",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0299",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "palmore v\\.? sidoti|troxel|painter v\\.? bannister|burgess|ex parte devine",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0306",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "canterbury v\\.? spence|schloendorff|natanson|cobbs v\\.? grant|salgo",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0307",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "tameny|petermann|palmateer|sheets v\\.? teddy's|gantt",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0311",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "allstate v\\.? boynton|tucker v\\.? metropolitan|burnham|cunningham v\\.? insurance",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0313",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "hustler|snyder v\\.? phelps|womack|state rubbish",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0320",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "celotex|liberty lobby|matsushita",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0321",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0322",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "estelle v\\.? gamble|farmer v\\.? brennan|wilson v\\.? seiter|helling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0323",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? goetz|state v\\.? norman|beard v\\.? united states|brown v\\.? united states",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0324",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jacob & youngs|k & g construction|walker & co|plante v\\.? jacobs",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0326",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "nahrstedt|shelley v\\.? kraemer|tulk v\\.? moxhay|neponsit|sanborn v\\.? mclean",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0327",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harvard college v\\.? amory|in re estate of janes|meinhard v\\.? salmon|shriners hospitals",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0329",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "painter v\\.? painter|o'brien v\\.? o'brien|rothman|pereira v\\.? pereira|van camp",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0336",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0337",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "meritor|harris v\\.? forklift|faragher|burlington industries|oncale",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0341",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|montrose|garvey v\\.? state farm|bank of the west",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0350",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "twombly|iqbal|conley v\\.? gibson",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0351",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0352",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "perry education|hague v\\.? cio|reed v\\.? town of gilbert|cornelius|ward v\\.? rock",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0353",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? stamp|state v\\.? canola|enmund|tison v\\.? arizona|people v\\.? washington",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0354",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "priebe & sons|wassenaar|lake river|truck rent-?a-?center",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0355",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "state farm mutual|overton park|fcc v\\.? fox|dhs v\\.? regents|motor vehicle manufacturers",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0357",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan v\\.? burkin|newman v\\.? dore|in re estate of cross|seifert v\\.? southern",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0359",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0363",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "daubert|kumho|joiner|frye",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0367",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "bdo seidman|reed roberts|mitchel v\\.? reynolds|edwards v\\.? arthur andersen",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0380",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "international shoe|daimler|ford motor|burger king|asahi|hanson v\\.? denckla|world-?wide volkswagen",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0381",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0382",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "carolene products|korematsu|loving v\\.? virginia|city of cleburne|adarand|craig v\\.? boren",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0383",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? jenkins|turner v\\.? united states|united states v\\.? blue|county court",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0384",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ricketts v\\.? scothorn|feinberg|hoffman v\\.? red owl|drennan|allegheny college",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0385",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "mccarthy v\\.? madigan|woodford v\\.? ngo|darby v\\.? cisneros|ross v\\.? blake",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0388",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "hensley|perdue|blum v\\.? stenson|city of burlington|buckhannon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0389",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "simeone v\\.? simeone|posner v\\.? posner|button v\\.? button|deLorean|newman v\\.? newman",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0393",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "crawford|davis v\\.? washington|tome|idaho v\\.? wright|white v\\.? illinois",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0397",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "us airways v\\.? barnett|toyota v\\.? williams|barnett|humiston-?keeling|eeoc v\\.? abercrombie",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0398",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "walkovszky|sea-?land services|dewitt truck brokers|bartle|minton v\\.? cavaney",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0404",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re monreal|in re recinas|in re andazola|wilkinson v\\.? garland",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0410",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rotella|urie v\\.? thompson|kubrick|merck|trw v\\.? andrews",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0411",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ira s\\.? bushey|faragher|burlington industries|meyer v\\.? holley",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0413",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "birchfield|mcneely|schmerber|mitchell v\\.? wisconsin|south dakota v\\.? neville",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0414",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "masterson v\\.? sine|mitchill v\\.? lath|pacific gas|thompson v\\.? libby",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0415",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "biestek v\\.? berryhill|richardson v\\.? perales|bowen v\\.? yuckert|sullivan v\\.? zebley",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0418",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "winter|munaf|ebay|nken|sampson v\\.? murray",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0419",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "santosky|lassiter|m\\.? l\\.? b\\.? v\\.? s\\.? l\\.? j\\.?|stanley v\\.? illinois",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0423",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "zolin|upjohn|clark v\\.? united states|nixon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0424",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0427",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "encino motorcars|christopher v\\.? smithkline|auer v\\.? robbins|helix energy",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0428",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "smith v\\.? van gorkom|aronson v\\.? lewis|shlensky v\\.? wrigley|guth v\\.? loft|sinclair oil",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0434",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ins v\\.? cardoza-?fonseca|matter of acosta|ins v\\.? elias-?zacarias|matter of m-?e-?v-?g",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0440",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "dukes|amchem|behrend|falcon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0441",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gore|campbell|exxon shipping|haslip|kolstad",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0444",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "williams v\\.? walker-?thomas|armendariz|henningsen|jones v\\.? star credit",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0449",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "baures v\\.? lewis|tropea|burgess|lamusga|ireland v\\.? ireland",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0453",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "huddleston|old chief|michelson|dowling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0454",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "javins|pugh v\\.? holmes|hilder v\\.? st\\.? peter|green v\\.? superior court|blackett",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0455",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jerman|heintz v\\.? jenkins|clomon v\\.? jackson|russell v\\.? equifax|obduskey",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0457",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "burlington northern|crawford v\\.? metropolitan|university of texas v\\.? nassar|lawson v\\.? ftc",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0458",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "aronson v\\.? lewis|zapata|rales v\\.? blasband|united food v\\.? zuckerberg|marchand",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0464",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "matter of silva-?trevino|moncrieffe|mellouli|descamps|matter of diaz-?lizarraga",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0469",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sleekcraft|polaroid|du pont|two pesos|virgin enterprises",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0481",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "terry v\\.? ohio|wardlow|arvizu|sokolow|navarette",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0484",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0485",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "midlantic national bank|in re timbers of inwood|city of chicago v\\.? fulton|taggart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0488",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "haley v\\.? talcott|in re silver leaf|dunbar group|fisk ventures",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0499",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "campbell v\\.? acuff-?rose|google v\\.? oracle|warhol|harper & row|sony v\\.? universal",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0511",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "miranda v\\.? arizona|innis|berghuis|howes v\\.? fields|stansbury",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0514",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0515",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "barnhill v\\.? johnson|union bank v\\.? wolas|begier|deprizio",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0529",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "kewanee oil|e\\.? i\\.? du pont v\\.? christopher|rockwell graphic|ruckelshaus",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0541",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? leon|mapp v\\.? ohio|herring|davis v\\.? united states|krull",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0545",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "brunner v\\.? new york|in re gerhardt|in re long|educational credit v\\.? polleys",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0546",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "koon v\\.? united states|pierce v\\.? underwood|anderson v\\.? bessemer|cooter & gell",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0555",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "howard v\\.? kunto|mannillo v\\.? gorski|van valkenburgh|marengo cave",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0559",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ccnv v\\.? reid|community for creative non-?violence|aymes v\\.? bonelli|martha graham",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0570",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "crisci|comunale v\\.? traders|gruenberg|campbell v\\.? state farm|anderson v\\.? continental",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0571",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "riley v\\.? california|carpenter|arizona v\\.? gant|chimel",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0572",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan|gertz|curtis publishing|hustler|firestone",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0576",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? olano|puckett v\\.? united states|johnson v\\.? united states|rosales-?mireles",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0581",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harlow v\\.? fitzgerald|pearson v\\.? callahan|saucier|graham v\\.? connor|kisela|mullenix",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0585",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "othen v\\.? rosier|finn v\\.? williams|granite properties|schwab v\\.? timmons",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0586",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh|logotheti",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0600",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|buss v\\.? superior court|montrose|horace mann|aerojet",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0601",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "strickland|padilla|hill v\\.? lockhart|cronic|lafler",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0602",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "katz v\\.? united states|shulman v\\.? group w|dietemann|hamberger|bartnicki",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0610",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "palsgraf|carroll towing|kinsman|petition of kinsman",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0611",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "monell|city of canton|pembaur|connick v\\.? thompson|board of county comm",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0615",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0616",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re estate of gonzalez|estate of muder|succession of burke|in re will of ranney",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0618",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "palmore v\\.? sidoti|troxel|painter v\\.? bannister|burgess|ex parte devine",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0625",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "canterbury v\\.? spence|schloendorff|natanson|cobbs v\\.? grant|salgo",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0626",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "tameny|petermann|palmateer|sheets v\\.? teddy's|gantt",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0630",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "allstate v\\.? boynton|tucker v\\.? metropolitan|burnham|cunningham v\\.? insurance",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0632",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "hustler|snyder v\\.? phelps|womack|state rubbish",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0639",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "celotex|liberty lobby|matsushita",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0640",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0641",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "estelle v\\.? gamble|farmer v\\.? brennan|wilson v\\.? seiter|helling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0642",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? goetz|state v\\.? norman|beard v\\.? united states|brown v\\.? united states",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0643",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jacob & youngs|k & g construction|walker & co|plante v\\.? jacobs",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0645",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "nahrstedt|shelley v\\.? kraemer|tulk v\\.? moxhay|neponsit|sanborn v\\.? mclean",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0646",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harvard college v\\.? amory|in re estate of janes|meinhard v\\.? salmon|shriners hospitals",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0648",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "painter v\\.? painter|o'brien v\\.? o'brien|rothman|pereira v\\.? pereira|van camp",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0655",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0656",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "meritor|harris v\\.? forklift|faragher|burlington industries|oncale",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0660",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|montrose|garvey v\\.? state farm|bank of the west",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0669",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "twombly|iqbal|conley v\\.? gibson",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0670",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0671",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "perry education|hague v\\.? cio|reed v\\.? town of gilbert|cornelius|ward v\\.? rock",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0672",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? stamp|state v\\.? canola|enmund|tison v\\.? arizona|people v\\.? washington",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0673",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "priebe & sons|wassenaar|lake river|truck rent-?a-?center",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0674",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "state farm mutual|overton park|fcc v\\.? fox|dhs v\\.? regents|motor vehicle manufacturers",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0676",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan v\\.? burkin|newman v\\.? dore|in re estate of cross|seifert v\\.? southern",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0678",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0682",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "daubert|kumho|joiner|frye",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0686",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "bdo seidman|reed roberts|mitchel v\\.? reynolds|edwards v\\.? arthur andersen",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0699",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "international shoe|daimler|ford motor|burger king|asahi|hanson v\\.? denckla|world-?wide volkswagen",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0700",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0701",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "carolene products|korematsu|loving v\\.? virginia|city of cleburne|adarand|craig v\\.? boren",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0702",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? jenkins|turner v\\.? united states|united states v\\.? blue|county court",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0703",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ricketts v\\.? scothorn|feinberg|hoffman v\\.? red owl|drennan|allegheny college",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0704",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "mccarthy v\\.? madigan|woodford v\\.? ngo|darby v\\.? cisneros|ross v\\.? blake",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0707",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "hensley|perdue|blum v\\.? stenson|city of burlington|buckhannon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0708",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "simeone v\\.? simeone|posner v\\.? posner|button v\\.? button|deLorean|newman v\\.? newman",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0712",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "crawford|davis v\\.? washington|tome|idaho v\\.? wright|white v\\.? illinois",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0716",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "us airways v\\.? barnett|toyota v\\.? williams|barnett|humiston-?keeling|eeoc v\\.? abercrombie",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0717",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "walkovszky|sea-?land services|dewitt truck brokers|bartle|minton v\\.? cavaney",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0723",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re monreal|in re recinas|in re andazola|wilkinson v\\.? garland",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0729",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rotella|urie v\\.? thompson|kubrick|merck|trw v\\.? andrews",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0730",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ira s\\.? bushey|faragher|burlington industries|meyer v\\.? holley",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0732",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "birchfield|mcneely|schmerber|mitchell v\\.? wisconsin|south dakota v\\.? neville",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0733",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "masterson v\\.? sine|mitchill v\\.? lath|pacific gas|thompson v\\.? libby",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0734",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "biestek v\\.? berryhill|richardson v\\.? perales|bowen v\\.? yuckert|sullivan v\\.? zebley",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0737",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "winter|munaf|ebay|nken|sampson v\\.? murray",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0738",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "santosky|lassiter|m\\.? l\\.? b\\.? v\\.? s\\.? l\\.? j\\.?|stanley v\\.? illinois",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0742",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "zolin|upjohn|clark v\\.? united states|nixon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0743",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0746",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "encino motorcars|christopher v\\.? smithkline|auer v\\.? robbins|helix energy",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0747",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "smith v\\.? van gorkom|aronson v\\.? lewis|shlensky v\\.? wrigley|guth v\\.? loft|sinclair oil",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0753",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ins v\\.? cardoza-?fonseca|matter of acosta|ins v\\.? elias-?zacarias|matter of m-?e-?v-?g",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0759",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "dukes|amchem|behrend|falcon",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0760",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gore|campbell|exxon shipping|haslip|kolstad",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0763",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "williams v\\.? walker-?thomas|armendariz|henningsen|jones v\\.? star credit",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0768",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "baures v\\.? lewis|tropea|burgess|lamusga|ireland v\\.? ireland",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0772",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "huddleston|old chief|michelson|dowling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0773",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "javins|pugh v\\.? holmes|hilder v\\.? st\\.? peter|green v\\.? superior court|blackett",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0774",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jerman|heintz v\\.? jenkins|clomon v\\.? jackson|russell v\\.? equifax|obduskey",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0776",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "burlington northern|crawford v\\.? metropolitan|university of texas v\\.? nassar|lawson v\\.? ftc",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0777",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "aronson v\\.? lewis|zapata|rales v\\.? blasband|united food v\\.? zuckerberg|marchand",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0783",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "matter of silva-?trevino|moncrieffe|mellouli|descamps|matter of diaz-?lizarraga",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0788",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sleekcraft|polaroid|du pont|two pesos|virgin enterprises",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0800",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "terry v\\.? ohio|wardlow|arvizu|sokolow|navarette",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0803",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0804",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "midlantic national bank|in re timbers of inwood|city of chicago v\\.? fulton|taggart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0807",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "haley v\\.? talcott|in re silver leaf|dunbar group|fisk ventures",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0818",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "campbell v\\.? acuff-?rose|google v\\.? oracle|warhol|harper & row|sony v\\.? universal",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0830",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "miranda v\\.? arizona|innis|berghuis|howes v\\.? fields|stansbury",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0833",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0834",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "barnhill v\\.? johnson|union bank v\\.? wolas|begier|deprizio",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0848",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "kewanee oil|e\\.? i\\.? du pont v\\.? christopher|rockwell graphic|ruckelshaus",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0860",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? leon|mapp v\\.? ohio|herring|davis v\\.? united states|krull",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0864",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "brunner v\\.? new york|in re gerhardt|in re long|educational credit v\\.? polleys",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0865",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "koon v\\.? united states|pierce v\\.? underwood|anderson v\\.? bessemer|cooter & gell",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0874",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "howard v\\.? kunto|mannillo v\\.? gorski|van valkenburgh|marengo cave",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0878",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "ccnv v\\.? reid|community for creative non-?violence|aymes v\\.? bonelli|martha graham",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0889",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "crisci|comunale v\\.? traders|gruenberg|campbell v\\.? state farm|anderson v\\.? continental",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0890",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "riley v\\.? california|carpenter|arizona v\\.? gant|chimel",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0891",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan|gertz|curtis publishing|hustler|firestone",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0895",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "united states v\\.? olano|puckett v\\.? united states|johnson v\\.? united states|rosales-?mireles",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0900",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harlow v\\.? fitzgerald|pearson v\\.? callahan|saucier|graham v\\.? connor|kisela|mullenix",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0904",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "othen v\\.? rosier|finn v\\.? williams|granite properties|schwab v\\.? timmons",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0905",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re estate of maheras|haynes v\\.? first national|estate of lakatosh|logotheti",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0919",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|buss v\\.? superior court|montrose|horace mann|aerojet",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0920",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "strickland|padilla|hill v\\.? lockhart|cronic|lafler",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0921",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "katz v\\.? united states|shulman v\\.? group w|dietemann|hamberger|bartnicki",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0929",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "palsgraf|carroll towing|kinsman|petition of kinsman",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0930",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "monell|city of canton|pembaur|connick v\\.? thompson|board of county comm",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0934",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0935",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "in re estate of gonzalez|estate of muder|succession of burke|in re will of ranney",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0937",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "palmore v\\.? sidoti|troxel|painter v\\.? bannister|burgess|ex parte devine",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0944",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "canterbury v\\.? spence|schloendorff|natanson|cobbs v\\.? grant|salgo",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0945",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "tameny|petermann|palmateer|sheets v\\.? teddy's|gantt",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0949",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "allstate v\\.? boynton|tucker v\\.? metropolitan|burnham|cunningham v\\.? insurance",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0951",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "hustler|snyder v\\.? phelps|womack|state rubbish",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0958",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "celotex|liberty lobby|matsushita",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0959",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0960",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "estelle v\\.? gamble|farmer v\\.? brennan|wilson v\\.? seiter|helling",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0961",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? goetz|state v\\.? norman|beard v\\.? united states|brown v\\.? united states",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0962",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "jacob & youngs|k & g construction|walker & co|plante v\\.? jacobs",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0964",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "nahrstedt|shelley v\\.? kraemer|tulk v\\.? moxhay|neponsit|sanborn v\\.? mclean",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0965",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "harvard college v\\.? amory|in re estate of janes|meinhard v\\.? salmon|shriners hospitals",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0967",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "painter v\\.? painter|o'brien v\\.? o'brien|rothman|pereira v\\.? pereira|van camp",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0974",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0975",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "meritor|harris v\\.? forklift|faragher|burlington industries|oncale",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0979",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "gray v\\.? zurich|montrose|garvey v\\.? state farm|bank of the west",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0988",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "twombly|iqbal|conley v\\.? gibson",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0989",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "rowland v\\.? christian|kermarec|basso v\\.? miller|heins v\\.? webster|hoffner|lau'?s?\\s*corp|entrevia|marshall v\\.? burger king|ward v\\.? k\\s*mart",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0990",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "perry education|hague v\\.? cio|reed v\\.? town of gilbert|cornelius|ward v\\.? rock",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0991",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "people v\\.? stamp|state v\\.? canola|enmund|tison v\\.? arizona|people v\\.? washington",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0992",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "priebe & sons|wassenaar|lake river|truck rent-?a-?center",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0993",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "state farm mutual|overton park|fcc v\\.? fox|dhs v\\.? regents|motor vehicle manufacturers",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0995",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": "sullivan v\\.? burkin|newman v\\.? dore|in re estate of cross|seifert v\\.? southern",
+   "wantFlags": "i"
+  },
+  {
+   "id": "rw-0997",
+   "mustBeInScope": true,
+   "mustRespectDates": false,
+   "mustBePublished": true,
+   "verifyBooleanText": false,
+   "wantCaseName": null,
+   "wantFlags": "i"
+  }
+ ]
+}
