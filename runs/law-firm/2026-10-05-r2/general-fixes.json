@@ -1,0 +1,1362 @@
+[
+ {
+  "code": "landmark_missing_bank",
+  "title": "Controlling landmark for the doctrine not in the top 10 of an in-scope boolean search.",
+  "area": "search",
+  "count": 557,
+  "examples": [
+   "LF-BS-0011 [CA + federal] (\"second amendment\" OR \"keep and bear arms\") /s \"historical tradition\" → want bruen|heller|mcdonald|rahimi",
+   "LF-BS-0019 [4 Cir.] (retaliation OR \"protected activity\") /s \"materially adverse\" → want burlington n|nassar|crawford v\\. metro|t",
+   "LF-BS-0028 [9 Cir.] (\"likelihood of confusion\" OR \"sleekcraft factors\") /s trademark → want sleekcraft|amf inc",
+   "LF-BS-0031 [5 Cir.] \"economic substance\" & \"business purpose\" % criminal → want gregory v\\. helvering|frank lyon|knetsch",
+   "LF-BS-0049 [5 Cir.] (\"mcdonnell douglas\" OR \"burden-shifting\") /s pretext → want mcdonnell douglas|burdine|st\\. mary|reev",
+   "LF-BS-0054 [4 Cir.] \"automatic stay\" w/s \"section 362\" → want city of chicago v\\. fulton|strumpf",
+   "LF-BS-0055 [OH + federal] jeopard! /25 \"multiple punishments\" → want blockburger|united states v\\. dixon|gamb",
+   "LF-BS-0057 [DE state courts] \"business judgment rule\" & \"duty of care\" % criminal → want aronson|smith v\\. van gorkom|unocal|revl"
+  ]
+ },
+ {
+  "code": "goodlaw_unknown",
+  "title": "No good-law determination (\"unknown\") for a reported case.",
+  "area": "goodlaw",
+  "count": 151,
+  "examples": [
+   "LF-GL-0252 AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)",
+   "LF-GL-0266 eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388 (2006)",
+   "LF-GL-0271 Google LLC v. Oracle Am., Inc., 593 U.S. 1 (2021)",
+   "LF-GL-0321 Revlon, Inc. v. MacAndrews & Forbes Holdings, Inc., 506 A.2d",
+   "LF-GL-0459 Perez v. Cleveland, 78 Ohio St. 3d 376 (Ohio 1997)",
+   "LF-GL-0460 Sweaney v. District Court In & For the Eighteenth Judicial D",
+   "LF-GL-0461 United States v. 23 7/12 Dozen Bottles, 44 F.2d 831 (2012)",
+   "LF-GL-0462 Allen v. Allen, 789 S.E.2d 787 (Va. Ct. App. 2016)"
+  ]
+ },
+ {
+  "code": "landmark_missing_carried",
+  "title": "Carried-forward realworld boolean row lost its landmark.",
+  "area": "search",
+  "count": 138,
+  "examples": [
+   "rw-0004 [all_federal] \"self defense\" /s \"imminent\" AND (\"reasonable belief\" OR \"stand your g → want people v\\.? goetz|state v\\.? norman|bear",
+   "rw-0005 [all_federal] \"material breach\" /s \"substantial performance\" NOT construction → want jacob & youngs|k & g construction|walker",
+   "rw-0007 [all_federal] \"homeowners association\" /p (\"restrictive covenant\" OR \"architectural\" → want nahrstedt|shelley v\\.? kraemer|tulk v\\.?",
+   "rw-0008 [all_federal] trustee /p (\"prudent investor\" OR \"duty of loyalty\") AND breach → want harvard college v\\.? amory|in re estate ",
+   "rw-0010 [all_federal] \"equitable distribution\" /p (\"separate property\" OR commingled) → want painter v\\.? painter|o'brien v\\.? o'brie",
+   "rw-0022 [all_federal] exclusion /s ambiguous AND \"construed against the insurer\" → want gray v\\.? zurich|montrose|garvey v\\.? st",
+   "rw-0031 [all_federal] \"motion to dismiss\" /p \"plausible on its face\" NOT arbitration → want twombly|iqbal|conley v\\.? gibson",
+   "rw-0036 [all_federal] \"arbitrary and capricious\" /s (\"reasoned explanation\" OR \"state farm\") → want state farm mutual|overton park|fcc v\\.? "
+  ]
+ },
+ {
+  "code": "search_empty_keyed",
+  "title": "Empty result page for an in-scope doctrine query that has a controlling landmark.",
+  "area": "search",
+  "count": 106,
+  "examples": [
+   "LF-BS-0031 [5 Cir.] \"economic substance\" & \"business purpose\" % criminal",
+   "LF-BS-0057 [DE state courts] \"business judgment rule\" & \"duty of care\" % criminal",
+   "LF-BS-0159 [all_federal] \"qualified immunity\" & \"constitutional right\" % contract",
+   "LF-BS-0171 [us_supreme_court] obvious! /25 \"ordinary skill\"",
+   "LF-BS-0209 [6 Cir.] \"age discrimination\" & \"but-for\" % criminal",
+   "LF-BS-0241 [us_supreme_court] \"ineffective assistance of counsel\" & prejudice % civil",
+   "LF-BS-0405 [all_federal] nondischargeab! /p \"false pretenses\" & debtor",
+   "LF-BS-0407 [all_federal] \"motion to compel arbitration\" +s unconscionab!"
+  ]
+ },
+ {
+  "code": "search_duplicate_hit",
+  "title": "Same opinion (same id or same reporter cite) twice on one results page — duplicate records.",
+  "area": "data",
+  "count": 74,
+  "examples": [
+   "LF-BS-0035: Hofer v. DPHHS 2005 MT 302",
+   "LF-BS-0436: MECHANICAL AIR ENGINEER. v. Totem Const. 801 P.2d 426",
+   "LF-BS-0458: TRANSPORT v. Liberty Mut. Ins. Co. 2010 WI 49",
+   "LF-BS-0522: 62 Fair empl.prac.cas. 1289, 62 Empl. Prac. Dec. P 42,536 He 3 F.3d 1419",
+   "LF-BS-0688: DS v. East Brunswick Tp. Bd. of Ed. 458 A.2d 129",
+   "LF-BS-0950: Connolly v. Englewood Post No. 322 Veterans of Foreign Wars  139 P.3d 639",
+   "LF-BS-1054: Michigan v. Bryant 562 U.S. 344",
+   "LF-BS-1134: State Farm Mutual Automobile Insurance Co. v. Wilson 199 P.3d 581"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-para-and",
+  "title": "Returned opinion does not satisfy the connectors (template wl-para-and).",
+  "area": "search",
+  "count": 41,
+  "examples": [
+   "LF-BS-0217: \"vacate the arbitration award\" /p \"exceeded their powers\" & \"evident p → Globe Transport & Trading Ltd. v. Guthri",
+   "LF-BS-0240: \"duty to warn\" /p psychotherapist & \"identifiable victim\" → Thompson v. County of Alameda",
+   "LF-BS-0276: \"loss causation\" /p \"inflated price\" & \"economic loss\" → Leegin Creative Leather Products, Inc. v",
+   "LF-BS-0276: \"loss causation\" /p \"inflated price\" & \"economic loss\" → Matsushita Electric Industrial Co., Ltd.",
+   "LF-BS-0276: \"loss causation\" /p \"inflated price\" & \"economic loss\" → Hanover Shoe, Inc. v. United Shoe MacHin",
+   "LF-BS-0936: \"business judgment rule\" /p \"duty of care\" & director! → Gantler v. Stephens",
+   "LF-BS-1057: \"tortious interference\" /p \"business relationship\" & justif! → Hamm v. Coal",
+   "LF-BS-1057: \"tortious interference\" /p \"business relationship\" & justif! → Hanneman Family Funeral Home v. Orians"
+  ]
+ },
+ {
+  "code": "boolean_not_wl-but-not",
+  "title": "NOT / % / AND NOT exclusion ignored (template wl-but-not).",
+  "area": "search",
+  "count": 40,
+  "examples": [
+   "LF-BS-0144: \"free exercise\" & \"neutral and generally applicable\" % contract → Nicosia v. Amazon.com, Inc.",
+   "LF-BS-0144: \"free exercise\" & \"neutral and generally applicable\" % contract → Sveen v. Melin",
+   "LF-BS-0144: \"free exercise\" & \"neutral and generally applicable\" % contract → Meyer v. Uber Technologies, Inc.",
+   "LF-BS-1129: alimony & modif! % criminal → Ankenbrandt Ex Rel. L. R. v. Richards",
+   "LF-BS-1129: alimony & modif! % criminal → Waldrop v. Waldrop",
+   "LF-BS-1129: alimony & modif! % criminal → In re Green",
+   "LF-BS-1320: asylum & persecution % contract → Department of Homeland Security v. Thura",
+   "LF-BS-1524: \"child support\" & imput! % criminal → Noddin v. Noddin"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-numeric",
+  "title": "Returned opinion does not satisfy the connectors (template wl-numeric).",
+  "area": "search",
+  "count": 38,
+  "examples": [
+   "LF-BS-0433: \"diversity jurisdiction\" /10 \"amount in controversy\" → Self Storage Advisors, LLC v. SE Boise B",
+   "LF-BS-0541: \"design defect\" /10 \"consumer expectations\" → Deskevich v. Spirit Fabs, Inc.",
+   "LF-BS-0672: \"fraudulent joinder\" /10 remand → Jackson v. Morse",
+   "LF-BS-0672: \"fraudulent joinder\" /10 remand → Jenner v. CVS, Inc.",
+   "LF-BS-0769: retaliation /10 \"materially adverse\" → Northern v. White",
+   "LF-BS-0769: retaliation /10 \"materially adverse\" → Houston Community College System v. Wils",
+   "LF-BS-1260: \"medical malpractice\" /10 \"standard of care\" → Singing River Health System v. Brand",
+   "LF-BS-1465: \"prevailing party\" /10 lodestar → Bank of America, N.A. v. Mobile"
+  ]
+ },
+ {
+  "code": "result_missing_court",
+  "title": "Search hit has no court (court field null), so a firm cannot tell where it was decided and scope cannot be enforced.",
+  "area": "data",
+  "count": 36,
+  "examples": [
+   "LF-BS-0148: CEC Entertainment, Inc. 202000012134",
+   "LF-BS-0170: Crawford v. Ford Motor Company 202600020041",
+   "LF-BS-0455: Lowe v. City of Brookfield, Joshua Schaber, Brandon Schulz,  202500024994",
+   "LF-BS-0673: In re Maughan 202400000183",
+   "LF-BS-0673: Slaughter v. Board of Professional Responsibility of the Sup 202500003293",
+   "LF-BS-0829: In re Estate of Brown 201300015302",
+   "LF-BS-0838: Aizpitarte v. Minear 202200018651",
+   "LF-BS-0937: CEC Entertainment, Inc. 202000012134"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-root-para",
+  "title": "Returned opinion does not satisfy the connectors (template wl-root-para).",
+  "area": "search",
+  "count": 34,
+  "examples": [
+   "LF-BS-0612: defen! /p \"potential for coverage\" → Mount Vernon Fire Insurance Co. v. Visio",
+   "LF-BS-0612: defen! /p \"potential for coverage\" → Clear Blue Specialty Insurance Company v",
+   "LF-BS-0877: prosecut! /p \"probable cause\" → Ybarra v. Illinois",
+   "LF-BS-0888: impractic! /p frustration → McGlinchey v. Aetna Casualty & Surety Co",
+   "LF-BS-1021: subrog! /p insurer → Ark. Cmty. Corr. v. Barnes",
+   "LF-BS-1152: consorti! /p spouse → Watts v. State",
+   "LF-BS-1176: impractic! /p frustration → State v. Coffman",
+   "LF-BS-1176: impractic! /p frustration → McIntosh v. United States"
+  ]
+ },
+ {
+  "code": "bluebook_name_t6_unabbreviated",
+  "title": "Case-name words that T6 abbreviates are spelled out (Company, Corporation, Department, Insurance, Association…) (Rule 10.2.2).",
+  "area": "bluebook",
+  "count": 34,
+  "examples": [
+   "LF-BB-0001 → Elam v. Commissioner of Soc. Sec., 348 F.3d 124 (6th Cir. 2003)",
+   "LF-BB-0014 → Lesesne v. District of Columbia, 447 F.3d 828 (D.C. Cir. 2006)",
+   "LF-BB-0057 → Eley v. District of Columbia, 417 App. D.C. 97 (D.C. Cir. 2015)",
+   "LF-BB-0075 → ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+   "LF-BB-0087 → Fleming v. Commissioner of Soc. Sec., 110 F.3d 63 (6th Cir. 1997)",
+   "LF-BB-0100 → Wall v. Cnty. of Orange, a Political Sub-Division of Cal. H. Watson, 364 F.3d 1107 (9th Cir. 2004)",
+   "LF-BB-0108 → Northern v. White, 548 U.S. 53 (2006)",
+   "LF-BB-0175 → Espinoza v. Commissioner, 636 F.3d 747 (5th Cir. 2011)"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-ordered",
+  "title": "Returned opinion does not satisfy the connectors (template wl-ordered).",
+  "area": "search",
+  "count": 31,
+  "examples": [
+   "LF-BS-0120: \"fair use\" +s copyright → New York Times Co. v. Tasini",
+   "LF-BS-0133: \"age discrimination\" +s \"but-for\" → Browning v. United States",
+   "LF-BS-0133: \"age discrimination\" +s \"but-for\" → Cambra v. Exploration",
+   "LF-BS-0133: \"age discrimination\" +s \"but-for\" → 47 Fair empl.prac.cas. 865, 43 Empl. Pra",
+   "LF-BS-0468: \"free exercise\" +s \"neutral and generally applicable\" → United States v. Sineneng-Smith",
+   "LF-BS-0805: \"attorney-client privilege\" +s waiv! → Gomez v. Vernon",
+   "LF-BS-0805: \"attorney-client privilege\" +s waiv! → Jablonski v. Special Counsel, Inc.",
+   "LF-BS-0996: \"open and obvious\" +s invitee → Humphries v. Eighth Judicial District Co"
+  ]
+ },
+ {
+  "code": "goodlaw_missed_hard_reversed-below",
+  "title": "Overruled or reversed case reported as clean good law (false clean bill of health).",
+  "area": "goodlaw",
+  "count": 29,
+  "examples": [
+   "LF-GL-0082 Twombly v. Bell Atl. Corp., 425 F.3d 99 (2d Cir. 2005) → unknown [reversed by Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007)]",
+   "LF-GL-0083 Iqbal v. Hasty, 490 F.3d 143 (2d Cir. 2007) → unknown [reversed by Ashcroft v. Iqbal, 556 U.S. 662 (2009)]",
+   "LF-GL-0084 Jackson Women's Health Org. v. Dobbs, 945 F.3d 265 (5th Cir. → unknown [reversed by Dobbs v. Jackson Women's Health Org., 597 U.S. 215]",
+   "LF-GL-0085 Loper Bright Enters., Inc. v. Raimondo, 45 F.4th 359 (D.C. C → unknown [vacated by Loper Bright Enters. v. Raimondo, 603 U.S. 369 (20]",
+   "LF-GL-0087 Shelby Cnty. v. Holder, 679 F.3d 848 (D.C. Cir. 2012) → unknown [reversed by Shelby Cnty. v. Holder, 570 U.S. 529 (2013)]",
+   "LF-GL-0088 DeBoer v. Snyder, 772 F.3d 388 (6th Cir. 2014) → unknown [reversed by Obergefell v. Hodges, 576 U.S. 644 (2015)]",
+   "LF-GL-0090 Lewis v. Epic Sys. Corp., 823 F.3d 1147 (7th Cir. 2016) → unknown [reversed by Epic Sys. Corp. v. Lewis, 584 U.S. 497 (2018)]",
+   "LF-GL-0096 Ricci v. DeStefano, 530 F.3d 87 (2d Cir. 2008) → unknown [reversed by Ricci v. DeStefano, 557 U.S. 557 (2009)]"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_redundant_court",
+  "title": "Wrong verdict on a slightly-off cite (redundant_court).",
+  "area": "bluebook",
+  "count": 29,
+  "examples": [
+   "LF-BB-0901 \"Kennedy v. Bremerton Sch. Dist., 597 U.S. 507 (U.S. 2022)\" → name_mismatch",
+   "LF-BB-0904 \"Rawlings v. Kentucky, 448 U.S. 98 (U.S. 1980)\" → name_mismatch",
+   "LF-BB-0905 \"Plessy v. Ferguson, 163 U.S. 537 (U.S. 1896)\" → name_mismatch",
+   "LF-BB-0907 \"Michigan v. Jackson, 475 U.S. 625 (U.S. 1986)\" → name_mismatch",
+   "LF-BB-0908 \"Procunier v. Martinez, 416 U.S. 396 (U.S. 1974)\" → name_mismatch",
+   "LF-BB-0909 \"Grutter v. Bollinger, 539 U.S. 306 (U.S. 2003)\" → name_mismatch",
+   "LF-BB-0911 \"Brown v. Bd. of Educ., 347 U.S. 483 (U.S. 1954)\" → name_mismatch",
+   "LF-BB-0914 \"J. McIntyre Mach., Ltd. v. Nicastro, 564 U.S. 873 (U.S. 2011)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-but-not",
+  "title": "Returned opinion does not satisfy the connectors (template wl-but-not).",
+  "area": "search",
+  "count": 28,
+  "examples": [
+   "LF-BS-0060: \"vacate the arbitration award\" & \"exceeded their powers\" % criminal → At&T Technologies, Inc. v. Workers",
+   "LF-BS-0060: \"vacate the arbitration award\" & \"exceeded their powers\" % criminal → Seifert v. US Home Corp.",
+   "LF-BS-0060: \"vacate the arbitration award\" & \"exceeded their powers\" % criminal → Prima Paint Corp. v. Flood & Conklin Mfg",
+   "LF-BS-0156: \"attorney-client privilege\" & waiv! % immigration → In re Kozlov",
+   "LF-BS-0444: \"second amendment\" & \"historical tradition\" % contract → State v. Fadness",
+   "LF-BS-1308: \"rule 11\" & sanction! % habeas → Ex parte Hankook Tire America Corporatio",
+   "LF-BS-1308: \"rule 11\" & sanction! % habeas → Honea v. Raymond James Fin. Servs., Inc.",
+   "LF-BS-1308: \"rule 11\" & sanction! % habeas → Northstar Anesthesia of Alabama, LLC v. "
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_lx-w-p-and",
+  "title": "Returned opinion does not satisfy the connectors (template lx-w-p-and).",
+  "area": "search",
+  "count": 28,
+  "examples": [
+   "LF-BS-0096: \"market share liability\" w/p des and manufacturer → McLaughlin v. Michelin Tire Corp.",
+   "LF-BS-0096: \"market share liability\" w/p des and manufacturer → Schneider National, Inc. v. Holland Hitc",
+   "LF-BS-0096: \"market share liability\" w/p des and manufacturer → Chrysler Corp. v. Todorovich",
+   "LF-BS-0300: \"fair use\" w/p copyright and \"market harm\" → InSync Training, LLC v. American Society",
+   "LF-BS-0300: \"fair use\" w/p copyright and \"market harm\" → Coach, Inc. v. Sapatis",
+   "LF-BS-0300: \"fair use\" w/p copyright and \"market harm\" → D’Pergo Custom Guitars, Inc v. P Sweetwa",
+   "LF-BS-0684: \"modification of the trust\" w/p settlor and beneficiar! → In re the Estate of Hunter",
+   "LF-BS-0684: \"modification of the trust\" w/p settlor and beneficiar! → In re the Estate of Stralem"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_vendor_cite",
+  "title": "Wrong verdict on a slightly-off cite (vendor_cite).",
+  "area": "bluebook",
+  "count": 28,
+  "examples": [
+   "LF-BB-0751 \"United States v. Nichols, 1994 WL 119002 (D.C. Cir. 1994)\" → name_mismatch",
+   "LF-BB-0752 \"United States v. Ganoe, 2015 WL 4430466 (9th Cir. 2008)\" → name_mismatch",
+   "LF-BB-0753 \"Moore v. Quarterman, 2012 WL 3996836 (5th Cir. 2008)\" → not_covered",
+   "LF-BB-0754 \"McKinney v. Ryan, 2014 WL 1013859 (9th Cir. 2013)\" → name_mismatch",
+   "LF-BB-0759 \"United States v. Lyons, 2015 WL 4899590 (6th Cir. 2012)\" → not_covered",
+   "LF-BB-0762 \"United States v. Begay, 1998 WL 17765 (10th Cir. 1998)\" → name_mismatch",
+   "LF-BB-0763 \"United States v. Baston, 2016 WL 1162202 (11th Cir. 2016)\" → not_covered",
+   "LF-BB-0767 \"Laster v. Dist. of Columbia, 2013 WL 5460281 (D.D.C. 2005)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_lx-w-n",
+  "title": "Returned opinion does not satisfy the connectors (template lx-w-n).",
+  "area": "search",
+  "count": 27,
+  "examples": [
+   "LF-BS-0180: \"open and obvious\" w/15 (invitee or \"duty to warn\") → Rowland v. Christian",
+   "LF-BS-0192: retaliation w/15 (\"materially adverse\" or \"causal connection\") → Miller v. Wachovia Bank, N.A.",
+   "LF-BS-0925: \"eminent domain\" w/15 (\"just compensation\" or taking) → City of Wilmington Ex Rel. Water Departm",
+   "LF-BS-1177: \"child support\" w/15 (imput! or underemploy!) → In re: Marriage of Houser",
+   "LF-BS-1177: \"child support\" w/15 (imput! or underemploy!) → Prince George's Cnty. Office of Child Su",
+   "LF-BS-1272: retaliation w/15 (\"materially adverse\" or \"causal connection\") → Drake v. Minnesota Mining & Manufacturin",
+   "LF-BS-1812: \"proportional to the needs of the case\" w/15 (discovery or \"undue burd → Bretherick v. Florida",
+   "LF-BS-1812: \"proportional to the needs of the case\" w/15 (discovery or \"undue burd → Bainter v. League of Women Voters of Flo"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-root-near",
+  "title": "Returned opinion does not satisfy the connectors (template wl-root-near).",
+  "area": "search",
+  "count": 26,
+  "examples": [
+   "LF-BS-0264: relocat! /25 \"best interests of the child\" → In re Dependency of K.W.",
+   "LF-BS-0312: capaci! /25 \"natural objects of his bounty\" → Diaz, Jimmy",
+   "LF-BS-0504: substan! /25 commissioner → Skarbek, Norbert v. Barnhart, Jo Anne",
+   "LF-BS-1633: tortfeas! /25 apportion! → Medical Mutual Ins. Co. of NC v. Mauldin",
+   "LF-BS-2017: premis! /25 \"duty to warn\" → Shell v. Missouri Pacific Railroad Compa",
+   "LF-BS-2017: premis! /25 \"duty to warn\" → Robinson v. Brandtjen & Kluge, Inc.",
+   "LF-BS-2017: premis! /25 \"duty to warn\" → Murphy v. L & J Press Corporation",
+   "LF-BS-2413: removab! /25 removab! → Oche v. Robert Cerna et al."
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_lx-w-s",
+  "title": "Returned opinion does not satisfy the connectors (template lx-w-s).",
+  "area": "search",
+  "count": 25,
+  "examples": [
+   "LF-BS-0036: \"actual malice\" w/s \"public figure\" → New York Times Co. v. Sullivan",
+   "LF-BS-0372: \"malicious prosecution\" w/s \"probable cause\" → Illinois v. Gates",
+   "LF-BS-0420: \"equitable distribution\" w/s \"nonmarital\" → Bradshaw v. Bradshaw",
+   "LF-BS-0420: \"equitable distribution\" w/s \"nonmarital\" → Stafford v. Stafford",
+   "LF-BS-0420: \"equitable distribution\" w/s \"nonmarital\" → Moroch v. Collins",
+   "LF-BS-0732: \"prior bad acts\" w/s \"other crimes\" → Thomas v. Commonwealth",
+   "LF-BS-0829: \"modification of the trust\" w/s settlor → In re Elizabeth Beck Hoisington Living T",
+   "LF-BS-0876: monell w/s \"policy or custom\" → Monell v. New York City Dept. of Social "
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-sentence",
+  "title": "Returned opinion does not satisfy the connectors (template wl-sentence).",
+  "area": "search",
+  "count": 24,
+  "examples": [
+   "LF-BS-1044: \"hostile work environment\" /s \"severe or pervasive\" → Meritor Savings Bank v. Vinson",
+   "LF-BS-1896: \"rule of reason\" /s \"anticompetitive effects\" → Eastman Kodak Co. v. Image Technical Ser",
+   "LF-BS-2400: \"negligence per se\" /s \"class of persons\" → Townsend v. Noah Pierre (072357)",
+   "LF-BS-2400: \"negligence per se\" /s \"class of persons\" → Nisivoccia v. Glass Gardens, Inc.",
+   "LF-BS-2400: \"negligence per se\" /s \"class of persons\" → Qian v. Toll Brothers, Inc. (073982)",
+   "LF-BS-2461: \"free exercise\" /s \"neutral and generally applicable\" → State v. Arlene's Flowers, Inc.",
+   "LF-BS-2532: \"claim construction\" /s specification → OPTRONIC SCIENCES LLC v. BOE Technology ",
+   "LF-BS-2532: \"claim construction\" /s specification → NEC Corporation v. Anker Innovations Tec"
+  ]
+ },
+ {
+  "code": "opinion_no_star_paging",
+  "title": "No star paging (*page markers) — a firm cannot pin-cite the reporter from this text.",
+  "area": "opinion",
+  "count": 22,
+  "examples": [
+   "LF-OP-008 200198600000147 Celotex Corp. v. Catrett",
+   "LF-OP-010 200198600000051 Matsushita Electric Industrial Co., Ltd. v. Zenith",
+   "LF-OP-009 200198600000144 Anderson v. Liberty Lobby, Inc.",
+   "LF-OP-015 200198400000093 Strickland v. Washington",
+   "LF-OP-067 300201900010430 United States v. Buren",
+   "LF-OP-069 300202000002344 Vip Products LLC v. Jack Daniel's Properties, Inc.",
+   "LF-OP-071 300198200006460 Natural Resources Defense Council, Inc. v. Gorsuch",
+   "LF-OP-072 300198500002285 Catrett v. Johns-Manville Sales Corporation"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_wl-or-group",
+  "title": "Returned opinion does not satisfy the connectors (template wl-or-group).",
+  "area": "search",
+  "count": 21,
+  "examples": [
+   "LF-BS-0049: (\"mcdonnell douglas\" OR \"burden-shifting\") /s pretext → Medina v. Univ of Mississippi",
+   "LF-BS-0492: (\"reasonable accommodation\" OR \"undue hardship\") /s \"interactive proce → Trans World Airlines, Inc. v. Hardison",
+   "LF-BS-0492: (\"reasonable accommodation\" OR \"undue hardship\") /s \"interactive proce → Smith v. Publishing",
+   "LF-BS-0492: (\"reasonable accommodation\" OR \"undue hardship\") /s \"interactive proce → Cehrs v. Northeast Ohio Alzheimer's Rese",
+   "LF-BS-0552: (\"design defect\" OR \"strict liability\") /s \"consumer expectations\" → Greenman v. Yuba Power Products, Inc.",
+   "LF-BS-0637: (\"public forum\" OR \"traditional public forum\") /s \"content-based\" → Cornelius v. Defense",
+   "LF-BS-0745: (\"hostile work environment\" OR \"sexual harassment\") /s \"severe or perv → Ortiz-Diaz v. United States Department o",
+   "LF-BS-0853: (\"mcdonnell douglas\" OR \"burden-shifting\") /s pretext → Trans World Airlines, Inc. v. Thurston"
+  ]
+ },
+ {
+  "code": "goodlaw_false_alarm",
+  "title": "Good law (landmark still in force) flagged as negative.",
+  "area": "goodlaw",
+  "count": 20,
+  "examples": [
+   "LF-GL-0166 Daimler AG v. Bauman, 571 U.S. 117 (2014) → questioned: BNSF RAILWAY CO. v. Kelli TYRRELL, special adminis (question",
+   "LF-GL-0192 Reynolds v. Sims, 377 U.S. 533 (1964) → questioned: CARRINGTON v. RASH Et Al. (criticized)",
+   "LF-GL-0199 Cent. Hudson Gas & Elec. Corp. v. Pub. Serv. Comm'n, 447 U.S → questioned: Borgner Et Al. v. Florida Board of Dentistry Et Al (question",
+   "LF-GL-0203 Burwell v. Hobby Lobby Stores, Inc., 573 U.S. 682 (2014) → questioned: WHEATON COLLEGE v. Sylvia BURWELL, Secretary of He (question",
+   "LF-GL-0204 Kelo v. City of New London, 545 U.S. 469 (2005) → questioned: Keith PUNTENNEY ; LaVerne I. Johnson; Richard R. L (question",
+   "LF-GL-0210 United States v. Lopez, 514 U.S. 549 (1995) → questioned: UNITED STATES v. MORRISON Et Al. — Souter, J., dis (question",
+   "LF-GL-0212 Gonzales v. Raich, 545 U.S. 1 (2005) → questioned: Lopez v. Gonzales, Attorney General (criticized)",
+   "LF-GL-0218 Seminole Tribe of Fla. v. Florida, 517 U.S. 44 (1996) → questioned: KIMEL Et Al. v. FLORIDA BOARD OF REGENTS Et Al. —  (criticiz"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_three-and",
+  "title": "Returned opinion does not satisfy the connectors (template three-and).",
+  "area": "search",
+  "count": 19,
+  "examples": [
+   "LF-BS-0373: \"underinsured motorist\" AND stacking AND policy → Pacheco v. Shelter Mutual Insurance",
+   "LF-BS-0480: homestead AND devise AND \"surviving spouse\" → Murphy v. McCloud",
+   "LF-BS-0480: homestead AND devise AND \"surviving spouse\" → Sarbacher v. McNamara",
+   "LF-BS-0480: homestead AND devise AND \"surviving spouse\" → Rockler v. Sevareid",
+   "LF-BS-0540: \"procedural due process\" AND \"property interest\" AND deprivat! → Mullane v. Central Hanover Bank & Trust ",
+   "LF-BS-0757: \"non-compete\" AND \"legitimate business interest\" AND reasonabl! → Howard v. Babcock",
+   "LF-BS-0757: \"non-compete\" AND \"legitimate business interest\" AND reasonabl! → Robinson v. U-Haul Co. of California",
+   "LF-BS-0757: \"non-compete\" AND \"legitimate business interest\" AND reasonabl! → Alliant Insurance Services, Inc. v. Gadd"
+  ]
+ },
+ {
+  "code": "search_degraded",
+  "title": "Search came back degraded (an engine failed or timed out).",
+  "area": "search",
+  "count": 19,
+  "examples": [
+   "LF-BS-0397",
+   "LF-BS-0510",
+   "LF-BS-0954",
+   "LF-BS-2034",
+   "LF-BS-2043",
+   "LF-BS-2044",
+   "LF-BS-2046",
+   "LF-BS-2047"
+  ]
+ },
+ {
+  "code": "bluebook_court_redundant",
+  "title": "Court named in the parenthetical although the reporter already identifies it (Rule 10.4(b)) — e.g. \"(U.S. 1986)\", \"(Cal. 1975)\".",
+  "area": "bluebook",
+  "count": 18,
+  "examples": [
+   "LF-BB-0151 → \"(Ga. Ct. App. 2003)\" want \"(2003)\"",
+   "LF-BB-0186 → \"(Ga. Ct. App. 2003)\" want \"(2003)\"",
+   "LF-BB-0290 → \"(Ill. App. Ct. 2005)\" want \"(2005)\"",
+   "LF-BB-0327 → \"(Vt. 2004)\" want \"(2004)\"",
+   "LF-BB-0392 → \"(Me. 2001)\" want \"(2001)\"",
+   "LF-BB-0419 → \"(Ga. 1993)\" want \"(1993)\"",
+   "LF-BB-0468 → \"(Tenn. 1911)\" want \"(1911)\"",
+   "LF-BB-0512 → \"(Ill. App. Ct. 1992)\" want \"(1992)\""
+  ]
+ },
+ {
+  "code": "bluebook_name_redundant_business_designation",
+  "title": "Case name: redundant_business_designation",
+  "area": "bluebook",
+  "count": 17,
+  "examples": [
+   "LF-BB-0053 → W & W Equip. Co., Inc. v. Mink, 568 N.E.2d 564 (Ind. Ct. App. 1991)",
+   "LF-BB-0062 → Olympic S.S. Co., Inc. v. Centennial Ins. Co., 117 Wash. 2d 37 (1991)",
+   "LF-BB-0094 → In re Focus Media, Inc., Debtor, Focus Media, Inc. v. Nat'l Broad. Co. Inc. Abc Inc. Paxson Commc'ns",
+   "LF-BB-0167 → Lugo v. Ameritech Corp., Inc., 464 Mich. 512 (2001)",
+   "LF-BB-0168 → Ross v. Stouffer Hotel Co. (Hawai'i) Ltd., 879 P.2d 1037 (Haw. 1994)",
+   "LF-BB-0187 → Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+   "LF-BB-0244 → Nishimatsu Constr. Co., Ltd. v. Houston Nat'l Bank Party v. Jack D. Baize, Third Party, 515 F.2d 120",
+   "LF-BB-0348 → Am. Mech. Corp. v. Union Mach. Co. of Lynn, Inc., 21 Mass. App. Ct. 97 (Mass. App. Ct. 1985)"
+  ]
+ },
+ {
+  "code": "opinion_page_furniture",
+  "title": "Slip-opinion page numbers / running headers left in the opinion body.",
+  "area": "opinion",
+  "count": 17,
+  "examples": [
+   "LF-OP-008 200198600000147 Celotex Corp. v. Catrett — 38 bare page-number lines, 0 running headers",
+   "LF-OP-010 200198600000051 Matsushita Electric Industrial Co., Ltd. v. Zenith — 60 bare page-number lines, 0 running headers",
+   "LF-OP-009 200198600000144 Anderson v. Liberty Lobby, Inc. — 72 bare page-number lines, 0 running headers",
+   "LF-OP-015 200198400000093 Strickland v. Washington — 114 bare page-number lines, 0 running headers",
+   "LF-OP-020 200201500000051 Obergefell v. Hodges — 6 bare page-number lines, 0 running headers",
+   "LF-OP-022 200200800000002 District of Columbia v. Heller — 6 bare page-number lines, 0 running headers",
+   "LF-OP-023 201000001691 McDonald v. City of Chicago — 12 bare page-number lines, 0 running headers",
+   "LF-OP-025 201000000518 Citizens United v. Federal Election Commission — 7 bare page-number lines, 0 running headers"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_and-not",
+  "title": "Returned opinion does not satisfy the connectors (template and-not).",
+  "area": "search",
+  "count": 16,
+  "examples": [
+   "LF-BS-0048: \"equitable distribution\" AND \"nonmarital\" AND NOT criminal → Cassara v. Cassara",
+   "LF-BS-0073: \"personal jurisdiction\" AND \"minimum contacts\" AND NOT divorce → International Shoe Co. v. Washington",
+   "LF-BS-0516: homestead AND devise AND NOT criminal → First National Bank & Trust Co. v. Sandi",
+   "LF-BS-0852: \"fraudulent inducement\" AND \"justifiable reliance\" AND NOT criminal → Brungard v. Caprice Records, Inc.",
+   "LF-BS-0852: \"fraudulent inducement\" AND \"justifiable reliance\" AND NOT criminal → Brown v. Raines",
+   "LF-BS-0865: \"diversity jurisdiction\" AND \"amount in controversy\" AND NOT bankruptc → Gaus v. Miles, Inc.",
+   "LF-BS-1236: \"pierce the corporate veil\" AND undercapitaliz! AND NOT criminal → Gallagher v. Persha",
+   "LF-BS-1236: \"pierce the corporate veil\" AND undercapitaliz! AND NOT criminal → Glenn v. TPI Petroleum, Inc."
+  ]
+ },
+ {
+  "code": "search_empty_but_not",
+  "title": "Westlaw \"%\" (BUT NOT) query returns nothing in a nationwide scope — the % operator is not parsed (the same exclusion written \"AND NOT\" returns results).",
+  "area": "search",
+  "count": 15,
+  "examples": [
+   "LF-BS-0159 [keyword] \"qualified immunity\" & \"constitutional right\" % contract",
+   "LF-BS-0223 [keyword] \"proportional to the needs of the case\" & discovery % habeas",
+   "LF-BS-1011 [keyword] \"parol evidence rule\" & integrat! % criminal",
+   "LF-BS-1061 [keyword] \"additional insured\" & \"arising out of\" % criminal",
+   "LF-BS-1083 [keyword] \"double jeopardy\" & blockburger % civil",
+   "LF-BS-1473 [keyword] monell & \"policy or custom\" % contract",
+   "LF-BS-1709 [keyword] \"deceptive and unfair trade practices\" & consumer % criminal",
+   "LF-BS-2185 [keyword] \"automobile exception\" & \"probable cause\" % civil"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_pin_as_first_page",
+  "title": "Wrong verdict on a slightly-off cite (pin_as_first_page).",
+  "area": "bluebook",
+  "count": 15,
+  "examples": [
+   "LF-BB-0651 \"Harrell v. City of Norfolk, 265 Va. 505 (2003)\" → name_mismatch",
+   "LF-BB-0652 \"Pizza v. Workers' Comp. Appeals Bd., 51 Cal. Rptr. 3d 122 (Cal. Ct. Ap\" → not_in_corpus",
+   "LF-BB-0657 \"Pearson v. Lincoln Tel. Co., 513 N.W.2d 365 (Neb. Ct. App. 1994)\" → not_in_corpus",
+   "LF-BB-0661 \"Careau & Co. v. Sec. Pac. Bus. Credit, Inc., 222 Cal. App. 3d 1376 (19\" → not_in_corpus",
+   "LF-BB-0662 \"Lewis v. Rick Thaler, Dir., 701 F.3d 786 (5th Cir. 2012)\" → not_in_corpus",
+   "LF-BB-0664 \"Kent Cnty. Bd. of Educ. v. Bilbrough, 309 Md. 490 (1987)\" → not_in_corpus",
+   "LF-BB-0665 \"Hyland v. State, 660 So. 2d 1192 (Fla. Dist. Ct. App. 1995)\" → not_in_corpus",
+   "LF-BB-0668 \"Haskill v. Andros, 4 Vt. 613 (1832)\" → not_in_corpus"
+  ]
+ },
+ {
+  "code": "search_empty_broad",
+  "title": "Nationwide-scope boolean query on a mainstream doctrine returns an empty page.",
+  "area": "search",
+  "count": 14,
+  "examples": [
+   "LF-BS-0405 [keyword] nondischargeab! /p \"false pretenses\" & debtor",
+   "LF-BS-0407 [keyword] \"motion to compel arbitration\" +s unconscionab!",
+   "LF-BS-1251 [keyword] nondischargeab! w/15 (\"false pretenses\" or debtor)",
+   "LF-BS-1281 [keyword] \"social host\" w/p intoxicat! and \"guest\"",
+   "LF-BS-1455 [keyword] relocat! /25 \"best interests of the child\"",
+   "LF-BS-1469 [keyword] relian! /p \"clear and definite promise\"",
+   "LF-BS-1587 [keyword] \"pierce the corporate veil\" /10 undercapitaliz!",
+   "LF-BS-2043 [keyword] \"preliminary injunction\" AND \"irreparable harm\" AND NOT divorce"
+  ]
+ },
+ {
+  "code": "bluebook_name_all_caps_name",
+  "title": "Case name in capitals.",
+  "area": "bluebook",
+  "count": 13,
+  "examples": [
+   "LF-BB-0147 → MARKMAN Et Al. v. WESTVIEW INSTRUMENTS, INC., 517 U.S. 370 (1996)",
+   "LF-BB-0160 → Wallace v. MILLIKEN & CO., 406 S.E.2d 358 (S.C. 1991)",
+   "LF-BB-0172 → SAUCIER v. KATZ Et Al., 533 U.S. 194 (2001)",
+   "LF-BB-0247 → FOSTER FOUND. v. Gainer, 717 S.E.2d 883 (W. Va. 2011)",
+   "LF-BB-0267 → COOLEY v. CARMIKE CINEMAS, INC., 25 F.3d 1325 (6th Cir. 1994)",
+   "LF-BB-0322 → Sweaney v. DIST. CT. EIGHTEENTH JUD. DIST., 713 P.2d 914 (Colo. 1986)",
+   "LF-BB-0390 → Johnson v. STATE DEPT. OF CORR. SERVS., 709 F. Supp. 2d 178 (N.D.N.Y. 2010)",
+   "LF-BB-0459 → In re WINSHIP, 397 U.S. 358 (1970)"
+  ]
+ },
+ {
+  "code": "bluebook_no_correction_vendor_cite",
+  "title": "No corrected citation returned for a recoverable off-cite (vendor_cite).",
+  "area": "bluebook",
+  "count": 13,
+  "examples": [
+   "LF-BB-0753 \"Moore v. Quarterman, 2012 WL 3996836 (5th Cir. 2008)\" → not_covered",
+   "LF-BB-0759 \"United States v. Lyons, 2015 WL 4899590 (6th Cir. 2012)\" → not_covered",
+   "LF-BB-0763 \"United States v. Baston, 2016 WL 1162202 (11th Cir. 2016)\" → not_covered",
+   "LF-BB-0769 \"Gibbs v. Deckers, 2015 WL 4915538 (D. Del. 2002)\" → not_covered",
+   "LF-BB-0771 \"Ammex, Inc. v. United States of America Internal Revenue Serv., 2002 W\" → not_covered",
+   "LF-BB-0772 \"Martin v. Dep't of Justice, 2016 WL 3544989 (D.C. Cir. 2007)\" → not_covered",
+   "LF-BB-0773 \"United States v. Nichols, 2015 WL 1805151 (7th Cir. 2015)\" → not_covered",
+   "LF-BB-0776 \"Dura Auto. Sys. of Ind., Inc., Formerly Known as Excel Corp. v. Cts Co\" → not_covered"
+  ]
+ },
+ {
+  "code": "boolean_unsatisfied_or-and-not",
+  "title": "Returned opinion does not satisfy the connectors (template or-and-not).",
+  "area": "search",
+  "count": 12,
+  "examples": [
+   "LF-BS-0097: (\"respondeat superior\" OR \"vicarious liability\") AND employer NOT pate → Jett v. Dallas Independent School Distri",
+   "LF-BS-0456: (\"rule 11\" OR \"frivolous\") AND \"reasonable inquiry\" NOT habeas → Committee on Legal Ethics of the West Vi",
+   "LF-BS-0864: (\"modification of the trust\" OR \"trust modification\") AND beneficiar!  → In the Matter of the H. Boone Porter Tru",
+   "LF-BS-1405: (\"age discrimination\" OR adea) AND pretext NOT criminal → Gross v. FBL Financial Services, Inc.",
+   "LF-BS-1405: (\"age discrimination\" OR adea) AND pretext NOT criminal → Kimel v. Florida Board of Regents",
+   "LF-BS-1405: (\"age discrimination\" OR adea) AND pretext NOT criminal → Gilmer v. Interstate/Johnson Lane Corp.",
+   "LF-BS-2473: (\"economic substance\" OR \"sham transaction\") AND commissioner NOT crim → Securities & Exchange Commission v. Coop",
+   "LF-BS-3445: (\"prevailing party\" OR \"attorney's fees\") AND \"reasonable hourly rate\" → Woodman v. Department of Corrections"
+  ]
+ },
+ {
+  "code": "boolean_not_and-not",
+  "title": "NOT / % / AND NOT exclusion ignored (template and-not).",
+  "area": "search",
+  "count": 12,
+  "examples": [
+   "LF-BS-0432: \"qualified immunity\" AND \"constitutional right\" AND NOT contract → Siegert v. Gilley",
+   "LF-BS-0780: \"second amendment\" AND \"historical tradition\" AND NOT contract → District of Columbia v. Heller",
+   "LF-BS-1080: \"hostile work environment\" AND \"severe or pervasive\" AND NOT criminal → Meritor Savings Bank v. Vinson",
+   "LF-BS-2545: monell AND \"policy or custom\" AND NOT contract → Monell v. New York City Dept. of Social ",
+   "LF-BS-2592: \"malicious prosecution\" AND \"probable cause\" AND NOT contract → Albright v. Oliver",
+   "LF-BS-2628: asylum AND persecution AND NOT contract → Lin v. United States Department of Justi",
+   "LF-BS-3324: \"transitory foreign substance\" AND \"actual or constructive knowledge\"  → Digital Design Group, Inc. v. Informatio",
+   "LF-BS-3324: \"transitory foreign substance\" AND \"actual or constructive knowledge\"  → Carter v. Schuster"
+  ]
+ },
+ {
+  "code": "goodlaw_unresolved_presumed-good",
+  "title": "Good-law input could not be resolved to a case (presumed-good).",
+  "area": "goodlaw",
+  "count": 12,
+  "examples": [
+   "LF-GL-0486 Ecc International Constructors, LLC v. Secretary of the Army, 79 F.4th → error",
+   "LF-GL-0849 Sunita ESWARAPPA, Plaintiff, v. SHED INC./KID’S CLUB, Defendant, 172 F → not_in_corpus",
+   "LF-GL-0851 Ramiro MOLINA, Plaintiff, v. Thomas J. VILSACK, Defendant, 273 F.3d 11 → not_in_corpus",
+   "LF-GL-0856 Cheryl MAYERS, Plaintiff, v. EMIGRANT BANCORP, INC., Et Al., Defendant → not_in_corpus",
+   "LF-GL-0858 In Re Steven Thomas BELLANO, Debtor, 265 B.R. 164 (2011) → not_in_corpus",
+   "LF-GL-0878 MICROSOFT CORPORATION, Plaintiff, v. WEBXCHANGE INC., Defendant, 216 F → not_in_corpus",
+   "LF-GL-0886 Glenda Johnson v. SmithKline Beecham Corp, 841 F. Supp. 2d 890 (2013) → not_in_corpus",
+   "LF-GL-0906 Sheri M. MYERS, Plaintiff, v. ASSET ACCEPTANCE LLC, Et Al., Defendants → not_in_corpus"
+  ]
+ },
+ {
+  "code": "bluebook_court_form",
+  "title": "Court abbreviation in the parenthetical is not the T1/T7 form.",
+  "area": "bluebook",
+  "count": 12,
+  "examples": [
+   "LF-BB-0132 → \"(N.H. Super. 1818)\" want \"(N.H. Super. Ct. 1818)\"",
+   "LF-BB-0249 → \"(Conn. Super. 1999)\" want \"(Conn. Super. Ct. 1999)\"",
+   "LF-BB-0257 → \"(Tex. App. 10th Dist. 1996)\" want \"(Tex. App. 1996)\"",
+   "LF-BB-0493 → \"(Tex. App. 8th Dist. 2007)\" want \"(Tex. App. 2007)\"",
+   "LF-BB-0691 → \"(9th Cir. 1993)\" want \"(6th Cir. 1993)\"",
+   "LF-BB-0752 → \"(6th Cir. 2015)\" want \"(9th Cir. 2008)\"",
+   "LF-BB-0782 → \"(D.C. Cir. 2001)\" want \"(7th Cir. 2001)\"",
+   "LF-BB-0783 → \"(D.D.C. 2016)\" want \"(D.C. Cir. 1996)\""
+  ]
+ },
+ {
+  "code": "bluebook_no_correction_pin_as_first_page",
+  "title": "No corrected citation returned for a recoverable off-cite (pin_as_first_page).",
+  "area": "bluebook",
+  "count": 12,
+  "examples": [
+   "LF-BB-0652 \"Pizza v. Workers' Comp. Appeals Bd., 51 Cal. Rptr. 3d 122 (Cal. Ct. Ap\" → not_in_corpus",
+   "LF-BB-0657 \"Pearson v. Lincoln Tel. Co., 513 N.W.2d 365 (Neb. Ct. App. 1994)\" → not_in_corpus",
+   "LF-BB-0661 \"Careau & Co. v. Sec. Pac. Bus. Credit, Inc., 222 Cal. App. 3d 1376 (19\" → not_in_corpus",
+   "LF-BB-0662 \"Lewis v. Rick Thaler, Dir., 701 F.3d 786 (5th Cir. 2012)\" → not_in_corpus",
+   "LF-BB-0664 \"Kent Cnty. Bd. of Educ. v. Bilbrough, 309 Md. 490 (1987)\" → not_in_corpus",
+   "LF-BB-0665 \"Hyland v. State, 660 So. 2d 1192 (Fla. Dist. Ct. App. 1995)\" → not_in_corpus",
+   "LF-BB-0668 \"Haskill v. Andros, 4 Vt. 613 (1832)\" → not_in_corpus",
+   "LF-BB-0673 \"AMS Assocs., Inc. v. United States, 719 F.3d 1381 (Fed. Cir. 2013)\" → not_in_corpus"
+  ]
+ },
+ {
+  "code": "boolean_not_or-and-not",
+  "title": "NOT / % / AND NOT exclusion ignored (template or-and-not).",
+  "area": "search",
+  "count": 11,
+  "examples": [
+   "LF-BS-0024: (brady OR \"exculpatory evidence\") AND suppress! NOT civil → Strickler v. Greene",
+   "LF-BS-0072: (\"ineffective assistance of counsel\" OR \"deficient performance\") AND \" → Strickland v. Washington",
+   "LF-BS-0949: (\"comparative negligence\" OR \"comparative fault\") AND apportion! NOT c → Lippard v. Houdaille Industries, Inc.",
+   "LF-BS-1104: (\"qualified immunity\" OR \"clearly established\") AND officer NOT contra → Pearson v. Callahan",
+   "LF-BS-2316: (\"underinsured motorist\" OR \"uninsured motorist\") AND policy NOT crimi → State Farm Mutual Automobile Insurance C",
+   "LF-BS-3168: (\"negligent infliction of emotional distress\" OR \"bystander recovery\") → Ochoa v. Superior Court",
+   "LF-BS-3168: (\"negligent infliction of emotional distress\" OR \"bystander recovery\") → Christensen v. Superior Court",
+   "LF-BS-3300: (\"default judgment\" OR \"motion to vacate\") AND \"meritorious defense\" N → Webster v. Perrotta"
+  ]
+ },
+ {
+  "code": "bluebook_locator_vendor_cite",
+  "title": "Corrected cite carries the wrong volume/reporter/page (vendor_cite).",
+  "area": "bluebook",
+  "count": 11,
+  "examples": [
+   "LF-BB-0752 \"United States v. Ganoe, 2015 WL 4430466 (9th Cir. 2008)\" → Huff v. Spaw, 794 F.3d 543 (6th Cir. 2015)",
+   "LF-BB-0754 \"McKinney v. Ryan, 2014 WL 1013859 (9th Cir. 2013)\" → McKinney v. Ryan, 745 F.3d 963 (9th Cir. 2014)",
+   "LF-BB-0767 \"Laster v. Dist. of Columbia, 2013 WL 5460281 (D.D.C. 2005)\" → D.K. Ex Rel. Klein v. District of Columbia, 983 F. Supp. 2d 138 (D.D.C. 2013)",
+   "LF-BB-0770 \"Pardo-Kronemann v. Donovan, 2011 WL 192497 (D.C. Cir. 2010)\" → Calhoun v. Johnson, 632 F.3d 1259 (D.C. Cir. 2011)",
+   "LF-BB-0782 \"Wright v. Maria Pappas, Individually & in Her Official Capac\" → Jenkins v. Wash. Convention Ctr., 236 F.3d 6 (D.C. Cir. 2001)",
+   "LF-BB-0783 \"United States v. Morrison, 2016 WL 1305291 (D.C. Cir. 1996)\" → United States v. Novak, 174 F. Supp. 3d 214 (D.D.C. 2016)",
+   "LF-BB-0786 \"Cephas v. Mvm, Inc., 2011 WL 3476824 (D.C. Cir. 2008)\" → Coppage v. U.S. Postal Serv., 281 F.3d 1200 (11th Cir. 2002)",
+   "LF-BB-0788 \"United States v. Trinh, 2015 WL 5025225 (1st Cir. 2011)\" → United States v. Ramirez-Rivera, 800 F.3d 1 (1st Cir. 2015)"
+  ]
+ },
+ {
+  "code": "search_date_filter",
+  "title": "Result outside the requested date window.",
+  "area": "search",
+  "count": 10,
+  "examples": [
+   "LF-BS-0013: 2013-06-17 vs 1990-01-01–2010-12-31",
+   "LF-BS-0194: 2011-02-28 vs 1990-01-01–2010-12-31",
+   "LF-BS-1752: 2004-05-03 vs –1999-12-31",
+   "LF-BS-2380: 2013-04-25 vs 1990-01-01–2010-12-31",
+   "LF-BS-3341: 2009-06-25 vs –1999-12-31",
+   "LF-BS-3731: 2016-08-15 vs 1990-01-01–2010-12-31",
+   "LF-BS-3973: 2009-06-25 vs –1999-12-31",
+   "LF-BS-4423: 2016-08-19 vs 2000-01-01–2009-12-31"
+  ]
+ },
+ {
+  "code": "goodlaw_understated",
+  "title": "Overruled/reversed case shown only as \"questioned\"/below-threshold instead of overruled/reversed.",
+  "area": "goodlaw",
+  "count": 10,
+  "examples": [
+   "LF-GL-0012 Adamson v. California, 332 U.S. 46 (1947) → questioned",
+   "LF-GL-0032 James v. United States, 550 U.S. 192 (2007) → questioned",
+   "LF-GL-0033 Sykes v. United States, 564 U.S. 1 (2011) → questioned",
+   "LF-GL-0046 South Carolina v. Gathers, 490 U.S. 805 (1989) → questioned",
+   "LF-GL-0047 Grady v. Corbin, 495 U.S. 508 (1990) → questioned",
+   "LF-GL-0072 United States v. Rabinowitz, 339 U.S. 56 (1950) → questioned",
+   "LF-GL-0089 United States v. Carpenter, 819 F.3d 880 (6th Cir. 2016) → questioned",
+   "LF-GL-0098 Boumediene v. Bush, 476 F.3d 981 (D.C. Cir. 2007) → questioned"
+  ]
+ },
+ {
+  "code": "goodlaw_authority_not_named",
+  "title": "Case is flagged negative but the overruling / reversing decision is not named in the treatment evidence.",
+  "area": "goodlaw",
+  "count": 10,
+  "examples": [
+   "LF-GL-0046 South Carolina v. Gathers, 490 U.S. 805 (1989) — want Payne v. Tennessee, 501 U.S. 808 (1991)",
+   "LF-GL-0047 Grady v. Corbin, 495 U.S. 508 (1990) — want United States v. Dixon, 509 U.S. 688 (1993)",
+   "LF-GL-0076 Trans World Airlines, Inc. v. Hardison, 432 U.S. 6 — want Groff v. DeJoy, 600 U.S. 447 (2023)",
+   "LF-GL-0078 Auer v. Robbins, 519 U.S. 452 (1997) — want Kisor v. Wilkie, 588 U.S. 558 (2019)",
+   "LF-GL-0079 Bowles v. Seminole Rock & Sand Co., 325 U.S. 410 ( — want Kisor v. Wilkie, 588 U.S. 558 (2019)",
+   "LF-GL-0080 Edwards v. Arizona, 451 U.S. 477 (1981) — want Maryland v. Shatzer, 559 U.S. 98 (2010)",
+   "LF-GL-0081 Dillon v. Legg, 68 Cal. 2d 728 (1968) — want Thing v. La Chusa, 48 Cal. 3d 644 (1989)",
+   "LF-GL-0086 Dukes v. Wal-Mart Stores, Inc., 603 F.3d 571 (9th  — want Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011"
+  ]
+ },
+ {
+  "code": "bluebook_name_given_names",
+  "title": "Individual parties keep given names / extra words before the surname (Rule 10.2.1(g): surname only).",
+  "area": "bluebook",
+  "count": 10,
+  "examples": [
+   "LF-BB-0114 \"In re: Marvin Griffin\" want \"In re Marvin Griffin\"",
+   "LF-BB-0171 \"In the Matter of Driscoll\" want \"In re Driscoll\"",
+   "LF-BB-0287 \"In re: Marckson Saint Fleur\" want \"In re Marckson Saint Fleur\"",
+   "LF-BB-0319 \"Christopher George Theodore Lamar\" want \"Lamar\"",
+   "LF-BB-0368 \"In re: Edward Thomas\" want \"In re Thomas\"",
+   "LF-BB-0411 \"Deborah Morse Juneau Sch. Bd.\" want \"Morse\"",
+   "LF-BB-0451 \"34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 W\" want \"Daubert\"",
+   "LF-BB-0554 \"John James Mary James\" want \"James\""
+  ]
+ },
+ {
+  "code": "bluebook_year_vendor_cite",
+  "title": "Corrected cite has the wrong or no year (vendor_cite).",
+  "area": "bluebook",
+  "count": 10,
+  "examples": [
+   "LF-BB-0752 \"United States v. Ganoe, 2015 WL 4430466 (9th Cir. 2008)\" → Huff v. Spaw, 794 F.3d 543 (6th Cir. 2015)",
+   "LF-BB-0754 \"McKinney v. Ryan, 2014 WL 1013859 (9th Cir. 2013)\" → McKinney v. Ryan, 745 F.3d 963 (9th Cir. 2014)",
+   "LF-BB-0767 \"Laster v. Dist. of Columbia, 2013 WL 5460281 (D.D.C. 2005)\" → D.K. Ex Rel. Klein v. District of Columbia, 983 F. Supp. 2d 138 (D.D.C. 2013)",
+   "LF-BB-0770 \"Pardo-Kronemann v. Donovan, 2011 WL 192497 (D.C. Cir. 2010)\" → Calhoun v. Johnson, 632 F.3d 1259 (D.C. Cir. 2011)",
+   "LF-BB-0783 \"United States v. Morrison, 2016 WL 1305291 (D.C. Cir. 1996)\" → United States v. Novak, 174 F. Supp. 3d 214 (D.D.C. 2016)",
+   "LF-BB-0786 \"Cephas v. Mvm, Inc., 2011 WL 3476824 (D.C. Cir. 2008)\" → Coppage v. U.S. Postal Serv., 281 F.3d 1200 (11th Cir. 2002)",
+   "LF-BB-0788 \"United States v. Trinh, 2015 WL 5025225 (1st Cir. 2011)\" → United States v. Ramirez-Rivera, 800 F.3d 1 (1st Cir. 2015)",
+   "LF-BB-0793 \"Linder, David v. Calero-Portocarrero, 2010 WL 2134285 (D.C. \" → Aristotle Int'l, Inc. v. NGP Software, Inc., 714 F. Supp. 2d 1 (D.D.C. 2010)"
+  ]
+ },
+ {
+  "code": "opinion_hard_wrapped_text",
+  "title": "Opinion text keeps PDF line wraps as paragraph breaks (blank line mid-sentence) — text pastes badly into a brief.",
+  "area": "opinion",
+  "count": 10,
+  "examples": [
+   "LF-OP-024 200202200000038 New York State Rifle & Pistol Assn., Inc. v. Bruen — 2.36 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-041 202100025726 TransUnion LLC v. Ramirez — 2.56 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-063 300201900019117 Jackson Women's Health Orgn v. Dobbs — 6.3 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-067 300201900010430 United States v. Buren — 5.39 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-081 300202000001459 Ramirez v. Transunion LLC — 4.89 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-091 300202000008944 Fisher v. SD Protection Inc. — 2.5 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-095 300202000015747 Tangreti v. Bachmann — 3.94 mid-sentence paragraph breaks per 1k words",
+   "LF-OP-105 300200500008907 Hamdan, Salim Ahmed v. Rumsfeld, Donald H. — 2.76 mid-sentence paragraph breaks per 1k words"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_government_long_form",
+  "title": "Wrong verdict on a slightly-off cite (government_long_form).",
+  "area": "bluebook",
+  "count": 9,
+  "examples": [
+   "LF-BB-0852 \"Bogdanov v. People of the State of Colorado, 941 P.2d 247 (Colo. 1997)\" → name_mismatch",
+   "LF-BB-0855 \"People of the State of California v. Kelly, 51 Cal. Rptr. 3d 98 (Cal. \" → name_mismatch",
+   "LF-BB-0856 \"People of the State of New York v. Danielson, 9 N.Y.3d 342 (2007)\" → name_mismatch",
+   "LF-BB-0863 \"People of the State of Illinois v. Enoch, 122 Ill. 2d 176 (1988)\" → name_mismatch",
+   "LF-BB-0875 \"Commonwealth of Kentucky v. English, 993 S.W.2d 941 (Ky. 1999)\" → name_mismatch",
+   "LF-BB-0877 \"Commonwealth of Massachusetts v. Riccard, 410 Mass. 718 (1991)\" → name_mismatch",
+   "LF-BB-0881 \"Commonwealth of Virginia v. Hudson, 265 Va. 505 (2003)\" → name_mismatch",
+   "LF-BB-0892 \"Commonwealth of Pennsylvania v. Turner, 518 Pa. 491 (1988)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "goodlaw_unresolved_independent",
+  "title": "Good-law input could not be resolved to a case (independent).",
+  "area": "goodlaw",
+  "count": 8,
+  "examples": [
+   "LF-GL-0091 Kennedy v. Bremerton Sch. Dist., 991 F.3d 1004 (9th Cir. 2021) → not_in_corpus",
+   "LF-GL-0092 303 Creative LLC v. Elenis, 6 F.4th 1160 (10th Cir. 2021) → not_in_corpus",
+   "LF-GL-0093 Students for Fair Admissions, Inc. v. President & Fellows of Harvard C → not_in_corpus",
+   "LF-GL-0094 Am. Lung Ass'n v. EPA, 985 F.3d 914 (D.C. Cir. 2021) → not_in_corpus",
+   "LF-GL-0095 Sackett v. EPA, 8 F.4th 1075 (9th Cir. 2021) → not_in_corpus",
+   "LF-GL-0123 Sullivan v. N.Y. Times Co., 273 Ala. 656, 144 So. 2d 25 (1962) → not_in_corpus",
+   "LF-GL-0127 Becker v. IRM Corp., 38 Cal. 3d 454 (1985) → unverified",
+   "LF-GL-0272 Matal v. Tam, 582 U.S. 218 (2017) → unverified"
+  ]
+ },
+ {
+  "code": "bluebook_name_leading_the",
+  "title": "Leading \"The\" kept in a party name (Rule 10.2.1(c)).",
+  "area": "bluebook",
+  "count": 8,
+  "examples": [
+   "LF-BB-0237 → The Estate of Wayne Hage v. United States, 687 F.3d 1281 (Fed. Cir. 2012)",
+   "LF-BB-0371 → Oral Surgeons, P.C. v. The Cincinnati Ins. Co., 2 F.4th 1141 (8th Cir. 2021)",
+   "LF-BB-0418 → Thoen v. The United States, 765 F.2d 1110 (Fed. Cir. 1985)",
+   "LF-BB-0436 → Kvaerner Asa v. The Bank Of Tokyo-Mitsubishi, Ltd., 210 F.3d 262 (1st Cir. 2000)",
+   "LF-BB-0553 → The Cherokee Nation of Okla. v. The United States, 124 F.3d 1413 (Fed. Cir. 1997)",
+   "LF-BB-0706 → Fisher v. The City of Detroit Robert Butucal Richard Ivy Robert Gerds, 4 F.3d 993 (6th Cir. 1993)",
+   "LF-BB-0780 → Evans v. The City of Houston, 246 F.3d 344 (5th Cir. 2001)",
+   "LF-BB-0896 → The Estate of Wayne Hage v. United States, 687 F.3d 1281 (Fed. Cir. 2012)"
+  ]
+ },
+ {
+  "code": "opinion_bluebook_t6_unabbreviated",
+  "title": "Opinion header citation fails Bluebook: Case-name words that T6 abbreviates are spelled out (Company, Corporation, Department, Insurance, Association…) (Rule 10.2.2).",
+  "area": "opinion",
+  "count": 7,
+  "examples": [
+   "LF-OP-022 200200800000002 District of Columbia v. Heller — District of Columbia v. Heller, 554 U.S. 570 (2008)",
+   "LF-OP-026 200193800000082 Railroad v. Tompkins — Railroad v. Tompkins, 304 U.S. 64 (1938)",
+   "LF-OP-053 200600019931 Northern v. White — Northern v. White, 548 U.S. 53 (2006)",
+   "LF-OP-064 202200017598 Loper Bright Enterprises, Inc v. Raimondo — Loper Bright Enterprises, Inc v. Raimondo, 45 F.4th 359 (D.C. Cir. 2022)",
+   "LF-OP-121 451199900000211 Alexis v. District of Columbia — Alexis v. District of Columbia, 44 F. Supp. 2d 331 (D.D.C. 1999)",
+   "LF-OP-134 451200400000285 Judicial Watch, Inc. v. United States Department o — Judicial Watch, Inc. v. United States Dep't of Commerce, 337 F. Supp. 2d 146 (D.",
+   "LF-OP-176 132192700003270 Palsgraf v. Railroad — Palsgraf v. Railroad, 222 A.D. 166 (N.Y. App. Div. 1927)"
+  ]
+ },
+ {
+  "code": "goodlaw_missed_hard_scotus-overruled",
+  "title": "Overruled or reversed case reported as clean good law (false clean bill of health).",
+  "area": "goodlaw",
+  "count": 6,
+  "examples": [
+   "LF-GL-0007 Goldman v. United States, 316 U.S. 129 (1942) → good [overruled by Katz v. United States, 389 U.S. 347 (1967)]",
+   "LF-GL-0015 Collector v. Day, 78 U.S. (11 Wall.) 113 (1871) → good [overruled by Graves v. New York ex rel. O'Keefe, 306 U.S. 466 (]",
+   "LF-GL-0058 O'Callahan v. Parker, 395 U.S. 258 (1969) → good [overruled by Solorio v. United States, 483 U.S. 435 (1987)]",
+   "LF-GL-0066 United States v. Bramblett, 348 U.S. 503 (1955) → good [overruled by Hubbard v. United States, 514 U.S. 695 (1995)]",
+   "LF-GL-0073 Harris v. United States, 331 U.S. 145 (1947) → negative_below_threshold [overruled by Chimel v. California, 395 U.S. 752 (1969)]",
+   "LF-GL-0074 Hepburn v. Griswold, 75 U.S. (8 Wall.) 603 (1870) → good [overruled by Legal Tender Cases, 79 U.S. (12 Wall.) 457 (1871)]"
+  ]
+ },
+ {
+  "code": "goodlaw_resolved_other_case",
+  "title": "Correct citation to a known case resolves to a different case in the corpus (reporter locator attached to the wrong opinion).",
+  "area": "goodlaw",
+  "count": 6,
+  "examples": [
+   "LF-GL-0089 United States v. Carpenter, 819 F.3d 880 (6th Cir. 2016) → name_mismatch United States v. Sanders",
+   "LF-GL-0519 Local Government Assistance Corporation, 2 N.Y. 731 (2004) → valid Matter of Latimore",
+   "LF-GL-0639 The STATE of Ohio, 197 Ohio App. 3d 705 (2012) → valid State v. Culberson",
+   "LF-GL-0682 STATE of New Jersey, 459 N.J. Super. 157 (2019) → valid State v. Hooper",
+   "LF-GL-0697 The State of Washington, 3 Wash. 144 (1981) → valid State ex rel. News Publishing Co. v. Milligan",
+   "LF-GL-0739 STATE of Utah, 336 Utah 13 (1998) → valid State v. Rivera"
+  ]
+ },
+ {
+  "code": "bluebook_locator_page_typo",
+  "title": "Corrected cite carries the wrong volume/reporter/page (page_typo).",
+  "area": "bluebook",
+  "count": 6,
+  "examples": [
+   "LF-BB-0955 \"Peckham v. Ronrico Corp., 171 F.2d 635 (1st Cir. 1948)\" → Midwest-Radiant Corp. v. Hentze, 171 F.2d 635 (1948)",
+   "LF-BB-0959 \"Beach v. Jean, 746 A.2d 282 (Conn. Super. Ct. 1999)\" → Critchell v. Critchell, 746 A.2d 282 (D.C. 2000)",
+   "LF-BB-0962 \"Tex. Dep't of Parks & Wildlife v. Miranda, 133 S.W.3d 271 (T\" → State & Cnty. Mut. Fire Ins. Co. v. MacIas, 133 S.W.3d 271 (Tex. 2004)",
+   "LF-BB-0966 \"Auer v. Robbins, 519 U.S. 425 (1997)\" → Regents of Univ. of Cal. v. Doe, 519 U.S. 425 (1997)",
+   "LF-BB-0972 \"Sinclair Refin. Co. v. Atkinson, 370 U.S. 159 (1962)\" → Porter v. Aetna Cas. & Sur. Co., 370 U.S. 159 (1962)",
+   "LF-BB-0979 \"McClellan v. Tottenhoff, 666 P.2d 480 (Wyo. 1983)\" → State v. Geschwind, 666 P.2d 480 (1982)"
+  ]
+ },
+ {
+  "code": "bluebook_name_reporter_not_t1",
+  "title": "Reporter abbreviation not in T1.",
+  "area": "bluebook",
+  "count": 5,
+  "examples": [
+   "LF-BB-0057 → Eley v. District of Columbia, 417 App. D.C. 97 (D.C. Cir. 2015)",
+   "LF-BB-0085 → Cohen v. Bd. of Trustees of the Univ., 94 Fed. R. Serv. 3d 488 (D.C. Cir. 2016)",
+   "LF-BB-0475 → Haim v. Islamic Republic of Iran, 77 A.L.R. Fed. 2d 685 (D.D.C. 2011)",
+   "LF-BB-0569 → Winston & Strawn, LLP v. McLean, 96 Fed. R. Serv. 3d 742 (D.C. Cir. 2016)",
+   "LF-BB-0593 → Catrett v. Johns-Manville Sales Corp., 1 Fed. R. Serv. 3d 817 (D.C. Cir. 1985)"
+  ]
+ },
+ {
+  "code": "bluebook_court_missing",
+  "title": "Court omitted from the parenthetical where the reporter does not identify it (Rule 10.4).",
+  "area": "bluebook",
+  "count": 5,
+  "examples": [
+   "LF-BB-0062 → \"(1991)\" want \"(Wash. 1991)\"",
+   "LF-BB-0437 → \"(2018)\" want \"(D.C. Cir. 2018)\"",
+   "LF-BB-0761 → \"(2010)\" want \"(5th Cir. 2010)\"",
+   "LF-BB-0955 → \"(1948)\" want \"(1st Cir. 1948)\"",
+   "LF-BB-0979 → \"(1982)\" want \"(Wyo. 1983)\""
+  ]
+ },
+ {
+  "code": "bluebook_name_name_too_long",
+  "title": "Case name over 90 characters — not a citation short form.",
+  "area": "bluebook",
+  "count": 5,
+  "examples": [
+   "LF-BB-0094 → In re Focus Media, Inc., Debtor, Focus Media, Inc. v. Nat'l Broad. Co. Inc. Abc Inc. Paxson Commc'ns",
+   "LF-BB-0451 → 34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individual",
+   "LF-BB-0521 → Thomas S. Amlie Estate of June T. Amlie, Deceased Richard R. Epple Jr. v. Commissioner of the Intern",
+   "LF-BB-0583 → Gallo v. Prudential Residential Servs., Ltd. P'ship, Doing Bus. as Prudential Relocation Mgmt., 22 F",
+   "LF-BB-0702 → In re: Karen A. Briscoe Alfred Lara Wanda T. Kizer Debra Alexander Rhonda Allen Mary Green Glenda D."
+  ]
+ },
+ {
+  "code": "bluebook_reporter_form",
+  "title": "Reporter abbreviation in corrected cite not in T1 form.",
+  "area": "bluebook",
+  "count": 5,
+  "examples": [
+   "LF-BB-0327 VT vs Vt.",
+   "LF-BB-0392 ME vs Me.",
+   "LF-BB-0515 ND vs N.D.",
+   "LF-BB-0568 ME vs Me.",
+   "LF-BB-0906 VT vs Vt."
+  ]
+ },
+ {
+  "code": "opinion_bluebook_redundant_business_designation",
+  "title": "Opinion header citation fails Bluebook: redundant_business_designation",
+  "area": "opinion",
+  "count": 5,
+  "examples": [
+   "LF-OP-010 200198600000051 Matsushita Electric Industrial Co., Ltd. v. Zenith — Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574 (1986)",
+   "LF-OP-157 122200100000040 Lugo v. Ameritech Corp., Inc. — Lugo v. Ameritech Corp., Inc., 464 Mich. 512 (2001)",
+   "LF-OP-158 138197800000726 Azzarello v. Black Bros. Co., Inc. — Azzarello v. Black Bros. Co., Inc., 391 A.2d 1020 (Pa. 1978)",
+   "LF-OP-182 111199600000108 Hunt v. First Ins. Co. of Hawaii Ltd. — Hunt v. First Ins. Co. of Haw. Ltd., 922 P.2d 976 (Haw. Ct. App. 1996)",
+   "LF-OP-187 114199100000290 W & W Equipment Co., Inc. v. Mink — W & W Equip. Co., Inc. v. Mink, 568 N.E.2d 564 (Ind. Ct. App. 1991)"
+  ]
+ },
+ {
+  "code": "bluebook_locator_pin_as_first_page",
+  "title": "Corrected cite carries the wrong volume/reporter/page (pin_as_first_page).",
+  "area": "bluebook",
+  "count": 4,
+  "examples": [
+   "LF-BB-0651 \"Harrell v. City of Norfolk, 265 Va. 505 (2003)\" → Commonwealth v. Hudson, 265 Va. 505 (2003)",
+   "LF-BB-0674 \"United States v. Dunkel, 927 F.2d 957 (7th Cir. 1991)\" → Schroeder v. City of Chicago, John J. Tully, & Audley Connor, 927 F.2d 957 (7th Cir. 1991)",
+   "LF-BB-0691 \"United States v. Hardin, 9 F.3d 1554 (6th Cir. 1993)\" → United States v. Brady, 9 F.3d 1554 (9th Cir. 1993)",
+   "LF-BB-0692 \"United States v. Engles, 779 F.3d 1163 (10th Cir. 2015)\" → United States v. Hicks, 779 F.3d 1163 (10th Cir. 2015)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_page_typo",
+  "title": "Wrong verdict on a slightly-off cite (page_typo).",
+  "area": "bluebook",
+  "count": 4,
+  "examples": [
+   "LF-BB-0957 \"Nat. Res. Def. Council, Inc. v. Gorsuch, 685 F.2d 781 (D.C. Cir. 1982)\" → not_in_corpus",
+   "LF-BB-0990 \"Katz v. Cellco P'ship, 794 F.3d 314 (2d Cir. 2015)\" → not_in_corpus",
+   "LF-BB-0993 \"Marine Midland Bank v. Bicknell, 176 Vt. 398 (2004)\" → not_in_corpus",
+   "LF-BB-0998 \"In Matter of Marilyn Woodyear, 162 F.3d 1106 (5th Cir. 1998)\" → not_in_corpus"
+  ]
+ },
+ {
+  "code": "bluebook_no_correction_page_typo",
+  "title": "No corrected citation returned for a recoverable off-cite (page_typo).",
+  "area": "bluebook",
+  "count": 4,
+  "examples": [
+   "LF-BB-0957 \"Nat. Res. Def. Council, Inc. v. Gorsuch, 685 F.2d 781 (D.C. Cir. 1982)\" → not_in_corpus",
+   "LF-BB-0990 \"Katz v. Cellco P'ship, 794 F.3d 314 (2d Cir. 2015)\" → not_in_corpus",
+   "LF-BB-0993 \"Marine Midland Bank v. Bicknell, 176 Vt. 398 (2004)\" → not_in_corpus",
+   "LF-BB-0998 \"In Matter of Marilyn Woodyear, 162 F.3d 1106 (5th Cir. 1998)\" → not_in_corpus"
+  ]
+ },
+ {
+  "code": "opinion_duplicated_text",
+  "title": "Opinion text repeats paragraphs or the whole opinion.",
+  "area": "opinion",
+  "count": 4,
+  "examples": [
+   "LF-OP-043 200195200000072 Sheet v. Sawyer — 2 repeated paragraphs",
+   "LF-OP-045 200196200000039 Baker v. Carr — 3 repeated paragraphs",
+   "LF-OP-134 451200400000285 Judicial Watch, Inc. v. United States Department o — 3 repeated paragraphs",
+   "LF-OP-157 122200100000040 Lugo v. Ameritech Corp., Inc. — 2 repeated paragraphs"
+  ]
+ },
+ {
+  "code": "opinion_bluebook_reporter_not_t1",
+  "title": "Opinion header citation fails Bluebook: Reporter abbreviation not in T1.",
+  "area": "opinion",
+  "count": 4,
+  "examples": [
+   "LF-OP-072 300198500002285 Catrett v. Johns-Manville Sales Corporation — Catrett v. Johns-Manville Sales Corp., 1 Fed. R. Serv. 3d 817 (D.C. Cir. 1985)",
+   "LF-OP-114 447200100000017 Lara v. Arctic King Ltd. — Lara v. Arctic King Ltd., 2001 A.M.C. 2665 (W.D. Wash. 2001)",
+   "LF-OP-119 409201200000024 Lobegeiger v. Celebrity Cruises, Inc. — Lobegeiger v. Celebrity Cruises, Inc., 2013 A.M.C. 1254 (S.D. Fla. 2012)",
+   "LF-OP-124 451201100000120 Haim v. Islamic Republic of Iran — Haim v. Islamic Republic of Iran, 77 A.L.R. Fed. 2d 685 (D.D.C. 2011)"
+  ]
+ },
+ {
+  "code": "goodlaw_internal_rationale",
+  "title": "Internal audit note exposed as the treatment rationale (e.g. \"Landmark overruling (API audit F-02)\").",
+  "area": "goodlaw",
+  "count": 3,
+  "examples": [
+   "LF-GL-0001 Plessy v. Ferguson",
+   "LF-GL-0021 Roe v. Wade",
+   "LF-GL-0410 Roe v. Wade"
+  ]
+ },
+ {
+  "code": "bluebook_locator_ordinal_form",
+  "title": "Corrected cite carries the wrong volume/reporter/page (ordinal_form).",
+  "area": "bluebook",
+  "count": 3,
+  "examples": [
+   "LF-BB-0057 \"Eley v. Dist. of Columbia, 793 F.3rd 97 (D.C. Cir. 2015)\" → Eley v. District of Columbia, 417 App. D.C. 97 (D.C. Cir. 2015)",
+   "LF-BB-0062 \"Olympic S.S. Co. v. Centennial Ins. Co., 811 P.2nd 673 (Wash\" → Olympic S.S. Co., Inc. v. Centennial Ins. Co., 117 Wash. 2d 37 (1991)",
+   "LF-BB-0085 \"Cohen v. Bd. of Trustees of the Univ., 819 F.3rd 476 (D.C. C\" → Cohen v. Bd. of Trustees of the Univ., 94 Fed. R. Serv. 3d 488 (D.C. Cir. 2016)"
+  ]
+ },
+ {
+  "code": "bluebook_name_et_al",
+  "title": "Case name keeps \"et al.\" (Rule 10.2.1(a)).",
+  "area": "bluebook",
+  "count": 3,
+  "examples": [
+   "LF-BB-0147 → MARKMAN Et Al. v. WESTVIEW INSTRUMENTS, INC., 517 U.S. 370 (1996)",
+   "LF-BB-0172 → SAUCIER v. KATZ Et Al., 533 U.S. 194 (2001)",
+   "LF-BB-0489 → Nathaniel MOSLEY Et Al. v. GEN. MOTORS CORP. Et Al., 497 F.2d 1330 (8th Cir. 1974)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_v_form",
+  "title": "Wrong verdict on a slightly-off cite (v_form).",
+  "area": "bluebook",
+  "count": 3,
+  "examples": [
+   "LF-BB-0204 \"Rapid Litig. Mgmt. Ltd. VS CellzDirect, Inc., 827 F.3d 1042 (Fed. Cir.\" → name_mismatch",
+   "LF-BB-0208 \"City of Pontiac Policemen's & Firemen's Ret. Sys. VS Ubs Ag, 752 F.3d \" → name_mismatch",
+   "LF-BB-0232 \"Ecc Int'l Constructors, LLC vs. Sec'y of the Army, 79 F.4th 1364 (Fed.\" → error"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_court_missing",
+  "title": "Wrong verdict on a slightly-off cite (court_missing).",
+  "area": "bluebook",
+  "count": 3,
+  "examples": [
+   "LF-BB-0358 \"Antonelli v. Fed. Bureau of Prisons, 591 F. Supp. 2d 15 (2008)\" → name_mismatch",
+   "LF-BB-0377 \"Hancock v. Am. Tel. & Tel. Co., 701 F.3d 1248 (2012)\" → name_mismatch",
+   "LF-BB-0398 \"Sussex v. U.S. Dist. Ct., 781 F.3d 1065 (2015)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "opinion_text_short",
+  "title": "Opinion text under 1,500 characters (stub, syllabus only, or truncated).",
+  "area": "opinion",
+  "count": 3,
+  "examples": [
+   "LF-OP-076 300200500009975 Mercexchange, L.L.C. v. Ebay, Inc. — 1306 chars",
+   "LF-OP-077 300201000011733 Prometheus Laboratories v. Collaborative — 1028 chars",
+   "LF-OP-185 104198500000165 In re Memorandum Opinions — 1432 chars"
+  ]
+ },
+ {
+  "code": "opinion_bluebook_all_caps_name",
+  "title": "Opinion header citation fails Bluebook: Case name in capitals.",
+  "area": "opinion",
+  "count": 3,
+  "examples": [
+   "LF-OP-078 300200900013906 Laster v. AT & T MOBILITY LLC — Laster v. AT & T MOBILITY LLC, 584 F.3d 849 (9th Cir. 2009)",
+   "LF-OP-115 401200900000035 Scott v. MOREQUITY, INC. — Scott v. MOREQUITY, INC., 683 F. Supp. 2d 1280 (N.D. Ala. 2009)",
+   "LF-OP-118 432201000000826 Johnson v. STATE DEPT. OF CORRECTIONAL SERVICES — Johnson v. STATE DEPT. OF CORR. SERVS., 709 F. Supp. 2d 178 (N.D.N.Y. 2010)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_reporter_spacing",
+  "title": "Wrong verdict on a slightly-off cite (reporter_spacing).",
+  "area": "bluebook",
+  "count": 2,
+  "examples": [
+   "LF-BB-0034 \"Sterilite Corp. v. Cont'l Cas. Co., 458 N. E. 2d 338 (Mass. App. Ct. 1\" → name_mismatch",
+   "LF-BB-0036 \"Nat'l Fed'n of Indep. Bus. v. Sebelius, 567 U. S. 519 (2012)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_locator_reporter_lowercase",
+  "title": "Corrected cite carries the wrong volume/reporter/page (reporter_lowercase).",
+  "area": "bluebook",
+  "count": 2,
+  "examples": [
+   "LF-BB-0159 \"Babula v. Robertson, 536 n.w.2d 834 (Mich. Ct. App. 1995)\" → Babula v. Robertson, 212 Mich. App. 45 (Mich. Ct. App. 1995)",
+   "LF-BB-0194 \"Halvorsen v. Ferguson, 735 p.2d 675 (Wash. Ct. App. 1986)\" → Halvorsen v. Ferguson, 46 Wash. App. 708 (Wash. Ct. App. 1986)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_reporter_lowercase",
+  "title": "Wrong verdict on a slightly-off cite (reporter_lowercase).",
+  "area": "bluebook",
+  "count": 2,
+  "examples": [
+   "LF-BB-0193 \"Morley v. Cent. Intelligence Agency, 508 f.3d 1108 (D.C. Cir. 2007)\" → name_mismatch",
+   "LF-BB-0196 \"Winter v. Nat. Res. Def. Council, Inc., 555 u.s. 7 (2008)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_locator_full_caption",
+  "title": "Corrected cite carries the wrong volume/reporter/page (full_caption).",
+  "area": "bluebook",
+  "count": 2,
+  "examples": [
+   "LF-BB-0569 \"Winston & Strawn, LLP v. James P. McLean, Jr., 843 F.3d 503 \" → Winston & Strawn, LLP v. McLean, 96 Fed. R. Serv. 3d 742 (D.C. Cir. 2016)",
+   "LF-BB-0593 \"Myrtle Nell Catrett, Administratrix of the Estate of Louis H\" → Catrett v. Johns-Manville Sales Corp., 1 Fed. R. Serv. 3d 817 (D.C. Cir. 1985)"
+  ]
+ },
+ {
+  "code": "bluebook_year_page_typo",
+  "title": "Corrected cite has the wrong or no year (page_typo).",
+  "area": "bluebook",
+  "count": 2,
+  "examples": [
+   "LF-BB-0959 \"Beach v. Jean, 746 A.2d 282 (Conn. Super. Ct. 1999)\" → Critchell v. Critchell, 746 A.2d 282 (D.C. 2000)",
+   "LF-BB-0979 \"McClellan v. Tottenhoff, 666 P.2d 480 (Wyo. 1983)\" → State v. Geschwind, 666 P.2d 480 (1982)"
+  ]
+ },
+ {
+  "code": "opinion_pdf_duplicated",
+  "title": "PDF prints part of the opinion more than once.",
+  "area": "opinion",
+  "count": 2,
+  "examples": [
+   "LF-OP-033 200197600000018 Mathews v. Eldridge — 2 copies of a mid-opinion passage",
+   "LF-OP-090 300198400008883 Pure Gold, Inc. v. Syntex (u.s.a.), Inc. — 2 copies of a mid-opinion passage"
+  ]
+ },
+ {
+  "code": "scope_one_state_other_state",
+  "title": "Scope \"one_state\" returned other state.",
+  "area": "search",
+  "count": 1,
+  "examples": [
+   "LF-BS-0925: Pennsylvania Court of Common Pleas, Delaware County — Jacobs v. Nether Providence Township"
+  ]
+ },
+ {
+  "code": "goodlaw_missed_hard_overruled-100",
+  "title": "Overruled or reversed case reported as clean good law (false clean bill of health).",
+  "area": "goodlaw",
+  "count": 1,
+  "examples": [
+   "LF-GL-0398 Wood v. Strickland, 420 U.S. 308 (SCOTUS 1975) → good"
+  ]
+ },
+ {
+  "code": "goodlaw_unresolved_prior-bank",
+  "title": "Good-law input could not be resolved to a case (prior-bank).",
+  "area": "goodlaw",
+  "count": 1,
+  "examples": [
+   "LF-GL-0408 Williamson County RPC v. Hamilton Bank, 473 U.S. 175 (1985) → not_in_corpus"
+  ]
+ },
+ {
+  "code": "goodlaw_missed_soft_5300-bad_law",
+  "title": "Partially overruled / abrogated / limited case reported as clean good law.",
+  "area": "goodlaw",
+  "count": 1,
+  "examples": [
+   "LF-GL-0434 Bivens v. Six Unknown Named Agents, 403 U.S. 400 (1971) → good"
+  ]
+ },
+ {
+  "code": "bluebook_locator_reporter_spacing",
+  "title": "Corrected cite carries the wrong volume/reporter/page (reporter_spacing).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0034 \"Sterilite Corp. v. Cont'l Cas. Co., 458 N. E. 2d 338 (Mass. \" → Sterilite Corp. v. Cont'l Cas. Co., 17 Mass. App. Ct. 316 (Mass. App. Ct. 1983)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_ordinal_form",
+  "title": "Wrong verdict on a slightly-off cite (ordinal_form).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0074 \"Joseph M. Black, Jr., Tr. v. Educ. Credit Mgmt. Corp., 459 F.3rd 796 (\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_reporter_no_periods",
+  "title": "Wrong verdict on a slightly-off cite (reporter_no_periods).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0126 \"Shapiro v. Pub. Serv. Mut. Ins., 477 NE2d 146 (Mass. App. Ct. 1985)\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_locator_reporter_no_periods",
+  "title": "Corrected cite carries the wrong volume/reporter/page (reporter_no_periods).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0126 \"Shapiro v. Pub. Serv. Mut. Ins., 477 NE2d 146 (Mass. App. Ct\" → Shapiro v. Pub. Serv. Mut. Ins., 19 Mass. App. Ct. 648 (Mass. App. Ct. 1985)"
+  ]
+ },
+ {
+  "code": "bluebook_no_correction_v_form",
+  "title": "No corrected citation returned for a recoverable off-cite (v_form).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0232 \"Ecc Int'l Constructors, LLC vs. Sec'y of the Army, 79 F.4th 1364 (Fed.\" → error"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_no_parenthetical",
+  "title": "Wrong verdict on a slightly-off cite (no_parenthetical).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0252 \"United States v. Carpenter, 819 F.3d 880\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_locator_no_parenthetical",
+  "title": "Corrected cite carries the wrong volume/reporter/page (no_parenthetical).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0286 \"Luginbyhl v. Commonwealth, 618 S.E.2d 347\" → Luginbyhl v. Commonwealth, 46 Va. App. 460 (Va. Ct. App. 2005)"
+  ]
+ },
+ {
+  "code": "bluebook_locator_year_off_by_one",
+  "title": "Corrected cite carries the wrong volume/reporter/page (year_off_by_one).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0348 \"Am. Mech. Corp. v. Union MacHine Co. of Lynn, 485 N.E.2d 680\" → Am. Mech. Corp. v. Union Mach. Co. of Lynn, Inc., 21 Mass. App. Ct. 97 (Mass. App. Ct. 198"
+  ]
+ },
+ {
+  "code": "bluebook_locator_court_nonbluebook",
+  "title": "Corrected cite carries the wrong volume/reporter/page (court_nonbluebook).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0406 \"Allen v. Allen, 789 S.E.2d 787 (Va. App. 2016)\" → Allen v. Allen, 66 Va. App. 586 (Va. Ct. App. 2016)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_full_date",
+  "title": "Wrong verdict on a slightly-off cite (full_date).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0451 \"Daubert v. Merrell Dow Pharms., Inc., 951 F.2d 1128 (9th Cir. Dec. 20,\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_name_descriptive_phrase_in_name",
+  "title": "Case name keeps descriptive phrases (\"Administratrix of the Estate of…\", \"as Trustee\", \"individually\") (Rule 10.2.1(a)).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0451 → 34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce Daubert, Individual"
+  ]
+ },
+ {
+  "code": "bluebook_locator_full_date",
+  "title": "Corrected cite carries the wrong volume/reporter/page (full_date).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0475 \"Haim v. Islamic Republic of Iran, 784 F. Supp. 2d 1 (D.D.C. \" → Haim v. Islamic Republic of Iran, 77 A.L.R. Fed. 2d 685 (D.D.C. 2011)"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_t6_spelled_out",
+  "title": "Wrong verdict on a slightly-off cite (t6_spelled_out).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0524 \"Permann v. SouthernD. Department of Labor, Unemployment Insurance Divi\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_verdict_all_caps_name",
+  "title": "Wrong verdict on a slightly-off cite (all_caps_name).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0635 \"S&W ENTERS., L.L.C. v. SOUTHTRUST BANK OF ALA., NA, AN ALA. BANKING CO\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "bluebook_locator_all_caps_name",
+  "title": "Corrected cite carries the wrong volume/reporter/page (all_caps_name).",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0646 \"IN RE MCDIVITT ESTATE, 425 N.W.2d 575 (Mich. Ct. App. 1988)\" → In re McDivitt Estate, 169 Mich. App. 435 (Mich. Ct. App. 1988)"
+  ]
+ },
+ {
+  "code": "bluebook_name_v_form",
+  "title": "Case name uses \"vs.\"/\"v\" instead of \"v.\"",
+  "area": "bluebook",
+  "count": 1,
+  "examples": [
+   "LF-BB-0695 → Iowa Vs. Mark Thomas Hennings, 791 N.W.2d 828 (Iowa 2010)"
+  ]
+ },
+ {
+  "code": "carried_page_mismatch",
+  "title": "Carried-forward cite-check family \"page_mismatch\" regressed or still wrong.",
+  "area": "citecheck",
+  "count": 1,
+  "examples": [
+   "BANK-VT-06 \"Robertson v. Mylan Laboratories, Inc., 176 Vt. 359 (2004)\" → not_in_corpus"
+  ]
+ },
+ {
+  "code": "carried_secondary_form",
+  "title": "Carried-forward cite-check family \"secondary_form\" regressed or still wrong.",
+  "area": "citecheck",
+  "count": 1,
+  "examples": [
+   "BANK-FL-03 \"State v. DiGuilio, 11 Fla. L. Weekly 339\" → name_mismatch"
+  ]
+ },
+ {
+  "code": "opinion_html_leak",
+  "title": "HTML tags or entities (&amp;, <p>) leak into opinion text.",
+  "area": "opinion",
+  "count": 1,
+  "examples": [
+   "LF-OP-075 300200500012185 Carhart v. Gonzales — 1 tags/entities"
+  ]
+ },
+ {
+  "code": "opinion_bluebook_descriptive_phrase_in_name",
+  "title": "Opinion header citation fails Bluebook: Case name keeps descriptive phrases (\"Administratrix of the Estate of…\", \"as Trustee\", \"individually\") (Rule 10.2.1(a)).",
+  "area": "opinion",
+  "count": 1,
+  "examples": [
+   "LF-OP-083 300199100018349 34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch)  — 34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce"
+  ]
+ },
+ {
+  "code": "opinion_bluebook_name_too_long",
+  "title": "Opinion header citation fails Bluebook: Case name over 90 characters — not a citation short form.",
+  "area": "opinion",
+  "count": 1,
+  "examples": [
+   "LF-OP-083 300199100018349 34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch)  — 34 Fed. R. Evid. Serv. 1145, prod.liab.rep. (Cch) P 13,014 William Daubert Joyce"
+  ]
+ }
+]

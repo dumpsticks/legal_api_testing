@@ -272,22 +272,6 @@
   ]
  },
  {
-  "code": "bluebook_name_given_names",
-  "title": "Individual parties keep given names / extra words before the surname (Rule 10.2.1(g): surname only).",
-  "area": "bluebook",
-  "count": 47,
-  "examples": [
-   "LF-BB-0001 \"Phyllis Elam, for Kamea Golay\" want \"Elam ex rel. Golay\"",
-   "LF-BB-0020 \"In re Sentencing Guidelines (Florida Rules of Criminal Proce\" want \"In re Sentencing Guidelines (Fla. Rules of Criminal Procedure 3.701, 3.988)\"",
-   "LF-BB-0021 \"In re Chantix (Varenicline) Products Liability Litigation\" want \"In re Chantix (Varenicline) Prods. Liab. Litig.\"",
-   "LF-BB-0025 \"Linda Hamilton, Individually and as of the Estate of George \" want \"Hamilton\"",
-   "LF-BB-0114 \"In re: Marvin Griffin\" want \"In re Marvin Griffin\"",
-   "LF-BB-0140 \"Willie B. Hadley, Jr.\" want \"Hadley\"",
-   "LF-BB-0140 \"Howard A. Peters, III\" want \"Peters\"",
-   "LF-BB-0171 \"In the Matter of Driscoll\" want \"In re Driscoll\""
-  ]
- },
- {
   "code": "boolean_unsatisfied_lx-w-p-and",
   "title": "Returned opinion does not satisfy the connectors (template lx-w-p-and).",
   "area": "search",
@@ -557,6 +541,22 @@
    "LF-BS-2400: \"negligence per se\" /s \"class of persons\" → Qian v. Toll Brothers, Inc. (073982)",
    "LF-BS-2472: \"deceptive and unfair trade practices\" /s consumer → FedEx Ground Package Sys, Inc. v. Route ",
    "LF-BS-2532: \"claim construction\" /s specification → OPTRONIC SCIENCES LLC v. BOE Technology "
+  ]
+ },
+ {
+  "code": "bluebook_name_given_names",
+  "title": "Individual parties keep given names / extra words before the surname (Rule 10.2.1(g): surname only).",
+  "area": "bluebook",
+  "count": 21,
+  "examples": [
+   "LF-BB-0001 \"Phyllis Elam, for Kamea Golay\" want \"Elam ex rel. Golay\"",
+   "LF-BB-0025 \"Linda Hamilton, Individually and as of the Estate of George \" want \"Hamilton\"",
+   "LF-BB-0114 \"In re: Marvin Griffin\" want \"In re Marvin Griffin\"",
+   "LF-BB-0140 \"Willie B. Hadley, Jr.\" want \"Hadley\"",
+   "LF-BB-0140 \"Howard A. Peters, III\" want \"Peters\"",
+   "LF-BB-0171 \"In the Matter of Driscoll\" want \"In re Driscoll\"",
+   "LF-BB-0179 \"John Raplee, Jr.\" want \"Raplee\"",
+   "LF-BB-0287 \"In re: Marckson Saint Fleur\" want \"In re Marckson Saint Fleur\""
   ]
  },
  {

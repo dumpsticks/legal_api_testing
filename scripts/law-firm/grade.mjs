@@ -58,6 +58,11 @@ function gradeSearch() {
     const r = raw.get(v.id);
     if (r && !r.booleanCheck) r.booleanCheck = v.booleanCheck;
   }
+  // re-evaluations (e.g. after stripping star-page markers) override earlier verdicts
+  for (const v of jsonl('boolean-recheck.jsonl')) {
+    const b = raw.get(v.id)?.booleanCheck?.find((x) => x.caseId === v.caseId);
+    if (b) Object.assign(b, { hit: v.hit, negPresent: v.negPresent, words: v.words, rechecked: true });
+  }
   const graded = [];
   const unclassified = new Map();
   const lint = new Map();
@@ -361,8 +366,9 @@ function gradeBluebook() {
     for (const [es, os] of [[eL, oL], [eR, oR]]) {
       if (!es || !os) continue;
       const want = firstToken(es);
-      const toks = String(os).toLowerCase().split(/[\s,]+/).map((w) => w.replace(/[^a-z0-9']/g, ''));
-      if (want && toks[0] !== want && toks.indexOf(want) > 0) {
+      const got = firstToken(os);
+      const toks = String(os).replace(/^(in re|ex parte)\s+/i, '').toLowerCase().split(/[\s,]+/).map((w) => w.replace(/[^a-z0-9']/g, ''));
+      if (want && got !== want && toks.indexOf(want) > toks.indexOf(got)) {
         g.problems.push({ code: 'name_given_names_or_prefix', detail: `"${os.slice(0, 70)}" — Bluebook party is "${es}"` });
         fix('bluebook_name_given_names', 'Individual parties keep given names / extra words before the surname (Rule 10.2.1(g): surname only).', `${k.id} "${os.slice(0, 60)}" want "${es}"`, 'bluebook');
       }
@@ -555,7 +561,7 @@ md += `| Bluebook form from slightly-off cites | ${bR.length} | ${count(bR, (r) 
 md += `| Cite check, carried forward | ${C_R.length} | ${count(C_R, (r) => r.status === 'perfect')} (${pct(count(C_R, (r) => r.status === 'perfect'), C_R.length)}) | partial ${count(C_R, (r) => r.status === 'partial')} |\n`;
 const SYSTEMIC = new Set(['pdf_old_brand', 'cluster_id_mismatch', 'no_star_paging', 'pdf_text_differs']);
 const cleanButSystemic = count(oR, (r) => r.problems.every((p) => SYSTEMIC.has(p.code)));
-md += `| Opinion output (text + PDF) | ${oR.length} | ${count(oR, (r) => r.status === 'perfect')} (${pct(count(oR, (r) => r.status === 'perfect'), oR.length)}) | every opinion has the old LawTools PDF header and a clusterId mismatch; apart from those two, ${cleanButSystemic} (${pct(cleanButSystemic, oR.length)}) are clean |\n\n`;
+md += `| Opinion output (text + PDF) | ${oR.length} | ${count(oR, (r) => r.status === 'perfect')} (${pct(count(oR, (r) => r.status === 'perfect'), oR.length)}) | old LawTools PDF header on ${count(oR, (r) => r.problems.some((p) => p.code === 'pdf_old_brand'))}; clusterId mismatch on ${count(oR, (r) => r.problems.some((p) => p.code === 'cluster_id_mismatch'))}; apart from header, clusterId and star paging, ${cleanButSystemic} (${pct(cleanButSystemic, oR.length)}) are clean |\n\n`;
 const excl = count(G.graded, (r) => r.status === 'excluded');
 if (excl) md += `Good law: ${excl} of 1,000 rows are excluded from scoring — presumed-good inputs whose caption (taken from older banks) does not match the case at that locator; the API correctly answered \`name_mismatch\`, so there is no good-law answer to grade for the case intended. They are listed in \`problems-goodlaw.md\`.\n\n`;
 

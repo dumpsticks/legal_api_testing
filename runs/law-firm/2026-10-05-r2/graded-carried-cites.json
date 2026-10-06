@@ -1,0 +1,6044 @@
+[
+ {
+  "id": "BANK-LA-17",
+  "family": "vendor_cite",
+  "input": "State Ex Rel. Glover v. State, 1995 WL 9999999 (La. 1995)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-07",
+  "family": "year_court_mismatch",
+  "input": "State v. Rojo, 126 N.M. 438 (Colo. 2004)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AL-N0-M1",
+  "family": "mild_mangle",
+  "input": "Wilson v. City of Bessemer, 547 So. 2d 886 (Ala. 1989)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Policemen's, Fire. Ret. F. v. Kennedy, 547 So. 2d 886 (Ala. Civ. App. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ND-N0-M1",
+  "family": "mild_mangle",
+  "input": "State v. Knight, 371 N.W.2d 371 (N.D. 1985)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Knight, 371 N.W.2d 317 (Neb. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WI-N0-M1",
+  "family": "mild_mangle",
+  "input": "Harold Sampson Children's Trust v. Linda Gale Sampson 1979 Trust, 271 Wis. 2d 601 (Wis. 2004)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Harold Sampson Children's Trust v. Linda Gale Sampson 1979 Trust, 2004 WI 57 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-13",
+  "family": "statute",
+  "input": "Conn. Gen. Stat. § 52-557n",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-HI-N1-M1",
+  "family": "mild_mangle",
+  "input": "Desmond v. Administrative Director of the Courts, 91 Haw. 221 (Haw. 1998)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Desmond v. Admin. Dir. of the Cts., 982 P.2d 346 (Haw. Ct. App. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-04",
+  "family": "secondary_form",
+  "input": "Wood v. Safeway, Inc., 121 Nev. Adv. Rep. 73",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-13",
+  "family": "compound_history",
+  "input": "State v. Thompkins, 78 Ohio St. 3d 380 (1997), aff'd, 999 F.3d 1 (11th Cir. 2000)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-GA-N1-M1",
+  "family": "mild_mangle",
+  "input": "Thomas v. State, 261 Ga. App. 439 (Ga. 2003)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-12",
+  "family": "compound_history",
+  "input": "Brehm v. Eisner, 746 A.2d 244 (2000), aff'd, 999 F.3d 1 (11th Cir. 2003)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A280",
+  "family": "bluebook_variant",
+  "input": "Subaru versus David McDavid Nissan, 84 S.W.3d 212 (Tex. 2002)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Subaru of Am., Inc. v. David McDavid Nissan, Inc., 84 S.W.3d 212 (Tex. 2002)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-11",
+  "family": "string_cite",
+  "input": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (1995); Marbury v. Quillon, 88888 So. 2d 9 (1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-06",
+  "family": "page_mismatch",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 118 Wash. 2d 804 (1992)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CO-N0-M1",
+  "family": "mild_mangle",
+  "input": "Sweaney v. DIST. COURT. EIGHTEENTH JUD. DIST., 713 P.2d 941 (Colo. 1986)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Sweaney v. DIST. CT. EIGHTEENTH JUD. DIST., 713 P.2d 914 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-03",
+  "family": "parallel_cite",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-PA-V1",
+  "family": "bluebook_variant",
+  "input": "Commonwealth vs. Turner, 518 Pa. 491 (Pa. 1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CA-V1",
+  "family": "bluebook_variant",
+  "input": "People vs. Kelly, 51 Cal. Rptr. 3d 98 (Cal. 2006)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NV-M1",
+  "family": "mild_mangle",
+  "input": "Wood v. Safeway, 121 Nev. 742 (Nev. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-18",
+  "family": "vendor_cite",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 1995 WL 9999999 (N.J. 1995)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-13",
+  "family": "statute",
+  "input": "Del. Code Ann. tit. 8, § 141",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-03",
+  "family": "parallel_cite",
+  "input": "City of Keller v. Wilson, 168 S.W.3d 802 (2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-17",
+  "family": "vendor_cite",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 1985 WL 9999999 (N.D. 1985)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-04",
+  "family": "secondary_form",
+  "input": "People v. Enoch, 1988 Ill. LEXIS 41",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-03",
+  "family": "parallel_cite",
+  "input": "People v. Carines, 597 N.W.2d 130 (1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-08",
+  "family": "year_court_mismatch",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 271 Mont. 459 (Wyo. 2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TN-N0-M1",
+  "family": "mild_mangle",
+  "input": "Nelson v. Martin, 958 S.W.2d 634 (Tenn. 1997)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Nelson v. Martin, 958 S.W.2d 643 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VA-V1",
+  "family": "bluebook_variant",
+  "input": "Commonwealth vs. Hudson, 265 Va. 505 (Va. 2003)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-13",
+  "family": "statute",
+  "input": "Mich. Comp. Laws § 600.2912a",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-14",
+  "family": "statute",
+  "input": "Vt. Stat. Ann. tit. 12, § 511",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-08",
+  "family": "year_court_mismatch",
+  "input": "Kourouvacilis v. General Motors Corp., 410 Mass. 706 (Conn. 1997)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-08",
+  "family": "year_court_mismatch",
+  "input": "Curtis v. Porter, 784 A.2d 18 (N.H. 2007)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-03",
+  "family": "secondary_form",
+  "input": "People v. District Court, Second Judicial District, 1986 Colo. LEXIS 501",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IN-N0-M1",
+  "family": "mild_mangle",
+  "input": "Bailey v. Mann, 895 N.E.2d 1251 (Ind. 2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Bailey v. Mann, 895 N.E.2d 1215 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-13",
+  "family": "statute",
+  "input": "Minn. Stat. § 541.05",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-12",
+  "family": "string_cite",
+  "input": "Curtis v. Porter, 784 A.2d 18 (2001); Marbury v. Quillon, 88888 A.2d 9 (2003)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-US-05",
+  "family": "name_mismatch",
+  "input": "Hollingsworth v. Perrymount, 570 U.S. 744 (2013)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "United States v. Windsor, 570 U.S. 744 (2013)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KS-M1",
+  "family": "mild_mangle",
+  "input": "State v. Ward, 292 Kan. 514 (Kan. 2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OH-N1-M1",
+  "family": "mild_mangle",
+  "input": "Perez v. Cleveland, 78 Ohio St. 3d 367 (Ohio 1997)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Perez v. Cleveland, 78 Ohio St. 3d 376 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-05",
+  "family": "page_mismatch",
+  "input": "People v. Danielson, 9 N.Y.3d 345 (2007)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "partial"
+ },
+ {
+  "id": "SEED-HI-M1",
+  "family": "mild_mangle",
+  "input": "Kema v. Gaddis, 91 Haw. 211 (Haw. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-12",
+  "family": "string_cite",
+  "input": "Kema v. Gaddis, 91 Haw. 200 (1999); Marbury v. Quillon, 88888 Haw. 9 (2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-13",
+  "family": "statute",
+  "input": "Colo. Rev. Stat. § 13-21-102",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-07",
+  "family": "year_court_mismatch",
+  "input": "Thiele v. Stich, 425 N.W.2d 580 (Iowa 1994)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-13",
+  "family": "compound_history",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 271 Mont. 459 (1995), aff'd, 999 F.3d 1 (11th Cir. 1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-08",
+  "family": "year_court_mismatch",
+  "input": "People v. Kelly, 51 Cal. Rptr. 3d 98 (Nev. 2012)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-12",
+  "family": "string_cite",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (1987); Marbury v. Quillon, 88888 N.W.2d 9 (1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 895 N.E.2d 1219 (2008)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-03",
+  "family": "secondary_form",
+  "input": "In Re P.L., 2010 WL 323032",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-12",
+  "family": "compound_history",
+  "input": "West v. Founders Life Assur. Co. of Florida, 547 So. 2d 870 (1989), aff'd, 999 F.3d 1 (11th Cir. 1992)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-024",
+  "family": "mild_mangle",
+  "input": "Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 843 (1984)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Chevron U. S. A. Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837 (1984)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-13",
+  "family": "compound_history",
+  "input": "Commonwealth v. Hudson, 265 Va. 505 (2003), aff'd, 999 F.3d 1 (11th Cir. 2006)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TX-M1",
+  "family": "mild_mangle",
+  "input": "City of Keller v. Wilson, 48 Tex. Sup. Ct. J. 884 (Tex. 2005)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: DECLINE — preferred verdict: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-AK-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 699 P.2d 1274 (1985)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NC-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Lawrence, 365 N.C. 506 (N.C. 2012)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-13",
+  "family": "statute",
+  "input": "N.D. Cent. Code § 28-01-16",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-FL-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Pena, 232 Utah Adv. Rep. 3 (Nev. 2000)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IL-M1",
+  "family": "mild_mangle",
+  "input": "People v. Enoch, 122 Ill. 2d 167 (Ill. 1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ND-M1",
+  "family": "mild_mangle",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 312 (N.D. 1985)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-12",
+  "family": "string_cite",
+  "input": "Carmichael v. Beller, 914 P.2d 1051 (1996); Marbury v. Quillon, 88888 P.2d 9 (1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-14",
+  "family": "statute",
+  "input": "Wash. Rev. Code § 4.16.080",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MN-N0-M1",
+  "family": "mild_mangle",
+  "input": "In Re McDivitt Estate, 425 N.W.2d 557 (Minn. 1988)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re McDivitt Estate, 169 Mich. App. 435 (Mich. Ct. App. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KS-N0-M1",
+  "family": "mild_mangle",
+  "input": "State v. Stieben, 292 Kan. 544 (Kan. 2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Stieben, 256 P.3d 796 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-14",
+  "family": "statute",
+  "input": "Mass. Gen. Laws ch. 231, § 85K",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-08",
+  "family": "year_court_mismatch",
+  "input": "Ferryman v. City of Groton, 212 Conn. 138 (R.I. 1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-18",
+  "family": "vendor_cite",
+  "input": "People v. Enoch, 1988 WL 9999999 (Ill. 1988)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MN-V1",
+  "family": "bluebook_variant",
+  "input": "Thiele vs. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AZ-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Henderson, 210 Ariz. 561 (Ariz. 2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WI-V1",
+  "family": "bluebook_variant",
+  "input": "State Ex Rel. Kalal vs. Circuit Court for Dane County, 271 Wis. 2d 633 (Wis. 2004)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-17",
+  "family": "vendor_cite",
+  "input": "People v. District Court, Second Judicial District, 1986 WL 9999999 (Colo. 1986)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TN-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SD-V1",
+  "family": "bluebook_variant",
+  "input": "Permann vs. South Dakota Department of Labor, 411 N.W.2d 113 (S.D. 1987)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-07",
+  "family": "year_court_mismatch",
+  "input": "State v. DiGuilio, 491 So. 2d 1129 (Ala. 1992)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-13",
+  "family": "compound_history",
+  "input": "People v. Enoch, 122 Ill. 2d 176 (1988), aff'd, 999 F.3d 1 (11th Cir. 1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-12",
+  "family": "string_cite",
+  "input": "Vogel v. Vogel, 137 N.H. 321 (1993); Marbury v. Quillon, 88888 N.H. 9 (1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 778 N.W.2d 33 (2010)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-UT-N1-M1",
+  "family": "mild_mangle",
+  "input": "Hill v. Hill, 232 Utah Adv. Rep. 61 (Utah 1994)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Hill v. Hill, 869 P.2d 963 (Utah Ct. App. 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-06",
+  "family": "page_mismatch",
+  "input": "State v. Oliver, 144 Idaho 725 (2007)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NC-N1-M1",
+  "family": "mild_mangle",
+  "input": "State v. Lewis, 365 N.C. 499 (N.C. 2012)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Lewis, 724 S.E.2d 492 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-11",
+  "family": "string_cite",
+  "input": "Zeman v. Lufthansa German Airlines, 699 P.2d 1274 (1985); Marbury v. Quillon, 88888 P.2d 9 (1987)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-03",
+  "family": "parallel_cite",
+  "input": "State v. Rojo, 971 P.2d 829 (1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-04",
+  "family": "secondary_form",
+  "input": "Kaczorowski v. Mayor of Baltimore, 1987 Md. LEXIS 231",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-05",
+  "family": "page_mismatch",
+  "input": "State Ex Rel. Glover v. State, 660 So. 2d 1192 (1995)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-CT-04",
+  "family": "secondary_form",
+  "input": "Ferryman v. City of Groton, 1989 Conn. LEXIS 213",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Ward, 292 Kan. 541 (Okla. 2017)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-17",
+  "family": "vendor_cite",
+  "input": "Cardwell v. State, 2008 WL 9999999 (Ind. 2008)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-11",
+  "family": "string_cite",
+  "input": "State v. Bland, 958 S.W.2d 651 (1997); Marbury v. Quillon, 88888 S.W.2d 9 (1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A283",
+  "family": "bluebook_variant",
+  "input": "Villegas v. Carter, 711 S.W.2d 624 ; (Tex. 1986)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Villegas v. Carter, 711 S.W.2d 624 (Tex. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-06",
+  "family": "page_mismatch",
+  "input": "Kourouvacilis v. General Motors Corp., 410 Mass. 709 (1991)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-11",
+  "family": "string_cite",
+  "input": "People v. Carines, 460 Mich. 750 (1999); Marbury v. Quillon, 88888 Mich. 9 (2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-05",
+  "family": "page_mismatch",
+  "input": "Brehm v. Eisner, 746 A.2d 247 (2000)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-06",
+  "family": "page_mismatch",
+  "input": "State v. Thompkins, 78 Ohio St. 3d 383 (1997)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-05",
+  "family": "page_mismatch",
+  "input": "State v. Bland, 958 S.W.2d 654 (1997)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-12",
+  "family": "compound_history",
+  "input": "State v. Rojo, 126 N.M. 438 (1998), aff'd, 999 F.3d 1 (11th Cir. 2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-17",
+  "family": "vendor_cite",
+  "input": "State v. Rojo, 1998 WL 9999999 (N.M. 1998)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VA-M1",
+  "family": "mild_mangle",
+  "input": "Commonwealth v. Hudson, 265 Va. 550 (Va. 2003)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A277",
+  "family": "bluebook_variant",
+  "input": "_AIU Ins. Co. v. Superior Ct._, 51 Cal. 3d 807 (Cal. 1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "AIU Ins. v. Superior Ct., 51 Cal. 3d 807 (1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-03",
+  "family": "secondary_form",
+  "input": "Zeman v. Lufthansa German Airlines, 1985 Alas. LEXIS 269",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-03",
+  "family": "parallel_cite",
+  "input": "Kourouvacilis v. General Motors Corp., 575 N.E.2d 734 (1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-07",
+  "family": "year_court_mismatch",
+  "input": "Commonwealth v. English, 993 S.W.2d 941 (Tenn. 2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-12",
+  "family": "string_cite",
+  "input": "Commonwealth v. Hudson, 265 Va. 505 (2003); Marbury v. Quillon, 88888 Va. 9 (2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NJ-V1",
+  "family": "bluebook_variant",
+  "input": "Brill vs. Guardian Life Insurance Co. of America, 142 N.J. 520 (N.J. 1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 210 Ariz. 561 (2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AL-V1",
+  "family": "bluebook_variant",
+  "input": "West vs. Founders Life Assur. Co. of Florida, 547 So. 2d 870 (Ala. 1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-LA-V1",
+  "family": "bluebook_variant",
+  "input": "State Ex Rel. Glover vs. State, 660 So. 2d 1189 (La. 1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A285",
+  "family": "bluebook_variant",
+  "input": "Parkway Company v. Woodruff, 901 S.W.2d 434 (Tex. 1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Parkway Co. v. Woodruff, 901 S.W.2d 434 (Tex. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-13",
+  "family": "statute",
+  "input": "Miss. Code Ann. § 15-1-49",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 547 So. 2d 870 (1989)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-08",
+  "family": "year_court_mismatch",
+  "input": "Robertson v. Mylan Laboratories, Inc., 176 Vt. 356 (N.H. 2010)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-14",
+  "family": "statute",
+  "input": "Okla. Stat. tit. 12, § 95",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "not_in_corpus; key: CONFIRM as valid (or likely_valid)"
+   }
+  ],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "partial"
+ },
+ {
+  "id": "SEED-NY-M1",
+  "family": "mild_mangle",
+  "input": "People v. Danielson, 9 N.Y.3d 324 (N.Y. 2007)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Haymon v. Pettit, 9 N.Y.3d 324 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-17",
+  "family": "vendor_cite",
+  "input": "State v. Ward, 2011 WL 9999999 (Kan. 2011)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-11",
+  "family": "string_cite",
+  "input": "State v. Ward, 292 Kan. 541 (2011); Marbury v. Quillon, 88888 Kan. 9 (2013)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 265 Va. 505 (2003)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NH-V1",
+  "family": "bluebook_variant",
+  "input": "Vogel vs. Vogel, 137 N.H. 321 (N.H. 1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NY-N0-M1",
+  "family": "mild_mangle",
+  "input": "Fung v. Japan Airlines Co., 9 N.Y.3d 315 (N.Y. 2007)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Fung v. Japan Airlines Co., 9 N.Y.3d 351 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MA-M1",
+  "family": "mild_mangle",
+  "input": "Kourouvacilis v. General Motors Corp., 410 Mass. 760 (Mass. 1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Acme Laundry Co. v. Sec'y of Env't Affairs, 410 Mass. 760 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 491 So. 2d 1129 (1986)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-12",
+  "family": "compound_history",
+  "input": "People v. District Court, Second Judicial District, 713 P.2d 918 (1986), aff'd, 999 F.3d 1 (11th Cir. 1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-03",
+  "family": "parallel_cite",
+  "input": "Commonwealth v. Turner, 544 A.2d 927 (1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-04",
+  "family": "secondary_form",
+  "input": "State v. Oliver, 2007 Ida. LEXIS 192",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CT-N0-M1",
+  "family": "mild_mangle",
+  "input": "Hall Manor Owner's Ass'n v. City of West Haven, 212 Conn. 174 (Conn. 1989)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Hall Manor Owner's Ass'n v. City of W. Haven, 561 A.2d 1373 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 48 Tex. Sup. Ct. J. 848 (2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-04",
+  "family": "secondary_form",
+  "input": "State v. Henderson, 456 Ariz. Adv. Rep. 10",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-06",
+  "family": "page_mismatch",
+  "input": "State v. Pena, 232 Utah Adv. Rep. 6 (1994)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-LA-N1-M1",
+  "family": "mild_mangle",
+  "input": "Hyland v. State, 660 So. 2d 1178 (La. 1995)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-13",
+  "family": "statute",
+  "input": "Iowa Code § 668.3",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-12",
+  "family": "string_cite",
+  "input": "Robertson v. Mylan Laboratories, Inc., 176 Vt. 356 (2004); Marbury v. Quillon, 88888 Vt. 9 (2006)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-04",
+  "family": "secondary_form",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 1995 Mont. LEXIS 124",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-06",
+  "family": "page_mismatch",
+  "input": "Vogel v. Vogel, 137 N.H. 324 (1993)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-LA-M1",
+  "family": "mild_mangle",
+  "input": "State Ex Rel. Glover v. State, 660 So. 2d 1198 (La. 1995)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: DECLINE — preferred verdict: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-ME-06",
+  "family": "page_mismatch",
+  "input": "Curtis v. Porter, 784 A.2d 21 (2001)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-14",
+  "family": "statute",
+  "input": "Ariz. Rev. Stat. § 13-1204",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 674 A.2d 1223 (1996)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ND-N1-M1",
+  "family": "mild_mangle",
+  "input": "State v. Battershaw, 371 N.W.2d 331 (N.D. 1985)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Battershaw, 371 N.W.2d 313 (Neb. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-03",
+  "family": "secondary_form",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 1985 N.D. LEXIS 354",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A293",
+  "family": "bluebook_variant",
+  "input": "Iskanian v. CLS Transportation Los Angeles, LLC, 59 Cal. 4th 348, at 350 (Cal. 2014)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Iskanian v. CLS Transp. Los Angeles, LLC, 59 Cal. 4th 348 (2014)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-008",
+  "family": "bluebook_variant",
+  "input": "Dresher v. Burt, 75 Ohio St. 3d 280 (Ohio 1996)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Dresher v. Burt, 75 Ohio St. 3d 280 (1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-12",
+  "family": "compound_history",
+  "input": "People v. Carines, 460 Mich. 750 (1999), aff'd, 999 F.3d 1 (11th Cir. 2002)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AZ-N1-M1",
+  "family": "mild_mangle",
+  "input": "State of Az v. Christopher George Theodore Lamar, 210 Ariz. 517 (Ariz. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Az v. Christopher George Theodore Lamar, 115 P.3d 611 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IL-N0-M1",
+  "family": "mild_mangle",
+  "input": "In Re Mason, 122 Ill. 2d 136 (Ill. 1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re Mason, 122 Ill. 2d 163 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-17",
+  "family": "vendor_cite",
+  "input": "State v. DiGuilio, 1986 WL 9999999 (Fla. 1986)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-04",
+  "family": "secondary_form",
+  "input": "City of Keller v. Wilson, 48 Tex. Sup. Ct. J. 848",
+  "problems": [],
+  "verdict": "valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-03",
+  "family": "parallel_cite",
+  "input": "Ferryman v. City of Groton, 561 A.2d 432 (1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-06",
+  "family": "page_mismatch",
+  "input": "Robertson v. Mylan Laboratories, Inc., 176 Vt. 359 (2004)",
+  "problems": [
+   {
+    "code": "verdict",
+    "detail": "not_in_corpus; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "fail"
+ },
+ {
+  "id": "ANAT-A291",
+  "family": "bluebook_variant",
+  "input": "Cornejo v. Bell, 592 F.3d 121 (2d Cir. 2010).",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cornejo v. Bell, 592 F.3d 121 (2d Cir. 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-11",
+  "family": "string_cite",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 321 (1985); Marbury v. Quillon, 88888 N.W.2d 9 (1987)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WV-M1",
+  "family": "mild_mangle",
+  "input": "In Re Cecil T., 228 W. Va. 98 (W. Va. 2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 118 Wash. 2d 801 (1992)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-UT-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Pena, 232 Utah Adv. Rep. 3 (Utah 1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-14",
+  "family": "statute",
+  "input": "Idaho Code § 6-1603",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-PA-M1",
+  "family": "mild_mangle",
+  "input": "Commonwealth v. Turner, 518 Pa. 419 (Pa. 1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 660 So. 2d 1189 (1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-13",
+  "family": "compound_history",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 118 Wash. 2d 801 (1992), aff'd, 999 F.3d 1 (11th Cir. 1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KY-V1",
+  "family": "bluebook_variant",
+  "input": "Commonwealth vs. English, 993 S.W.2d 941 (Ky. 1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-12",
+  "family": "string_cite",
+  "input": "People v. Kelly, 51 Cal. Rptr. 3d 98 (2006); Marbury v. Quillon, 88888 Cal. Rptr. 3d 9 (2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A281",
+  "family": "bluebook_variant",
+  "input": "Reynolds v. Select Properties , Ltd., 634 So. 2d 1180 (La. 1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Reynolds v. Select Props., Ltd., 634 So. 2d 1180 (La. 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 271 Wis. 2d 633 (2004)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-05",
+  "family": "page_mismatch",
+  "input": "In Re P.L., 778 N.W.2d 36 (2010)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-NH-04",
+  "family": "secondary_form",
+  "input": "Vogel v. Vogel, 1993 N.H. LEXIS 77",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ME-N0-M1",
+  "family": "mild_mangle",
+  "input": "State v. Bavouset, 784 A.2d 72 (Me. 2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re Danastorg, 784 A.2d 72 (N.J. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-13",
+  "family": "compound_history",
+  "input": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (1991), aff'd, 999 F.3d 1 (11th Cir. 1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-17",
+  "family": "vendor_cite",
+  "input": "Brehm v. Eisner, 2000 WL 9999999 (Del. 2000)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-05",
+  "family": "page_mismatch",
+  "input": "People v. District Court, Second Judicial District, 713 P.2d 921 (1986)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-03",
+  "family": "secondary_form",
+  "input": "Bush v. State, 2005 WL 312039",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-18",
+  "family": "vendor_cite",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 2004 WL 9999999 (Wis. 2004)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-11",
+  "family": "string_cite",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (1993); Marbury v. Quillon, 88888 S.W.2d 9 (1995)",
+  "problems": [
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "valid",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-18",
+  "family": "vendor_cite",
+  "input": "In Re Cecil T., 2011 WL 9999999 (W. Va. 2011)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-06",
+  "family": "page_mismatch",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 271 Wis. 2d 636 (2004)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Thompkins, 78 Ohio St. 3d 380 (Ky. 2003)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-14",
+  "family": "statute",
+  "input": "Cal. Civ. Code § 1714",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cal. CIV Code § 1714",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-17",
+  "family": "vendor_cite",
+  "input": "Finn v. McCuen, 1990 WL 9999999 (Ark. 1990)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WY-V1",
+  "family": "bluebook_variant",
+  "input": "Vaughn vs. State, 962 P.2d 149 (Wyo. 1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-07",
+  "family": "year_court_mismatch",
+  "input": "People v. Carines, 460 Mich. 750 (Wis. 2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NM-N1-M1",
+  "family": "mild_mangle",
+  "input": "State v. Ingram, 126 N.M. 462 (N.M. 1998)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Ingram, 1998 NMCA 177 (N.M. Ct. App. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-035",
+  "family": "bluebook_variant",
+  "input": "Miranda v. Arizona, 86 S. Ct. 1602 (1966)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-18",
+  "family": "vendor_cite",
+  "input": "Commonwealth v. Hudson, 2003 WL 9999999 (Va. 2003)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SD-M1",
+  "family": "mild_mangle",
+  "input": "Permann v. South Dakota Department of Labor, 411 N.W.2d 131 (S.D. 1987)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-18",
+  "family": "vendor_cite",
+  "input": "Kourouvacilis v. General Motors Corp., 1991 WL 9999999 (Mass. 1991)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-17",
+  "family": "vendor_cite",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 2008 WL 9999999 (Neb. 2008)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 232 Utah Adv. Rep. 3 (1994)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CO-V1",
+  "family": "bluebook_variant",
+  "input": "People vs. District Court, 713 P.2d 918 (Colo. 1986)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MD-N0-M1",
+  "family": "mild_mangle",
+  "input": "State Highway Administration v. Kee, 309 Md. 532 (Md. 1987)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State Highway Administration v. Kee, 525 A.2d 637 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MI-N1-M1",
+  "family": "mild_mangle",
+  "input": "People v. Johnson, 460 Mich. 702 (Mich. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Johnson, 460 Mich. 720 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-045",
+  "family": "mild_mangle",
+  "input": "Iqbal, 556 U.S. at 678",
+  "problems": [],
+  "verdict": "likely_valid",
+  "output": "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-12",
+  "family": "compound_history",
+  "input": "State v. DiGuilio, 491 So. 2d 1129 (1986), aff'd, 999 F.3d 1 (11th Cir. 1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-12",
+  "family": "compound_history",
+  "input": "Zeman v. Lufthansa German Airlines, 699 P.2d 1274 (1985), aff'd, 999 F.3d 1 (11th Cir. 1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 126 N.M. 438 (1998)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-13",
+  "family": "compound_history",
+  "input": "Commonwealth v. Turner, 518 Pa. 491 (1988), aff'd, 999 F.3d 1 (11th Cir. 1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-13",
+  "family": "statute",
+  "input": "Wyo. Stat. Ann. § 1-3-105",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OK-V1",
+  "family": "bluebook_variant",
+  "input": "Carmichael vs. Beller, 914 P.2d 1051 (Okla. 1996)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IN-M1",
+  "family": "mild_mangle",
+  "input": "Cardwell v. State, 895 N.E.2d 1291 (Ind. 2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NE-N1-M1",
+  "family": "mild_mangle",
+  "input": "STATE COUNSEL FOR DISCIPLINE v. Wadman, 275 Neb. 375 (Neb. 2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "STATE COUNSEL FOR DISCIPLINE v. Wadman, 746 N.W.2d 681 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-08",
+  "family": "year_court_mismatch",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (N.D. 1993)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-17",
+  "family": "vendor_cite",
+  "input": "State v. Bland, 1997 WL 9999999 (Tenn. 1997)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SD-N1-M1",
+  "family": "mild_mangle",
+  "input": "State v. Eagle Hawk, 411 N.W.2d 102 (S.D. 1987)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Matter of Guardianship of Viereck, 411 N.W.2d 102 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ME-V1",
+  "family": "bluebook_variant",
+  "input": "Curtis vs. Porter, 784 A.2d 18 (Me. 2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-11",
+  "family": "string_cite",
+  "input": "In Re P.L., 778 N.W.2d 33 (2010); Marbury v. Quillon, 88888 N.W.2d 9 (2012)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CA-M1",
+  "family": "mild_mangle",
+  "input": "People v. Kelly, 51 Cal. Rptr. 3d 89 (Cal. 2006)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ID-M1",
+  "family": "mild_mangle",
+  "input": "State v. Oliver, 144 Idaho 733 (Idaho 2007)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-04",
+  "family": "secondary_form",
+  "input": "Curtis v. Porter, 2001 Me. LEXIS 161",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MT-M1",
+  "family": "mild_mangle",
+  "input": "Carbon County v. Union Reserve Coal Co., 271 Mont. 495 (Mont. 1995)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SD-N0-M1",
+  "family": "mild_mangle",
+  "input": "Lee v. South Dakota Department of Health, 411 N.W.2d 180 (S.D. 1987)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Coe, 411 N.W.2d 180 (Minn. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 854 S.W.2d 371 (1993)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 275 Neb. 334 (2008)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-05",
+  "family": "page_mismatch",
+  "input": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1226 (1996)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-06",
+  "family": "page_mismatch",
+  "input": "Ferryman v. City of Groton, 212 Conn. 141 (1989)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-03",
+  "family": "parallel_cite",
+  "input": "Wood v. Safeway, Inc., 121 P.3d 1026 (2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-18",
+  "family": "vendor_cite",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 1993 WL 9999999 (Or. 1993)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-03",
+  "family": "secondary_form",
+  "input": "State Ex Rel. Glover v. State, 1995 WL 520198",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-06",
+  "family": "page_mismatch",
+  "input": "Carmichael v. Beller, 914 P.2d 1054 (1996)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 261 Ga. 491 (1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OR-N1-M1",
+  "family": "mild_mangle",
+  "input": "County of Klamath v. Ricard, 317 Or. App. 680 (Or. 2022)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Cnty. of Klamath v. Ricard, 507 P.3d 333 (Or. Ct. App. 2022)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-05",
+  "family": "page_mismatch",
+  "input": "Commonwealth v. English, 993 S.W.2d 944 (1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-03",
+  "family": "parallel_cite",
+  "input": "State v. Henderson, 115 P.3d 601 (2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-DE-N1-M1",
+  "family": "mild_mangle",
+  "input": "Beach v. Jean, 746 A.2d 282 (Del. 1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Critchell v. Critchell, 746 A.2d 282 (D.C. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MS-N1-M1",
+  "family": "mild_mangle",
+  "input": "Ex Parte Newton, 895 So. 2d 815 (Miss. 2004)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Ex parte Newton, 895 So. 2d 851 (Ala. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Lawrence, 365 N.C. 506 (S.C. 2018)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-GA-N0-M1",
+  "family": "mild_mangle",
+  "input": "Rainey v. Lange, 261 Ga. App. 419 (Ga. 2003)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Mulligan v. Rawls, 261 Ga. App. 419 (Ga. Ct. App. 2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 410 Mass. 706 (1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-14",
+  "family": "statute",
+  "input": "Md. Code Ann., Cts. & Jud. Proc. § 5-101",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A278",
+  "family": "bluebook_variant",
+  "input": "Giannullo v. City of New York, 322 F.3d 139 (2d Cir., 2003)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Giannullo v. City of New York, 322 F.3d 139 (2d Cir. 2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-03",
+  "family": "parallel_cite",
+  "input": "People v. Enoch, 522 N.E.2d 1124 (1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-FL-N1-M1",
+  "family": "mild_mangle",
+  "input": "Noah v. Noah, 491 So. 2d 1142 (Fla. 1986)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Crawford v. State, 491 So. 2d 1142 (Fla. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MO-N1-M1",
+  "family": "mild_mangle",
+  "input": "General Agents Insurance Co. of America v. People's Bank & Trust Co., 854 S.W.2d 386 (Mo. 1993)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Gen. Agents Ins. Co. of Am. v. People's Bank & Trust Co., 854 S.W.2d 368 (Ark. Ct. App. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KS-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Ward, 292 Kan. 541 (Kan. 2011)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-08",
+  "family": "year_court_mismatch",
+  "input": "In Re Cecil T., 228 W. Va. 89 (Va. 2017)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-12",
+  "family": "compound_history",
+  "input": "In Re P.L., 778 N.W.2d 33 (2010), aff'd, 999 F.3d 1 (11th Cir. 2013)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-03",
+  "family": "parallel_cite",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 666 A.2d 146 (1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-08",
+  "family": "year_court_mismatch",
+  "input": "Finn v. McCuen, 303 Ark. 418 (Mo. 1996)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CA-N1-M1",
+  "family": "mild_mangle",
+  "input": "Domino's Pizza v. Workers' Compensation Appeals Board, 51 Cal. Rptr. 3d 161 (Cal. 2006)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Pizza v. Workers' Comp. Appeals Bd., 144 Cal. App. 4th 1316 (Cal. Ct. App. 2d 2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NJ-M1",
+  "family": "mild_mangle",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 142 N.J. 502 (N.J. 1995)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-14",
+  "family": "statute",
+  "input": "S.D. Codified Laws § 15-2-13",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-11",
+  "family": "string_cite",
+  "input": "Thiele v. Stich, 425 N.W.2d 580 (1988); Marbury v. Quillon, 88888 N.W.2d 9 (1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-18",
+  "family": "vendor_cite",
+  "input": "City of Keller v. Wilson, 2005 WL 9999999 (Tex. 2005)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-12",
+  "family": "string_cite",
+  "input": "Commonwealth v. Turner, 518 Pa. 491 (1988); Marbury v. Quillon, 88888 Pa. 9 (1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IL-V1",
+  "family": "bluebook_variant",
+  "input": "People vs. Enoch, 122 Ill. 2d 176 (Ill. 1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-07",
+  "family": "year_court_mismatch",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 275 Neb. 334 (S.D. 2014)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-06",
+  "family": "page_mismatch",
+  "input": "Commonwealth v. Hudson, 265 Va. 508 (2003)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 212 Conn. 138 (1989)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-11",
+  "family": "string_cite",
+  "input": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (1996); Marbury v. Quillon, 88888 A.2d 9 (1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-04",
+  "family": "secondary_form",
+  "input": "Kema v. Gaddis, 1999 Haw. LEXIS 283",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-12",
+  "family": "string_cite",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 118 Wash. 2d 801 (1992); Marbury v. Quillon, 88888 Wash. 2d 9 (1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-12",
+  "family": "compound_history",
+  "input": "Commonwealth v. English, 993 S.W.2d 941 (1999), aff'd, 999 F.3d 1 (11th Cir. 2002)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-US-13",
+  "family": "string_cite",
+  "input": "Ashcroft v. Iqbal, 556 U.S. 662 (2009); Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007); Conley v. Gibson, 355 U.S. 41 (1957)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-13",
+  "family": "statute",
+  "input": "Ind. Code § 34-51-2-1",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-18",
+  "family": "vendor_cite",
+  "input": "Kaczorowski v. Mayor of Baltimore, 1987 WL 9999999 (Md. 1987)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VT-N1-M1",
+  "family": "mild_mangle",
+  "input": "Marine Midland Bank v. Bicknell, 176 Vt. 398 (Vt. 2004)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A290",
+  "family": "bluebook_variant",
+  "input": "Austin Nursing Ctr., Inc. v. Lovato, 171 S.W.3d 845, Tex. 2005",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Austin Nursing Ctr., Inc. v. Lovato, 171 S.W.3d 845 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-06",
+  "family": "page_mismatch",
+  "input": "State v. Lawrence, 365 N.C. 509 (2012)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 317 Or. 606 (1993)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-11",
+  "family": "string_cite",
+  "input": "Commonwealth v. English, 993 S.W.2d 941 (1999); Marbury v. Quillon, 88888 S.W.2d 9 (2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SC-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Williams, 305 S.C. 116 (S.C. 1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SC-N0-M1",
+  "family": "mild_mangle",
+  "input": "Key v. Currie, 305 S.C. 151 (S.C. 1991)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Key v. Currie, 406 S.E.2d 356 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-03",
+  "family": "parallel_cite",
+  "input": "Curtis v. Porter, 2001 ME 158 (2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NV-N0-M1",
+  "family": "mild_mangle",
+  "input": "Flores v. State, 121 Nev. 760 (Nev. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Flores v. State, 120 P.3d 1170 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-11",
+  "family": "string_cite",
+  "input": "State v. DiGuilio, 491 So. 2d 1129 (1986); Marbury v. Quillon, 88888 So. 2d 9 (1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-12",
+  "family": "compound_history",
+  "input": "Cardwell v. State, 895 N.E.2d 1219 (2008), aff'd, 999 F.3d 1 (11th Cir. 2011)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-05",
+  "family": "page_mismatch",
+  "input": "Cardwell v. State, 895 N.E.2d 1222 (2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ID-N0-M1",
+  "family": "mild_mangle",
+  "input": "Blanton v. Canyon County, 144 Idaho 781 (Idaho 2007)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Blanton v. Canyon Cnty., 170 P.3d 383 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OH-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Thompkins, 78 Ohio St. 3d 380 (Ohio 1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-14",
+  "family": "statute",
+  "input": "Va. Code Ann. § 8.01-243",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-UT-M1",
+  "family": "mild_mangle",
+  "input": "State v. Pena, 232 Utah Adv. Rep. 4 (Utah 1994)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A286",
+  "family": "bluebook_variant",
+  "input": "Hawk V. Hawk, 855 S.W.2d 573 (Tenn. 1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Hawk v. Hawk, 855 S.W.2d 573 (Tenn. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-DE-N0-M1",
+  "family": "mild_mangle",
+  "input": "Ives v. Nmtc, 746 A.2d 263 (Del. 1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Ives v. Nmtc, Inc., 746 A.2d 236 (Conn. Super. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-17",
+  "family": "vendor_cite",
+  "input": "Zeman v. Lufthansa German Airlines, 1985 WL 9999999 (Alaska 1985)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-08",
+  "family": "year_court_mismatch",
+  "input": "City of Keller v. Wilson, 48 Tex. Sup. Ct. J. 848 (Okla. 2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-13",
+  "family": "compound_history",
+  "input": "Robertson v. Mylan Laboratories, Inc., 176 Vt. 356 (2004), aff'd, 999 F.3d 1 (11th Cir. 2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-06",
+  "family": "page_mismatch",
+  "input": "State v. Ward, 292 Kan. 544 (2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-18",
+  "family": "vendor_cite",
+  "input": "People v. Kelly, 2006 WL 9999999 (Cal. 2006)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-11",
+  "family": "string_cite",
+  "input": "People v. Danielson, 9 N.Y.3d 342 (2007); Marbury v. Quillon, 88888 N.Y.3d 9 (2009)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MT-N0-M1",
+  "family": "mild_mangle",
+  "input": "Montana Public Employee's Ass'n v. Office of the Governor, 271 Mont. 405 (Mont. 1995)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Mont. Pub. Employee's Ass'n v. Office of the Governor, 898 P.2d 675 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-08",
+  "family": "year_court_mismatch",
+  "input": "Kema v. Gaddis, 91 Haw. 200 (Alaska 2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NH-M1",
+  "family": "mild_mangle",
+  "input": "Vogel v. Vogel, 137 N.H. 312 (N.H. 1993)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-11",
+  "family": "string_cite",
+  "input": "Vaughn v. State, 962 P.2d 149 (1998); Marbury v. Quillon, 88888 P.2d 9 (2000)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-17",
+  "family": "vendor_cite",
+  "input": "In Re P.L., 2010 WL 9999999 (Iowa 2010)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-07",
+  "family": "year_court_mismatch",
+  "input": "People v. Danielson, 9 N.Y.3d 342 (N.J. 2013)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CT-M1",
+  "family": "mild_mangle",
+  "input": "Ferryman v. City of Groton, 212 Conn. 183 (Conn. 1989)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 9 N.Y.3d 342 (2007)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-12",
+  "family": "compound_history",
+  "input": "State v. Ward, 292 Kan. 541 (2011), aff'd, 999 F.3d 1 (11th Cir. 2014)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-18",
+  "family": "vendor_cite",
+  "input": "Kema v. Gaddis, 1999 WL 9999999 (Haw. 1999)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-11",
+  "family": "string_cite",
+  "input": "State v. Pena, 232 Utah Adv. Rep. 3 (1994); Marbury v. Quillon, 88888 Utah Adv. Rep. 9 (1996)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 518 Pa. 491 (1988)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WY-N1-M1",
+  "family": "mild_mangle",
+  "input": "Rodriguez v. State, 962 P.2d 114 (Wyo. 1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Rodriguez v. State, 962 P.2d 141 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-13",
+  "family": "compound_history",
+  "input": "Kaczorowski v. Mayor of Baltimore, 309 Md. 505 (1987), aff'd, 999 F.3d 1 (11th Cir. 1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ME-M1",
+  "family": "mild_mangle",
+  "input": "Curtis v. Porter, 784 A.2d 81 (Me. 2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Nolan v. First Colony Life Ins. Co., 784 A.2d 81 (N.J. Super. Ct. App. Div. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-07",
+  "family": "year_court_mismatch",
+  "input": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (Mass. 2002)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-03",
+  "family": "parallel_cite",
+  "input": "State v. Lawrence, 723 S.E.2d 326 (2012)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AL-N1-M1",
+  "family": "mild_mangle",
+  "input": "Hollis v. Brock, 547 So. 2d 827 (Ala. 1989)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Hollis v. Brock, 547 So. 2d 872 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-07",
+  "family": "year_court_mismatch",
+  "input": "State v. Bland, 958 S.W.2d 651 (Ky. 2003)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-07",
+  "family": "year_court_mismatch",
+  "input": "Bush v. State, 895 So. 2d 836 (La. 2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IL-N1-M1",
+  "family": "mild_mangle",
+  "input": "Bush v. Squellati, 122 Ill. 2d 135 (Ill. 1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Bush v. Squellati, 122 Ill. 2d 153 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NM-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Rojo, 126 N.M. 438 (N.M. 1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-03",
+  "family": "parallel_cite",
+  "input": "State v. Pena, 869 P.2d 932 (1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-11",
+  "family": "string_cite",
+  "input": "Brehm v. Eisner, 746 A.2d 244 (2000); Marbury v. Quillon, 88888 A.2d 9 (2002)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-11",
+  "family": "string_cite",
+  "input": "Cardwell v. State, 895 N.E.2d 1219 (2008); Marbury v. Quillon, 88888 N.E.2d 9 (2010)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-04",
+  "family": "secondary_form",
+  "input": "Kourouvacilis v. General Motors Corp., 1991 Mass. LEXIS 392",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-03",
+  "family": "parallel_cite",
+  "input": "People v. Kelly, 146 P.3d 547 (2006)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-06",
+  "family": "page_mismatch",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 317 Or. 609 (1993)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IA-07",
+  "family": "year_court_mismatch",
+  "input": "In Re P.L., 778 N.W.2d 33 (Neb. 2016)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WV-N0-M1",
+  "family": "mild_mangle",
+  "input": "Whittaker v. Whittaker, 228 W. Va. 48 (W. Va. 2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Mey v. Boys-Manny, 717 S.E.2d 235 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VT-V1",
+  "family": "bluebook_variant",
+  "input": "Robertson vs. Mylan Laboratories, 176 Vt. 356 (Vt. 2004)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MN-N1-M1",
+  "family": "mild_mangle",
+  "input": "Parranto Bros., 425 N.W.2d 558 (Minn. 1988)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Parranto Bros., Inc. v. City of New Brighton, 425 N.W.2d 585 (Minn. Ct. App. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WA-M1",
+  "family": "mild_mangle",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 118 Wash. 2d 810 (Wash. 1992)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-13",
+  "family": "statute",
+  "input": "Tenn. Code Ann. § 28-3-104",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VT-M1",
+  "family": "mild_mangle",
+  "input": "Robertson v. Mylan Laboratories, 176 Vt. 365 (Vt. 2004)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OK-N0-M1",
+  "family": "mild_mangle",
+  "input": "State Ex Rel. Oklahoma Bar Ass'n v. Briery, 914 P.2d 1064 (Okla. 1996)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State Ex Rel. Okla. Bar Ass'n v. Briery, 914 P.2d 1046 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-07",
+  "family": "year_court_mismatch",
+  "input": "West v. Founders Life Assur. Co. of Florida, 547 So. 2d 870 (Ga. 1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-05",
+  "family": "page_mismatch",
+  "input": "West v. Founders Life Assur. Co. of Florida, 547 So. 2d 874 (1989)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KS-N1-M1",
+  "family": "mild_mangle",
+  "input": "In Re Harris, 292 Kan. 512 (Kan. 2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re Harris, 257 P.3d 1231 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 411 N.W.2d 113 (1987)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-12",
+  "family": "compound_history",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (1993), aff'd, 999 F.3d 1 (11th Cir. 1996)",
+  "problems": [
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "valid",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-046",
+  "family": "mild_mangle",
+  "input": "Id. at 681.",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-14",
+  "family": "statute",
+  "input": "Wis. Stat. § 893.53",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 784 A.2d 18 (2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-08",
+  "family": "year_court_mismatch",
+  "input": "Kaczorowski v. Mayor of Baltimore, 309 Md. 505 (Va. 1993)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-17",
+  "family": "vendor_cite",
+  "input": "Bush v. State, 2005 WL 9999999 (Miss. 2005)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 958 S.W.2d 651 (1997)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-07",
+  "family": "year_court_mismatch",
+  "input": "Zeman v. Lufthansa German Airlines, 699 P.2d 1274 (Wash. 1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NC-N0-M1",
+  "family": "mild_mangle",
+  "input": "Variety Wholesalers, 365 N.C. 502 (N.C. 2012)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Variety Wholesalers, Inc. v. Salem Logistics Traffic Servs., LLC, 723 S.E.2d 744 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MI-N0-M1",
+  "family": "mild_mangle",
+  "input": "Gray v. Morley, 460 Mich. 783 (Mich. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Gray v. Morley, 460 Mich. 738 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-14",
+  "family": "statute",
+  "input": "Haw. Rev. Stat. § 663-1",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-PA-N0-M1",
+  "family": "mild_mangle",
+  "input": "In Re Investigating Grand Jury, 518 Pa. 458 (Pa. 1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re Investigating Grand Jury, 544 A.2d 924 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MS-N0-M1",
+  "family": "mild_mangle",
+  "input": "Anderson v. LaVere, 895 So. 2d 882 (Miss. 2004)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Brown v. Denson, 895 So. 2d 882 (Ala. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 271 Mont. 459 (1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-12",
+  "family": "string_cite",
+  "input": "State v. Henderson, 210 Ariz. 561 (2005); Marbury v. Quillon, 88888 Ariz. 9 (2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-13",
+  "family": "statute",
+  "input": "Nev. Rev. Stat. § 11.190",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-03",
+  "family": "parallel_cite",
+  "input": "Commonwealth v. Hudson, 578 S.E.2d 781 (2003)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-14",
+  "family": "statute",
+  "input": "N.C. Gen. Stat. § 1-52",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-04",
+  "family": "secondary_form",
+  "input": "In Re Cecil T., 2011 W. Va. LEXIS 15",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-17",
+  "family": "vendor_cite",
+  "input": "Wood v. Safeway, Inc., 2005 WL 9999999 (Nev. 2005)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OK-N1-M1",
+  "family": "mild_mangle",
+  "input": "Warner v. Hillcrest Medical Center, 914 P.2d 1006 (Okla. 1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Warner v. Hillcrest Med. Ctr., 914 P.2d 1060 (Okla. Civ. App. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NC-M1",
+  "family": "mild_mangle",
+  "input": "State v. Lawrence, 365 N.C. 560 (N.C. 2012)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Hernandez, 724 S.E.2d 509 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-13",
+  "family": "statute",
+  "input": "Neb. Rev. Stat. § 25-207",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-RI-N0-M1",
+  "family": "mild_mangle",
+  "input": "In Re Timbers, 674 A.2d 1212 (R.I. 1996)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re Timbers, 674 A.2d 1217 (Ct. Jud. Disc. Pa 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 425 N.W.2d 580 (1988)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CO-M1",
+  "family": "mild_mangle",
+  "input": "People v. District Court, 713 P.2d 981 (Colo. 1986)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-12",
+  "family": "string_cite",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 317 Or. 606 (1993); Marbury v. Quillon, 88888 Or. 9 (1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-04",
+  "family": "secondary_form",
+  "input": "State v. Pena, 232 Utah Adv. Rep. 3",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-13",
+  "family": "compound_history",
+  "input": "City of Keller v. Wilson, 48 Tex. Sup. Ct. J. 848 (2005), aff'd, 999 F.3d 1 (11th Cir. 2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-18",
+  "family": "vendor_cite",
+  "input": "State v. Henderson, 2005 WL 9999999 (Ariz. 2005)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-06",
+  "family": "page_mismatch",
+  "input": "Kaczorowski v. Mayor of Baltimore, 309 Md. 508 (1987)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-12",
+  "family": "compound_history",
+  "input": "Vaughn v. State, 962 P.2d 149 (1998), aff'd, 999 F.3d 1 (11th Cir. 2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-14",
+  "family": "statute",
+  "input": "Tex. Civ. Prac. & Rem. Code § 16.003",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MI-M1",
+  "family": "mild_mangle",
+  "input": "People v. Carines, 460 Mich. 705 (Mich. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-08",
+  "family": "year_court_mismatch",
+  "input": "Carmichael v. Beller, 914 P.2d 1051 (Tex. 2002)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-17",
+  "family": "vendor_cite",
+  "input": "West v. Founders Life Assur. Co. of Florida, 1989 WL 9999999 (Ala. 1989)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-14",
+  "family": "statute",
+  "input": "W. Va. Code § 55-2-12",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CT-V1",
+  "family": "bluebook_variant",
+  "input": "Ferryman vs. City of Groton, 212 Conn. 138 (Conn. 1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WY-M1",
+  "family": "mild_mangle",
+  "input": "Vaughn v. State, 962 P.2d 194 (Wyo. 1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-13",
+  "family": "compound_history",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 142 N.J. 520 (1995), aff'd, 999 F.3d 1 (11th Cir. 1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AK-M1",
+  "family": "mild_mangle",
+  "input": "Zeman v. Lufthansa German Airlines, 699 P.2d 1247 (Alaska 1985)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-18",
+  "family": "vendor_cite",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 1995 WL 9999999 (Mont. 1995)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MS-V1",
+  "family": "bluebook_variant",
+  "input": "Bush vs. State, 895 So. 2d 836 (Miss. 2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-18",
+  "family": "vendor_cite",
+  "input": "State v. Oliver, 2007 WL 9999999 (Idaho 2007)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-12",
+  "family": "string_cite",
+  "input": "State v. Lawrence, 365 N.C. 506 (2012); Marbury v. Quillon, 88888 N.C. 9 (2014)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-PA-N1-M1",
+  "family": "mild_mangle",
+  "input": "Pennsylvania Liquor Control Board v. TLK, 518 Pa. 511 (Pa. 1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Pa. Liquor Control Bd. v. TLK, Inc., 544 A.2d 931 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OR-N0-M1",
+  "family": "mild_mangle",
+  "input": "Allison v. Kleinman, 317 Or. 640 (Or. 1993)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-13",
+  "family": "statute",
+  "input": "Alaska Stat. § 09.55.580",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 993 S.W.2d 941 (1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-03",
+  "family": "secondary_form",
+  "input": "Cardwell v. State, 2008 Ind. LEXIS 1049",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-14",
+  "family": "statute",
+  "input": "Or. Rev. Stat. § 12.110",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 303 Ark. 418 (1990)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IN-07",
+  "family": "year_court_mismatch",
+  "input": "Cardwell v. State, 895 N.E.2d 1219 (Ohio 2014)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-041",
+  "family": "bluebook_variant",
+  "input": "W. Cas. & Sur. Co. v. Brochu, 475 N.E.2d 872 (Ill. 1985)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "name_mismatch; key: CONFIRM as valid (or likely_valid)"
+   }
+  ],
+  "verdict": "name_mismatch",
+  "output": "W. Cas. & Sur. Co. v. Brochu, 105 Ill. 2d 486 (1985)",
+  "status": "partial"
+ },
+ {
+  "id": "SEED-GA-M1",
+  "family": "mild_mangle",
+  "input": "Lau's Corp., 261 Ga. 419 (Ga. 1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Johnson v. State, 261 Ga. 419 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-12",
+  "family": "string_cite",
+  "input": "State v. Williams, 305 S.C. 116 (1991); Marbury v. Quillon, 88888 S.C. 9 (1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-04",
+  "family": "secondary_form",
+  "input": "State v. Williams, 1991 S.C. LEXIS 172",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-03",
+  "family": "parallel_cite",
+  "input": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (1987)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-14",
+  "family": "statute",
+  "input": "Ga. Code Ann. § 51-1-11",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 144 Idaho 722 (2007)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 371 N.W.2d 321 (1985)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-07",
+  "family": "year_court_mismatch",
+  "input": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (Miss. 2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-06",
+  "family": "page_mismatch",
+  "input": "Commonwealth v. Turner, 518 Pa. 494 (1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-18",
+  "family": "vendor_cite",
+  "input": "Commonwealth v. Turner, 1988 WL 9999999 (Pa. 1988)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CO-N1-M1",
+  "family": "mild_mangle",
+  "input": "Sweaney v. District Court In & For the Eighteenth Judicial District, 713 P.2d 941 (Colo. 1986)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-12",
+  "family": "compound_history",
+  "input": "Ferryman v. City of Groton, 212 Conn. 138 (1989), aff'd, 999 F.3d 1 (11th Cir. 1992)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-14",
+  "family": "statute",
+  "input": "N.H. Rev. Stat. Ann. § 508:4",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-029",
+  "family": "bluebook_variant",
+  "input": "Boyer v. Snap-On Tools Corp., 913 F2d 108 (3d Cir. 1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Boyer v. Snap-On Tools Corp., 913 F.2d 108 (3d Cir. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-03",
+  "family": "parallel_cite",
+  "input": "Lau's Corp., Inc. v. Haskins, 405 S.E.2d 474 (1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AK-N1-M1",
+  "family": "mild_mangle",
+  "input": "Loughran v. SUPERIOR COURT OF MARICOPA, 699 P.2d 1278 (Alaska 1985)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Loughran v. SUPERIOR CT. OF MARICOPA, 699 P.2d 1287 (Ariz. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 309 Md. 505 (1987)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AZ-M1",
+  "family": "mild_mangle",
+  "input": "State v. Henderson, 210 Ariz. 516 (Ariz. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-05",
+  "family": "page_mismatch",
+  "input": "Vaughn v. State, 962 P.2d 152 (1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-LA-N0-M1",
+  "family": "mild_mangle",
+  "input": "Adams v. State, 660 So. 2d 1178 (La. 1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Adams v. State, 660 So. 2d 1187 (Fla. 5th DCA 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-06",
+  "family": "page_mismatch",
+  "input": "People v. Kelly, 51 Cal. Rptr. 3d 101 (2006)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OR-V1",
+  "family": "bluebook_variant",
+  "input": "Portland General Electric Co. vs. Bureau of Labor & Industries, 317 Or. 606 (Or. 1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-04",
+  "family": "secondary_form",
+  "input": "Carmichael v. Beller, 1996 Okla. LEXIS 55",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 305 S.C. 116 (1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-04",
+  "family": "secondary_form",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 1993 Ore. LEXIS 152",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-06",
+  "family": "page_mismatch",
+  "input": "City of Keller v. Wilson, 48 Tex. Sup. Ct. J. 851 (2005)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-MA-12",
+  "family": "string_cite",
+  "input": "Kourouvacilis v. General Motors Corp., 410 Mass. 706 (1991); Marbury v. Quillon, 88888 Mass. 9 (1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-038",
+  "family": "bluebook_variant",
+  "input": "See Ortiz v. Jones, 917 S.W.2d 770 (Tex. 1996) (stating the rule)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ortiz v. Jones, 917 S.W.2d 770 (Tex. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-13",
+  "family": "compound_history",
+  "input": "State v. Henderson, 210 Ariz. 561 (2005), aff'd, 999 F.3d 1 (11th Cir. 2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-08",
+  "family": "year_court_mismatch",
+  "input": "Vogel v. Vogel, 137 N.H. 321 (Vt. 1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MA-N0-M1",
+  "family": "mild_mangle",
+  "input": "In the Matter of Driscoll, 410 Mass. 659 (Mass. 1991)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-13",
+  "family": "statute",
+  "input": "N.M. Stat. Ann. § 37-1-4",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-DE-M1",
+  "family": "mild_mangle",
+  "input": "Brehm v. Eisner, 746 A.2d 255 (Del. 2000)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-11",
+  "family": "string_cite",
+  "input": "Finn v. McCuen, 303 Ark. 418 (1990); Marbury v. Quillon, 88888 Ark. 9 (1992)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NE-M1",
+  "family": "mild_mangle",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 275 Neb. 343 (Neb. 2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NJ-N0-M1",
+  "family": "mild_mangle",
+  "input": "Tompkins v. Pryor, 142 N.J. Eq. 532 (N.J. 1948)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Tompkins v. Pryor, 60 A.2d 801 (1948)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-13",
+  "family": "statute",
+  "input": "Ala. Code § 6-5-410",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AR-M1",
+  "family": "mild_mangle",
+  "input": "Finn v. McCuen, 303 Ark. 481 (Ark. 1990)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Williams v. State, 797 S.W.2d 457 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-11",
+  "family": "string_cite",
+  "input": "Ferryman v. City of Groton, 212 Conn. 138 (1989); Marbury v. Quillon, 88888 Conn. 9 (1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Ferryman v. City of Groton, 561 A.2d 432 (Conn. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-12",
+  "family": "string_cite",
+  "input": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (1991); Marbury v. Quillon, 88888 Ga. 9 (1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AK-05",
+  "family": "page_mismatch",
+  "input": "Zeman v. Lufthansa German Airlines, 699 P.2d 1277 (1985)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TN-N1-M1",
+  "family": "mild_mangle",
+  "input": "State v. Yeargan, 958 S.W.2d 662 (Tenn. 1997)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Yeargan, 958 S.W.2d 626 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-HI-V1",
+  "family": "bluebook_variant",
+  "input": "Kema vs. Gaddis, 91 Haw. 200 (Haw. 1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-13",
+  "family": "statute",
+  "input": "Ky. Rev. Stat. Ann. § 411.182",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NH-N0-M1",
+  "family": "mild_mangle",
+  "input": "State v. Paris, 137 N.H. 333 (N.H. 1993)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Paris, 137 N.H. 322 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TX-V1",
+  "family": "bluebook_variant",
+  "input": "City of Keller vs. Wilson, 48 Tex. Sup. Ct. J. 848 (Tex. 2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MO-M1",
+  "family": "mild_mangle",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 317 (Mo. 1993)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-13",
+  "family": "compound_history",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 271 Wis. 2d 633 (2004), aff'd, 999 F.3d 1 (11th Cir. 2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-03",
+  "family": "secondary_form",
+  "input": "Vaughn v. State, 1998 Wyo. LEXIS 97",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A294",
+  "family": "bluebook_variant",
+  "input": "Jolly v. Eli Lilly & Co., 44Cal. 3d 1103 (Cal. 1988)",
+  "problems": [],
+  "verdict": "likely_valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-FL-N0-M1",
+  "family": "mild_mangle",
+  "input": "In re Sentencing Guidelines (Florida Rules of Criminal Procedure 3.701, 491 So. 2d 1182 (Fla. 1986)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Ricci v. PARKE-DAVIS & CO., 491 So. 2d 1182 (Fla. 4th DCA 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-13",
+  "family": "statute",
+  "input": "R.I. Gen. Laws § 9-1-14",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-18",
+  "family": "vendor_cite",
+  "input": "Curtis v. Porter, 2001 WL 9999999 (Me. 2001)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-04",
+  "family": "secondary_form",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 1992 Wash. LEXIS 97",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 51 Cal. Rptr. 3d 98 (2006)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 292 Kan. 541 (2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-17",
+  "family": "vendor_cite",
+  "input": "Vaughn v. State, 1998 WL 9999999 (Wyo. 1998)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CA-N0-M1",
+  "family": "mild_mangle",
+  "input": "People v. Wright, 51 Cal. Rptr. 3d 8 (Cal. 2006)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Wright, 40 Cal. 4th 81 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-12",
+  "family": "string_cite",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 271 Wis. 2d 633 (2004); Marbury v. Quillon, 88888 Wis. 2d 9 (2006)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-08",
+  "family": "year_court_mismatch",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 118 Wash. 2d 801 (Or. 1998)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-12",
+  "family": "compound_history",
+  "input": "Finn v. McCuen, 303 Ark. 418 (1990), aff'd, 999 F.3d 1 (11th Cir. 1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-13",
+  "family": "compound_history",
+  "input": "Curtis v. Porter, 784 A.2d 18 (2001), aff'd, 999 F.3d 1 (11th Cir. 2004)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Curtis v. Porter, 2001 ME 158 (Me. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-13",
+  "family": "compound_history",
+  "input": "People v. Kelly, 51 Cal. Rptr. 3d 98 (2006), aff'd, 999 F.3d 1 (11th Cir. 2009)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-06",
+  "family": "page_mismatch",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 116 (1987)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KY-N0-M1",
+  "family": "mild_mangle",
+  "input": "Kentucky Off-Track Betting, 993 S.W.2d 964 (Ky. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Ky. Off-Track Betting, Inc. v. McBurney, 993 S.W.2d 946 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-UT-N0-M1",
+  "family": "mild_mangle",
+  "input": "City of Orem v. Henrie, 232 Utah Adv. Rep. 10 (Utah 1994)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "City of Orem v. Henrie, 868 P.2d 1384 (Utah Ct. App. 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VA-N0-M1",
+  "family": "mild_mangle",
+  "input": "Harrell v. City of Norfolk, 265 Va. 511 (Va. 2003)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Harrell v. City of Norfolk, 265 Va. 500 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TX-N1-M1",
+  "family": "mild_mangle",
+  "input": "Lowenberg v. City of Dallas, 48 Tex. Sup. Ct. J. 896 (Tex. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Lowenberg v. City of Dallas, 168 S.W.3d 800 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-05",
+  "family": "page_mismatch",
+  "input": "Bush v. State, 895 So. 2d 839 (2005)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "partial"
+ },
+ {
+  "id": "SEED-IA-M1",
+  "family": "mild_mangle",
+  "input": "In Re P.L., 778 N.W.2d 44 (Iowa 2010)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: DECLINE — preferred verdict: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "In re P.L., 778 N.W.2d 33 (Iowa 2010)",
+  "status": "partial"
+ },
+ {
+  "id": "SEED-NY-N1-M1",
+  "family": "mild_mangle",
+  "input": "Schreiber v. K-Sea Transportation Corp., 9 N.Y.3d 313 (N.Y. 2007)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Schreiber v. K-Sea Transp. Corp., 9 N.Y.3d 331 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-18",
+  "family": "vendor_cite",
+  "input": "Vogel v. Vogel, 1993 WL 9999999 (N.H. 1993)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-12",
+  "family": "compound_history",
+  "input": "Wood v. Safeway, Inc., 121 Nev. 724 (2005), aff'd, 999 F.3d 1 (11th Cir. 2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CA-04",
+  "family": "secondary_form",
+  "input": "People v. Kelly, 2006 Cal. LEXIS 13945",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Kelly, 40 Cal. 4th 106 (2006)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-05",
+  "family": "page_mismatch",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 324 (1985)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-13",
+  "family": "statute",
+  "input": "Mo. Rev. Stat. § 516.120",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 746 A.2d 244 (2000)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-03",
+  "family": "parallel_cite",
+  "input": "Kema v. Gaddis, 982 P.2d 334 (1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-12",
+  "family": "compound_history",
+  "input": "Bush v. State, 895 So. 2d 836 (2005), aff'd, 999 F.3d 1 (11th Cir. 2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NY-V1",
+  "family": "bluebook_variant",
+  "input": "People vs. Danielson, 9 N.Y.3d 342 (N.Y. 2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-08",
+  "family": "year_court_mismatch",
+  "input": "Commonwealth v. Turner, 518 Pa. 491 (Del. 1994)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-12",
+  "family": "compound_history",
+  "input": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (1995), aff'd, 999 F.3d 1 (11th Cir. 1998)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Glover v. State, 660 So. 2d 1189 (La. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-04",
+  "family": "secondary_form",
+  "input": "Finn v. McCuen, 1990 Ark. LEXIS 491",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-005",
+  "family": "bluebook_variant",
+  "input": "Transp. Ins. Co. v. Moriel, 879 S.W.2d 10 (Tex. 1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Transp. Ins. Co. v. Moriel, 879 S.W.2d 10 (Tex. 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-13",
+  "family": "statute",
+  "input": "N.Y. C.P.L.R. 3211",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "unverified; key: CONFIRM as valid (or likely_valid)"
+   }
+  ],
+  "verdict": "unverified",
+  "output": null,
+  "status": "partial"
+ },
+ {
+  "id": "BANK-MT-06",
+  "family": "page_mismatch",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 271 Mont. 462 (1995)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 914 P.2d 1051 (1996)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NV-N1-M1",
+  "family": "mild_mangle",
+  "input": "Crawford v. State, 121 Nev. 755 (Nev. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Crawford v. State, 121 P.3d 582 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-07",
+  "family": "year_court_mismatch",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Ark. 1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-13",
+  "family": "statute",
+  "input": "Utah Code Ann. § 78B-2-307",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Utah Code Ann. § 78b-2-307",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-06",
+  "family": "page_mismatch",
+  "input": "People v. Enoch, 122 Ill. 2d 179 (1988)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "partial"
+ },
+ {
+  "id": "SEED-WA-N0-M1",
+  "family": "mild_mangle",
+  "input": "In Re the Disciplinary Proceeding Against Stoker, 118 Wash. 2d 728 (Wash. 1992)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re the Disciplinary Proceeding Against Stoker, 118 Wash. 2d 782 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-06",
+  "family": "page_mismatch",
+  "input": "State v. Henderson, 210 Ariz. 564 (2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-13",
+  "family": "compound_history",
+  "input": "Vogel v. Vogel, 137 N.H. 321 (1993), aff'd, 999 F.3d 1 (11th Cir. 1996)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MD-V1",
+  "family": "bluebook_variant",
+  "input": "Kaczorowski vs. Mayor of Baltimore, 309 Md. 505 (Md. 1987)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 78 Ohio St. 3d 380 (1997)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-CT-N1-M1",
+  "family": "mild_mangle",
+  "input": "Gilman v. Shames, 212 Conn. App. 174 (Conn. 2022)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Gilman v. Shames, 212 Conn. App. 147 (Conn. App. Ct. 2022)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 121 Nev. 724 (2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VA-N1-M1",
+  "family": "mild_mangle",
+  "input": "Santen v. Tuthill, 265 Va. 429 (Va. 2003)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Santen v. Tuthill, 265 Va. 492 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 460 Mich. 750 (1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-015",
+  "family": "mild_mangle",
+  "input": "Celotex, 477 U.S. at 323",
+  "problems": [],
+  "verdict": "likely_valid",
+  "output": "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-07",
+  "family": "year_court_mismatch",
+  "input": "Brehm v. Eisner, 746 A.2d 244 (N.J. 2006)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-07",
+  "family": "year_court_mismatch",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 321 (Minn. 1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-07",
+  "family": "year_court_mismatch",
+  "input": "Vaughn v. State, 962 P.2d 149 (Mont. 2004)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-03",
+  "family": "parallel_cite",
+  "input": "State v. Oliver, 170 P.3d 387 (2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MD-M1",
+  "family": "mild_mangle",
+  "input": "Kaczorowski v. Mayor of Baltimore, 309 Md. 550 (Md. 1987)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-12",
+  "family": "compound_history",
+  "input": "People v. Danielson, 9 N.Y.3d 342 (2007), aff'd, 999 F.3d 1 (11th Cir. 2010)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ID-V1",
+  "family": "bluebook_variant",
+  "input": "State vs. Oliver, 144 Idaho 722 (Idaho 2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-12",
+  "family": "string_cite",
+  "input": "State v. Oliver, 144 Idaho 722 (2007); Marbury v. Quillon, 88888 Idaho 9 (2009)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IA-N0-M1",
+  "family": "mild_mangle",
+  "input": "In The Interest Of P.l., 778 N.W.2d 44 (Iowa 2010)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-11",
+  "family": "string_cite",
+  "input": "Wood v. Safeway, Inc., 121 Nev. 724 (2005); Marbury v. Quillon, 88888 Nev. 9 (2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MO-N0-M1",
+  "family": "mild_mangle",
+  "input": "Williams v. State, 854 S.W.2d 307 (Mo. 1993)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-14",
+  "family": "statute",
+  "input": "42 Pa. Cons. Stat. § 5524",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "not_in_corpus; key: CONFIRM as valid (or likely_valid)"
+   }
+  ],
+  "verdict": "not_in_corpus",
+  "output": "Pa. Cons. Stat. § 5524",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-FL-05",
+  "family": "page_mismatch",
+  "input": "State v. DiGuilio, 491 So. 2d 1132 (1986)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: OPEN / capability-dependent — preferred when supported: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "State v. DiGuilio, 491 So. 2d 1129 (Fla. 1986)",
+  "status": "partial"
+ },
+ {
+  "id": "SEED-WV-N1-M1",
+  "family": "mild_mangle",
+  "input": "FOSTER FOUNDATION v. Gainer, 228 W. Va. 110 (W. Va. 2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "FOSTER FOUND. v. Gainer, 717 S.E.2d 883 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WI-N1-M1",
+  "family": "mild_mangle",
+  "input": "Lynch v. CARRIAGE RIDGE, 271 Wis. 2d 680 (Wis. 2004)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Lynch v. CARRIAGE RIDGE, LLC, 2004 WI 53 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-06",
+  "family": "page_mismatch",
+  "input": "Finn v. McCuen, 303 Ark. 421 (1990)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KY-N1-M1",
+  "family": "mild_mangle",
+  "input": "Kentucky Bar Ass'n v. Traylor, 993 S.W.2d 905 (Ky. 1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Ky. Bar Ass'n v. Traylor, 993 S.W.2d 950 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-03",
+  "family": "secondary_form",
+  "input": "State v. Bland, 1997 Tenn. LEXIS 587",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-06",
+  "family": "page_mismatch",
+  "input": "Lau's Corp., Inc. v. Haskins, 261 Ga. 494 (1991)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 713 P.2d 918 (1986)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-06",
+  "family": "page_mismatch",
+  "input": "In Re Cecil T., 228 W. Va. 92 (2011)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-12",
+  "family": "string_cite",
+  "input": "People v. Enoch, 122 Ill. 2d 176 (1988); Marbury v. Quillon, 88888 Ill. 2d 9 (1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-17",
+  "family": "vendor_cite",
+  "input": "Commonwealth v. English, 1999 WL 9999999 (Ky. 1999)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-04",
+  "family": "secondary_form",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 1987 S.D. LEXIS 317",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TN-M1",
+  "family": "mild_mangle",
+  "input": "State v. Bland, 958 S.W.2d 615 (Tenn. 1997)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": "1998 Mo. App. LEXIS 124",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-14",
+  "family": "statute",
+  "input": "S.C. Code Ann. § 15-3-530",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MA-V1",
+  "family": "bluebook_variant",
+  "input": "Kourouvacilis vs. General Motors Corp., 410 Mass. 706 (Mass. 1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NH-N1-M1",
+  "family": "mild_mangle",
+  "input": "Kelley's Case, 137 N.H. 341 (N.H. 1993)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kelley's Case, 137 N.H. 314 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-03",
+  "family": "parallel_cite",
+  "input": "Carmichael v. Beller, 1996 OK 48 (1996)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 365 N.C. 506 (2012)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TN-12",
+  "family": "compound_history",
+  "input": "State v. Bland, 958 S.W.2d 651 (1997), aff'd, 999 F.3d 1 (11th Cir. 2000)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Bland, 958 S.W.2d 651 (Tenn. 1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-14",
+  "family": "statute",
+  "input": "Mont. Code Ann. § 27-1-701",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-13",
+  "family": "compound_history",
+  "input": "Carmichael v. Beller, 914 P.2d 1051 (1996), aff'd, 999 F.3d 1 (11th Cir. 1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-11",
+  "family": "string_cite",
+  "input": "Bush v. State, 895 So. 2d 836 (2005); Marbury v. Quillon, 88888 So. 2d 9 (2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-12",
+  "family": "string_cite",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 271 Mont. 459 (1995); Marbury v. Quillon, 88888 Mont. 9 (1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MO-V1",
+  "family": "bluebook_variant",
+  "input": "ITT Commercial Finance Corp. vs. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "problems": [
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "valid",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-17",
+  "family": "vendor_cite",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 1993 WL 9999999 (Mo. 1993)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MT-V1",
+  "family": "bluebook_variant",
+  "input": "Carbon County vs. Union Reserve Coal Co., 271 Mont. 459 (Mont. 1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-13",
+  "family": "compound_history",
+  "input": "State v. Lawrence, 365 N.C. 506 (2012), aff'd, 999 F.3d 1 (11th Cir. 2015)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-12",
+  "family": "string_cite",
+  "input": "In Re Cecil T., 228 W. Va. 89 (2011); Marbury v. Quillon, 88888 W. Va. 9 (2013)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AR-V1",
+  "family": "bluebook_variant",
+  "input": "Finn vs. McCuen, 303 Ark. 418 (Ark. 1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NE-N0-M1",
+  "family": "mild_mangle",
+  "input": "In Re Estate of Cooper, 275 Neb. 333 (Neb. 2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "In re Estate of Cooper, 275 Neb. 322 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KY-03",
+  "family": "secondary_form",
+  "input": "Commonwealth v. English, 1999 Ky. LEXIS 65",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-06",
+  "family": "page_mismatch",
+  "input": "State v. Williams, 305 S.C. 119 (1991)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-03",
+  "family": "parallel_cite",
+  "input": "Vogel v. Vogel, 627 A.2d 595 (1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-007",
+  "family": "bluebook_variant",
+  "input": "Nemec v. Shrader, 991 A.2d 1120 [Del. 2010]",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Nemec v. Shrader, 991 A.2d 1120 (Del. 2010)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-TX-N0-M1",
+  "family": "mild_mangle",
+  "input": "R.R. Street & Co. v. Pilgrim Enterprises, 48 Tex. Sup. Ct. J. 844 (Tex. 2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "R.R. St. & Co. v. Pilgrim Enterprises, Inc., 166 S.W.3d 232 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NV-V1",
+  "family": "bluebook_variant",
+  "input": "Wood vs. Safeway, 121 Nev. 724 (Nev. 2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-03",
+  "family": "parallel_cite",
+  "input": "Robertson v. Mylan Laboratories, Inc., 848 A.2d 310 (2004)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ME-14",
+  "family": "statute",
+  "input": "Me. Rev. Stat. Ann. tit. 14, § 752",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "unverified; key: CONFIRM as valid (or likely_valid)"
+   }
+  ],
+  "verdict": "unverified",
+  "output": null,
+  "status": "partial"
+ },
+ {
+  "id": "SEED-ME-N1-M1",
+  "family": "mild_mangle",
+  "input": "Hickman v. Carven, 784 A.2d 13 (Me. 2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Hickman v. Carven, 784 A.2d 31 (Md. 2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WI-M1",
+  "family": "mild_mangle",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 271 Wis. 2d 644 (Wis. 2004)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IA-N1-M1",
+  "family": "mild_mangle",
+  "input": "In the Matter of Disciplinary Proceedings Against Batt, 778 N.W.2d 92 (Iowa 2010)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-04",
+  "family": "secondary_form",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 2004 Wisc. LEXIS 421",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 176 Vt. 356 (2004)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-05",
+  "family": "page_mismatch",
+  "input": "State v. Rojo, 126 N.M. 441 (1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-03",
+  "family": "parallel_cite",
+  "input": "People v. Danielson, 880 N.E.2d 1 (2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Danielson, 9 N.Y.3d 342 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-04",
+  "family": "secondary_form",
+  "input": "State v. Thompkins, 2018 WL 994352",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Oliver, 144 Idaho 722 (Mont. 2013)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 142 N.J. 520 (1995)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WY-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 962 P.2d 149 (1998)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Vaughn v. State, 962 P.2d 149 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-17",
+  "family": "vendor_cite",
+  "input": "Accent Store Design, Inc. v. Marathon House, Inc., 1996 WL 9999999 (R.I. 1996)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-11",
+  "family": "string_cite",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 275 Neb. 334 (2008); Marbury v. Quillon, 88888 Neb. 9 (2010)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-14",
+  "family": "statute",
+  "input": "735 Ill. Comp. Stat. 5/2-615",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "not_in_corpus; key: CONFIRM as valid (or likely_valid)"
+   }
+  ],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "partial"
+ },
+ {
+  "id": "SEED-FL-M1",
+  "family": "mild_mangle",
+  "input": "State v. DiGuilio, 491 So. 2d 1192 (Fla. 1986)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Tri-State Sys. v. Deppartment of Transp., 491 So. 2d 1192 (Fla. 1st DCA 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 228 W. Va. 89 (2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-03",
+  "family": "secondary_form",
+  "input": "State v. DiGuilio, 11 Fla. L. Weekly 339",
+  "problems": [
+   {
+    "code": "verdict",
+    "detail": "name_mismatch; key: CONFIRM as valid (or likely_valid)"
+   },
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "name_mismatch",
+  "output": "Restaurant v. State, Dep't of Bus. Regulation, Div. of Alcoholic Beverages & Tobacco, 483 So. 2d 463 (Fla. Dist. Ct. App. 1986)",
+  "status": "fail"
+ },
+ {
+  "id": "BANK-SD-03",
+  "family": "parallel_cite",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 41 Educ. L. Rep. 322 (1987)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OK-M1",
+  "family": "mild_mangle",
+  "input": "Carmichael v. Beller, 914 P.2d 1015 (Okla. 1996)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Carmichael v. Beller, 1996 OK 48 (Okla. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-08",
+  "family": "year_court_mismatch",
+  "input": "Commonwealth v. Hudson, 265 Va. 505 (Md. 2009)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SC-M1",
+  "family": "mild_mangle",
+  "input": "State v. Williams, 305 S.C. 161 (S.C. 1991)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Dennison, 406 S.E.2d 383 (S.C. Ct. App. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-US-09",
+  "family": "compound_history",
+  "input": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007), rev'd, 999 U.S. 1 (2024)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-13",
+  "family": "compound_history",
+  "input": "Kema v. Gaddis, 91 Haw. 200 (1999), aff'd, 999 F.3d 1 (11th Cir. 2002)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-08",
+  "family": "year_court_mismatch",
+  "input": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Fla. 1997)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-08",
+  "family": "year_court_mismatch",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 142 N.J. 520 (Pa. 2001)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AK-V1",
+  "family": "bluebook_variant",
+  "input": "Zeman vs. Lufthansa German Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Zeman v. Airlines, 699 P.2d 1274 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OR-M1",
+  "family": "mild_mangle",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 317 Or. 660 (Or. 1993)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-03",
+  "family": "secondary_form",
+  "input": "Accent Store Design, Inc. v. Marathon House, Inc., 1996 R.I. LEXIS 130",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-03",
+  "family": "parallel_cite",
+  "input": "In Re Cecil T., 717 S.E.2d 873 (2011)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AZ-N0-M1",
+  "family": "mild_mangle",
+  "input": "State v. Fell, 210 Ariz. 545 (Ariz. 2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Mullin v. Brown, 115 P.3d 139 (Ariz. Ct. App. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-17",
+  "family": "vendor_cite",
+  "input": "Thiele v. Stich, 1988 WL 9999999 (Minn. 1988)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Williams, 305 S.C. 116 (N.C. 1997)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MA-N1-M1",
+  "family": "mild_mangle",
+  "input": "Commonwealth v. Riccard, 410 Mass. 781 (Mass. 1991)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. Riccard, 410 Mass. 718 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-KY-M1",
+  "family": "mild_mangle",
+  "input": "Commonwealth v. English, 993 S.W.2d 914 (Ky. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Commonwealth v. English, 993 S.W.2d 941 (Ky. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-RI-N1-M1",
+  "family": "mild_mangle",
+  "input": "Rhode Island Hospital Trust National Bank v. Eastern General Contra…, 674 A.2d 1272 (R.I. 1996)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-12",
+  "family": "compound_history",
+  "input": "State v. Pena, 232 Utah Adv. Rep. 3 (1994), aff'd, 999 F.3d 1 (11th Cir. 1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Pena, 869 P.2d 932 (Utah 1994)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-06",
+  "family": "page_mismatch",
+  "input": "Wood v. Safeway, Inc., 121 Nev. 727 (2005)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ID-13",
+  "family": "compound_history",
+  "input": "State v. Oliver, 144 Idaho 722 (2007), aff'd, 999 F.3d 1 (11th Cir. 2010)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Oliver, 170 P.3d 387 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NV-08",
+  "family": "year_court_mismatch",
+  "input": "Wood v. Safeway, Inc., 121 Nev. 724 (Utah 2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Wood v. Safeway, Inc., 121 P.3d 1026 (Nev. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MA-13",
+  "family": "compound_history",
+  "input": "Kourouvacilis v. General Motors Corp., 410 Mass. 706 (1991), aff'd, 999 F.3d 1 (11th Cir. 1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706 (1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-18",
+  "family": "vendor_cite",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 1992 WL 9999999 (Wash. 1992)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A284",
+  "family": "bluebook_variant",
+  "input": "n.a. v. Farino, 960 F.2d 1217 (3d Cir. 1992)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Mellon Bank (E.) Psfs, Nat'l Ass'n v. Kenneth v. Farino Leslie Trinin Robert Levitas Eileen Michaels, 960 F.2d 1217 (3d Cir. 1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-04",
+  "family": "secondary_form",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 1995 N.J. LEXIS 1040",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-18",
+  "family": "vendor_cite",
+  "input": "State v. Lawrence, 2012 WL 9999999 (N.C. 2012)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-05",
+  "family": "page_mismatch",
+  "input": "Thiele v. Stich, 425 N.W.2d 583 (1988)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-13",
+  "family": "statute",
+  "input": "Ark. Code Ann. § 16-56-105",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A288",
+  "family": "bluebook_variant",
+  "input": "Rales v. Blasband, 634 A.2d 927",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Rales v. Blasband Ex Rel. Easco Hand Tools, Inc., 634 A.2d 927 (Del. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-18",
+  "family": "vendor_cite",
+  "input": "State v. Williams, 1991 WL 9999999 (S.C. 1991)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-18",
+  "family": "vendor_cite",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 1987 WL 9999999 (S.D. 1987)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-TX-12",
+  "family": "string_cite",
+  "input": "City of Keller v. Wilson, 48 Tex. Sup. Ct. J. 848 (2005); Marbury v. Quillon, 88888 Tex. Sup. Ct. J. 9 (2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "City of Keller v. Wilson, 168 S.W.3d 802 (Tex. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MI-V1",
+  "family": "bluebook_variant",
+  "input": "People vs. Carines, 460 Mich. 750 (Mich. 1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-12",
+  "family": "compound_history",
+  "input": "Thiele v. Stich, 425 N.W.2d 580 (1988), aff'd, 999 F.3d 1 (11th Cir. 1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-03",
+  "family": "parallel_cite",
+  "input": "State v. Williams, 406 S.E.2d 357 (1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-08",
+  "family": "year_court_mismatch",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 271 Wis. 2d 633 (Mich. 2010)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-03",
+  "family": "parallel_cite",
+  "input": "State v. Thompkins, 678 N.E.2d 541 (1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "ANAT-A289",
+  "family": "bluebook_variant",
+  "input": "Merrill v. Navegar, Inc., 26 Cal. 4th 465 (Cal. 2001)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Merrill v. Navegar, Inc., 26 Cal. 4th 465 (2001)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ID-N1-M1",
+  "family": "mild_mangle",
+  "input": "Cannon v. Perry, 144 Idaho 782 (Idaho 2007)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Cannon v. Perry, 170 P.3d 393 (Idaho 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-05",
+  "family": "page_mismatch",
+  "input": "People v. Carines, 460 Mich. 753 (1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "People v. Carines, 460 Mich. 750 (1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WI-03",
+  "family": "parallel_cite",
+  "input": "State Ex Rel. Kalal v. Circuit Court for Dane County, 681 N.W.2d 110 (2004)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State Ex Rel. Kalal v. Circuit Ct. for Dane Cnty., 2004 WI 58 (Wis. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MT-03",
+  "family": "parallel_cite",
+  "input": "Carbon County v. Union Reserve Coal Co., Inc., 898 P.2d 680 (1995)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Carbon Cnty. v. Union Reserve Coal Co., Inc., 898 P.2d 680 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-DE-V1",
+  "family": "bluebook_variant",
+  "input": "Brehm vs. Eisner, 746 A.2d 244 (Del. 2000)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NE-V1",
+  "family": "bluebook_variant",
+  "input": "Law Offices of Ronald J. Palagi vs. Howard, 275 Neb. 334 (Neb. 2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-ND-12",
+  "family": "compound_history",
+  "input": "County of Stutsman v. State Historical Society of North Dakota, 371 N.W.2d 321 (1985), aff'd, 999 F.3d 1 (11th Cir. 1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AR-03",
+  "family": "parallel_cite",
+  "input": "Finn v. McCuen, 798 S.W.2d 34 (1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Finn v. McCuen, 798 S.W.2d 34 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-UT-17",
+  "family": "vendor_cite",
+  "input": "State v. Pena, 1994 WL 9999999 (Utah 1994)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-11",
+  "family": "string_cite",
+  "input": "People v. District Court, Second Judicial District, 713 P.2d 918 (1986); Marbury v. Quillon, 88888 P.2d 9 (1988)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MS-04",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 895 So. 2d 836 (2005)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-12",
+  "family": "compound_history",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 275 Neb. 334 (2008), aff'd, 999 F.3d 1 (11th Cir. 2011)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-028",
+  "family": "bluebook_variant",
+  "input": "POMMELLS V. PEREZ, 4 N.Y.3D 566 (N.Y. 2005)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Pommells v. Perez, 4 N.Y.3d 566 (2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-18",
+  "family": "vendor_cite",
+  "input": "Lau's Corp., Inc. v. Haskins, 1991 WL 9999999 (Ga. 1991)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IN-V1",
+  "family": "bluebook_variant",
+  "input": "Cardwell vs. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cardwell v. State, 895 N.E.2d 1219 (Ind. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-OH-M1",
+  "family": "mild_mangle",
+  "input": "State v. Thompkins, 78 Ohio St. 3d 308 (Ohio 1997)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MD-N1-M1",
+  "family": "mild_mangle",
+  "input": "Kent County Board of Education v. Bilbrough, 309 Md. 478 (Md. 1987)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kent Cnty. Bd. of Educ. v. Bilbrough, 525 A.2d 232 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-03",
+  "family": "parallel_cite",
+  "input": "State v. Ward, 256 P.3d 801 (2011)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NJ-N1-M1",
+  "family": "mild_mangle",
+  "input": "Polshek v. Bergen Cty. Iron Works, 142 N.J. Super. 561 (N.J. 1976)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Polshek v. Bergen Cty. Iron Works, 362 A.2d 63 (N.J. Super. Ct. App. Div. 1976)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-DE-03",
+  "family": "secondary_form",
+  "input": "Brehm v. Eisner, 2000 Del. LEXIS 51",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brehm v. Eisner, 746 A.2d 244 (Del. 2000)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SD-13",
+  "family": "compound_history",
+  "input": "Permann v. South Dakota Department of Labor, Unemployment Insurance Division, 411 N.W.2d 113 (1987), aff'd, 999 F.3d 1 (11th Cir. 1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Permann v. S.D. Dep't of Labor, Unemployment Ins. Div., 411 N.W.2d 113 (S.D. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WA-N1-M1",
+  "family": "mild_mangle",
+  "input": "City of Tacoma v. Luvene, 118 Wash. 2d 862 (Wash. 1992)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "City of Tacoma v. Luvene, 118 Wash. 2d 826 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VA-04",
+  "family": "secondary_form",
+  "input": "Commonwealth v. Hudson, 2003 Va. LEXIS 49",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Hudson, 265 Va. 505 (2003)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-18",
+  "family": "vendor_cite",
+  "input": "State v. Thompkins, 1997 WL 9999999 (Ohio 1997)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NY-17",
+  "family": "vendor_cite",
+  "input": "People v. Danielson, 2007 WL 9999999 (N.Y. 2007)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NC-04",
+  "family": "secondary_form",
+  "input": "State v. Lawrence, 2012 N.C. LEXIS 265",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Lawrence, 723 S.E.2d 326 (N.C. 2012)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WV-13",
+  "family": "compound_history",
+  "input": "In Re Cecil T., 228 W. Va. 89 (2011), aff'd, 999 F.3d 1 (11th Cir. 2014)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "In re Cecil T., 717 S.E.2d 873 (W. Va. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NM-11",
+  "family": "string_cite",
+  "input": "State v. Rojo, 126 N.M. 438 (1998); Marbury v. Quillon, 88888 N.M. 9 (2000)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MD-12",
+  "family": "string_cite",
+  "input": "Kaczorowski v. Mayor of Baltimore, 309 Md. 505 (1987); Marbury v. Quillon, 88888 Md. 9 (1989)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Kaczorowski v. Mayor of Baltimore, 525 A.2d 628 (Md. 1987)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MS-M1",
+  "family": "mild_mangle",
+  "input": "Bush v. State, 895 So. 2d 863 (Miss. 2005)",
+  "problems": [
+   {
+    "code": "partial_verdict",
+    "detail": "likely_valid; key: DECLINE — preferred verdict: page_mismatch"
+   }
+  ],
+  "verdict": "likely_valid",
+  "output": "Bush v. State, 895 So. 2d 836 (Miss. 2005)",
+  "status": "partial"
+ },
+ {
+  "id": "BANK-NJ-12",
+  "family": "string_cite",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 142 N.J. 520 (1995); Marbury v. Quillon, 88888 N.J. 9 (1997)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-FL-13",
+  "family": "statute",
+  "input": "Fla. Stat. § 90.302",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-08",
+  "family": "year_court_mismatch",
+  "input": "People v. Enoch, 122 Ill. 2d 176 (Ind. 1994)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NH-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 137 N.H. 321 (1993)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Vogel v. Vogel, 137 N.H. 321 (1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-RI-12",
+  "family": "compound_history",
+  "input": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (1996), aff'd, 999 F.3d 1 (11th Cir. 1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NE-05",
+  "family": "page_mismatch",
+  "input": "Law Offices of Ronald J. Palagi v. Howard, 275 Neb. 337 (2008)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Law Offices of Ronald J. Palagi v. Howard, 747 N.W.2d 1 (Neb. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-PA-04",
+  "family": "secondary_form",
+  "input": "Commonwealth v. Turner, 1988 Pa. LEXIS 212",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Commonwealth v. Turner, 544 A.2d 927 (Pa. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-06",
+  "family": "page_mismatch",
+  "input": "Brill v. Guardian Life Insurance Co. of America, 142 N.J. 524 (1995)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Brill v. Guardian Life Ins. Co. of Am., 666 A.2d 146 (N.J. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-IN-N1-M1",
+  "family": "mild_mangle",
+  "input": "In Re Termination Parent-Child Rel. of JM, 895 N.E.2d 1282 (Ind. 2008)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "In re Termination Parent-Child Rel. of JM, 895 N.E.2d 1228 (Ind. Ct. App. 2008)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-010",
+  "family": "bluebook_variant",
+  "input": "Careau & Co. v. Sec. Pac. Bus. Credit, Inc., 222 Cal. App. 3d 1371 (Cal. Ct. App. 1990)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Careau & Co. v. Sec. Pac. Bus. Credit, Inc., 222 Cal. App. 3d 1371 (Cal. Ct. App. 2d 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-03",
+  "family": "parallel_cite",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 859 P.2d 1143 (1993)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-IL-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 122 Ill. 2d 176 (1988)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Enoch, 122 Ill. 2d 176 (1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-05",
+  "family": "name_mismatch",
+  "input": "Thornbury v. Aldenmoor Holdings, LLC, 91 Haw. 200 (1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MN-M1",
+  "family": "mild_mangle",
+  "input": "Thiele v. Stich, 425 N.W.2d 508 (Minn. 1988)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-NJ-14",
+  "family": "statute",
+  "input": "N.J. Stat. Ann. § 2A:14-1",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-GA-04",
+  "family": "secondary_form",
+  "input": "Lau's Corp., Inc. v. Haskins, 1991 Ga. LEXIS 321",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Lau's Corp., Inc. v. Haskins, 261 Ga. 491 (Ga. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-03",
+  "family": "secondary_form",
+  "input": "West v. Founders Life Assur. Co. of Florida, 1989 Ala. LEXIS 446",
+  "problems": [],
+  "verdict": "valid",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AR-N1-M1",
+  "family": "mild_mangle",
+  "input": "Mangum v. Estate of Fuller, 303 Ark. 422 (Ark. 1990)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Mangum v. Estate of Fuller, 797 S.W.2d 452 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MN-03",
+  "family": "secondary_form",
+  "input": "Thiele v. Stich, 1988 Minn. LEXIS 138",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Thiele v. Stich, 425 N.W.2d 580 (Minn. 1988)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-027",
+  "family": "bluebook_variant",
+  "input": "Moki Mac River Expeditions vs. Drugg, 221 S.W.3d 569 (Tex. 2007)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Moki Mac River Expeditions v. Drugg, 221 S.W.3d 569 (Tex. 2007)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AZ-08",
+  "family": "year_court_mismatch",
+  "input": "State v. Henderson, 210 Ariz. 561 (N.M. 2011)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "State v. Henderson, 115 P.3d 601 (Ariz. 2005)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-WA-03",
+  "family": "parallel_cite",
+  "input": "Cowiche Canyon Conservancy v. Bosley, 828 P.2d 549 (1992)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-RI-M1",
+  "family": "mild_mangle",
+  "input": "Accent Store Design, 674 A.2d 1232 (R.I. 1996)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Accent Store Design, Inc. v. Marathon House, Inc., 674 A.2d 1223 (R.I. 1996)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-13",
+  "family": "statute",
+  "input": "Kan. Stat. Ann. § 60-513",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-LA-13",
+  "family": "statute",
+  "input": "La. Civ. Code art. 2315",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CO-07",
+  "family": "year_court_mismatch",
+  "input": "People v. District Court, Second Judicial District, 713 P.2d 918 (Kan. 1992)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "People v. Dist. Ct., 713 P.2d 918 (Colo. 1986)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-AL-11",
+  "family": "string_cite",
+  "input": "West v. Founders Life Assur. Co. of Florida, 547 So. 2d 870 (1989); Marbury v. Quillon, 88888 So. 2d 9 (1991)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AK-N0-M1",
+  "family": "mild_mangle",
+  "input": "Tolan v. ERA Helicopters, 699 P.2d 1256 (Alaska 1985)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Tolan v. ERA Helicopters, Inc., 699 P.2d 1265 (Alaska 1985)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-MT-N1-M1",
+  "family": "mild_mangle",
+  "input": "Kreger v. Francis, 271 Mont. 455 (Mont. 1995)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kreger v. Francis, 898 P.2d 672 (Mont. 1995)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NM-N0-M1",
+  "family": "mild_mangle",
+  "input": "Dugie v. Cameron, 126 N.M. 444 (N.M. 1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Dugie v. Cameron, 1999 NMSC 002 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-KS-04",
+  "family": "secondary_form",
+  "input": "State v. Ward, 2011 Kan. LEXIS 249",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Ward, 256 P.3d 801 (Kan. 2011)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-SC-13",
+  "family": "compound_history",
+  "input": "State v. Williams, 305 S.C. 116 (1991), aff'd, 999 F.3d 1 (11th Cir. 1994)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Williams, 406 S.E.2d 357 (S.C. 1991)",
+  "status": "perfect"
+ },
+ {
+  "id": "TRICK-004",
+  "family": "bluebook_variant",
+  "input": "Harner v. Soc. Sec. Admin., Comm'r, 38 F.4th 892 (11th Cir. 2022)",
+  "problems": [
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "valid",
+  "output": "Harner v. Soc. Sec. Administration, Commissioner, 38 F.4th 892 (11th Cir. 2022)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OK-18",
+  "family": "vendor_cite",
+  "input": "Carmichael v. Beller, 1996 WL 9999999 (Okla. 1996)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-VT-N0-M1",
+  "family": "mild_mangle",
+  "input": "Will v. Mill Condominium Owners' Ass'n, 176 Vt. 308 (Vt. 2004)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MI-17",
+  "family": "vendor_cite",
+  "input": "People v. Carines, 1999 WL 9999999 (Mich. 1999)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-CT-17",
+  "family": "vendor_cite",
+  "input": "Ferryman v. City of Groton, 1989 WL 9999999 (Conn. 1989)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-SC-N1-M1",
+  "family": "mild_mangle",
+  "input": "Wallace v. MILLIKEN & COMPANY, 305 S.C. 181 (S.C. 1991)",
+  "problems": [],
+  "verdict": "not_in_corpus",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WA-V1",
+  "family": "bluebook_variant",
+  "input": "Cowiche Canyon Conservancy vs. Bosley, 118 Wash. 2d 801 (Wash. 1992)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Conservancy v. Bosley, 118 Wash. 2d 801 (1992)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-14",
+  "family": "statute",
+  "input": "Ohio Rev. Code Ann. § 2305.09",
+  "problems": [],
+  "verdict": "valid",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AR-N0-M1",
+  "family": "mild_mangle",
+  "input": "Donn v. McCuen, 303 Ark. 451 (Ark. 1990)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Donn v. McCuen, 797 S.W.2d 455 (Ark. 1990)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-HI-N0-M1",
+  "family": "mild_mangle",
+  "input": "State v. Lee, 91 Haw. 260 (Haw. 1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Lee, 982 P.2d 340 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-18",
+  "family": "vendor_cite",
+  "input": "Robertson v. Mylan Laboratories, Inc., 2004 WL 9999999 (Vt. 2004)",
+  "problems": [],
+  "verdict": "not_covered",
+  "output": null,
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-NM-M1",
+  "family": "mild_mangle",
+  "input": "State v. Rojo, 126 N.M. 483 (N.M. 1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "State v. Rojo, 1999 NMSC 001 (N.M. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-AL-M1",
+  "family": "mild_mangle",
+  "input": "West v. Founders Life Assur. Co. of Florida, 547 So. 2d 807 (Ala. 1989)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "West v. Founders Life Assur. Co. of Fla., 547 So. 2d 870 (Ala. 1989)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-13",
+  "family": "compound_history",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 317 Or. 606 (1993), aff'd, 999 F.3d 1 (11th Cir. 1996)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-HI-06",
+  "family": "page_mismatch",
+  "input": "Kema v. Gaddis, 91 Haw. 203 (1999)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Kema v. Gaddis, 982 P.2d 334 (Haw. 1999)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-WY-N0-M1",
+  "family": "mild_mangle",
+  "input": "Hodgins v. State, 962 P.2d 135 (Wyo. 1998)",
+  "problems": [],
+  "verdict": "page_mismatch",
+  "output": "Hodgins v. State, 962 P.2d 153 (Wyo. 1998)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OR-08",
+  "family": "year_court_mismatch",
+  "input": "Portland General Electric Co. v. Bureau of Labor & Industries, 317 Or. 606 (Idaho 1999)",
+  "problems": [],
+  "verdict": "name_mismatch",
+  "output": "Portland Gen. Elec. Co. v. Bureau of Labor & Indus., 859 P.2d 1143 (Or. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-VT-04",
+  "family": "secondary_form",
+  "input": "Robertson v. Mylan Laboratories, Inc., 2004 Vt. LEXIS 13",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Robertson v. Mylan Lab'ys, Inc., 2004 VT 15 (Vt. 2004)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-05",
+  "family": "page_mismatch",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 374 (1993)",
+  "problems": [
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "page_mismatch",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-MO-03",
+  "family": "secondary_form",
+  "input": "ITT Commercial Finance Corp. v. Mid-America Marine Supply Corp., 1993 Mo. LEXIS 45",
+  "problems": [
+   {
+    "code": "corrected_form",
+    "detail": "t6_unabbreviated"
+   }
+  ],
+  "verdict": "valid",
+  "output": "ITT Commercial Fin. Corp. v. Mid-America Marine Supply Corp., 854 S.W.2d 371 (Mo. 1993)",
+  "status": "perfect"
+ },
+ {
+  "id": "BANK-OH-12",
+  "family": "string_cite",
+  "input": "State v. Thompkins, 78 Ohio St. 3d 380 (1997); Marbury v. Quillon, 88888 Ohio St. 3d 9 (1999)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "State v. Thompkins, 78 Ohio St. 3d 380 (1997)",
+  "status": "perfect"
+ },
+ {
+  "id": "SEED-ND-V1",
+  "family": "bluebook_variant",
+  "input": "County of Stutsman vs. State Historical Society of North Dakota, 371 N.W.2d 321 (N.D. 1985)",
+  "problems": [],
+  "verdict": "valid",
+  "output": "Cnty. of Stutsman v. State Historical Soc'y of N.D., 371 N.W.2d 321 (N.D. 1985)",
+  "status": "perfect"
+ }
+]

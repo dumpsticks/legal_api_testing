@@ -9,9 +9,9 @@ System under test: LawDiver API v1 (`https://lawdiver.com/api/v1`). Datasets: `d
 | Boolean search, jurisdiction-scoped (new) | 5000 | 3584 (71.7%) | out-of-scope hits on 107 queries; landmark top-10 932/1362; boolean full-text check 1193/1621 opinions satisfy the query |
 | Boolean search, realworld carried forward | 286 | 146 (51.0%) | landmark top-10 128/259 |
 | Good-law check (state + federal) | 855 | 593 (69.4%) | negative history caught 221/258; good law kept clean 545/577; unresolved 20 |
-| Bluebook form from slightly-off cites | 1000 | 486 (48.6%) | exact string match to expected 471 |
+| Bluebook form from slightly-off cites | 1000 | 496 (49.6%) | exact string match to expected 471 |
 | Cite check, carried forward | 657 | 638 (97.1%) | partial 17 |
-| Opinion output (text + PDF) | 200 | 0 (0.0%) | every opinion has the old LawTools PDF header and a clusterId mismatch; apart from those two, 60 (30.0%) are clean |
+| Opinion output (text + PDF) | 200 | 0 (0.0%) | old LawTools PDF header on 200; clusterId mismatch on 200; apart from header, clusterId and star paging, 60 (30.0%) are clean |
 
 Good law: 145 of 1,000 rows are excluded from scoring — presumed-good inputs whose caption (taken from older banks) does not match the case at that locator; the API correctly answered `name_mismatch`, so there is no good-law answer to grade for the case intended. They are listed in `problems-goodlaw.md`.
 
@@ -77,9 +77,9 @@ Each line is one root cause seen across many cases. Examples are row ids from th
 | 51 | Geographic words inside a longer party name not abbreviated per T10 (Rule 10.2.2). `bluebook_name_t10_unabbreviated` | LF-BB-0011 → Sentinel Management Co. v. New Hampshire Insurance Co., 563 N.W.2d 296 (Minn. Ct. App. 1997)<br>LF-BB-0019 → Lee v. South Dakota Department of Health, 411 N.W.2d 108 (S.D. 1987)<br>LF-BB-0020 → In re Sentencing Guidelines (Florida Rules of Criminal Procedure 3.701, 3.988), 491 So. 2d 1128 (Fla |
 | 50 | Wrong verdict on a slightly-off cite (ordinal_form). `bluebook_verdict_ordinal_form` | LF-BB-0051 "Richmond Metro. Auth. v. McDevitt St. Bovis, Inc., 507 S.E.2nd 344 (Va" → not_in_corpus<br>LF-BB-0052 "Schmidt v. Louis W. Sullivan, Sec'y of Health & Hum. Servs., 914 F.2nd" → not_in_corpus<br>LF-BB-0053 "W & W Equip. Co. v. Mink, 568 N.E.2nd 564 (Ind. Ct. App. 1991)" → not_in_corpus |
 | 50 | No corrected citation returned for a recoverable off-cite (ordinal_form). `bluebook_no_correction_ordinal_form` | LF-BB-0051 "Richmond Metro. Auth. v. McDevitt St. Bovis, Inc., 507 S.E.2nd 344 (Va" → not_in_corpus<br>LF-BB-0052 "Schmidt v. Louis W. Sullivan, Sec'y of Health & Hum. Servs., 914 F.2nd" → not_in_corpus<br>LF-BB-0053 "W & W Equip. Co. v. Mink, 568 N.E.2nd 564 (Ind. Ct. App. 1991)" → not_in_corpus |
-| 47 | Individual parties keep given names / extra words before the surname (Rule 10.2.1(g): surname only). `bluebook_name_given_names` | LF-BB-0001 "Phyllis Elam, for Kamea Golay" want "Elam ex rel. Golay"<br>LF-BB-0020 "In re Sentencing Guidelines (Florida Rules of Criminal Proce" want "In re Sentencing Guidelines (Fla. Rules of Criminal Procedure 3.701, 3.988)"<br>LF-BB-0021 "In re Chantix (Varenicline) Products Liability Litigation" want "In re Chantix (Varenicline) Prods. Liab. Litig." |
 | 28 | "and" in a case name not replaced by "&" (Rule 10.2.1(c)). `bluebook_name_and_not_ampersand` | LF-BB-0002 → Alston v. Advanced Brands and Importing Co., 494 F.3d 562 (6th Cir. 2007)<br>LF-BB-0009 → Masias v. Secretary of Health and Human Services, 634 F.3d 1283 (Fed. Cir. 2011)<br>LF-BB-0025 → Linda Hamilton, Individually and as of the Estate of George Hamilton v. Atlas Turner, Inc., 197 F.3d |
 | 28 | Wrong verdict on a slightly-off cite (vendor_cite). `bluebook_verdict_vendor_cite` | LF-BB-0751 "United States v. Nichols, 1994 WL 119002 (D.C. Cir. 1994)" → name_mismatch<br>LF-BB-0752 "United States v. Ganoe, 2015 WL 4430466 (9th Cir. 2008)" → name_mismatch<br>LF-BB-0753 "Moore v. Quarterman, 2012 WL 3996836 (5th Cir. 2008)" → not_covered |
+| 21 | Individual parties keep given names / extra words before the surname (Rule 10.2.1(g): surname only). `bluebook_name_given_names` | LF-BB-0001 "Phyllis Elam, for Kamea Golay" want "Elam ex rel. Golay"<br>LF-BB-0025 "Linda Hamilton, Individually and as of the Estate of George " want "Hamilton"<br>LF-BB-0114 "In re: Marvin Griffin" want "In re Marvin Griffin" |
 | 21 | Case name over 90 characters — not a citation short form. `bluebook_name_name_too_long` | LF-BB-0010 → United Steel, Paper & Forestry, Rubber, Manufacturing Energy, Allied Industrial & Service Workers In<br>LF-BB-0035 → Carl J. Perreira and Christina J. Perreira, Parents and Next Friend of Carly C. Perreira v. Secretar<br>LF-BB-0123 → Ford v. Kenneth S. Apfel, Commissioner of Social Security, No. 97-55948. D.C. No. Cv-96-05452-Ghk, 1 |
 | 19 | Court abbreviation in the parenthetical is not the T1/T7 form. `bluebook_court_form` | LF-BB-0033 → "(Colo. Ct. App. 2009)" want "(Colo. App. 2009)"<br>LF-BB-0034 → "(Mass. Ct. App. 1983)" want "(Mass. App. Ct. 1983)"<br>LF-BB-0126 → "(Mass. Ct. App. 1985)" want "(Mass. App. Ct. 1985)" |
 | 17 | Court named in the parenthetical although the reporter already identifies it (Rule 10.4(b)) — e.g. "(U.S. 1986)", "(Cal. 1975)". `bluebook_court_redundant` | LF-BB-0151 → "(Ga. Ct. App. 2003)" want "(2003)"<br>LF-BB-0186 → "(Ga. Ct. App. 2003)" want "(2003)"<br>LF-BB-0290 → "(Ill. Ct. App. 2005)" want "(2005)" |
@@ -274,22 +274,22 @@ Presumed-good cases the API flags negative (12) are listed in `problems-goodlaw.
 | reporter_spacing | 50 | 23 | 2 | 0 | 0 | 0 | 2 | 24 |
 | ordinal_form | 50 | 0 | 50 | 50 | 0 | 0 | 0 | 0 |
 | reporter_no_periods | 50 | 26 | 1 | 0 | 0 | 0 | 2 | 22 |
-| reporter_lowercase | 50 | 22 | 2 | 0 | 0 | 0 | 2 | 23 |
+| reporter_lowercase | 50 | 23 | 2 | 0 | 0 | 0 | 2 | 22 |
 | v_form | 50 | 26 | 2 | 0 | 0 | 0 | 1 | 20 |
-| no_parenthetical | 50 | 29 | 1 | 0 | 0 | 0 | 2 | 18 |
+| no_parenthetical | 50 | 30 | 1 | 0 | 0 | 0 | 2 | 17 |
 | year_off_by_one | 50 | 27 | 0 | 0 | 1 | 0 | 3 | 20 |
-| court_missing | 50 | 26 | 3 | 0 | 1 | 0 | 1 | 23 |
+| court_missing | 50 | 28 | 3 | 0 | 1 | 0 | 1 | 21 |
 | court_nonbluebook | 50 | 22 | 0 | 0 | 0 | 0 | 2 | 26 |
-| full_date | 50 | 25 | 1 | 0 | 0 | 0 | 2 | 20 |
-| t6_spelled_out | 50 | 16 | 1 | 0 | 1 | 0 | 3 | 31 |
+| full_date | 50 | 26 | 1 | 0 | 0 | 0 | 2 | 19 |
+| t6_spelled_out | 50 | 17 | 1 | 0 | 1 | 0 | 3 | 28 |
 | full_caption | 50 | 0 | 0 | 0 | 1 | 0 | 1 | 50 |
-| all_caps_name | 50 | 28 | 1 | 0 | 0 | 0 | 2 | 16 |
-| pin_as_first_page | 50 | 22 | 15 | 12 | 4 | 0 | 1 | 10 |
-| punctuation | 50 | 36 | 0 | 0 | 0 | 0 | 1 | 9 |
+| all_caps_name | 50 | 29 | 1 | 0 | 0 | 0 | 2 | 15 |
+| pin_as_first_page | 50 | 23 | 15 | 12 | 4 | 0 | 1 | 9 |
+| punctuation | 50 | 36 | 0 | 0 | 0 | 0 | 1 | 8 |
 | vendor_cite | 50 | 14 | 28 | 13 | 11 | 10 | 7 | 12 |
 | parallel_only | 50 | 46 | 0 | 0 | 0 | 0 | 0 | 4 |
 | government_long_form | 50 | 36 | 9 | 0 | 0 | 0 | 1 | 3 |
-| redundant_court | 50 | 27 | 2 | 0 | 1 | 0 | 4 | 17 |
+| redundant_court | 50 | 29 | 2 | 0 | 1 | 0 | 4 | 14 |
 | page_typo | 50 | 35 | 4 | 4 | 6 | 2 | 3 | 6 |
 
 Sources excluded before mangling (control lookup could not give a clean court/year): 130. Year conflicts between a curated source cite and the corpus: 1 (listed in the answer key under `excludedSources`).

@@ -97,6 +97,8 @@ export function parse(q) {
 /** Index a document: tokens with sentence and paragraph ids. */
 export function indexDoc(text) {
   const words = [];
+  // star-page markers ("[*458]", "*458") are pagination, not words
+  text = String(text || '').replace(/\[\*{1,2}\d{1,5}\]|(?<=\s)\*{1,2}\d{1,5}(?=\s)/g, ' ');
   const paras = String(text || '').split(/\n\s*\n\s*(?=[A-Z0-9"“(\[*])/);
   let sid = 0;
   paras.forEach((para, pid) => {

@@ -24,7 +24,7 @@ const key = apiKey(ROOT);
 const q = new Map(JSON.parse(readFileSync(resolve(ROOT, 'datasets/law-firm/boolean-search-5000/queries.json'), 'utf8')).rows.map((r) => [r.id, r]));
 const searched = new Map(readFileSync(resolve(RAW, 'search.jsonl'), 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l)).map((r) => [r.id, r]));
 const done = new Set(existsSync(OUT) ? readFileSync(OUT, 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l).id) : []);
-const todo = [...q.values()].filter((r) => Number(r.id.slice(-4)) % 24 === 1 && r.searchType === 'keyword' && searched.get(r.id)?.results?.length && !done.has(r.id));
+const todo = [...q.values()].filter((r) => Number(r.id.slice(-4)) % 12 === 1 && r.searchType === 'keyword' && searched.get(r.id)?.results?.length && !done.has(r.id));
 console.log(`boolean-verify: ${todo.length} keyword rows to check`);
 
 async function fullText(caseId) {
