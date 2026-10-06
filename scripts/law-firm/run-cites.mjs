@@ -28,7 +28,11 @@ if (SUITE === 'bluebook-control') rows = load('datasets/law-firm/bluebook-offcit
 else if (SUITE === 'bluebook') rows = load('datasets/law-firm/bluebook-offcite-1000/inputs.json').rows;
 else if (SUITE === 'goodlaw') rows = load('datasets/law-firm/goodlaw-1000/inputs.json').rows;
 else if (SUITE === 'carried-cites') rows = load('datasets/law-firm/carried-forward/citecheck/inputs.json').rows;
-else throw new Error('--suite=bluebook-control|bluebook|goodlaw|carried-cites');
+else if (SUITE === '5300') rows = load('datasets/citechecker/5300/inputs.json').cases.map((r) => ({ id: r.id, citation: r.cite }));
+else if (SUITE === 'overruled-100') rows = load('datasets/citechecker/overruled-100/inputs.json').cases.map((r) => ({ id: r.id, citation: r.cite }));
+else if (SUITE === 'state-1006') rows = load('datasets/citechecker/state-1006/bank.json').sections.flatMap((s) => s.cases).map((r) => ({ id: r.id, citation: r.input }));
+else if (SUITE === 'anatomy-480') rows = JSON.parse(readFileSync(resolve(ROOT, '../casediver/scripts/anatomy-caselaw-api/data/anatomy-caselaw-api.json'), 'utf8')).cases.map((r) => ({ id: r.id, citation: r.input }));
+else throw new Error('--suite=bluebook-control|bluebook|goodlaw|carried-cites|5300|overruled-100|state-1006|anatomy-480');
 
 const done = new Set();
 if (existsSync(OUT)) for (const l of readFileSync(OUT, 'utf8').split('\n')) if (l) try { const j = JSON.parse(l); if (j.verdict !== 'error' && j.httpStatus === 200) done.add(j.id); } catch {}
@@ -101,6 +105,6 @@ await pool(
     }
     for (const rec of recs) appendFileSync(OUT, JSON.stringify(rec) + '\n');
   },
-  { concurrency: 3, onProgress: (n, t) => (n % 10 === 0 || n === t) && console.log(`${SUITE} batches ${n}/${t} calls=${stats.calls} 429=${stats.http429}`) },
+  { concurrency: Number(process.env.LAWFIRM_CITE_CONCURRENCY ?? 3), onProgress: (n, t) => (n % 10 === 0 || n === t) && console.log(`${SUITE} batches ${n}/${t} calls=${stats.calls} 429=${stats.http429}`) },
 );
 console.log('done', stats);
