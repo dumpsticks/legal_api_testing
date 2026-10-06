@@ -18,7 +18,7 @@ Gains since September (5,300 bank): `fabricated_series` 22→50/50, `statute` 19
 ## Problems, ranked
 
 ### 1. Regression — Supreme Court cites with a court in the parenthetical are called `name_mismatch`
-Every correct U.S. Supreme Court cite written `(SCOTUS 2004)` or `(U.S. 1983)` now returns `name_mismatch` — **66 rows across the banks** (all 33 such rows in the 5,300 bank; 24 of the 30 federal rows of overruled-100; 9 of the anatomy failures; 29 rows of the Bluebook `redundant_court` defect). The correction is right; the verdict is wrong, and the explanation contradicts itself:
+Every correct U.S. Supreme Court cite written `(SCOTUS 2004)` or `(U.S. 1983)` now returns `name_mismatch` — **33 distinct citations, 66 rows across the banks** because the banks share cites (all 33 such rows in the 5,300 bank, 24 of the 30 federal rows of overruled-100, 9 of the anatomy failures), plus **29 more** in the Bluebook off-cite set's `redundant_court` defect. The correction is right; the verdict is wrong, and the explanation contradicts itself:
 
 > Roe v. Wade, 410 U.S. 113 (SCOTUS 1973) → "the court as written (U.S.) does not match the resolved court (U.S.)."
 
@@ -45,4 +45,4 @@ Remaining issues are small: `Inc.` kept after `Co.`/`Corp.` 61, T6 words 60, lea
 
 ## Bottom line
 
-Cite check is strong where it matters most — fabrications, near-miss fakes, name traps and history are at or near 100% — and statutes, fabricated series and transposed volumes improved sharply since September. Two regressions from the latest deploys need fixing first: the self-contradicting `(SCOTUS …)` court comparison (66 correct cites declined, overruled-100 down to 76%) and pin-page cites now treated as misses.
+Cite check is strong where it matters most — fabrications, near-miss fakes, name traps and history are at or near 100% — and statutes, fabricated series and transposed volumes improved sharply since September. Two regressions from the latest deploys need fixing first: the self-contradicting `(SCOTUS …)` court comparison (62 correct cites declined, overruled-100 down to 76%) and pin-page cites now treated as misses.
