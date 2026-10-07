@@ -70,6 +70,6 @@ They are not copies of the same test.
 
 These datasets are the work product of [LawDiver](https://lawdiver.com).
 
-The LawDiver API can be tested with the [LawDiver API tester](https://github.com/dumpsticks/LawDiver_API_Tester).
+The LawDiver API can be tested with the [LawDiver API tester](https://github.com/lawdiver/LawDiver_API_Tester).
 
-The LawDiver API installation is in the [LawDiver API repository](https://github.com/dumpsticks/LawDiver_api).
+The LawDiver API installation is in the [LawDiver API repository](https://github.com/lawdiver/LawDiver_api).
